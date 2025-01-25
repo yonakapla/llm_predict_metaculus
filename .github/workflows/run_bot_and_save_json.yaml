@@ -57,7 +57,7 @@ jobs:
         id: changes_check
         run: |
           echo "Checking for changes in forecasts folder..."
-          ls -l forecasts
+          ls -l 
           if git diff --quiet HEAD -- forecasts; then
             echo "No changes detected in forecasts folder."
             echo "changes=false" >> $GITHUB_ENV
