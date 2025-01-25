@@ -7,7 +7,11 @@ jobs:
   daily_build:
     runs-on: ubuntu-latest
     environment: dev
-
+    env:
+      SUBMIT_PREDICTION: ${{ vars.SUBMIT_PREDICTION }}
+      USE_EXAMPLE_QUESTIONS: ${{ vars.USE_EXAMPLE_QUESTIONS }}
+      SKIP_PREVIOUSLY_FORECASTED_QUESTIONS: ${{ vars.SKIP_PREVIOUSLY_FORECASTED_QUESTIONS }}
+      
     steps:
       # Step 1: Check out repository
       - name: Check out repository
