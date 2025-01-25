@@ -42,7 +42,7 @@ jobs:
       - name: Run bot
         run: |
           printenv | grep -E "METACULUS_TOKEN|OPENAI_API_KEY|ASKNEWS_SECRET|ASKNEWS_CLIENT_ID|SUBMIT_PREDICTION|USE_EXAMPLE_QUESTIONS|SKIP_PREVIOUSLY_FORECASTED_QUESTIONS"
-#          poetry run python main_test.py
+          poetry run python main_test.py
         env:
           METACULUS_TOKEN: ${{ secrets.METACULUS_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -51,6 +51,18 @@ jobs:
           SUBMIT_PREDICTION: ${{ env.SUBMIT_PREDICTION }}
           USE_EXAMPLE_QUESTIONS: ${{ env.USE_EXAMPLE_QUESTIONS }}
           SKIP_PREVIOUSLY_FORECASTED_QUESTIONS: ${{ env.SKIP_PREVIOUSLY_FORECASTED_QUESTIONS }}
+
+      - name: create forecasts zip
+        run: |
+            mkdir -p artifacts
+            zip -r artifacts/forecasts.zip forecasts
+      
+
+      - name: upload forecasts
+        uses: actions/upload-artifact@v3
+        with:
+          name: forecasts
+          path: artifacts/forecasts.zip
 
       # Step 4: Check if forecasts folder exists
       - name: Check for changes in forecasts folder
