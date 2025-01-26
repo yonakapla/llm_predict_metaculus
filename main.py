@@ -52,7 +52,7 @@ TOURNAMENT_ID = Q1_2025_AI_BENCHMARKING_ID
 EXAMPLE_QUESTIONS = [  # (question_id, post_id)
     (578, 578),  # Human Extinction - Binary - https://www.metaculus.com/questions/578/human-extinction-by-2100/
     # (14333, 14333),  # Age of Oldest Human - Numeric - https://www.metaculus.com/questions/14333/age-of-oldest-human-as-of-2100/
-    (22427, 22427),
+    # (22427, 22427),
     # Number of New Leading AI Labs - Multiple Choice - https://www.metaculus.com/questions/22427/number-of-new-leading-ai-labs/
 ]
 
@@ -275,7 +275,11 @@ def call_asknews(question: str) -> str:
         query=question,  # your natural language query
         n_articles=10,  # control the number of articles to include in the context, originally 5
         return_type="both",
-        strategy="latest news",  # enforces looking at the latest news only
+        strategy="latest news",  # enforces looking at the latest news only,
+        page_rank="300",
+#        diversify_sources="true",
+        premium="true",
+        languages="en"
     )
 
     # get context from the "historical" database that contains a news archive going back to 2023
@@ -283,7 +287,11 @@ def call_asknews(question: str) -> str:
         query=question,
         n_articles=15,
         return_type="both",
-        strategy="news knowledge",  # looks for relevant news within the past 60 days
+        strategy="news knowledge",  # looks for relevant news within the past 60 days,
+        page_rank="300",
+#        diversify_sources="true",
+        premium="true",
+        languages="en"
     )
 
     hot_articles = hot_response.as_dicts
