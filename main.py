@@ -412,7 +412,7 @@ async def get_binary_gpt_prediction(
     probabilities = [pair[0] for pair in probability_and_comment_pairs]
     median_probability = float(np.median(probabilities)) / 100
 
-    final_comment = f"Median Probability: {median_probability}\n\n" + "\n\n".join(
+    final_comment = f"Mean Probability: {median_probability}\n\n" + "\n\n".join(
         final_comment_sections
     )
     return median_probability, final_comment
