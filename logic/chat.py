@@ -8,8 +8,12 @@ from autogen_agentchat.agents import AssistantAgent
 from utils.PROMPTS import NEWS_STEP_INSTRUCTIONS
 
 
-async def run_first_stage_forecasters(forecasters: List[AssistantAgent], prompt: str,
-                                      system_message: str = "", options: List[str] = "") -> Dict[str, dict]:
+async def run_first_stage_forecasters(
+    forecasters: List[AssistantAgent],
+    prompt: str,
+    system_message: str = "",
+    options: List[str] = "",
+) -> Dict[str, dict]:
     today_date = datetime.datetime.now().strftime("%Y-%m-%d")
     phase_one_introduction = f"'{prompt}'"
 
@@ -17,24 +21,40 @@ async def run_first_stage_forecasters(forecasters: List[AssistantAgent], prompt:
         phase_one_introduction += f"\n\nOptions:\n\n{', '.join(options)}\n"
 
     analyses = await gather_forecasts(forecasters, system_message, phase_one_introduction)
+    if len(forecasters) == 1:
+        return analyses.get(forecasters[0].name, {})
     return analyses
 
-async def run_revised_stage_forecasters(forecasters: List[AssistantAgent], prompt: str,
-                                      system_message: str = "", options: List[str] = "") -> Dict[str, dict]:
+async def run_revised_stage_forecasters(
+    forecasters: List[AssistantAgent],
+    prompt: str,
+    system_message: str = "",
+    options: List[str] = "",
+) -> Dict[str, dict]:
     today_date = datetime.datetime.now().strftime("%Y-%m-%d")
     revision_phase_introduction = f"'{prompt}'"
 
     if options:
         revision_phase_introduction += f"\n\nOptions:\n\n{', '.join(options)}\n"
 
-    analyses = await gather_forecasts(forecasters, system_message, revision_phase_introduction)
+    analyses = await gather_forecasts(
+        forecasters, system_message, revision_phase_introduction
+    )
+    if len(forecasters) == 1:
+        return analyses.get(forecasters[0].name, {})
     return analyses
 
 
-async def run_second_stage_forecasters(forecasters: List[AssistantAgent],
-                                       prompt: str = NEWS_STEP_INSTRUCTIONS) -> Dict[str, dict]:
+async def run_second_stage_forecasters(
+    forecasters: List[AssistantAgent],
+    prompt: str = NEWS_STEP_INSTRUCTIONS,
+) -> Dict[str, dict]:
     phase_two_instruction_news_analysis = f"Please revise your answer based on previous steps."
-    analyses = await gather_forecasts(forecasters, prompt, phase_two_instruction_news_analysis)
+    analyses = await gather_forecasts(
+        forecasters, prompt, phase_two_instruction_news_analysis
+    )
+    if len(forecasters) == 1:
+        return analyses.get(forecasters[0].name, {})
     return analyses
 
 
@@ -45,17 +65,23 @@ async def forecast(forecaster: AssistantAgent, phase_instructions: str, phase_in
         return validate_and_parse_response(result.messages[1].content)
 
 
-async def gather_forecasts(forecasters: List[AssistantAgent], system_message: str, phase_introduction: str) -> Dict[
-    str, dict]:
-    result = {}
+async def gather_forecasts(
+    forecasters: List[AssistantAgent],
+    system_message: str,
+    phase_introduction: str,
+) -> Dict[str, dict]:
+    results: Dict[str, dict] = {}
     for forecaster in forecasters:
         try:
-            result = await forecast(forecaster, system_message, phase_introduction)
-            return result
+            forecast_result = await forecast(
+                forecaster, system_message, phase_introduction
+            )
+            if forecast_result is not None:
+                results[forecaster.name] = forecast_result
         except Exception as e:
             print(f"Error with {forecaster.name}: {e}\n\n")
             print(f"Skipping forecaster:\n{forecaster.name}")
-    return result
+    return results
 
 
 def validate_and_parse_response(response):
