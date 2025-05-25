@@ -1,6 +1,22 @@
 from typing import Tuple, Dict, List, Union
 
-import numpy as np
+try:
+    import numpy as np
+except ModuleNotFoundError:  # pragma: no cover - minimal fallback for tests
+    import statistics as _stats
+
+    class _NP:
+        @staticmethod
+        def mean(data):
+            return _stats.mean(data)
+
+        @staticmethod
+        def std(data, ddof=0):
+            if len(data) < 2:
+                return 0.0
+            return _stats.stdev(data)
+
+    np = _NP()
 
 from agents.agent_creator import (
     create_summarization_assistant,
@@ -10,11 +26,13 @@ from logic.summarization import run_summarization_phase
 from logic.utils import build_and_write_json, extract_probabilities, perform_forecasting_phase, create_experts, \
     extract_question_details, identify_experts, strip_title_to_filename, get_all_experts
 from utils.config import get_gpt_config
+from config import BotConfig
 from utils.utils import normalize_and_average
 
 
 async def forecast_single_question(
         question_details: dict,
+        bot_config: BotConfig,
         cache_seed: int = 42,
         is_multiple_choice: bool = False,
         options: List[str] = None,
@@ -23,14 +41,22 @@ async def forecast_single_question(
         news: str = None
 ) -> Tuple[Union[int, Dict[str, float]], str]:
     title, description, fine_print, resolution_criteria, forecast_date = extract_question_details(question_details)
-    config = get_gpt_config(cache_seed, 0.7, "gpt-4o", 120)
+    config = get_gpt_config(cache_seed, 0.7, "gpt-4o", 120, bot_config)
 
     if not is_woc:
         # Extract news
-        news = await run_research(question_details)
+        news = await run_research(question_details, bot_config)
 
     # Identify and create experts
-    all_experts = await get_all_experts(config, question_details , is_multiple_choice, options,is_woc, num_of_experts)
+    all_experts = await get_all_experts(
+        config,
+        question_details,
+        is_multiple_choice,
+        options,
+        is_woc,
+        num_of_experts,
+        bot_config,
+    )
 
 
     # Forecasting
@@ -42,7 +68,7 @@ async def forecast_single_question(
     initial_probability = [result['initial_probability'] for result in results.values() if 'initial_probability' in result]
 
     # Summarization
-    summarization_assistant = create_summarization_assistant(config)
+    summarization_assistant = create_summarization_assistant(config, bot_config)
     summarization = await run_summarization_phase(results, question_details,
                                                   summarization_assistant,news)
 

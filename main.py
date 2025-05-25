@@ -4,13 +4,16 @@ import json
 import logging
 import os
 
-import dotenv
+try:
+    import dotenv
+    dotenv.load_dotenv()
+except ModuleNotFoundError:  # pragma: no cover - optional dependency
+    dotenv = None
 
 from logic.chat_group_single_question import chat_group_single_question
-from logic.forecast_single_question import \
-    forecast_single_question
+from logic.forecast_single_question import forecast_single_question
 from forecasting_tools import MetaculusApi
-dotenv.load_dotenv()
+from config import BotConfig
 
 import requests
 
@@ -24,17 +27,12 @@ NUM_RUNS_PER_QUESTION = 1  # The median forecast is taken between NUM_RUNS_PER_Q
 # SKIP_PREVIOUSLY_FORECASTED_QUESTIONS = True
 GET_NEWS = True  # set to True to enable the bot to do online research
 
-# Environment variables
+# Environment variables are collected in a ``BotConfig`` instance
+BOT_CONFIG = BotConfig.from_env()
 
-SUBMIT_PREDICTION = True if os.getenv("SUBMIT_PREDICTION") == "true" else False
-USE_EXAMPLE_QUESTIONS = True if os.getenv("USE_EXAMPLE_QUESTIONS") == "true" else False
-SKIP_PREVIOUSLY_FORECASTED_QUESTIONS = True if os.getenv("SKIP_PREVIOUSLY_FORECASTED_QUESTIONS") == "true" else False
-
-METACULUS_TOKEN = os.getenv("METACULUS_TOKEN")
-ASKNEWS_CLIENT_ID = os.getenv("ASKNEWS_CLIENT_ID")
-ASKNEWS_SECRET = os.getenv("ASKNEWS_SECRET")
-OPENAI_API_KEY = os.getenv(
-    "OPENAI_API_KEY")
+SUBMIT_PREDICTION = BOT_CONFIG.submit_prediction
+USE_EXAMPLE_QUESTIONS = BOT_CONFIG.use_example_questions
+SKIP_PREVIOUSLY_FORECASTED_QUESTIONS = BOT_CONFIG.skip_previously_forecasted_questions
 
 # The tournament IDs below can be used for testing your bot.
 Q4_2024_AI_BENCHMARKING_ID = 32506
@@ -61,11 +59,10 @@ EXAMPLE_QUESTIONS = [  # (question_id, post_id)
 ######################### HELPER FUNCTIONS #########################
 
 # @title Helper functions
-AUTH_HEADERS = {"headers": {"Authorization": f"Token {METACULUS_TOKEN}"}}
 API_BASE_URL = "https://www.metaculus.com/api"
 
 
-def post_question_comment(post_id: int, comment_text: str) -> None:
+def post_question_comment(post_id: int, comment_text: str, config: BotConfig) -> None:
     """
     Post a comment on the question page as the bot user.
     """
@@ -79,13 +76,13 @@ def post_question_comment(post_id: int, comment_text: str) -> None:
             "is_private": True,
             "on_post": post_id,
         },
-        **AUTH_HEADERS,  # type: ignore
+        headers={"Authorization": f"Token {config.metaculus_token}"},  # type: ignore
     )
     if not response.ok:
         raise RuntimeError(response.text)
 
 
-def post_question_prediction(question_id: int, forecast_payload: dict) -> None:
+def post_question_prediction(question_id: int, forecast_payload: dict, config: BotConfig) -> None:
     """
     Post a forecast on a question.
     """
@@ -98,7 +95,7 @@ def post_question_prediction(question_id: int, forecast_payload: dict) -> None:
                 **forecast_payload,
             },
         ],
-        **AUTH_HEADERS,  # type: ignore
+        headers={"Authorization": f"Token {config.metaculus_token}"},  # type: ignore
     )
     print(f"Prediction Post status code: {response.status_code}")
     if not response.ok:
@@ -152,7 +149,10 @@ def ensure_probability_in_range(proba: float) -> float:
 
 
 def list_posts_from_tournament(
-        tournament_id: int = TOURNAMENT_ID, offset: int = 0, count: int = 50
+        tournament_id: int,
+        config: BotConfig,
+        offset: int = 0,
+        count: int = 50,
 ) -> list[dict]:
     """
     List (all details) {count} posts from the {tournament_id}
@@ -173,15 +173,19 @@ def list_posts_from_tournament(
         "include_description": "true",
     }
     url = f"{API_BASE_URL}/posts/"
-    response = requests.get(url, **AUTH_HEADERS, params=url_qparams)  # type: ignore
+    response = requests.get(
+        url,
+        headers={"Authorization": f"Token {config.metaculus_token}"},
+        params=url_qparams,
+    )
     if not response.ok:
         raise Exception(response.text)
     data = json.loads(response.content)
     return data
 
 
-def get_open_question_ids_from_tournament() -> list[tuple[int, int]]:
-    posts = list_posts_from_tournament()
+def get_open_question_ids_from_tournament(config: BotConfig) -> list[tuple[int, int]]:
+    posts = list_posts_from_tournament(TOURNAMENT_ID, config)
 
     post_dict = dict()
     for post in posts["results"]:
@@ -202,7 +206,7 @@ def get_open_question_ids_from_tournament() -> list[tuple[int, int]]:
     return open_question_id_post_id
 
 
-def get_post_details(post_id: int) -> dict:
+def get_post_details(post_id: int, config: BotConfig) -> dict:
     """
     Get all details about a post from the Metaculus API.
     """
@@ -210,7 +214,7 @@ def get_post_details(post_id: int) -> dict:
     print(f"Getting details for {url}")
     response = requests.get(
         url,
-        **AUTH_HEADERS,  # type: ignore
+        headers={"Authorization": f"Token {config.metaculus_token}"},
     )
     if not response.ok:
         raise Exception(response.text)
@@ -237,15 +241,28 @@ def forecast_is_already_made(post_details: dict) -> bool:
         return False
 
 
-async def question_answer_decider(question_type: str, question_details: dict, use_hyde: bool = True,
-                                  cache_seed: int = 42, summary_of_forecast: str = "", is_woc=False,
-                                  num_of_experts=None, news: str = None) \
-        -> tuple[float | dict[str, float] | list[float], str, str]:
+async def question_answer_decider(
+        question_type: str,
+        question_details: dict,
+        config: BotConfig,
+        use_hyde: bool = True,
+        cache_seed: int = 42,
+        summary_of_forecast: str = "",
+        is_woc: bool = False,
+        num_of_experts=None,
+        news: str = None,
+) -> tuple[float | dict[str, float] | list[float], str, str]:
     # Now decide which forecast function to use
     if question_type == "binary" and FORECAST_BINARY:
         # Call the new forecast_single_binary_question
-        final_proba, summarization = await chat_group_single_question(question_details, cache_seed=cache_seed,
-                                                                      is_woc=is_woc, num_of_experts=num_of_experts,use_hyde = use_hyde)
+        final_proba, summarization = await chat_group_single_question(
+            question_details,
+            config,
+            cache_seed=cache_seed,
+            is_woc=is_woc,
+            num_of_experts=num_of_experts,
+            use_hyde=use_hyde,
+        )
         # Metaculus API expects a decimal 0..1, so we convert int% => float
         forecast = final_proba / 100.0
         comment = summarization
@@ -254,8 +271,9 @@ async def question_answer_decider(question_type: str, question_details: dict, us
         # call the new forecast_single_multiple_choice_question
         final_dist, summarization = await forecast_single_question(
             question_details,
+            config,
             options=question_details["options"],
-            cache_seed=cache_seed
+            cache_seed=cache_seed,
         )
         forecast = final_dist  # e.g. {"Option A":0.2,"Option B":0.8}
         comment = summarization
@@ -293,13 +311,14 @@ async def forecast_individual_question(
         post_id: int,
         submit_prediction: bool,
         skip_previously_forecasted_questions: bool,
+        config: BotConfig,
         use_hyde: bool = True,
         cache_seed: int = 42,
         is_woc=False,
         num_of_experts=None,
         news: str = None
 ) -> str:
-    post_details = get_post_details(post_id)
+    post_details = get_post_details(post_id, config)
     question_details = post_details["question"]
     title = question_details["title"]
     question_type = question_details["type"]
@@ -320,10 +339,17 @@ async def forecast_individual_question(
         summary_of_forecast += "Skipped: Forecast already made\n"
         return summary_of_forecast
 
-    forecast, comment, summary_of_forecast = await question_answer_decider(question_type, question_details, use_hyde,
-                                                                           cache_seed,
-                                                                           summary_of_forecast, is_woc, num_of_experts,
-                                                                           news)
+    forecast, comment, summary_of_forecast = await question_answer_decider(
+        question_type,
+        question_details,
+        config,
+        use_hyde,
+        cache_seed,
+        summary_of_forecast,
+        is_woc,
+        num_of_experts,
+        news,
+    )
 
     # In case forecast is None from skipping
     if forecast is None:
@@ -334,9 +360,9 @@ async def forecast_individual_question(
     # Optionally submit forecast to Metaculus
     if submit_prediction and forecast is not None and question_type in ("binary", "multiple_choice"):
         forecast_payload = create_forecast_payload(forecast, question_type)
-        post_question_prediction(question_id, forecast_payload)
+        post_question_prediction(question_id, forecast_payload, config)
         if comment:
-            post_question_comment(post_id, comment)
+            post_question_comment(post_id, comment, config)
         summary_of_forecast += "Posted: Forecast was posted to Metaculus.\n"
 
     return summary_of_forecast
@@ -346,6 +372,7 @@ async def forecast_questions(
         open_question_id_post_id: list[tuple[int, int]],
         submit_prediction: bool,
         skip_previously_forecasted_questions: bool,
+        config: BotConfig,
         use_hyde=True,
         cache_seed: int = 42
 ) -> None:
@@ -355,8 +382,9 @@ async def forecast_questions(
             post_id,
             submit_prediction,
             skip_previously_forecasted_questions,
+            config,
             use_hyde,
-            cache_seed
+            cache_seed,
         )
         for question_id, post_id in open_question_id_post_id
     ]
@@ -388,13 +416,14 @@ if __name__ == "__main__":
     if USE_EXAMPLE_QUESTIONS:
         open_question_id_post_id = EXAMPLE_QUESTIONS
     else:
-        open_question_id_post_id = get_open_question_ids_from_tournament()
+        open_question_id_post_id = get_open_question_ids_from_tournament(BOT_CONFIG)
     now = datetime.datetime.now()
     asyncio.run(
         forecast_questions(
             open_question_id_post_id,
             SUBMIT_PREDICTION,
             SKIP_PREVIOUSLY_FORECASTED_QUESTIONS,
+            BOT_CONFIG,
             cache_seed=33,
             use_hyde=False,
         )

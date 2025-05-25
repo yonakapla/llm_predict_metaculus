@@ -5,14 +5,18 @@ from autogen import AssistantAgent
 from main import CACHE_SEED
 from utils.PROMPTS import KEYWORDS_PROMPT
 from utils.config import get_gpt_config
+from config import BotConfig
 
 
 class QuestionToQuery:
-    def __init__(self):
+    def __init__(self, bot_config: BotConfig):
 
-        self._agent = AssistantAgent(name="KeywordAgent", system_message=KEYWORDS_PROMPT, llm_config=get_gpt_config(
-            CACHE_SEED, 0.7, "gpt-4o", 120),
-                                     human_input_mode="NEVER")
+        self._agent = AssistantAgent(
+            name="KeywordAgent",
+            system_message=KEYWORDS_PROMPT,
+            llm_config=get_gpt_config(CACHE_SEED, 0.7, "gpt-4o", 120, bot_config),
+            human_input_mode="NEVER",
+        )
 
     def _create_messages(self,question):
         return [
