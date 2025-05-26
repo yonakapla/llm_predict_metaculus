@@ -2,7 +2,7 @@ import asyncio
 import os
 from typing import Dict
 
-from asknews_sdk import AskNewsSDK
+from news import AskNewsClient
 from autogen_agentchat.agents import AssistantAgent
 from autogen_ext.models.openai import OpenAIChatCompletionClient
 
@@ -37,32 +37,28 @@ async def call_asknews(question_details: Dict[str, str], use_hyde: bool = True) 
     Use the AskNews `news` endpoint to get news context for your query.
     The full API reference can be found here: https://docs.asknews.app/en/reference#get-/v1/news/search
     """
-    ask = AskNewsSDK(
-        client_id=ASKNEWS_CLIENT_ID, client_secret=ASKNEWS_SECRET, scopes={"news"}
-    )
+    client = AskNewsClient(ASKNEWS_CLIENT_ID, ASKNEWS_SECRET)
     if use_hyde:
         query = await hyde(question_details)
     else:
         query = asknews_query_builder(question_details)
 
-    # get the latest news related to the query (within the past 48 hours)
-    hot_response = ask.news.search_news(
-        query=query,  # your natural language query
-        n_articles=5,  # control the number of articles to include in the context, originally 5
+    hot_response = await client.search_news(
+        query=query,
+        n_articles=5,
         return_type="both",
-        strategy="latest news",  # enforces looking at the latest news only
+        strategy="latest news",
     )
 
-    # get context from the "historical" database that contains a news archive going back to 2023
-    historical_response = ask.news.search_news(
+    historical_response = await client.search_news(
         query=query,
         n_articles=15,
         return_type="both",
-        strategy="news knowledge",  # looks for relevant news within the past 60 days
+        strategy="news knowledge",
     )
 
-    hot_articles = hot_response.as_dicts
-    historical_articles = historical_response.as_dicts
+    hot_articles = hot_response.get("articles") or []
+    historical_articles = historical_response.get("articles") or []
     formatted_articles = "Here are the relevant news articles:\n\n"
 
     if hot_articles:
@@ -85,8 +81,9 @@ async def call_asknews(question_details: Dict[str, str], use_hyde: bool = True) 
 
     if not hot_articles and not historical_articles:
         formatted_articles += "No articles were found.\n\n"
+        await client.close()
         return formatted_articles
-
+    await client.close()
     return formatted_articles
 
 def asknews_query_builder(question_details: Dict[str, str]) -> str:
