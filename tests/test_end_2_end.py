@@ -2,7 +2,7 @@ import random
 import unittest
 import datetime
 
-from main import forecast_questions
+from main import forecast_questions, BOT_CONFIG
 
 class TestEnd2End(unittest.IsolatedAsyncioTestCase):
 
@@ -10,12 +10,13 @@ class TestEnd2End(unittest.IsolatedAsyncioTestCase):
         open_question_id_post_id = [(578, 578)]
         now = datetime.datetime.now()
         await forecast_questions(
-                open_question_id_post_id,
-                submit_prediction=True,
-                skip_previously_forecasted_questions=False,
-                use_hyde=True,
-                cache_seed=42
-            )
+            open_question_id_post_id,
+            submit_prediction=True,
+            skip_previously_forecasted_questions=False,
+            config=BOT_CONFIG,
+            use_hyde=True,
+            cache_seed=42,
+        )
         print(f"time taken to run: {datetime.datetime.now() - now}")
 
 
