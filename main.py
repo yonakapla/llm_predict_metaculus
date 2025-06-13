@@ -12,7 +12,7 @@ from logic.forecast_single_question import \
 from forecasting_tools import MetaculusApi
 dotenv.load_dotenv()
 
-import requests
+from metaculus import MetaculusClient
 
 ######################### CONSTANTS #########################
 # Constants
@@ -61,48 +61,22 @@ EXAMPLE_QUESTIONS = [  # (question_id, post_id)
 ######################### HELPER FUNCTIONS #########################
 
 # @title Helper functions
-AUTH_HEADERS = {"headers": {"Authorization": f"Token {METACULUS_TOKEN}"}}
-API_BASE_URL = "https://www.metaculus.com/api"
+metaculus_client = MetaculusClient(METACULUS_TOKEN)
 
 
-def post_question_comment(post_id: int, comment_text: str) -> None:
+async def post_question_comment(post_id: int, comment_text: str) -> None:
     """
     Post a comment on the question page as the bot user.
     """
 
-    response = requests.post(
-        f"{API_BASE_URL}/comments/create/",
-        json={
-            "text": comment_text,
-            "parent": None,
-            "included_forecast": True,
-            "is_private": True,
-            "on_post": post_id,
-        },
-        **AUTH_HEADERS,  # type: ignore
-    )
-    if not response.ok:
-        raise RuntimeError(response.text)
+    await metaculus_client.post_question_comment(post_id, comment_text)
 
 
-def post_question_prediction(question_id: int, forecast_payload: dict) -> None:
+async def post_question_prediction(question_id: int, forecast_payload: dict) -> None:
     """
     Post a forecast on a question.
     """
-    url = f"{API_BASE_URL}/questions/forecast/"
-    response = requests.post(
-        url,
-        json=[
-            {
-                "question": question_id,
-                **forecast_payload,
-            },
-        ],
-        **AUTH_HEADERS,  # type: ignore
-    )
-    print(f"Prediction Post status code: {response.status_code}")
-    if not response.ok:
-        raise RuntimeError(response.text)
+    await metaculus_client.post_question_prediction(question_id, forecast_payload)
 
 
 def create_forecast_payload(
@@ -151,7 +125,7 @@ def ensure_probability_in_range(proba: float) -> float:
     return proba
 
 
-def list_posts_from_tournament(
+async def list_posts_from_tournament(
         tournament_id: int = TOURNAMENT_ID, offset: int = 0, count: int = 50
 ) -> list[dict]:
     """
@@ -172,16 +146,13 @@ def list_posts_from_tournament(
         "statuses": "open",
         "include_description": "true",
     }
-    url = f"{API_BASE_URL}/posts/"
-    response = requests.get(url, **AUTH_HEADERS, params=url_qparams)  # type: ignore
-    if not response.ok:
-        raise Exception(response.text)
-    data = json.loads(response.content)
-    return data
+    return await metaculus_client.list_posts_from_tournament(
+        tournament_id, offset=offset, count=count
+    )
 
 
-def get_open_question_ids_from_tournament() -> list[tuple[int, int]]:
-    posts = list_posts_from_tournament()
+async def get_open_question_ids_from_tournament() -> list[tuple[int, int]]:
+    posts = await list_posts_from_tournament()
 
     post_dict = dict()
     for post in posts["results"]:
@@ -202,20 +173,11 @@ def get_open_question_ids_from_tournament() -> list[tuple[int, int]]:
     return open_question_id_post_id
 
 
-def get_post_details(post_id: int) -> dict:
+async def get_post_details(post_id: int) -> dict:
     """
     Get all details about a post from the Metaculus API.
     """
-    url = f"{API_BASE_URL}/posts/{post_id}/"
-    print(f"Getting details for {url}")
-    response = requests.get(
-        url,
-        **AUTH_HEADERS,  # type: ignore
-    )
-    if not response.ok:
-        raise Exception(response.text)
-    details = json.loads(response.content)
-    return details
+    return await metaculus_client.get_post_details(post_id)
 
 
 ################### FORECASTING ###################
@@ -299,7 +261,7 @@ async def forecast_individual_question(
         num_of_experts=None,
         news: str = None
 ) -> str:
-    post_details = get_post_details(post_id)
+    post_details = await get_post_details(post_id)
     question_details = post_details["question"]
     title = question_details["title"]
     question_type = question_details["type"]
@@ -334,9 +296,9 @@ async def forecast_individual_question(
     # Optionally submit forecast to Metaculus
     if submit_prediction and forecast is not None and question_type in ("binary", "multiple_choice"):
         forecast_payload = create_forecast_payload(forecast, question_type)
-        post_question_prediction(question_id, forecast_payload)
+        await post_question_prediction(question_id, forecast_payload)
         if comment:
-            post_question_comment(post_id, comment)
+            await post_question_comment(post_id, comment)
         summary_of_forecast += "Posted: Forecast was posted to Metaculus.\n"
 
     return summary_of_forecast
@@ -384,19 +346,21 @@ async def forecast_questions(
 
 
 ######################## FINAL RUN #########################
-if __name__ == "__main__":
+async def main() -> None:
     if USE_EXAMPLE_QUESTIONS:
         open_question_id_post_id = EXAMPLE_QUESTIONS
     else:
-        open_question_id_post_id = get_open_question_ids_from_tournament()
+        open_question_id_post_id = await get_open_question_ids_from_tournament()
     now = datetime.datetime.now()
-    asyncio.run(
-        forecast_questions(
-            open_question_id_post_id,
-            SUBMIT_PREDICTION,
-            SKIP_PREVIOUSLY_FORECASTED_QUESTIONS,
-            cache_seed=33,
-            use_hyde=False,
-        )
+    await forecast_questions(
+        open_question_id_post_id,
+        SUBMIT_PREDICTION,
+        SKIP_PREVIOUSLY_FORECASTED_QUESTIONS,
+        cache_seed=33,
+        use_hyde=False,
     )
     print(f"time taken to run: {datetime.datetime.now() - now}")
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
