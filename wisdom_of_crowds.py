@@ -2,6 +2,8 @@ import json
 import os
 from typing import List, Tuple
 
+from settings import settings
+
 import asyncio
 import logging
 

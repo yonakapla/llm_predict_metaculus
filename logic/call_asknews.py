@@ -1,6 +1,7 @@
 import asyncio
-import os
 from typing import Dict
+
+from settings import settings
 
 from asknews_sdk import AskNewsSDK
 from autogen_agentchat.agents import AssistantAgent
@@ -10,8 +11,8 @@ from logic.chat import validate_and_parse_response
 from logic.utils import extract_question_details
 from utils.PROMPTS import HYDE_PROMPT
 
-ASKNEWS_CLIENT_ID = os.getenv("ASKNEWS_CLIENT_ID")
-ASKNEWS_SECRET = os.getenv("ASKNEWS_SECRET")
+ASKNEWS_CLIENT_ID = settings.asknews_client_id
+ASKNEWS_SECRET = settings.asknews_secret
 
 
 async def run_research(question: Dict[str, str], use_hyde: bool = True) -> str:

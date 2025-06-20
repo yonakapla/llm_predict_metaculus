@@ -2,15 +2,14 @@ import asyncio
 import datetime
 import json
 import logging
-import os
 
-import dotenv
+from settings import settings
 
 from logic.chat_group_single_question import chat_group_single_question
-from logic.forecast_single_question import \
-    forecast_single_question
+from logic.forecast_single_question import (
+    forecast_single_question,
+)
 from forecasting_tools import MetaculusApi
-dotenv.load_dotenv()
 
 import requests
 
@@ -26,15 +25,14 @@ GET_NEWS = True  # set to True to enable the bot to do online research
 
 # Environment variables
 
-SUBMIT_PREDICTION = True if os.getenv("SUBMIT_PREDICTION") == "true" else False
-USE_EXAMPLE_QUESTIONS = True if os.getenv("USE_EXAMPLE_QUESTIONS") == "true" else False
-SKIP_PREVIOUSLY_FORECASTED_QUESTIONS = True if os.getenv("SKIP_PREVIOUSLY_FORECASTED_QUESTIONS") == "true" else False
+SUBMIT_PREDICTION = settings.submit_prediction
+USE_EXAMPLE_QUESTIONS = settings.use_example_questions
+SKIP_PREVIOUSLY_FORECASTED_QUESTIONS = settings.skip_previously_forecasted_questions
 
-METACULUS_TOKEN = os.getenv("METACULUS_TOKEN")
-ASKNEWS_CLIENT_ID = os.getenv("ASKNEWS_CLIENT_ID")
-ASKNEWS_SECRET = os.getenv("ASKNEWS_SECRET")
-OPENAI_API_KEY = os.getenv(
-    "OPENAI_API_KEY")
+METACULUS_TOKEN = settings.metaculus_token
+ASKNEWS_CLIENT_ID = settings.asknews_client_id
+ASKNEWS_SECRET = settings.asknews_secret
+OPENAI_API_KEY = settings.openai_api_key
 
 # The tournament IDs below can be used for testing your bot.
 Q4_2024_AI_BENCHMARKING_ID = 32506
