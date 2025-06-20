@@ -1,14 +1,18 @@
-import os
 from typing import List, Literal
+
+from config import BotConfig
 
 from asknews_sdk import AskNewsSDK
 
 
 
 class AskNewsScrapper:
-    def __init__(self, scopes: List[Literal["news"]] = ["news"]):
-        self._ask_news_engine = AskNewsSDK(client_id=os.getenv("ASKNEWS_CLIENT_ID"),
-                                           client_secret=os.getenv("ASKNEWS_SECRET"), scopes=scopes)
+    def __init__(self, bot_config: BotConfig, scopes: List[Literal["news"]] = ["news"]):
+        self._ask_news_engine = AskNewsSDK(
+            client_id=bot_config.asknews_client_id,
+            client_secret=bot_config.asknews_secret,
+            scopes=scopes,
+        )
 
     def get_latest_news(self, query: str, n_articles: int):
         return self._ask_news_engine.news.search_news(

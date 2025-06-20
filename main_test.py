@@ -6,11 +6,14 @@ import re
 from random import randint
 from time import sleep
 
-import dotenv
+try:
+    import dotenv
+    dotenv.load_dotenv()
+except ModuleNotFoundError:  # pragma: no cover - optional dependency
+    dotenv = None
 
 from logic.forecast_single_question import forecast_single_binary_question, forecast_single_multiple_choice_question
 
-dotenv.load_dotenv()
 
 from openai import AsyncOpenAI
 import numpy as np

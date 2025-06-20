@@ -1,6 +1,7 @@
 import asyncio
-import os
 from typing import Dict
+
+from config import BotConfig
 
 from asknews_sdk import AskNewsSDK
 from autogen_agentchat.agents import AssistantAgent
@@ -10,20 +11,16 @@ from logic.chat import validate_and_parse_response
 from logic.utils import extract_question_details
 from utils.PROMPTS import HYDE_PROMPT
 
-ASKNEWS_CLIENT_ID = os.getenv("ASKNEWS_CLIENT_ID")
-ASKNEWS_SECRET = os.getenv("ASKNEWS_SECRET")
-
-
-async def run_research(question: Dict[str, str], use_hyde: bool = True) -> str:
+async def run_research(question: Dict[str, str], config: BotConfig, use_hyde: bool = True) -> str:
     research = ""
-    if ASKNEWS_CLIENT_ID and ASKNEWS_SECRET:
+    if config.asknews_client_id and config.asknews_secret:
         print("Running research...")
         try:
-            research = await call_asknews(question, use_hyde=use_hyde)
+            research = await call_asknews(question, config=config, use_hyde=use_hyde)
         except:
             print("Error in research, retrying... in 60 seconds")
             await asyncio.sleep(60)
-            research = await call_asknews(question, use_hyde=use_hyde)
+            research = await call_asknews(question, config=config, use_hyde=use_hyde)
     else:
         raise ValueError("No API key provided")
 
@@ -32,13 +29,15 @@ async def run_research(question: Dict[str, str], use_hyde: bool = True) -> str:
     return research
 
 
-async def call_asknews(question_details: Dict[str, str], use_hyde: bool = True) -> str:
+async def call_asknews(question_details: Dict[str, str], config: BotConfig, use_hyde: bool = True) -> str:
     """
     Use the AskNews `news` endpoint to get news context for your query.
     The full API reference can be found here: https://docs.asknews.app/en/reference#get-/v1/news/search
     """
     ask = AskNewsSDK(
-        client_id=ASKNEWS_CLIENT_ID, client_secret=ASKNEWS_SECRET, scopes={"news"}
+        client_id=config.asknews_client_id,
+        client_secret=config.asknews_secret,
+        scopes={"news"},
     )
     if use_hyde:
         query = await hyde(question_details)

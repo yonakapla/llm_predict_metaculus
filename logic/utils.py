@@ -7,10 +7,27 @@ from typing import Tuple, List, Dict, Any
 
 import aiofiles
 import aiofiles.os
-import numpy as np
+try:
+    import numpy as np
+except ModuleNotFoundError:  # pragma: no cover - minimal fallback for tests
+    import statistics as _stats
+
+    class _NP:
+        @staticmethod
+        def mean(data):
+            return _stats.mean(data)
+
+        @staticmethod
+        def std(data, ddof=0):
+            if len(data) < 2:
+                return 0.0
+            return _stats.stdev(data)
+
+    np = _NP()
 from autogen_agentchat.agents import AssistantAgent
 
 from agents.agent_creator import create_experts_analyzer_assistant
+from config import BotConfig
 from agents.experts_extractor import expert_creator, run_expert_extractor
 from logic.chat import run_first_stage_forecasters, run_revised_stage_forecasters
 from utils.PROMPTS import FIRST_PHASE_INSTRUCTIONS, REVISED_OUTPUT_FORMAT
@@ -86,8 +103,8 @@ async def forecast_for_expert(expert: AssistantAgent, stage_function=run_first_s
     return expert, results
 
 
-async def identify_experts(config: dict, title: str):
-    expert_identifier = create_experts_analyzer_assistant(config=config)
+async def identify_experts(config: dict, bot_config: BotConfig, title: str):
+    expert_identifier = create_experts_analyzer_assistant(config=config, bot_config=bot_config)
     return await run_expert_extractor(expert_identifier, title)
 
 
@@ -102,8 +119,9 @@ def sample_experts_and_frameworks(k=15) -> Tuple[List[str], List[str]]:
     return chosen_experts, chosen_frameworks
 
 
-async def get_all_experts(config: dict, question_details: dict, is_multiple_choice=False, options=None, is_woc=False,
-                          num_of_experts=None):
+async def get_all_experts(config: dict, question_details: dict, is_multiple_choice=False,
+                          options=None, is_woc=False, num_of_experts=None,
+                          bot_config: BotConfig | None = None):
     if is_woc:
         experts, specialties = sample_experts_and_frameworks(num_of_experts)
         all_experts, _ = await create_experts(experts, [], specialties, [], config, is_multiple_choice, options)
@@ -111,7 +129,9 @@ async def get_all_experts(config: dict, question_details: dict, is_multiple_choi
 
     else:
         title = question_details.get("title", "")
-        academic_disciplines, frameworks, professional_expertise, specialty = await identify_experts(config, title)
+        academic_disciplines, frameworks, professional_expertise, specialty = await identify_experts(
+            config, bot_config, title
+        )
         all_professional_experts, all_academic_experts = await create_experts(
             professional_expertise, academic_disciplines, specialty, frameworks, config, is_multiple_choice, options
         )
