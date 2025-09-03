@@ -9,10 +9,12 @@ from logic.utils import extract_question_details, get_all_experts, perform_forec
     enrich_probabilities, get_first_phase_probabilities, get_relevant_contexts_to_group_discussion
 from utils.PROMPTS import GROUP_INSTRUCTIONS
 from utils.config import get_gpt_config
+from config import BotConfig
 
 
 async def chat_group_single_question(
         question_details: dict,
+        bot_config: BotConfig,
         cache_seed: int = 42,
         is_multiple_choice: bool = False,
         options: List[str] = None,
@@ -21,12 +23,20 @@ async def chat_group_single_question(
         num_of_experts: str | None = None,
 ) -> Tuple[Union[int, Dict[str, float]], str]:
     title, description, fine_print, resolution_criteria, forecast_date = extract_question_details(question_details)
-    config = get_gpt_config(cache_seed, 1, "gpt-4.1", 120)
+    config = get_gpt_config(cache_seed, 1, "gpt-4.1", 120, bot_config)
 
-    news = await run_research(question_details, use_hyde=use_hyde)
+    news = await run_research(question_details, bot_config, use_hyde=use_hyde)
 
     # Identify and create experts
-    all_experts = await get_all_experts(config, question_details, is_multiple_choice, options, is_woc, num_of_experts)
+    all_experts = await get_all_experts(
+        config,
+        question_details,
+        is_multiple_choice,
+        options,
+        is_woc,
+        num_of_experts,
+        bot_config,
+    )
     forecasters_names = [expert.name for expert in all_experts]
 
     group_chat = create_group(all_experts)
@@ -49,7 +59,7 @@ async def chat_group_single_question(
                                                               is_multiple_choice=is_multiple_choice, options=options)
 
     # Summarization
-    summarization_assistant = create_summarization_assistant(config)
+    summarization_assistant = create_summarization_assistant(config, bot_config)
     summarization = await run_summarization_phase(results, question_details,
                                                   summarization_assistant)
 
