@@ -1,5 +1,6 @@
-import os
 from typing import Dict, Any, Literal, List
+
+from settings import settings
 
 from autogen_agentchat.agents import AssistantAgent, UserProxyAgent
 from autogen_agentchat.teams import RoundRobinGroupChat
@@ -10,8 +11,7 @@ from openai import AsyncOpenAI
 from utils.PROMPTS import SPECIFIC_META_MESSAGE_EXPERTISE, EXPERTISE_ANALYZER_PROMPT, SUMMARIZATION_PROMPT
 from utils.utils import to_camel_case
 
-OPENAI_API_KEY = os.getenv(
-    "OPENAI_API_KEY")
+OPENAI_API_KEY = settings.openai_api_key
 OPEN_AI_CLIENT = AsyncOpenAI(api_key=OPENAI_API_KEY)
 
 
