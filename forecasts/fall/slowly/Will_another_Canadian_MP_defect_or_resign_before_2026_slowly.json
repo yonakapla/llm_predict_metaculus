@@ -1,0 +1,345 @@
+{
+    "deliberation_results": {
+        "Parliamentary Affairs (Westminster System Practices)": {
+            "time_to_resolution": "Approximately 40 days (from November 21, 2025 to December 31, 2025).",
+            "perspective_relevance": "As an expert in Parliamentary Affairs and Westminster System practices, I bring an understanding of the institutional incentives, party discipline mechanisms, norms around caucus management, and the historical base rates of MP defections and resignations, especially in the context of minority governments and leadership challenges. This expertise allows me to evaluate how recent party instability, leadership reviews, and government incentives interact within the unique Canadian parliamentary context.",
+            "status_quo": "Canadian MPs typically do not cross the floor or resign en masse. In most sessions, especially outside scandals or leadership crises, only a handful of MPs resign or change party in a given short time frame. The status quo, if nothing changed, would be that no further MP defects or resigns in the remainder of 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent Precedent of Defection and Resignation",
+                    "effect": "Increases probability. The recent defection of Chris d'Entremont and resignation of Matt Jeneroux shows heightened volatility and demonstrates that MPs are willing to break with party lines under current conditions."
+                },
+                {
+                    "factor": "Minority Government Incentives",
+                    "effect": "Increases probability. The government is just two seats short of a majority; both the Liberals and opposition have strong incentives to secure defections or force resignations to alter the balance of power or avoid elections."
+                },
+                {
+                    "factor": "Conservative Party Instability and Leadership Review",
+                    "effect": "Increases probability. With Pierre Poilievre facing a leadership review in January 2026, and documented internal dissent, there is elevated risk of further resignations or floor crossings among dissatisfied MPs."
+                },
+                {
+                    "factor": "Short Time Window",
+                    "effect": "Decreases probability. The resolution window is less than 6 weeks, which limits the base rate frequency of such events, even in volatile times."
+                },
+                {
+                    "factor": "High Political Stakes and Media Scrutiny",
+                    "effect": "Increases probability. Intense media focus and high-stakes confidence votes raise the temperature, making further moves more likely if MPs feel isolated or under pressure."
+                },
+                {
+                    "factor": "Party Discipline and Reputation Costs",
+                    "effect": "Decreases probability. Canadian party discipline is among the strongest in Westminster systems, and MPs know floor-crossing or sudden resignation carries reputational and career risks."
+                },
+                {
+                    "factor": "Personal Circumstances of MPs",
+                    "effect": "Neutral to slightly increases probability. While health or family reasons are perennial, the recent cases suggest some real personal motives, but these are not widespread among the caucus."
+                },
+                {
+                    "factor": "Active Government Outreach",
+                    "effect": "Increases probability. Reports and admissions by Liberal sources about ongoing conversations with Conservative MPs suggest continued attempts to secure another defection."
+                }
+            ],
+            "no_scenario": "Despite ongoing tensions and active government outreach, party discipline holds for the remainder of 2025. Conservative leadership successfully reassures disaffected members, and MPs considering defection or resignation decide to wait until after the January leadership review or until the new year to avoid public backlash and reputational harm. No further MPs resign or change affiliation before January 1, 2026.",
+            "yes_scenario": "A Conservative MP, likely a moderate or someone with grievances about party direction or leadership, either resigns or crosses the floor to the Liberals or becomes an independent, possibly spurred by ongoing conversations with the government, dissatisfaction with party leadership, or as a strategic move ahead of the January leadership review. Alternatively, an NDP or Bloc MP resigns or changes affiliation due to intra-party disagreements or personal reasons. Any such event before January 1, 2026 triggers a Yes.",
+            "final_reasoning": "The base rate for MP defections or resignations in Canada is low, especially in a 6-week period, but the status quo is clearly disrupted: two MPs have just left the Conservative caucus in rapid succession, and there are credible reports of further outreach and internal dissent. Minority governments historically see higher rates of party switching, especially when the government is within a seat or two of a majority and party leaders are under pressure. The short time window tempers the likelihood, but the current climate\u2014marked by a leadership review, ideological rifts, and active government courting\u2014pushes risk above normal. The probability is further elevated by the fact that just one more resignation or defection is needed to resolve Yes, and there are already MPs (such as Shannon Stubbs, currently on medical leave, and other moderates) whose situations bear watching. However, the strong tradition of party discipline, the high personal cost of such moves, and the historical rarity of multiple defections in such a short period keep the probability well below certainty. Weighing all these factors, I judge the probability to be notably above base rate, but not a coin flip\u2014reflecting both the abnormal volatility and the institutional inertia of Westminster parliaments.",
+            "final_probability": 40
+        },
+        "Parliamentary Affairs (Ethics and Accountability Standards)": {
+            "time_to_resolution": "Approximately 40 days (from November 21, 2025, to January 1, 2026)",
+            "perspective_relevance": "As an expert in Parliamentary Affairs, particularly in ethics and accountability standards, I bring a nuanced understanding of the behavioral, institutional, and procedural factors that drive parliamentary defections and resignations. This includes historic base rates for floor-crossings, the impact of leadership instability, the effects of party discipline measures, and the personal and ethical calculus MPs weigh when contemplating such moves\u2014especially in the high-stakes context of a minority government facing confidence votes.",
+            "status_quo": "No additional MP defects or resigns in the short (holiday) period between mid-November and January 1, barring deaths or medical leave (which do not count under the resolution criteria).",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent Instability and Precedent",
+                    "effect": "Increases probability. The back-to-back defection (d'Entremont) and resignation (Jeneroux) demonstrate existing cracks in caucus cohesion. Such actions often create a bandwagon effect or embolden other dissatisfied MPs, especially under sustained leadership or policy disagreements."
+                },
+                {
+                    "factor": "Minority Government Pressure",
+                    "effect": "Increases probability. Minority governments, particularly those close to majority, exert immense pressure on all parties. The Liberals are actively seeking floor-crossers; opposition MPs are prime targets for inducements (policy, committee roles) or may feel squeezed by party leadership."
+                },
+                {
+                    "factor": "Party Discipline and Leadership Review",
+                    "effect": "Increases probability. The Conservatives are experiencing internal dissent, and Poilievre faces a leadership review in January. MPs who feel their position is tenuous, or who anticipate a leadership change, may be incentivized to act before the review or before a new election is triggered."
+                },
+                {
+                    "factor": "Holiday Parliamentary Recess",
+                    "effect": "Decreases probability. Parliament tends to be less active and MPs less likely to make major decisions during the holiday period. The pressure of day-to-day legislative combat is reduced, and parties typically manage internal affairs quietly during recess."
+                },
+                {
+                    "factor": "Base Rates of Defections and Resignations",
+                    "effect": "Slightly increases probability. In Canadian federal politics, floor-crossings and sudden resignations are rare but cluster around moments of high instability or leadership crises. Two such events have just occurred, suggesting a short-term uptick, but the window is short."
+                },
+                {
+                    "factor": "Direct Denials and Loyalty Statements from MPs",
+                    "effect": "Decreases probability. Public statements from remaining Conservative MPs reaffirming loyalty and dismissing rumors, as well as Poilievre and his lieutenants working to shore up discipline, make further immediate moves less likely."
+                }
+            ],
+            "no_scenario": "The Conservatives successfully contain internal dissent through public affirmations of loyalty, private assurances, and perhaps temporary concessions. The holiday break allows tensions to cool, and MPs avoid triggering by-elections or further party drama before the January leadership review. No MP defects or resigns before January 1.",
+            "yes_scenario": "At least one additional MP\u2014likely a moderate Conservative or a frustrated NDP backbencher\u2014announces resignation or crosses the floor, possibly spurred by ongoing personal, ideological, or leadership grievances. The move is precipitated either by Liberal outreach, mounting pressure from within their own caucus, or the calculation that acting before the leadership review or a snap election is advantageous.",
+            "final_reasoning": "The base rate for Canadian MPs resigning or defecting in a 40-day window is very low, but not zero\u2014especially after two such high-profile events. The context is highly unstable: the Liberal government is actively seeking defectors, the Conservative Party is divided and faces a leadership review, and abstentions/absences have become a tactical tool. However, the immediate aftermath of public drama often triggers a period of retrenchment and discipline, especially with the holiday recess looming. Parliament's reduced activity and the high reputational and career risks of moving now (versus waiting for the leadership review) decrease the likelihood. Still, historic clustering around instability, ongoing rumors, and the clear incentives for both government and ambitious MPs to act prevent the probability from being too low. I assess that the risk is notably higher than the typical background rate, but still below 50%, as the incentives to wait until the leadership review or after the holidays are strong. The most likely scenario is status quo, but a Yes outcome is plausible if another MP is particularly aggrieved or if the Liberals sweeten their inducements.",
+            "final_probability": 32
+        },
+        "Political Risk Analysis (Political Event Forecasting)": {
+            "time_to_resolution": "Approximately 40 days (until January 1, 2026).",
+            "perspective_relevance": "As a political risk analyst specializing in event forecasting, I apply structured analytic techniques, base rate analysis, and scenario modeling to anticipate rare but impactful political disruptions. My expertise allows me to account for both statistical regularities in parliamentary defections/resignations and the unique stressors present in minority government situations, especially those where government survival hinges on razor-thin margins and recent precedent of high-profile floor crossings or resignations.",
+            "status_quo": "No further MPs defect or resign before January 1, 2026. MPs typically remain with their parties or in office during short, high-stakes parliamentary windows, as the status quo bias in politics is strong and departures are rare in concentrated periods.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent Defections and Resignations",
+                    "effect": "Increases probability. The closely timed floor-crossing of Chris d'Entremont and the resignation of Matt Jeneroux suggest acute, ongoing internal tensions in the Conservative caucus and a willingness among some MPs to act on those rifts, raising the baseline likelihood of additional departures."
+                },
+                {
+                    "factor": "Minority Government with Razor-thin Margins",
+                    "effect": "Increases probability. The Liberals are just two seats short of a majority, and both government and opposition have strong incentives to recruit or pressure MPs to shift allegiance or resign, making the environment highly volatile."
+                },
+                {
+                    "factor": "Party Leadership Instability \u2014 Particularly Conservative",
+                    "effect": "Increases probability. Pierre Poilievre faces a looming leadership review and declining approval ratings, with reports of internal factions and dissatisfaction among moderates, which increases the risk of further resignations (to sit as independents) or defections to other parties."
+                },
+                {
+                    "factor": "Short Time Window",
+                    "effect": "Decreases probability. The question closes in about 40 days. While political drama is high, the short period naturally compresses the base rate for such events, capping upside risk."
+                },
+                {
+                    "factor": "Recent History and Base Rates for Canadian Floor Crossing/Resignation",
+                    "effect": "Slightly increases probability. In normal circumstances, Canada sees 1\u20133 MP defections/resignations per year, but this is heavily front-loaded during periods of minority government instability; the current cluster is above base rate and could signal a cascade effect."
+                },
+                {
+                    "factor": "Party Cohesion and Damage Control",
+                    "effect": "Decreases probability. Both Liberal and Conservative leaders are now acutely aware of the risks and have likely implemented strong internal discipline and incentives to retain MPs for the remainder of this critical session."
+                }
+            ],
+            "no_scenario": "Despite continued media speculation, internal party discipline holds: no further Conservative, NDP, Bloc, or Liberal MPs resign or cross the floor before January 1, 2026. Leaders shore up loyalty with carrots (promises, positions) and sticks (threats of lost nominations or career damage). The government survives on abstentions or procedural maneuvering, but no MP formally leaves their party or seat in the period.",
+            "yes_scenario": "One or more MPs, likely from the Conservative caucus, either resign due to personal/political dissatisfaction (possibly citing family or health reasons) or cross the floor to the Liberals or another party, motivated by frustration with party leadership, policy disagreements, or the opportunity to secure a Liberal majority and avoid further instability. Alternatively, an NDP or Bloc member, dissatisfied with leadership or seeking concessions, leaves to sit as an independent.",
+            "final_reasoning": "The base rate for Canadian MP defections or resignations is generally low, but sharply increases in periods of minority government instability\u2014especially when recent precedent (two in one week) and open media speculation about further discontent exist. The Conservative Party is under significant internal strain (leadership review, ideological splits, declining polling), and the Liberals are incentivized to secure a stable majority by recruiting dissidents. The time window is short, which tempers the probability, but the cluster of recent departures suggests heightened risk of a cascade or at least one further departure. The most likely outcome is status quo (no further departures), but the risk is much higher than in a normal period\u2014especially with public reports of ongoing outreach to MPs and a government that needs just two more seats for a majority. After balancing heightened short-term risk and the natural inertia of party loyalty, I estimate the probability of at least one more MP resigning, defecting, or becoming independent before January 1, 2026 is 38%.",
+            "final_probability": 38
+        },
+        "Political Risk Analysis (Elite Defection Patterns)": {
+            "time_to_resolution": "Just under 6 weeks (from November 21, 2025 to December 31, 2025).",
+            "perspective_relevance": "My expertise in Political Risk Analysis\u2014particularly in elite defection patterns\u2014enables me to assess the structural, psychological, and contextual incentives/disincentives for MPs to defect or resign, especially in high-stakes, minority government environments. This is critical when party discipline is under strain, leadership is challenged, and the government\u2019s stability hinges on razor-thin margins.",
+            "status_quo": "No further defections or resignations occur before January 1, 2026. The two recent events (d'Entremont's defection and Jeneroux's resignation) are isolated incidents, and the parties hold together through the end of the year.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Minority government instability and narrow margins",
+                    "effect": "Increases probability. Minority governments, especially those just short of a majority, tend to see heightened incentive for elite defection and resignation. Each MP holds outsized leverage, and party discipline is harder to enforce. The government\u2019s recent focus on recruiting floor-crossers (per reporting) suggests continued outreach."
+                },
+                {
+                    "factor": "Conservative Party internal turmoil and leadership review",
+                    "effect": "Increases probability. With Conservative leader Poilievre facing a leadership review in January and approval ratings at historic lows, there is a window of volatility. Factionalism, as referenced in news analysis, increases the risk of additional exits (either to Liberals or as independents)."
+                },
+                {
+                    "factor": "Recent high-profile defections and resignations (momentum effect)",
+                    "effect": "Slightly increases probability. Two events in rapid succession can generate a 'permission slip' for others who are wavering, especially if the party's internal response is defensive or vindictive, which may alienate moderates further."
+                },
+                {
+                    "factor": "Short time window and seasonal effects",
+                    "effect": "Decreases probability. The question only covers the period up to January 1, 2026, and includes the holiday recess, when political activity and public attention wane. MPs may be disinclined to make disruptive moves during this period unless already in advanced talks or under acute pressure."
+                },
+                {
+                    "factor": "Recent public affirmations of loyalty and leadership clampdown",
+                    "effect": "Decreases probability. Conservative leadership, aware of the risk, has taken steps to secure loyalty pledges and increase internal discipline. MPs like Dominique Vien have publicly reaffirmed support, and senior party figures are focusing on damage control."
+                },
+                {
+                    "factor": "Base rate of defections/resignations in Canadian minority parliaments",
+                    "effect": "Slightly increases probability. Historically, floor-crossings and resignations are uncommon but tend to cluster around leadership crises and minority government stress points, especially when the government is just shy of a majority."
+                }
+            ],
+            "no_scenario": "The party leaderships, especially within the Conservatives, succeed in enforcing discipline and containing internal dissent through the leadership review. MPs who are unhappy opt to bide their time until after the holiday recess and the January review. The Liberals, having just secured a narrow budget win, focus on governing rather than further aggressive recruitment. No significant external shocks or scandals emerge, and MPs are mindful of public backlash against perceived opportunism during the holidays.",
+            "yes_scenario": "One or more Conservative (or possibly NDP) MPs, already disaffected and emboldened by recent events, choose to cross the floor, become independent, or resign before the holidays. Triggers could include a breakdown in internal discipline, aggressive Liberal courting, new revelations or scandals, or a perception that a pre-leadership-review exit would maximize leverage. Alternatively, a health or personal issue could precipitate a resignation, but political motives remain the more likely driver in this context.",
+            "final_reasoning": "While the base rate for floor-crossing and resignations is low in most periods, the confluence of factors\u2014minority government, a government just short of a majority, visible Conservative disunity, recent high-profile departures, and an active campaign by the Liberals\u2014raises the risk. However, the short window (holiday season), public loyalty pledges, and the fact that much of the party turmoil may now be 'priced in' after two major departures all constrain the probability. The status quo bias is significant, but the recent pattern and continued incentives for the Liberals to recruit (and for dissenters to jump before the leadership review) keep the probability above the base rate. I judge there is a material\u2014but not dominant\u2014chance of another defection or resignation before the end of the year, with the most likely vector being a moderate Conservative MP or a backbencher with little future in the party. Given these, I set the probability at 29%.",
+            "final_probability": 29
+        },
+        "Political Science (Party System Theory)": {
+            "time_to_resolution": "Approximately 40 days (from November 21, 2025, to January 1, 2026)",
+            "perspective_relevance": "As an expert in Party System Theory, my perspective is highly relevant because the question hinges on party cohesion, elite defection dynamics, parliamentary incentives, and how minority government instability, leadership legitimacy, and ideological polarization shape MP behavior. Understanding the structural incentives for party loyalty, the costs and benefits of defection or resignation, and the historical base rates of such events during periods of minority government and leadership crisis is essential to making an accurate forecast.",
+            "status_quo": "If nothing changed, no further defections or resignations would occur before January 1, 2026. The recent floor-crossing and resignation would be isolated incidents, and all remaining MPs would remain with their current parties or seats until the new year.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Minority Government Volatility",
+                    "effect": "Increases probability. Minority governments in Canada are historically less stable and prone to both strategic resignations and defections, especially when a government is on the knife-edge of majority status and inter-party trust is low."
+                },
+                {
+                    "factor": "Recent Precedent and Momentum",
+                    "effect": "Increases probability. The recent floor-crossing (d'Entremont) and resignation (Jeneroux), both from the Conservative caucus, suggest a window of heightened instability and potential for further moves. Such events often come in clusters, especially when leadership discontent is present."
+                },
+                {
+                    "factor": "Leadership Crisis within Conservative Party",
+                    "effect": "Increases probability. Poilievre faces poor approval numbers and an imminent leadership review in January. Internal party fractures, ideological purges, and a sense of marginalization among moderates ('red Tories') create incentives for further defections or resignations, particularly if MPs perceive future career risk or misalignment."
+                },
+                {
+                    "factor": "Short Timeframe and Holiday Recess",
+                    "effect": "Decreases probability. The parliamentary calendar will soon shift to recess, limiting opportunities for visible or high-impact defections/resignations. MPs are less likely to make career-altering moves during the December holiday period unless under acute duress."
+                },
+                {
+                    "factor": "Potential Incentives from Governing Liberals",
+                    "effect": "Increases probability. The Liberal government, two seats short of a majority, is actively courting opposition MPs (as confirmed in news coverage and by Carney himself). The prize of a majority is a strong incentive for the government to offer inducements, which could tip fence-sitters."
+                },
+                {
+                    "factor": "Social Norms and Personal Cost of Defection",
+                    "effect": "Decreases probability. As shown by the backlash against d'Entremont, floor-crossing and resignations entail reputational risk, threats, and loss of party support. These factors may deter risk-averse MPs, especially after public attention on recent defectors."
+                },
+                {
+                    "factor": "Historical Base Rate",
+                    "effect": "Slightly increases probability. In recent Canadian history, floor-crossings and resignations in minority Parliaments are rare but not unprecedented. With two such moves already in the past two weeks, the base rate for another within 40 days is higher than average, though still not a certainty."
+                }
+            ],
+            "no_scenario": "Despite ongoing discontent and government courtship, all MPs hold their positions through to January 1, 2026. The holiday recess and upcoming Conservative leadership review provide a cooling-off period, and would-be defectors are deterred by recent backlash or decide to await the outcome of Poilievre\u2019s leadership review before acting. The Liberals fail to entice further defections, and no MP resigns or changes party status.",
+            "yes_scenario": "One or more MPs, primarily from the Conservative caucus but potentially from the NDP or Bloc, defect to the Liberals or resigns, citing irreconcilable differences with party leadership, ideological misalignment, or personal reasons. This could be triggered by further party discipline actions, failed reconciliation in caucus, or attractive offers from the Liberal government. Alternatively, a scandal, health issue, or local constituency issue could precipitate a resignation.",
+            "final_reasoning": "The current environment is unusually volatile for Canadian federal politics: a razor-thin minority government, visible cracks in opposition party unity, a recent cluster of defections/resignations, and a government with much to gain from enticing just one or two more MPs. Party System Theory suggests that minority governments, especially near-majority ones, see heightened elite bargaining and incentives for 'deal-making' with fence-sitters or dissatisfied MPs. While the parliamentary calendar and the high cost of defection (social and reputational) act as brakes, the cluster of recent moves and explicit government efforts to recruit further floor-crossers tilt the balance toward 'Yes.' The short timeframe and holiday break are real dampeners, but the proximity of a possible majority and the incentives for both sides create a window of heightened risk. Historical base rates for such moves are low, but the cluster effect and current instability make this period an outlier. I estimate the chance of at least one further resignation or defection before January 1, 2026, at 65%.",
+            "final_probability": 65
+        },
+        "Political Science (Rational Choice Theory)": {
+            "time_to_resolution": "Approximately 5.5 weeks (from November 21, 2025, to January 1, 2026)",
+            "perspective_relevance": "As an expert in Rational Choice Theory, I analyze the incentives, constraints, and preferences of MPs as strategic actors. I focus on individual cost-benefit calculations, party discipline mechanisms, and the structure of payoffs under minority government conditions\u2014particularly when the government's survival and the potential for majority status hinge on a small number of seat changes. This perspective allows for granular evaluation of the likelihood that another MP will calculate it is in their interest to defect or resign before the 2026 deadline, as well as the impact of party cohesion, leadership reviews, and external pressures.",
+            "status_quo": "No further defections or resignations occur before January 1, 2026; the composition of the House remains stable after the recent floor-crossing (Chris d'Entremont) and resignation (Matt Jeneroux).",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Minority Government and Proximity to Majority",
+                    "effect": "Increases probability. The Liberals are only two seats short of a majority; each marginal defection or resignation is highly valuable and strategically incentivizes both government and opposition actors to induce or prevent further moves."
+                },
+                {
+                    "factor": "Recent Precedent of Defections/Resignations",
+                    "effect": "Increases probability. The recent floor-crossing and resignation suggest that MPs are actively considering personal and strategic moves, lowering the perceived barrier to further defections or resignations."
+                },
+                {
+                    "factor": "Conservative Party Instability and Leadership Review",
+                    "effect": "Increases probability. Conservative Leader Poilievre faces low approval ratings and an impending leadership review in January 2026, increasing internal uncertainty and potential for MPs to hedge or reposition themselves, especially moderates."
+                },
+                {
+                    "factor": "Party Discipline and Backlash",
+                    "effect": "Decreases probability. The strong backlash to recent defections, including public shaming and accusations, as well as intensified efforts by party leadership to shore up loyalty, create disincentives for further moves in the short term."
+                },
+                {
+                    "factor": "Personal Incentives and Constituency Pressures",
+                    "effect": "Ambiguous but slightly increases probability. MPs facing local dissatisfaction, personal misalignment with party policy, or better prospects with the governing party may be tempted to act, especially if the government is actively courting potential floor-crossers."
+                },
+                {
+                    "factor": "Short Time Window Before Resolution",
+                    "effect": "Decreases probability. With just over a month until the resolution date and the immediate crisis (budget/confidence vote) now passed, the urgency for MPs to act before the holidays may be reduced, unless further instability erupts."
+                },
+                {
+                    "factor": "Historical Base Rate for Canadian MP Defections/Resignations",
+                    "effect": "Decreases probability. Historically, such moves are rare and cluster around moments of high instability; while we've just seen two, the base rate for additional events over a short window is low."
+                }
+            ],
+            "no_scenario": "No further MPs defect or resign before January 1, 2026. Conservative and other opposition party leadership successfully reinforce party discipline, leveraging the recent backlash to deter further moves. The government, with the budget passed and Carney abroad, reduces active recruitment. MPs considering crossing or resigning decide to wait until after the January Conservative leadership review, reassess in the new year, or are held in line by party and constituency pressures.",
+            "yes_scenario": "At least one more MP (most likely from the Conservative caucus, but possibly from NDP or Bloc) defects to the Liberals, becomes an independent, or resigns. This could be driven by lingering dissatisfaction with party leadership, personal or constituency misalignment, or the promise of greater influence or policy alignment by joining the government. Efforts by the Liberals to court wavering MPs continue behind the scenes, and another backbencher\u2014possibly emboldened by the precedent and calculating that the leadership review may not improve conditions\u2014makes a move before the new year.",
+            "final_reasoning": "Recent events have significantly elevated the probability of further defections or resignations in the near term: we've seen two in the last two weeks, and reporting indicates ongoing quiet discussions between the Liberals and potential Conservative floor-crossers. Party discipline has been reinforced and the immediate crisis (budget vote) is over, which may cause a return to stability. However, the incentives for both the Liberals (to gain a majority) and wavering opposition MPs (to secure relevance or align with their constituents) remain strong, and the leadership review in January creates a window for hedging before potential party realignment. The short time window and high party discipline do lower the odds, as does the historical base rate, but the situation is more fluid than in a typical session. Weighing these factors, I judge the probability of at least one further defection or resignation before January 1, 2026, to be moderately above the base rate, but not overwhelmingly so, given the deterrent effects and short window.",
+            "final_probability": 35
+        },
+        "Political Science (Legislative Studies)": {
+            "time_to_resolution": "Approximately 40 days (until January 1, 2026)",
+            "perspective_relevance": "As a Political Science (Legislative Studies) expert, I bring an understanding of parliamentary dynamics, party discipline, comparative base rates of floor-crossing and resignations in Westminster-style systems, and the unique pressures of minority government environments. My expertise allows me to contextualize recent events within broader trends in party cohesion and legislative instability, and to weigh the interplay of leadership challenges, ideological divides, and strategic behavior among MPs.",
+            "status_quo": "In normal circumstances, with a recently elected Parliament and no major scandals or leadership crises, floor-crossings and resignations are rare. Historically, in Canada, one or two such events occur per year across 300+ MPs; in the period between elections, usually only a handful of MPs resign or cross the floor. The baseline expectation is that no additional MP would defect or resign within a short, six-week window post-budget.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Minority Government Instability",
+                    "effect": "Increases probability. Minority governments, especially those just short of a majority, see increased lobbying for defections and higher political pressure, which can precipitate resignations or floor-crossings."
+                },
+                {
+                    "factor": "Recent Precedent (Two Conservative Departures in One Week)",
+                    "effect": "Increases probability. The fresh memory of two high-profile departures may embolden other disaffected MPs or lower the psychological barrier for switching parties or resigning."
+                },
+                {
+                    "factor": "Leadership Strife and Poilievre\u2019s Low Approval Ratings",
+                    "effect": "Increases probability. Conservative leader Pierre Poilievre faces a leadership review and declining approval, increasing incentives for moderates or unhappy MPs to consider exit or defection, particularly if they sense a shift in party direction or personal marginalization."
+                },
+                {
+                    "factor": "Short Time Window (Nov 17 to Jan 1)",
+                    "effect": "Decreases probability. The forecast window is only about six weeks during the holiday period, when Parliament is typically recessed and major moves are less common."
+                },
+                {
+                    "factor": "Recent Media and Internal Party Reactions",
+                    "effect": "Decreases probability. Recent defections have provoked strong backlash and efforts by party leadership to shore up loyalty and prevent further exits, likely increasing short-term discipline."
+                },
+                {
+                    "factor": "Strategic Considerations (Liberal Majority Within Reach)",
+                    "effect": "Increases probability. The Liberals are just two seats from a majority, raising the stakes for both inducements to defect and for party discipline to prevent it. The knowledge that a single move can shift government control heightens temptation and pressure."
+                }
+            ],
+            "no_scenario": "After the recent turmoil, party whips and leaderships (especially the Conservatives) clamp down, offering reassurances, incentives, or making threats to prevent further departures. MPs, wary of media scrutiny and constituent backlash, remain in place. Parliament soon enters winter recess, lowering the immediate political temperature and logistical opportunities for further resignations or floor-crossings before Jan 1.",
+            "yes_scenario": "A Conservative MP, facing pressure from the rightward shift or aligning more with the centrist Liberals, decides to cross the floor, enticed by policy concessions or personal advancement. Alternately, an MP from any party\u2014perhaps citing health, scandal, or family reasons\u2014chooses to resign, potentially as a prelude to a subsequent by-election or to avoid an imminent leadership challenge. The heightened uncertainty and slim margins make such a move more plausible than usual.",
+            "final_reasoning": "Base rates for Canadian MP defections/resignations in a short window are low, but this is not a normal period: the Liberals are only two short of a majority, and there have been two high-profile Conservative departures in one week. Minority government instability, active recruitment by Liberals, and internal Conservative strife (with a leadership review looming and Poilievre\u2019s approval at a nadir) all spike the odds. However, the window is short, and the party apparatus will be on high alert, with added discipline and public awareness of the stakes. The holiday season and pending recess further reduce activity. Balancing these, I judge the probability of another MP resigning or defecting in the next 40 days as significantly above the historic base rate, but still less than an even chance. The probability is elevated, but not extreme.",
+            "final_probability": 32
+        },
+        "Canadian Studies (Canadian Parliamentary Dynamics)": {
+            "time_to_resolution": "Approximately 6 weeks (from November 21, 2025, to December 31, 2025).",
+            "perspective_relevance": "As an expert in Canadian Parliamentary Dynamics, I bring a deep understanding of the behavioral patterns of MPs in minority parliaments, the strategic incentives created by near-majority situations, and the historical frequency and triggers of floor-crossing and resignations in Canada. This expertise allows me to assess not only the base rates but also the specific contextual drivers at play in this unique parliamentary moment.",
+            "status_quo": "No more MPs would defect or resign before January 1, 2026. Most Canadian Parliaments see only a handful of defections or resignations per year, with clustering around significant crises or leadership struggles.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Minority Government Near-Majority Dynamics",
+                    "effect": "Increases probability. With the Liberals only two seats short of a majority, the incentive for both the government to recruit and for dissatisfied opposition MPs to defect is unusually high. The stakes are elevated, and each individual MP has disproportionate leverage and media attention."
+                },
+                {
+                    "factor": "Recent Precedent of Defection and Resignation",
+                    "effect": "Increases probability. Two Conservative MPs (d'Entremont and Jeneroux) have just defected or resigned within the past two weeks, indicating active discontent and a live pipeline of MPs considering their positions."
+                },
+                {
+                    "factor": "Internal Conservative Party Discord and Weak Leadership",
+                    "effect": "Increases probability. Pierre Poilievre faces factional unrest and a looming leadership review, with approval ratings at a historic low. As in other Canadian instances (e.g., Stockwell Day in 2001, Paul Martin's Liberals in 2005), divided parties facing weak or embattled leaders see higher rates of MP departures."
+                },
+                {
+                    "factor": "Proximity to Holidays and Parliamentary Schedule",
+                    "effect": "Slightly decreases probability. The period before January 1 is typically a time when Parliament is not in full session, and MPs may be reluctant to make major moves during the Christmas/New Year break unless there is acute crisis."
+                },
+                {
+                    "factor": "Recent Media and Whip Management Efforts",
+                    "effect": "Decreases probability. Conservative leadership is reportedly working hard to shore up loyalty and manage the caucus, and recent public affirmations of loyalty from MPs may stem the tide, at least temporarily."
+                },
+                {
+                    "factor": "Historical Base Rate",
+                    "effect": "Increases probability. In Canadian minority parliaments, floor-crossings and resignations are rare but tend to cluster around moments of high parliamentary drama or leadership crisis. In the 2004-2006 and 2019-2021 minorities, there were several high-profile crossings/resignations, though not always within so short a window."
+                }
+            ],
+            "no_scenario": "With the budget passed and the holidays approaching, the Conservative leadership successfully clamps down on further dissent, MPs are incentivized to wait for the outcome of Poilievre's January leadership review, and no additional high-profile crisis or opportunity emerges, leading to no further defections or resignations before January 1, 2026.",
+            "yes_scenario": "One or more Conservative MPs (especially moderates or those with personal or regional grievances) feel emboldened by recent defections, face continued party pressure or see an opportunity to gain influence by switching sides. Alternatively, the Liberals continue active recruitment, or an NDP or Bloc MP (unlikely, but possible) resigns or defects due to local or national pressures. A sudden, unanticipated personal or political event could also trigger a resignation.",
+            "final_reasoning": "The immediate context is highly unstable: the Liberals are just two seats short of a majority, and both the d'Entremont defection and Jeneroux resignation happened within days of each other, indicating a fragile opposition and ongoing active efforts by the government to recruit further support. The Conservative Party is facing visible discord, low leader approval, and a looming leadership review; the NDP is also fragmented, though less likely to see further resignations or defections in this short window. The period until January 1 is only about six weeks, but the incentives for both individual MPs and the government are unusually high, and both history and recent events suggest that instability tends to cluster. The holidays slightly dampen the odds, but the base rate for such moves in minority situations, combined with the extraordinary pressure and signals from recent events, outweighs the status quo bias. I therefore assess the probability as considerably above baseline, but not extreme, given the short window and the possibility that MPs 'wait and see' until the leadership review.",
+            "final_probability": 65
+        },
+        "Canadian Studies (Federalism in Canada)": {
+            "time_to_resolution": "Approximately 40 days (from November 21, 2025, to December 31, 2025)",
+            "perspective_relevance": "As an expert in Canadian Studies with a focus on federalism, I have deep knowledge of Canada's parliamentary system, the historic frequency and context of MP defections and resignations, and the unique dynamics of minority governments. This expertise allows me to assess institutional pressures, party discipline, the incentives and disincentives for MPs to cross the floor or resign, and the likely reactions within the federal system during periods of instability.",
+            "status_quo": "The status quo is that MPs rarely resign or cross the floor during a single month, even in turbulent times. In most years, only 1-2 MPs might defect or resign in a given year, often for personal or local political reasons. Since November 5, 2025, two such departures have occurred, which is already above the base rate for such a short interval.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent Instability and Precedent",
+                    "effect": "Increases probability. The recent resignation of Jeneroux and defection of d'Entremont, both within two weeks, suggest an unusual period of caucus instability, especially in the Conservative ranks. Party discipline may have been weakened, and precedent often emboldens others to act (bandwagon effect)."
+                },
+                {
+                    "factor": "Minority Government Dynamics",
+                    "effect": "Increases probability. Minority governments, especially those close to a majority, place immense pressure on MPs, creating incentives for both government and opposition MPs to switch sides for influence, policy concessions, or personal advancement. The current Liberal government is only two seats short of a majority, increasing pressure on all MPs."
+                },
+                {
+                    "factor": "Conservative Party Turmoil and Leadership Review",
+                    "effect": "Increases probability. There are clear signs of internal Conservative dissent, with Poilievre\u2019s leadership ratings at a low and a leadership review looming in January. MPs may be calculating their own futures, fearing being left out or seeking to join a stable government."
+                },
+                {
+                    "factor": "Proximity to Holiday Recess and Short Resolution Window",
+                    "effect": "Decreases probability. With Parliament soon to enter its holiday recess, there will be fewer sitting days and less opportunity for the drama or procedural confrontations that often trigger resignations or defections. MPs may prefer to wait for the outcome of the January leadership review before acting."
+                },
+                {
+                    "factor": "Recent Media and Party Countermeasures",
+                    "effect": "Decreases probability. After the recent departures, Conservative leadership and key party figures have been making public and private efforts to prevent further defections, including loyalty affirmations and possible incentives to stay."
+                }
+            ],
+            "no_scenario": "Despite recent turmoil, MPs hold their positions at least until the end of 2025, with no additional resignations, party switches, or declarations of independence. Conservatives and other opposition parties close ranks, and the Liberals do not immediately secure any further floor-crossers, perhaps due to the short time frame and the deterrent effect of heightened scrutiny.",
+            "yes_scenario": "At least one more MP\u2014likely from the Conservative or NDP caucuses\u2014either resigns, crosses the floor, or declares independence before the end of December 2025. This could be driven by personal or ideological disaffection, further fallout from internal party disputes, or strategic moves by the government to court MPs from the opposition. The government, still two seats short of a majority, continues its active pursuit of defectors, possibly offering inducements or roles.",
+            "final_reasoning": "The base rate for MP defections or resignations in a one-month window is quite low, but the current situation is highly atypical: two departures have already occurred in less than three weeks, and the government is just two seats shy of a majority, substantially raising the stakes and incentives for further moves. The Conservative Party is facing visible internal dissent, and Poilievre\u2019s leadership is under unusual stress, which could prompt further departures, especially from moderates or those facing constituency pressure. However, the short window to the end of the year, the imminent holiday recess, and public steps by the Conservatives to shore up discipline somewhat limit the risk. Overall, given the extraordinary circumstances, I judge the probability of at least one more MP defecting or resigning before January 1, 2026, to be substantially higher than normal but not overwhelming\u2014there is real risk, but the time constraint and party countermeasures matter. I synthesize these factors to arrive at a probability moderately above 50%, reflecting both the heightened risk and the short window.",
+            "final_probability": 65
+        }
+    },
+    "deliberation_probability": [
+        40,
+        32,
+        38,
+        29,
+        65,
+        35,
+        32,
+        65,
+        65
+    ],
+    "deliberation_mean_probability": 44.55555555555556,
+    "deliberation_sd": 15.67730135507313,
+    "deliberation_probability_result": 45
+}

@@ -1,0 +1,397 @@
+{
+    "deliberation_results": {
+        "IntelligenceAnalysis (IndicatorsAndWarningMethodology)": {
+            "time_to_resolution": "41 days (from November 21, 2025 to January 1, 2026)",
+            "perspective_relevance": "As an expert in Intelligence Analysis (Indicators and Warning Methodology), I specialize in identifying early warning signals and patterns in adversary behavior, focusing on capabilities, intentions, and contextual triggers. My approach prioritizes objective base rates, technical readiness cues, regime incentives, and the geostrategic environment, integrating multiple-source intelligence and historic precedents to avoid overreacting to noise or rhetoric.",
+            "status_quo": "North Korea has not conducted a nuclear test since September 2017, despite repeated warnings and observable preparations. Its last six nuclear tests occurred over 11 years, with increasing intervals between them, and the regime has often used test site readiness to extract diplomatic or material concessions without actually crossing the nuclear test threshold.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Technical Readiness at Punggye-ri",
+                    "effect": "Increases probability. Multiple intelligence reports confirm tunnel #3 is fully prepared for a test, and the regime can test on short notice if Kim Jong-un orders it."
+                },
+                {
+                    "factor": "Leadership Intent and Political Incentives",
+                    "effect": "Neutral to slightly increases probability. While Kim enshrined nuclear status in the constitution and seeks to demonstrate credible capability, his current focus appears to be on mass production and qualitative improvement rather than dramatic escalatory steps before the Party Congress."
+                },
+                {
+                    "factor": "External Triggers: US-ROK Nuclear Submarine Deal & Rhetoric",
+                    "effect": "Slightly increases probability. North Korea issued strong warnings about 'realistic countermeasures' but typically reserves actual nuclear tests for moments of acute crisis or as leverage for negotiations, not for routine signaling."
+                },
+                {
+                    "factor": "Russia & China Support",
+                    "effect": "Slightly increases probability. Russian technical aid and diplomatic cover reduce the cost of escalation, but Moscow and Beijing may also advise restraint to avoid regional instability ahead of major international events."
+                },
+                {
+                    "factor": "International Context: Global Nuclear Arms Race",
+                    "effect": "Neutral. While the multipolar nuclear environment and US/China/Russia dynamics provide some permissive context for North Korean escalation, Pyongyang's behavior historically tracks more closely to regime-specific objectives than broad global trends."
+                },
+                {
+                    "factor": "Recent Pattern: Reduced Missile Testing, Focus on Production",
+                    "effect": "Decreases probability. Kim's 2025 shift to fewer public missile launches and emphasis on production/maturation suggests confidence in deterrence without need for 'provocative' nuclear detonations in the short term."
+                },
+                {
+                    "factor": "Base Rate and Historical Precedent",
+                    "effect": "Decreases probability. The historic interval between tests has grown, and North Korea often signals test readiness without following through, using the threat as leverage rather than as an automatic trigger."
+                }
+            ],
+            "no_scenario": "Despite readiness at Punggye-ri and provocative statements, Kim Jong-un calculates that the cost of a nuclear test\u2014potentially triggering new sanctions, undercutting Chinese/Russian diplomatic support, or derailing internal preparations for the 9th Party Congress\u2014outweighs the benefits. North Korea continues to expand warhead production, missile capabilities, and conventional forces but refrains from an actual nuclear detonation, instead leveraging test readiness for strategic messaging and potential future bargaining.",
+            "yes_scenario": "A regional crisis, such as a major US/ROK military exercise, a high-profile defection, or an intelligence coup exposing new warhead designs, prompts Kim Jong-un to authorize a nuclear test to demonstrate resolve, deter external intervention, or boost regime legitimacy ahead of the Party Congress. Alternatively, unexpected international developments (e.g., US nuclear test resumption) create a perceived window of opportunity or necessity for North Korea to conduct its seventh test, using the already-prepared Punggye-ri site.",
+            "final_reasoning": "The base rate for a North Korean nuclear test in any given month since 2006 is ~2.7%. However, the historical context shows a growing interval between tests, with the last occurring in 2017, and a clear pattern of using test readiness for leverage rather than as a trigger for action. Multiple intelligence agencies assess that North Korea is technically ready and could test on short notice, but recent behavior\u2014slower missile testing, focus on production, and regime political priorities\u2014suggests a preference for signaling and consolidation rather than dramatic escalation before the end of 2025. While regional tensions and new Russian/Chinese support marginally increase the risk, these are balanced by restraint signals and the absence of an acute crisis. My assessment is that the probability is higher than the raw base rate due to current readiness and geopolitical friction, but still below 50% given historical patterns and regime incentives.",
+            "final_probability": 32
+        },
+        "IntelligenceAnalysis (StructuredAnalyticTechniques)": {
+            "time_to_resolution": "Approximately 40 days (from November 21, 2025, to December 31, 2025).",
+            "perspective_relevance": "As an expert in Intelligence Analysis using Structured Analytic Techniques (SATs), I emphasize base rates, scenario analysis, and rigorous evaluation of recent intelligence and historical precedent. My approach incorporates competing hypotheses, red teaming, and weighted factor analysis. This ensures a disciplined assessment of the likelihood that North Korea will conduct a nuclear test before 2026, rigorously balancing recent signals, status quo bias, and geopolitical incentives.",
+            "status_quo": "North Korea has not conducted a nuclear test since September 2017. Despite repeated warnings, indications of technical readiness, and rhetorical escalations, it has remained in a pattern of restraint for over eight years.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rate of Nuclear Tests",
+                    "effect": "The historical base rate is roughly 2.7% per month since 2006, but there has been an 8-year gap since the last test. Given the short window (40 days), the raw base rate implies a low probability unless there is a significant change in regime incentives or international context."
+                },
+                {
+                    "factor": "Technical Readiness and Facility Status",
+                    "effect": "Multiple intelligence sources (South Korea's NIS and DIA) confirm the Punggye-ri test site is physically ready for a test on short notice. This increases the probability compared to a situation where technical or logistical barriers existed."
+                },
+                {
+                    "factor": "Political-Military Incentives and Timing",
+                    "effect": "North Korea faces heightened regional tensions (US/South Korea submarine deal, regional nuclear posturing by US/China/Russia). However, Kim Jong-un has recently reduced weapons tests and appears focused on mass production, consolidation, and leveraging nuclear status for political gain rather than escalation. The short time left in the year also limits the strategic utility of a test, unless a major provocation or internal logic shifts."
+                },
+                {
+                    "factor": "External Alignment and Support (Russia/China)",
+                    "effect": "Deepening ties with Russia and China provide technical support and diplomatic cover, potentially emboldening North Korea. However, these patrons may prefer stability during a period of already-high global nuclear tension, and may discourage a test in the short term to avoid further escalation or undermining their own interests."
+                },
+                {
+                    "factor": "Strategic Communication and Signaling",
+                    "effect": "North Korean state media has issued strong rhetoric and threatened countermeasures in response to allied moves, but has refrained from naming leaders or explicitly tying threats to a nuclear test. There is an established pattern of signaling without follow-through, suggesting bluster is being used as a bargaining chip and deterrent."
+                },
+                {
+                    "factor": "Kim Jong-un\u2019s Decision Calculus",
+                    "effect": "Analysts note that a test could be ordered at any time, but Kim appears to be prioritizing regime consolidation, conventional force upgrades, and international normalization of nuclear status. The cost-benefit calculation for a nuclear test in late 2025 likely remains negative unless a sudden crisis occurs."
+                }
+            ],
+            "no_scenario": "North Korea continues its current path, leveraging threats and demonstration of readiness for political and deterrence purposes, but refrains from an actual nuclear detonation. Kim Jong-un maintains the pattern of restraint, seeking to avoid direct escalation with the US, South Korea, or China and instead focuses on mass production, satellite launches, and conventional military modernization. The year ends without any confirmed nuclear test.",
+            "yes_scenario": "A sudden regional crisis or perceived provocation (e.g., a major US/South Korea military exercise, an intelligence failure, or a leadership challenge) triggers Kim Jong-un to authorize a test at Punggye-ri to demonstrate resolve, deter adversaries, or extract concessions. The test is conducted and confirmed by credible international sources before January 1, 2026.",
+            "final_reasoning": "Although technical readiness is confirmed and North Korea has issued strong warnings, the pattern of restraint since 2017, the current strategic focus on consolidating nuclear status, and the very short time remaining in 2025 all weigh heavily toward the status quo outcome (no test). Recent signals suggest a preference for rhetorical escalation and conventional modernization, not immediate nuclear brinkmanship. Base rates, scenario analysis, and the lack of acute crisis tip the balance toward a No. However, the elevated regional tensions, technical readiness, and unpredictability of Kim's decision calculus prevent pushing the probability too low. A sudden triggering event cannot be ruled out, but absent new intelligence, the probability of a test in the final 40 days of 2025 is low, though not negligible.",
+            "final_probability": 12
+        },
+        "NuclearNonproliferation (ProliferationMotivationsModel)": {
+            "time_to_resolution": "Approximately 40 days until question resolves on January 1, 2026.",
+            "perspective_relevance": "As an expert in Nuclear Nonproliferation with a deep understanding of proliferation motivations (ProliferationMotivationsModel), I bring analytical tools that focus on regime intent, technical capability, domestic and international incentives, and the signaling value of nuclear testing. This perspective is particularly relevant because North Korea\u2019s choices are shaped by a complex mix of internal regime dynamics, external security pressures, technological needs, and the desire for international recognition or deterrence.",
+            "status_quo": "North Korea has not conducted a nuclear test since 2017, despite periodic threats and observable preparations. The regime maintains a latent capacity to test but has not crossed the threshold for over eight years. The status quo is 'no test.'",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Technical readiness and tunnel preparation",
+                    "effect": "Increases probability. Multiple intelligence sources confirm the Punggye-ri No. 3 tunnel is ready for use on short notice, indicating North Korea could test whenever it chooses."
+                },
+                {
+                    "factor": "Political and signaling motivations (domestic and international)",
+                    "effect": "Increases probability. Recent enshrinement of nuclear status in the constitution, maximalist rhetoric responding to US-ROK submarine deals, and heightened regional arms race create incentives for a demonstration, especially if Kim Jong-un feels the need to reassert deterrence or international stature."
+                },
+                {
+                    "factor": "Russian and Chinese support",
+                    "effect": "Increases probability. Enhanced military ties with Russia and China reduce North Korea\u2019s perceived isolation and risk of backlash, emboldening riskier actions including testing."
+                },
+                {
+                    "factor": "Arms race dynamics and US/ROK actions",
+                    "effect": "Mixed effect. US and South Korean moves (nuclear submarine deals, bomber exercises) provide justification for Pyongyang to escalate, but may also deter an overt test if regime fears overwhelming retaliation or international costs."
+                },
+                {
+                    "factor": "Recent pattern: missile over test",
+                    "effect": "Decreases probability. Kim\u2019s 2025 pivot from frequent missile/nuclear tests to consolidating and expanding the arsenal, with fewer public launches, suggests a preference for gradual capability enhancement rather than provocative detonations."
+                },
+                {
+                    "factor": "Base rate and historical pattern",
+                    "effect": "Neutral to slightly increases probability. With 6 tests in 225 months, the monthly base rate is about 2.7%. But the last test was in 2017; since then, the regime has focused on missile improvements and satellite launches rather than nuclear device detonations."
+                },
+                {
+                    "factor": "International cost-benefit calculus",
+                    "effect": "Decreases probability. A test would generate global condemnation, potential new sanctions, and jeopardize support from China and Russia at a time when North Korea is benefiting from increased economic and military ties."
+                },
+                {
+                    "factor": "Time window constraints",
+                    "effect": "Decreases probability. Less than six weeks remain before the resolution date, meaning Kim must act soon or not at all. Historically, North Korea often tests in the spring or fall, not the deep winter, though this is not a strict rule."
+                }
+            ],
+            "no_scenario": "Kim Jong-un calculates that the strategic benefits of a nuclear test do not outweigh the costs. He continues to build up the arsenal, conduct missile and satellite launches, and leverage heightened tensions to extract concessions and deepen ties with Russia and China. The regime uses threats and preparations as bargaining chips but refrains from an actual detonation, maintaining the status quo of no nuclear tests since 2017.",
+            "yes_scenario": "North Korea, in response to perceived provocations (e.g., US-ROK nuclear submarine deal, intensified US bomber exercises, or upcoming political anniversaries), conducts a nuclear test to signal resolve to adversaries, consolidate the regime domestically, and demonstrate technological progress to both internal and external audiences. Russian and Chinese backing gives Kim confidence that the backlash can be weathered.",
+            "final_reasoning": "North Korea is technically and logistically ready to test at short notice, and several factors (domestic signaling, international arms race dynamics, and increased support from Russia and China) make a test plausible. However, recent patterns suggest Kim is prioritizing arsenal expansion and technological improvement over provocative detonations. The regime is benefiting from Russia/China support and may not wish to jeopardize this with a test that could trigger new sanctions or undermine these relationships. The window for action is now very short\u2014about 40 days\u2014making the probability lower simply due to timing. While the base rate and heightened tensions argue for a non-trivial chance, the overall weight of evidence suggests that a test is less likely than not before January 1, 2026, but still quite possible\u2014especially if an unforeseen crisis or political calculation tips the balance.",
+            "final_probability": 27
+        },
+        "NuclearNonproliferation (IAEASafeguardsAssessment)": {
+            "time_to_resolution": "Approximately 40 days (from November 21, 2025 to January 1, 2026)",
+            "perspective_relevance": "As an expert in Nuclear Nonproliferation (IAEA Safeguards Assessment), my expertise lies in evaluating nuclear test site readiness, fissile material production, and political/technical signals for imminent nuclear tests. I focus on evidence-based triggers, technical and logistical requirements, and base rates of nuclear test recurrence, while also considering international nonproliferation norms, intelligence assessments, and regime intent.",
+            "status_quo": "North Korea has not conducted a nuclear test since September 2017, despite repeated international provocations and technical preparations. The current status quo is no new test, even after periods of heightened tension or technical readiness.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Technical Readiness of Test Site",
+                    "effect": "INCREASES probability. Multiple intelligence sources (South Korea's NIS, DIA) confirm that the Punggye-ri test site (Tunnel 3) is fully prepared and could be used for a nuclear test on short notice, pending a political decision by Kim Jong-un."
+                },
+                {
+                    "factor": "Political-Military Incentives and Timing",
+                    "effect": "INCREASES probability. Regional nuclear tensions are escalating, with North Korea reacting strongly to the US-South Korea nuclear submarine deal and the perceived 'nuclear domino' effect. However, Kim's recent behavior (curbing missile tests, consolidating arsenal) suggests a pivot to consolidation rather than outright provocation."
+                },
+                {
+                    "factor": "Base Rate of Testing",
+                    "effect": "DECREASES probability. The historical base rate (2.7%/month) suggests that, over 5 months, the aggregate likelihood is about 13%, but there have been no tests in over 8 years, indicating a low frequency and high threshold for crossing the nuclear test line."
+                },
+                {
+                    "factor": "International and Domestic Constraints",
+                    "effect": "DECREASES probability. While Russia and China are more supportive of North Korea, a nuclear test could still provoke additional sanctions, further international isolation, and risk strategic overreach. North Korea may see more value in maintaining 'test readiness' as leverage than in actually testing."
+                },
+                {
+                    "factor": "Recent Intelligence and Activity Patterns",
+                    "effect": "SLIGHTLY INCREASES probability. Over the past month, there has been sustained rhetoric, missile engine tests, and satellite launches, but no direct indication of imminent nuclear detonation preparations (such as heavy vehicle movement or tunneling activities at Punggye-ri reported in open sources)."
+                },
+                {
+                    "factor": "Strategic Cooperation with Russia/China",
+                    "effect": "NEUTRAL. While Russian and Chinese support embolden North Korea, both have an interest in preventing destabilization before key global events (such as the 2026 US presidential transition and possible arms control talks with the US)."
+                }
+            ],
+            "no_scenario": "Kim Jong-un continues to use nuclear test readiness and missile launches as strategic bargaining chips, leveraging tensions to extract concessions from Russia, China, and the West without crossing the nuclear test threshold. The regime focuses on missile/satellite launches, military modernization, and political messaging, but refrains from a nuclear detonation to avoid triggering extreme sanctions or regional responses.",
+            "yes_scenario": "A sudden deterioration in regional security\u2014such as a major US/South Korea military exercise, a high-profile defection, or perceived existential threat\u2014causes Kim Jong-un to order a nuclear test as a show of strength or regime legitimacy. Alternatively, technical or political imperatives (such as validating a new warhead design or demonstrating independence from Russia/China) override restraint, and a test is conducted at Punggye-ri before January 1, 2026.",
+            "final_reasoning": "The technical capability and site readiness for a nuclear test are both present, and North Korea has strong incentives to reinforce its nuclear status amid rising regional tensions. However, the base rate of testing is low, and recent behavior (a pivot to consolidation, not provocation) suggests Kim may prefer to preserve strategic ambiguity and leverage over risking a test. Intelligence signals indicate readiness but no imminent preparations. With only about 40 days left, the window for action is closing fast. Unless a dramatic trigger occurs, the most likely outcome is continued posturing without an actual nuclear detonation before the end of 2025.",
+            "final_probability": 18
+        },
+        "International Relations (DeterrenceTheory)": {
+            "time_to_resolution": "Approximately 40 days (from 2025-11-21 to 2026-01-01)",
+            "perspective_relevance": "As an expert in International Relations and Deterrence Theory, my analysis centers on the incentives, signaling behavior, and risk calculations of nuclear-armed states, particularly North Korea. I focus on how North Korea uses nuclear tests to shape the behavior of adversaries, reinforce regime security, and alter the strategic balance. I also consider the role of external actors (US, China, Russia) and alliance dynamics, and place heavy weight on the status quo and base rates while factoring in unique escalation pathways and the costs/benefits of further nuclear testing.",
+            "status_quo": "North Korea has not conducted a nuclear test since 2017 despite repeated threats and periods of tension. The regime has instead focused on missile tests, warhead miniaturization, and political signaling, using nuclear test readiness as leverage but stopping short of actual detonation.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rate of North Korean Nuclear Tests",
+                    "effect": "The base rate (6 tests in 225 months = 2.7% per month) suggests that nuclear tests are rare events; the status quo is that tests do not occur frequently. This pushes the probability downward."
+                },
+                {
+                    "factor": "Technical and Political Readiness",
+                    "effect": "Multiple intelligence sources (South Korean DIA, NIS, US IC) agree that North Korea can conduct a test on short notice and has restored facilities, suggesting increased readiness. This pushes the probability upward."
+                },
+                {
+                    "factor": "Strategic Incentives and Deterrence Signaling",
+                    "effect": "North Korea has incentives to demonstrate capability, especially as the US, South Korea, and regional rivals modernize nuclear forces and escalate with submarine deals. However, NK has shifted toward signaling through missile tests, constitutional changes, and rhetoric rather than actual nuclear detonations. This moderates upward pressure."
+                },
+                {
+                    "factor": "External Support and Alliance Dynamics (Russia/China)",
+                    "effect": "Growing Russian and Chinese support provides cover and technical assistance, lowering the risks of international backlash. Yet, neither Beijing nor Moscow necessarily want a destabilizing nuclear test. This is ambiguous, but slightly increases the probability."
+                },
+                {
+                    "factor": "Domestic and Regime Stability Considerations",
+                    "effect": "Kim Jong-un appears focused on consolidating power and demonstrating technological sophistication (e.g., satellites, hypersonics) without inviting new sanctions or diplomatic isolation that a test would provoke. This reduces the likelihood."
+                },
+                {
+                    "factor": "Escalatory Triggers and Regional Tensions",
+                    "effect": "The submarine deal and regional arms race rhetoric may provide a pretext for a test, especially if Kim seeks to force diplomatic engagement or demonstrate resolve. This slightly increases the probability, but no acute crisis or deadline is evident."
+                },
+                {
+                    "factor": "Recent Testing Patterns and Focus Shift",
+                    "effect": "North Korea has shifted from frequent testing to quality-driven upgrades, aligning with the final phase of its five-year plan, and has not used the resumption of testing as a primary tool in 2025, despite new capabilities. This pushes the probability downward."
+                }
+            ],
+            "no_scenario": "Kim Jong-un continues to leverage nuclear readiness and missile advances for deterrence and political signaling, but abstains from an actual nuclear test to avoid crossing red lines with China/Russia, inciting new rounds of sanctions, or risking diplomatic isolation. The regime focuses instead on missile launches, satellite deployments, and rhetorical escalation in response to the US-ROK submarine deal.",
+            "yes_scenario": "A triggering event\u2014such as a perceived existential threat, a major US/South Korea show of force, or a need to assert technological progress (e.g., new warhead design, submarine-launched nuclear missile)\u2014compels Kim to authorize a test at Punggye-ri. Russian and Chinese diplomatic cover, plus a sense of impunity amid global nuclear turbulence, reduce the perceived cost of a test.",
+            "final_reasoning": "The base rate and status quo weigh heavily against a test: North Korea has not tested since 2017, and the regime has shown a pattern of maximizing coercive leverage through readiness and missile launches rather than detonations. Intelligence assessments agree the technical conditions are set for a test, but do not indicate imminent intent. Kim has strategic incentives to avoid the diplomatic and economic costs of testing, especially as he consolidates internal power and leverages improved ties with Russia and China. The regional environment is tense, with new US-ROK submarine deals and nuclear signaling, but there is no acute crisis, and North Korea\u2019s pattern in 2025 has been cautious and quality-focused, not escalatory. While the probability is higher than the long-term base rate\u2014given the technical readiness, new alliances, and rhetoric\u2014it is still more likely than not that North Korea refrains from testing in the short window remaining in 2025.",
+            "final_probability": 23
+        },
+        "International Relations (SecurityDilemma)": {
+            "time_to_resolution": "40 days (from 2025-11-21 to 2026-01-01)",
+            "perspective_relevance": "As an International Relations (Security Dilemma) expert, I focus on how shifts in military technology, arms races, alliance dynamics, and perceptions of threat and vulnerability drive state behavior\u2014especially in nuclear-armed, high-tension environments. North Korea's test calculus is shaped by regional security dilemmas, signaling, and the perceived credibility of deterrence and alliance guarantees. I also weigh base rates and the historical stickiness of the nuclear test status quo.",
+            "status_quo": "North Korea has not conducted a nuclear test since September 2017. The regime has periodically threatened or signaled readiness for a seventh test, but has refrained for over eight years, indicating a high threshold for crossing this line.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base rate of North Korean nuclear tests",
+                    "effect": "Historic frequency is low: 6 tests over 19 years, with long gaps (2017-2025). Base rate for this 5-month window is ~13% (2.7% monthly). This suggests a relatively low absolute probability absent strong triggers."
+                },
+                {
+                    "factor": "Technical readiness and political signaling",
+                    "effect": "Multiple recent intelligence assessments (South Korean DIA, NIS, US DNI) state the Punggye-ri site is ready for immediate testing, and North Korea has constitutionally enshrined the nuclear program. This strongly increases the probability, as technical/political obstacles are minimal."
+                },
+                {
+                    "factor": "Security dilemma escalation: South Korea-US nuclear submarine deal and US nuclear signaling",
+                    "effect": "North Korea has issued unusually sharp rhetoric about the 'nuclear domino effect' and 'countermeasures,' and the US has conducted conspicuous nuclear exercises. Pyongyang may feel compelled to reestablish deterrence and credibility in the face of allied nuclear advancements, raising the probability."
+                },
+                {
+                    "factor": "Alliance and external support (Russia/China)",
+                    "effect": "Russia's support and technological assistance embolden Pyongyang, lowering the perceived cost of provocation. However, both Russia and China may prefer North Korea not to destabilize the region with a test that could trigger a US or allied response, exerting a moderating influence."
+                },
+                {
+                    "factor": "Strategic restraint and regime priorities",
+                    "effect": "Kim Jong-un has shifted toward qualitative improvement and consolidation rather than high-profile provocations, as shown by the reduction in missile tests despite technological progress. North Korea appears focused on normalizing its nuclear status and extracting de facto acceptance, which a test could undermine by provoking harsh sanctions or military responses. This restrains the probability."
+                },
+                {
+                    "factor": "Short time window",
+                    "effect": "With only 40 days left, even if a test is technically and politically feasible, the short window makes it less likely compared to a multi-year horizon."
+                }
+            ],
+            "no_scenario": "Kim Jong-un calculates that the costs of a nuclear test outweigh the benefits: he can achieve strategic aims (deterrence, regime legitimacy, alliance with Russia/China) without risking new sanctions or regional destabilization. Russian and Chinese pressure, combined with a focus on developing and deploying warheads/missiles rather than validating designs, persuades him to hold back. North Korea continues missile activity and nuclear rhetoric, but refrains from detonating a device.",
+            "yes_scenario": "A perceived escalation\u2014such as further advancement of the South Korea-US nuclear submarine program, a major US or allied exercise, or domestic political needs\u2014pushes Kim to reassert North Korea's nuclear status and deterrent credibility. With the Punggye-ri site ready, and international attention focused elsewhere (e.g., US elections, Taiwan Strait), North Korea conducts a test as an act of signaling and leverage.",
+            "final_reasoning": "The base rate for a North Korean nuclear test in any five-month window is low (~13%), but this period is unusually tense: technical and political preparations are in place, and rhetoric is at a high pitch. Security dilemma dynamics (South Korea-US nuclear submarine deal, US nuclear posturing, Russian support) increase the risk, as does Pyongyang's desire to demonstrate credibility amidst a rapidly evolving regional arms race. However, since the last test in 2017, Kim has shown strategic restraint, preferring to consolidate the nuclear arsenal and avoid the severe costs of a test. Russian and Chinese interests in regional stability likely add further restraint. With only 40 days left, the window is closing fast. While a surprise is always possible, the balance of incentives still slightly favors restraint. I assess the probability of a North Korean nuclear test before 2026 at 27%.",
+            "final_probability": 27
+        },
+        "International Relations (RealismSchool)": {
+            "time_to_resolution": "Approximately 6 weeks (question resolves January 1, 2026; today is November 21, 2025)",
+            "perspective_relevance": "As a Realist in International Relations, I focus on state behavior as driven by survival, security, and power in an anarchic international system. The North Korean regime prioritizes regime survival, coercive leverage, and international status, calibrating its nuclear actions as tools of deterrence and bargaining. Realist logic also emphasizes the persistent value of the status quo, the slow change of structural incentives, and the primacy of material capabilities and alliances. This lens is critical for forecasting North Korea\u2019s nuclear testing decisions in response to shifting regional and global threats.",
+            "status_quo": "North Korea has not conducted a nuclear test since 2017. Despite frequent missile launches and rhetorical threats, the regime has stopped short of breaking its nuclear test moratorium for over eight years.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Technical and Operational Readiness",
+                    "effect": "Increases probability. Multiple intelligence reports (South Korean DIA, NIS) state the Punggye-ri site is ready and a test could occur on short notice, indicating technical barriers are low."
+                },
+                {
+                    "factor": "Strategic Utility and Timing",
+                    "effect": "Decreases probability. From a Realist perspective, a nuclear test is a high-leverage move best used when it maximizes bargaining power, but also risks provoking overwhelming international backlash. The regional situation (increased US/ROK military cooperation, new submarine deal, US displays of nuclear readiness) is tense, but may incentivize Kim to preserve escalation for future coercive use, not to 'waste' the provocation now."
+                },
+                {
+                    "factor": "Alliance Dynamics (Russia and China)",
+                    "effect": "Slightly increases probability. Enhanced ties with Russia (arms transfers, tech support, diplomatic cover) provide some insulation from sanctions and embolden North Korea. However, China, despite improved economic ties, prefers regional stability and may pressure Pyongyang to avoid destabilizing actions that could justify US military buildup in the region."
+                },
+                {
+                    "factor": "Domestic Legitimacy and Regime Security",
+                    "effect": "Neutral or marginally increases probability. North Korea has already enshrined nuclear status in its constitution and showcased advances in other military domains. A test could reinforce regime prestige, but Kim\u2019s recent emphasis on production and modernization (rather than testing) suggests a degree of domestic confidence."
+                },
+                {
+                    "factor": "Base Rates and Historical Patterns",
+                    "effect": "Decreases probability. The base rate since 2017 is zero for nuclear tests despite multiple international crises. North Korea tends to cluster tests during periods of acute negotiation breakdowns, leadership transitions, or as responses to direct threats. There is no imminent US presidential transition or sudden collapse of talks this month."
+                },
+                {
+                    "factor": "External Deterrence and Retaliation Risks",
+                    "effect": "Decreases probability. A nuclear test would likely trigger stronger trilateral US-ROK-Japan cooperation, accelerate missile defense deployments, and possibly lead to new UN sanctions (even if diluted by Russia/China). The marginal deterrent value of another test is low compared to the escalatory risk."
+                },
+                {
+                    "factor": "Opportunity Costs and Signaling Value",
+                    "effect": "Decreases probability. With the world\u2019s attention on other global nuclear tensions (US-Russia-China arms race, Ukraine, Taiwan), North Korea may achieve greater strategic ambiguity and leverage by holding the threat of a test in reserve, rather than expending it when others are distracted."
+                }
+            ],
+            "no_scenario": "Despite being technically ready, Kim Jong-un judges that the status quo maximizes regime security and leverage. North Korea continues weapons production, missile launches, and satellite development, while extracting concessions and attention from Russia and China. A nuclear test is withheld to avoid giving the US, South Korea, and Japan justification for further military buildup and sanctions, especially with the US preoccupied by other nuclear crises. North Korea maintains ambiguity, enhancing the value of its latent threat.",
+            "yes_scenario": "Rising regional tensions or a perceived direct threat\u2014such as an imminent US strategic deployment, additional US/South Korea nuclear exercises, or a major diplomatic snub\u2014lead Kim to believe that a nuclear test is necessary to reassert deterrence and extract new concessions. Alternatively, domestic political needs or a sense of impunity from strengthened ties with Russia/China tip the cost-benefit analysis in favor of a test, which is rapidly executed at the prepared Punggye-ri tunnel.",
+            "final_reasoning": "While North Korea is technically and logistically ready to conduct a nuclear test at short notice, the Realist perspective, taking into account the regime\u2019s track record, incentives for strategic ambiguity, and the absence of an immediate crisis or clear provocation window, suggests that the threshold for such a costly escalation remains high. The current international environment\u2014marked by US nuclear posturing, rising US-ROK cooperation, and a global nuclear arms race\u2014both raises the stakes and makes Kim wary of triggering a response that could undermine his external support and internal stability. The base rate is low (0 tests in 8 years), and Realist logic suggests that states favor incremental gains and preservation of leverage over irreversible escalations unless the strategic calculus shifts dramatically. Therefore, while the probability is higher than a random year due to technical readiness and regional tension, it remains below 20% given the short time window and stabilizing incentives.",
+            "final_probability": 18
+        },
+        "Political Science (AuthoritarianRegimeSurvival)": {
+            "time_to_resolution": "Approximately 40 days (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Political Science specializing in Authoritarian Regime Survival, I focus on how regime security, domestic legitimacy, and international signaling shape North Korea's nuclear decision-making. The regime\u2019s survival calculus prioritizes actions that maximize deterrence, maintain elite cohesion, and leverage international crises for bargaining power.",
+            "status_quo": "North Korea has not conducted a nuclear test since 2017, despite frequent speculation and observable preparations. The default outcome, if current trends persist and no major new incentives or shocks arise, is that North Korea will refrain from nuclear testing through the end of 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rate of North Korean Nuclear Tests",
+                    "effect": "Decreases probability \u2014 With 6 tests over 19 years (~2.7% chance per month), the historical tempo is low. North Korea has often signaled readiness without following through, and the 8-year gap since 2017 suggests inertia against testing."
+                },
+                {
+                    "factor": "Political Utility for Regime Survival",
+                    "effect": "Mixed/Decreases probability \u2014 While a test can demonstrate resolve and advance deterrence, Kim Jong-un\u2019s recent focus is on mass production of warheads, qualitative improvement, and securing de facto nuclear state status without provoking maximal international backlash. The regime is consolidating gains from Russia/China ties and may not want to risk destabilizing this by provoking a major crisis."
+                },
+                {
+                    "factor": "Technical and Military Readiness",
+                    "effect": "Increases probability \u2014 Multiple intelligence sources (South Korea\u2019s DIA, NIS, and US DNI) report that the Punggye-ri site is ready for a test and that preparations can be completed on short notice if Kim orders. North Korea has invested in infrastructure and has the capability to conduct a test almost immediately."
+                },
+                {
+                    "factor": "Regional Security Environment / External Provocations",
+                    "effect": "Slightly increases probability \u2014 Heightened US-ROK cooperation (nuclear sub deal), US nuclear exercises, and expanding trilateral deterrence with Japan present the kind of external developments that North Korea has historically used as justification for escalation. However, Kim\u2019s recent restraint in testing suggests a preference to avoid direct confrontation unless a specific red line is crossed."
+                },
+                {
+                    "factor": "Russia and China Support",
+                    "effect": "Decreases probability \u2014 North Korea is currently benefiting from increased Russian and Chinese support, both economically and militarily. Conducting a nuclear test risks embarrassing its patrons, potentially jeopardizing sanctions relief and technical cooperation."
+                },
+                {
+                    "factor": "Domestic Regime Priorities / Elite Stability",
+                    "effect": "Decreases probability \u2014 Kim is focused on elite loyalty ahead of the 9th Party Congress and consolidating regime stability. A nuclear test could trigger severe sanctions or destabilize internal economic conditions if it provokes a harsh international response."
+                },
+                {
+                    "factor": "International Diplomatic Signaling",
+                    "effect": "Mixed \u2014 North Korea may use the threat of a test to gain leverage in future negotiations. Actually testing, however, is a costly signal that is difficult to reverse and could foreclose diplomatic options."
+                }
+            ],
+            "no_scenario": "Kim Jong-un calculates that the current security environment, with increased Russian and Chinese support and without an immediate existential threat, does not necessitate a provocative nuclear test. Instead, North Korea continues to signal capability through missile launches, satellite activity, and operational readiness, but refrains from a full nuclear detonation before 2026 to avoid triggering new sanctions and diplomatic isolation.",
+            "yes_scenario": "An external event\u2014such as a perceived existential threat from US-ROK military exercises, a major provocation (like a US nuclear test or preemptive strike rhetoric), or a sudden collapse in Russia/China support\u2014leads Kim Jong-un to believe only a nuclear test can re-establish deterrence or rally domestic support. Alternatively, the regime assesses that the strategic benefits (e.g., technical validation of a new warhead or delivery system, or forcing the world to accept its nuclear status) outweigh the likely costs.",
+            "final_reasoning": "While North Korea is technically and militarily prepared to conduct a nuclear test at short notice, and the regional security climate is tense, the dominant signals from the regime suggest restraint. The historical base rate is low, and the regime\u2019s current incentives favor maximizing the benefits of Russian and Chinese support, consolidating elite control, and leveraging nuclear capabilities mainly through signaling and conventional missile launches. Recent behavior (reduced missile testing, focus on qualitative improvements, enshrining nuclear status) points to a strategy of normalization rather than escalation. The presence of external provocations and technical readiness does keep the probability above zero, but only a major unforeseen shock or miscalculation is likely to trigger a test in the next 40 days. Therefore, the status quo outcome (no test) is most probable, with risk-weighted adjustments for the factors above.",
+            "final_probability": 20
+        },
+        "Political Science (RationalActorModel)": {
+            "time_to_resolution": "Just over 1 month (until December 31, 2025)",
+            "perspective_relevance": "As a political scientist using the Rational Actor Model, my analysis focuses on North Korea\u2019s leadership acting in pursuit of clear regime goals: regime survival, leverage in international negotiations, and maximizing security against perceived threats. The model assumes Kim Jong-un and his inner circle are strategic, weighing costs and benefits of nuclear tests in the context of international pressures, alliance dynamics, and domestic legitimacy.",
+            "status_quo": "North Korea has not conducted a nuclear test since 2017, despite frequent threats and missile launches. The regime has continued to develop nuclear and missile capabilities, but has refrained from testing a nuclear device for eight years, possibly due to a perceived sufficiency of deterrence, fear of triggering harsh international backlash, or satisfaction with current diplomatic/economic status.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Technical Readiness and Capability",
+                    "effect": "Increases probability. Multiple intelligence reports indicate North Korea could conduct a nuclear test on short notice; the Punggye-ri site is operational, and the infrastructure for warhead production is in place. The physical capability is not a constraint."
+                },
+                {
+                    "factor": "Strategic Utility/Rational Calculus",
+                    "effect": "Decreases probability. The regime\u2019s rational calculation may judge that the marginal benefit of another test (i.e., technological data, global signaling) is outweighed by the risk of alienating China, inviting harsher sanctions, and provoking a regional crisis. Kim has pivoted to qualitative improvements and mass production, rather than headline-grabbing detonations."
+                },
+                {
+                    "factor": "International Context and Major Power Dynamics",
+                    "effect": "Mixed. Rising US-China-Russia tensions and the deepening Russia-North Korea partnership may embolden North Korea, increasing risk-taking. However, China has historically opposed destabilizing actions that could undermine its regional interests or trigger US/South Korean military responses. If China signals disapproval, Kim may hold off. Conversely, if Russia encourages a test for its own bargaining leverage vs. the US, the risk increases."
+                },
+                {
+                    "factor": "Recent North Korean Signaling",
+                    "effect": "Slightly increases probability. North Korea has repeatedly threatened 'realistic countermeasures' in response to US-South Korea nuclear submarine deals and perceived encirclement. The regime has publicly prepared the ground for escalatory moves, possibly including a nuclear test."
+                },
+                {
+                    "factor": "Timing, Domestic Legitimacy, and Regime Stability",
+                    "effect": "Slightly increases probability. Approaching the end of the year, there could be incentives for Kim to demonstrate strength for domestic or international audiences, especially ahead of Party Congresses or milestones. However, there is no immediate evidence of regime instability that would force such a risky step."
+                },
+                {
+                    "factor": "Base Rate (Historical Frequency)",
+                    "effect": "Decreases probability. The base rate for North Korean nuclear tests is approximately 2.7% per month since 2006, but the pace has slowed dramatically after 2017. In recent years, North Korea has focused on missile and satellite launches, not nuclear detonations."
+                }
+            ],
+            "no_scenario": "Kim Jong-un and his advisers, weighing the risks of harsh new sanctions, Chinese displeasure, and the limited technical gains from another test, decide to refrain from a nuclear detonation. North Korea continues missile and satellite tests, issues threatening statements, and focuses on 'countermeasures' that stop short of a nuclear test. International attention remains on missile developments and Russia-North Korea cooperation, but the nuclear threshold is not crossed before 2026.",
+            "yes_scenario": "Amid escalating regional tensions\u2014possibly triggered by a US-South Korea nuclear submarine deployment, or a perceived window of opportunity created by great-power distraction\u2014Kim orders a nuclear test to signal resolve and demand international acceptance of North Korea as a nuclear state. Russian support and Chinese reluctance to act decisively embolden Pyongyang. The regime detonates a device at Punggye-ri, justifying it as a response to 'provocations' and a sovereign right.",
+            "final_reasoning": "While North Korea is technically and operationally ready to conduct a nuclear test on short notice, the Rational Actor Model suggests the regime will only proceed if the perceived benefits (technological, deterrent, or diplomatic) clearly outweigh the risks (international backlash, further isolation, potential loss of Chinese support). The current context features increased tensions\u2014especially with the US nuclear posture, South Korea\u2019s submarine deal, and Russia-North Korea cooperation\u2014but also a pattern of Kim using missile/satellite launches for signaling rather than nuclear detonations. The regime\u2019s recent shift toward qualitative weapons improvements and mass production, and the absence of clear domestic or international triggers demanding a test, reduce the likelihood. However, the window is short, and a sudden crisis or perceived 'opportunity' could still prompt a test, especially if Kim calculates that international focus is elsewhere. Factoring in base rates, recent behavior, and the strategic calculus, I assess the probability as somewhat higher than pure base rate, but still below even odds.",
+            "final_probability": 33
+        },
+        "EastAsianStudies (NorthKoreaStrategicCulture)": {
+            "time_to_resolution": "Approximately 40 days (from November 21, 2025, to December 31, 2025)",
+            "perspective_relevance": "As an East Asian Studies (North Korea Strategic Culture) expert, I bring specialized insight into the regime's decision-making processes, incentive structures, and strategic signaling. North Korea\u2019s approach to nuclear testing is shaped by its unique security doctrine, historical patterns of brinkmanship, and the internal political calculus of Kim Jong-un\u2019s regime. My perspective enables a nuanced assessment that goes beyond technical readiness to include regime psychology, elite politics, and the interplay of regional and international dynamics.",
+            "status_quo": "North Korea has not conducted a nuclear test since September 2017. Despite repeated warnings and visible test site activity, no test has occurred for over eight years. The regime has used the latent threat of a test for leverage, but has refrained from actual detonation.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Technical Readiness and Site Preparedness",
+                    "effect": "Increases probability. Multiple South Korean and U.S. intelligence sources confirm Punggye-ri No. 3 tunnel is ready for use; North Korea could test on short notice if Kim decides."
+                },
+                {
+                    "factor": "Strategic Culture and Signaling",
+                    "effect": "Decreases probability. North Korea has historically used the threat of nuclear testing as leverage, only crossing the line when there is a perceived benefit or need to escalate. Kim\u2019s regime currently appears focused on consolidating gains, not risk-maximizing escalation."
+                },
+                {
+                    "factor": "Regional and Global Security Environment",
+                    "effect": "Mixed. U.S.-ROK nuclear submarine cooperation, growing U.S.-China/Russia competition, and North Korea\u2019s deepening alignment with Russia increase pressure. However, heightened tensions may counsel caution to avoid triggering overwhelming backlash or loss of Russian/Chinese diplomatic cover."
+                },
+                {
+                    "factor": "Internal Political Incentives",
+                    "effect": "Decreases probability. Kim Jong-un has largely consolidated internal power and is focused on regime stability ahead of the 9th Party Congress. There is no major crisis or succession struggle demanding a high-stakes demonstration."
+                },
+                {
+                    "factor": "Leverage Maximization",
+                    "effect": "Decreases probability. Conducting a nuclear test now would expend a valuable bargaining chip at a time when North Korea is extracting support from Russia and China, and enjoying relative impunity for its weapons exports to Russia."
+                },
+                {
+                    "factor": "Historical Base Rate",
+                    "effect": "Neutral to slightly increases probability. With 6 tests over 225 months, the monthly base rate is about 2.7%. However, testing has clustered around moments of acute crisis or leadership consolidation, which are not currently present."
+                },
+                {
+                    "factor": "Recent Missiles and Nuclear Policy Trends",
+                    "effect": "Decreases probability. Missile testing has slowed in 2025, reflecting confidence and a pivot toward mass production and quality over quantity. Nuclear weapons are now enshrined in the constitution, underscoring the regime's confidence in its deterrent."
+                }
+            ],
+            "no_scenario": "Kim Jong-un continues to use the threat of a test for diplomatic and domestic leverage, but refrains from an actual detonation. North Korea instead focuses on satellite launches, missile development, and conventional force modernization, avoiding the international backlash that a nuclear test would trigger. Russia and China quietly counsel restraint to avoid further sanctions or U.S. military responses. The regime calculates that it can achieve its strategic aims without crossing the nuclear test threshold, especially with ongoing support from Russia and China.",
+            "yes_scenario": "A sudden geopolitical crisis or perceived opportunity (e.g., U.S./ROK military action, leadership challenge, or a breakdown in relations with China/Russia) prompts Kim to authorize a test for maximum shock value and to force a recalibration of international responses. Alternatively, North Korea may seek to demonstrate new warhead miniaturization or tactical nuclear capability in response to U.S./ROK nuclear submarine deployment or perceived encirclement, judging that the diplomatic price is manageable due to Russia/China's protection.",
+            "final_reasoning": "Despite North Korea\u2019s technical readiness and ample fissile material, the regime\u2019s strategic culture, current leverage maximization, and prevailing trends suggest a test before the end of 2025 is unlikely. Kim Jong-un\u2019s government has shifted from frequent demonstrations to consolidating its arsenal, leveraging missile exports to Russia and deepening ties with both Moscow and Beijing. Internal incentives for provocation are muted, and the regime has successfully normalized its nuclear status domestically and among its partners. The international environment is tense but not at a crisis point that would drive a high-risk test. The base rate is a useful anchor, but must be adjusted downward given the absence of acute triggers and the regime\u2019s preference for brinkmanship over irreversible escalation. The most compelling scenario for a test (acute crisis or leadership instability) is not present. Therefore, the probability of a North Korean nuclear test before January 1, 2026, should be assessed as low, albeit not zero given the regime's unpredictability and technical capability.",
+            "final_probability": 10
+        }
+    },
+    "deliberation_probability": [
+        32,
+        12,
+        27,
+        18,
+        23,
+        27,
+        18,
+        20,
+        33,
+        10
+    ],
+    "deliberation_mean_probability": 22.0,
+    "deliberation_sd": 7.831560082980487,
+    "deliberation_probability_result": 22
+}
