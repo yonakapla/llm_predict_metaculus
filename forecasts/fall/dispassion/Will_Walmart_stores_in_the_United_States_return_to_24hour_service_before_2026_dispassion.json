@@ -1,0 +1,572 @@
+{
+    "deliberation_results": {
+        "RetailOperations (StoreOperatingModels)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As a RetailOperations (StoreOperatingModels) expert, I bring insight into the operational, labor, profitability, and strategic factors that drive decisions about store hours for large-format retailers like Walmart. Understanding labor market shifts, consumer shopping patterns, cost structures, and competitive benchmarking allows for a nuanced assessment of Walmart's incentives and barriers to returning to 24/7 service.",
+            "status_quo": "Since the pandemic, Walmart has continued to operate most stores from 6 a.m. to 11 p.m., with no stores returning to 24-hour service. There is no evidence in recent news or industry reporting of plans to revert to 24/7 hours.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Labor Market Conditions",
+                    "effect": "Decreases probability. Labor shortages and rising wages make overnight staffing more expensive and difficult; this is cited as a reason for permanently reduced hours across retail."
+                },
+                {
+                    "factor": "Consumer Shopping Patterns and E-commerce Shift",
+                    "effect": "Decreases probability. Post-pandemic, online sales and curbside pickup have shifted demand away from overnight in-store shopping. Foot traffic during overnight hours is diminished, reducing the business case for 24/7 operation."
+                },
+                {
+                    "factor": "Profitability and Cost Structure",
+                    "effect": "Decreases probability. Overnight hours are less profitable due to higher costs, lower sales per labor hour, and increased shrink/theft risks. Most large retailers have found the 24/7 model is no longer justified."
+                },
+                {
+                    "factor": "Competitive Benchmarking",
+                    "effect": "Decreases probability. No major competitor (Target, Kroger, Costco, etc.) has returned to 24-hour service. The industry trend is toward shorter, not longer, hours."
+                },
+                {
+                    "factor": "Operational Complexity and Security",
+                    "effect": "Decreases probability. Overnight operations raise security costs and complexity with lower customer counts, especially as shrink and organized retail crime have grown."
+                },
+                {
+                    "factor": "Public Sentiment and Employee Relations",
+                    "effect": "Decreases probability. Walmart and others now emphasize employee well-being, closing for holidays and earlier each night; a return to 24/7 would be a reputational risk."
+                },
+                {
+                    "factor": "Time Remaining Until Resolution",
+                    "effect": "Decreases probability. With just over a month left in 2025 and no indication of a policy shift, a rapid reversal and implementation chainwide is highly improbable."
+                }
+            ],
+            "no_scenario": "Walmart continues to operate all US stores on their current schedule (typically 6 a.m. to 11 p.m.), citing labor market realities, profitability, and alignment with industry norms. No credible report emerges of a majority of stores returning to 24/7 service before 2026.",
+            "yes_scenario": "Walmart unexpectedly announces and implements a rapid return to 24-hour service at the majority of its US stores before January 1, 2026, perhaps in response to a major competitive move, sudden improvement in labor markets, or evidence of massive pent-up demand for overnight shopping, with credible reporting confirming the change.",
+            "final_reasoning": "The base rate since the pandemic is that neither Walmart nor its competitors have reverted to 24/7 operation. All recent news and industry analysis confirm the entrenchment of reduced hours, with no signals of a shift. Labor market and cost factors remain unfavorable, and there is no operational or strategic impetus in the current landscape to prompt such a change. With only about a month left in the forecast window, the logistical and public communication hurdles to a chainwide reversal are formidable. As an expert in Store Operating Models, all relevant signals point to stasis. The probability of a majority of Walmart stores returning to 24/7 service before 2026 is extremely low, bordering on impossible barring an unprecedented, immediate catalyst.",
+            "final_probability": 1
+        },
+        "RetailOperations (StoreStaffingPractices)": {
+            "time_to_resolution": "Approximately 1 month until January 1, 2026",
+            "perspective_relevance": "As an expert in Retail Operations, specifically Store Staffing Practices, I bring insight into the operational, staffing, and economic factors that inform decisions around store hour extensions, including the logistical, labor, and profitability considerations impacting large chains like Walmart.",
+            "status_quo": "Walmart stores in the U.S. currently operate from 6 a.m. to 11 p.m. (or similar hours), and have not returned to 24-hour service since the pandemic. There is no credible reporting that a majority of stores are open 24/7 as of late November 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Labor Market Constraints",
+                    "effect": "Decreases probability. The persistent tight labor market, wage pressures, and ongoing challenges recruiting and retaining overnight staff make 24/7 operations much less attractive or feasible than pre-pandemic."
+                },
+                {
+                    "factor": "Shift in Consumer Behavior",
+                    "effect": "Decreases probability. The pandemic accelerated e-commerce adoption and changed consumer habits, reducing late-night in-store demand. Most retailers are seeing less justification for 24-hour operations."
+                },
+                {
+                    "factor": "Industry Trends/Post-pandemic Norms",
+                    "effect": "Decreases probability. Major retailers, not just Walmart, have normalized reduced hours. The cited article on 'silent shrinkage' notes most chains have made these cutbacks permanent without announcing them."
+                },
+                {
+                    "factor": "Profitability and Cost-Benefit Analysis",
+                    "effect": "Decreases probability. Overnight hours historically have lower traffic but higher labor/security costs. With cost pressures and alternative shopping channels (e.g., online), the business case for 24/7 is weaker than ever."
+                },
+                {
+                    "factor": "Holiday and Special Event Schedules",
+                    "effect": "Decreases probability. Recent news confirms Walmart continues to close for major holidays and opens at 6 a.m. even for critical events like Black Friday, suggesting no imminent move to 24/7 operations."
+                },
+                {
+                    "factor": "Public Messaging and Corporate Announcements",
+                    "effect": "Decreases probability. Walmart has explicitly stated multiple times since 2022 that there are no plans to return to 24-hour service, and no news contradicts this as of late 2025."
+                }
+            ],
+            "no_scenario": "Walmart continues current operational practices through the end of 2025, with all or nearly all U.S. stores operating reduced hours (e.g., 6 a.m. to 11 p.m.). There are no credible reports of a majority of stores returning to 24/7 service, and industry trends reinforce this as the new norm.",
+            "yes_scenario": "Walmart rapidly reverses its post-pandemic policies in December 2025, perhaps in response to a dramatic shift in labor availability, a major competitive move, or a sudden strategic pivot, and credible sources report that a majority of stores have resumed 24/7 operations before January 1, 2026.",
+            "final_reasoning": "The base rate for a major retailer restoring 24/7 hours after a pandemic-driven reduction is extremely low, especially given the industry-wide trend toward shorter hours and the lack of any recent movement from Walmart. All recent news confirms Walmart is maintaining reduced hours, even for the busiest shopping days. Labor shortages, cost pressures, and changing consumer behaviors further discourage a return to round-the-clock operations. As of late November 2025, there is no evidence\u2014either in reporting or labor market signals\u2014that Walmart is planning or preparing for a return to 24/7 service within the next month. The only plausible Yes scenario would require a highly unlikely, last-minute about-face, which is not supported by any available data. Therefore, the probability is extremely low.",
+            "final_probability": 1
+        },
+        "CorporateStrategy (StrategicBusinessPlanning)": {
+            "time_to_resolution": "Approximately 5 weeks (resolves by January 1, 2026; forecast date is November 22, 2025)",
+            "perspective_relevance": "As an expert in Corporate Strategy (Strategic Business Planning), I analyze this question through the lenses of operational efficiency, labor management, cost-benefit analysis, and competitive positioning. Large retailers like Walmart make major operational changes, such as resuming 24/7 service, only when the business case is compelling and risks are manageable. This expertise allows me to evaluate not only public statements and media reports but also underlying strategic incentives, industry norms, and structural barriers.",
+            "status_quo": "Since the onset of the COVID-19 pandemic, Walmart has not returned to 24-hour operations; as of late 2025, all news and reporting indicate stores are still operating with reduced hours (typically 6am\u201311pm), with no credible indication of a reversion to 24/7 service. The status quo is 'No', and all evidence to date supports its persistence.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Labor Market Tightness",
+                    "effect": "Decreases probability. Reports and industry trends indicate ongoing labor shortages, especially for overnight shifts, making it costly and operationally difficult to return to 24/7 staffing."
+                },
+                {
+                    "factor": "Consumer Demand Patterns",
+                    "effect": "Decreases probability. Shifting consumer habits (ecommerce, reduced late-night foot traffic) mean diminished incremental sales during overnight hours, reducing the incentive to expand hours."
+                },
+                {
+                    "factor": "Industry Norms/Competitive Pressure",
+                    "effect": "Decreases probability. No major competitor (Target, Costco, major grocers) has resumed 24-hour service; resuming alone would introduce cost without clear gain."
+                },
+                {
+                    "factor": "Operational Costs and Risk Management",
+                    "effect": "Decreases probability. Longer hours increase overhead (utilities, security, shrinkage/loss risk), and recent years have seen retailers emphasize cost control and risk mitigation."
+                },
+                {
+                    "factor": "Corporate Statements and Precedent",
+                    "effect": "Decreases probability. Walmart has repeatedly and recently stated there are no plans to return to 24-hour operation, and recent holiday schedules reinforce status quo."
+                },
+                {
+                    "factor": "Time Remaining Until Resolution",
+                    "effect": "Decreases probability. With only about five weeks remaining before January 1, 2026, the logistical lead time for such a major operational shift makes a change highly unlikely."
+                },
+                {
+                    "factor": "Brand Perception and Employee Relations",
+                    "effect": "Decreases probability. Walmart\u2019s recent communications link limited hours to employee well-being and morale; abrupt reversal would undercut these narratives."
+                }
+            ],
+            "no_scenario": "Walmart continues its current operating hours (e.g., 6am\u201311pm) through year-end 2025, citing employee welfare, labor market realities, and operational efficiency. No credible reports emerge of a majority of stores returning to 24-hour service, and all major media and retail reporting matches the status quo seen during recent holidays and Black Friday.",
+            "yes_scenario": "Walmart, responding to a sudden resolution of labor constraints, a dramatic competitive move by a rival, or a major shift in consumer demand, rapidly implements a company-wide return to 24/7 service and credible media (not just company announcements) confirm that a majority of U.S. stores have resumed 24-hour operations before January 1, 2026.",
+            "final_reasoning": "All recent news, including detailed reporting on Thanksgiving and Black Friday 2025, confirms that Walmart is still operating on reduced hours. There is no mention of plans, pilot programs, or even rumors of a return to 24-hour service. The broader retail sector is trending away from 24/7 hours, with even pharmacy chains reducing overnight service due to labor shortages and risk. Walmart\u2019s own statements, as well as operational practices for six consecutive years, affirm commitment to the current model. With less than five weeks before the resolution deadline, the operational and communications lead time required to reverse this policy at scale is prohibitive. As an expert in corporate strategy, I see no plausible business case\u2014especially given tight labor markets, muted overnight demand, and the absence of competitive pressure\u2014that would prompt a rapid change. The base rate for large retailers reverting to pre-pandemic hours after such a long period is extremely low, and there is no signal of impending change. The probability of a 'Yes' outcome is so low that, in line with the contest\u2019s reward for justified boldness, I assign an extreme probability.",
+            "final_probability": 1
+        },
+        "USLaborMarketAnalysis (WageTrendsUnitedStates)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in US labor market analysis with a focus on wage trends, I bring critical insight into the operational and economic labor constraints facing large retail employers like Walmart. Understanding labor market tightness, wage pressures, and the cost-benefit calculations of extending hours\u2014including overnight shifts\u2014is central to evaluating whether a return to 24-hour operations is plausible in the near term.",
+            "status_quo": "Walmart stores in the US have maintained reduced hours (typically 6 a.m. to 11 p.m.) since the pandemic. No stores have returned to 24/7, and all recent news and holiday schedules confirm that this pattern is ongoing as of late November 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Labor market tightness and wage pressures",
+                    "effect": "Decreases probability; overnight shifts require premium pay and staffing has remained challenging, especially for undesirable hours. The labor market for retail and low-wage workers remains tight with wage growth outpacing pre-pandemic averages."
+                },
+                {
+                    "factor": "Operational profit margins and consumer demand",
+                    "effect": "Decreases probability; overnight hours generate less traffic and profit, and the rise in online shopping further erodes the benefit of in-person overnight hours, making the cost of 24/7 operation harder to justify."
+                },
+                {
+                    "factor": "Permanent post-pandemic shift in retail hours",
+                    "effect": "Decreases probability; industry-wide, many major chains have made reduced hours permanent. This is both a cultural and economic adaptation to the post-pandemic environment. Walmart has not indicated any plans to reverse this even as other pandemic-era measures have been rolled back."
+                },
+                {
+                    "factor": "Recent public statements and news coverage",
+                    "effect": "Decreases probability; all recent holiday and Black Friday coverage (Nov 2025) confirms Walmart continues with reduced hours, and there are no credible reports or hints of a coming shift to 24/7. Instead, the pattern of closing on holidays\u2014even those once open\u2014has only solidified."
+                },
+                {
+                    "factor": "Base rate of major policy reversals in large retail chains",
+                    "effect": "Decreases probability; historically, once a retailer as large as Walmart institutes a nationwide operational change for efficiency or labor reasons, reversals within a few years are rare absent a major exogenous shock or clear economic incentive."
+                }
+            ],
+            "no_scenario": "Walmart continues its current practice: all stores operate 6 a.m. to 11 p.m., with no return to 24/7. No credible reports or announcements indicate a change. This matches all recent news coverage and public statements, and the company continues to cite labor and cost considerations.",
+            "yes_scenario": "In an unlikely scenario, labor market conditions rapidly loosen or Walmart launches a nationwide initiative (perhaps for competitive or branding reasons) to return to 24-hour service. Credible news sources report most stores reverting to 24/7 hours before January 2026, and the company implements the change widely and rapidly.",
+            "final_reasoning": "The overwhelming weight of evidence supports a strong 'No' forecast. As of late November 2025, there is no sign of movement toward 24-hour service at Walmart. The labor market remains tight, wage and cost pressures for overnight (undesirable) shifts persist, and industry norms have shifted toward permanent reduction in hours. All major holiday schedules and news coverage confirm the continuation of reduced store hours, with no credible reporting or even hints of a potential shift. The base rate for a reversal of such a large operational change within six years, absent a compelling economic or competitive driver, is extremely low. Given less than six weeks remain and the logistical challenges inherent in such a shift, the probability is near the floor.",
+            "final_probability": 1
+        },
+        "BusinessAdministration (OperationsManagement)": {
+            "time_to_resolution": "Approximately 5 weeks (until January 1, 2026)",
+            "perspective_relevance": "As an Operations Management expert, I bring insights into large-scale retail operational decision-making, labor dynamics, cost structures, consumer demand patterns, and strategic shifts in service models. This allows for analysis of how and why a company like Walmart determines store hours, especially in the context of labor markets, profitability, and industry trends.",
+            "status_quo": "Most Walmart stores in the US have hours of 6 a.m. to 11 p.m.; none are open 24/7, and there is no credible reporting of a shift back to 24-hour service as of late November 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Labor Market and Staffing Constraints",
+                    "effect": "Decreases probability. Persistent labor shortages and wage pressures make overnight shifts difficult and expensive, reducing the operational advantage of 24-hour service."
+                },
+                {
+                    "factor": "Consumer Demand and Shopping Habits",
+                    "effect": "Decreases probability. Consumer behavior has shifted toward daytime and online shopping, with reduced late-night demand evidenced by permanent shorter hours across big-box retail."
+                },
+                {
+                    "factor": "Industry Trends and Competitor Behavior",
+                    "effect": "Decreases probability. Other large retailers (e.g., Target, Best Buy, Kroger) have also made reduced hours permanent, indicating a systemic industry change rather than a temporary response."
+                },
+                {
+                    "factor": "Operational Costs vs. Marginal Revenue",
+                    "effect": "Decreases probability. The incremental revenue from overnight hours is likely outweighed by staffing, security, and utility costs, particularly given post-pandemic changes."
+                },
+                {
+                    "factor": "Corporate Strategy and Public Statements",
+                    "effect": "Decreases probability. Walmart has repeatedly confirmed closures for holidays and continued reduced hours, with no credible reporting or leaks to suggest an imminent return to 24/7."
+                },
+                {
+                    "factor": "Potential for Reversal Due to Unforeseen Competitive Pressure",
+                    "effect": "Slightly increases probability. If a major competitor were to suddenly move back to 24/7 and gain market share, Walmart might react, but there is no evidence of such a move."
+                }
+            ],
+            "no_scenario": "Walmart continues operating on the current schedule (6 a.m. to 11 p.m.), with no credible reports of a majority of stores returning to 24-hour service before January 1, 2026. Industry-wide, reduced hours remain the norm, and consumer demand and labor constraints support the status quo.",
+            "yes_scenario": "A shift in labor market conditions (e.g., a sudden labor surplus or wage reduction), or a disruptive move by a major competitor towards 24-hour retail, prompts Walmart to rapidly announce and implement a return to 24/7 service at a majority of stores. This would need to be confirmed by credible reporting of the operational change prior to January 1, 2026.",
+            "final_reasoning": "All credible evidence, including news from November 2025, indicates Walmart is not only maintaining shorter hours but doubling down on holiday closures and operational consistency. Industry-wide, the 24/7 retail model is largely abandoned post-COVID due to persistent labor shortages, changed consumer habits, and insufficient overnight demand. No competitor is moving to 24-hour service, and there is no reporting\u2014leaked or public\u2014of Walmart piloting or planning such a shift. While it is technically possible that an unforeseen event could trigger a rapid change, the probability is extremely low given the inertia, cost structure, strategic direction, and absence of signals. The base rate for a major US retailer reverting to 24/7 hours after a multi-year shift away is near zero. Thus, the only plausible Yes scenario would require an exogenous shock not currently in evidence.",
+            "final_probability": 1
+        },
+        "BusinessAdministration (RetailManagement)": {
+            "time_to_resolution": "Approximately 5 weeks (resolves January 1, 2026; today is November 22, 2025)",
+            "perspective_relevance": "As an expert in Business Administration (Retail Management), I bring insight into operational decision-making, labor market constraints, customer demand cycles, cost-benefit analyses for extended hours, and industry-wide trends. Understanding why large retailers like Walmart adjust operational hours and how labor, technology, and consumer behavior shape those decisions is central to retail management and thus to forecasting this question.",
+            "status_quo": "Since the pandemic, no Walmart stores in the U.S. have returned to 24-hour service. The current standard operating hours are 6 a.m. to 11 p.m. Most other major retailers have also not resumed pre-2020 24-hour operations. The status quo is continued closure during overnight hours.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Labor Market Constraints",
+                    "effect": "Decreases probability. There is a well-documented nationwide shortage of retail and overnight workers, with wage pressure and recruitment challenges. This makes overnight staffing more expensive and difficult, especially for low-margin hours."
+                },
+                {
+                    "factor": "Consumer Shopping Behavior Post-Pandemic",
+                    "effect": "Decreases probability. Since 2020, there has been a significant migration to online shopping and curbside pickup, reducing the necessity and profitability of 24-hour in-store operations. Overnight foot traffic is no longer as strong a driver as pre-pandemic."
+                },
+                {
+                    "factor": "Industry Norms and Competitive Pressure",
+                    "effect": "Decreases probability. Nearly all major retail competitors (Target, Costco, Kroger, etc.) have adopted shorter hours, and no peer has moved back to 24/7. This reduces competitive pressure for Walmart to differentiate via overnight access."
+                },
+                {
+                    "factor": "Public Relations and Corporate Social Responsibility",
+                    "effect": "Decreases probability. Closing on major holidays and reducing overnight hours are increasingly positioned as pro-employee, family-friendly moves, which align with current corporate reputation strategies."
+                },
+                {
+                    "factor": "Profitability of Overnight Hours",
+                    "effect": "Decreases probability. Pre-pandemic, overnight hours were marginally profitable at best; with higher labor costs and lower foot traffic, overnight hours are now even less attractive financially."
+                },
+                {
+                    "factor": "Recent News and Announcements",
+                    "effect": "Decreases probability. Recent news articles confirm Walmart's continued adherence to the 6 a.m.\u201311 p.m. schedule, with no indication of policy change. Also, reports show that even for Black Friday and major holidays, Walmart is not extending hours, let alone going 24/7."
+                }
+            ],
+            "no_scenario": "Walmart continues its 6 a.m. to 11 p.m. schedule at all U.S. stores through the end of 2025, citing labor market conditions, profitability concerns, and alignment with industry standards. No credible reports emerge of a majority of stores returning to 24-hour service, and all public communications from Walmart reinforce the current operating model.",
+            "yes_scenario": "Walmart management makes a surprise strategic decision in December 2025 to restore 24-hour service at a majority of U.S. stores, possibly to address a sudden competitive threat, capitalize on an unexpected labor market improvement, or respond to a dramatic shift in consumer demand. Credible reporting confirms that 24/7 operations are actually implemented across most stores before January 1, 2026.",
+            "final_reasoning": "The strong base rate is that once large retailers reduce operating hours, especially post-pandemic, they rarely revert to 24/7 operations. There is no precedent of major U.S. retail chains returning to 24/7 after pandemic-era cuts, and all recent news confirms Walmart's continued adherence to reduced hours. Labor shortages, changing consumer behavior, and the lack of competitive pressure further decrease the likelihood. With less than 5 weeks remaining, there are no credible signals of a planned change. A dramatic strategic reversal would likely have leaked or been announced by now. Thus, the probability of Walmart resuming 24-hour service at a majority of U.S. stores before 2026 is extremely low.",
+            "final_probability": 1
+        },
+        "Economics (MicroeconomicTheory)": {
+            "time_to_resolution": "Approximately 1 year and 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in microeconomic theory, I am attuned to the economic trade-offs, labor market frictions, firm-level incentives, and industry-wide equilibrium dynamics that shape retailers' strategic decisions regarding store hours. I can assess the cost-benefit calculus facing Walmart in terms of labor costs, demand elasticity, competitive positioning, and the broader shift in consumer behavior post-pandemic.",
+            "status_quo": "Since 2020, Walmart has not operated 24-hour stores in the US. The current standard is 6 a.m. to 11 p.m. hours, with no indication from recent news or company statements of any move toward 24/7 service. This arrangement has persisted for several years and is now treated as the new normal.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Labor Market Tightness and Wage Pressures",
+                    "effect": "Decreases probability. Labor shortages, especially for overnight shifts, have raised costs and made staffing 24-hour stores difficult. There is no evidence these frictions have eased substantially."
+                },
+                {
+                    "factor": "Consumer Demand for Overnight Shopping",
+                    "effect": "Decreases probability. Pandemic-era shifts to online shopping and persistent changes in consumer routines have reduced late-night in-store demand, making 24-hour operation less profitable."
+                },
+                {
+                    "factor": "Competitive Benchmarking",
+                    "effect": "Decreases probability. Virtually all major competitors (Target, Costco, Kroger, etc.) have also shortened hours, so there is little competitive pressure for Walmart to expand hours unilaterally."
+                },
+                {
+                    "factor": "Operational Security and Shrinkage",
+                    "effect": "Decreases probability. Overnight hours are correlated with higher theft and security costs, a growing concern in retail."
+                },
+                {
+                    "factor": "Public/Corporate Relations and Worker Well-being",
+                    "effect": "Decreases probability. Walmart has promoted store closures on holidays as a benefit to employees, and the culture has shifted to emphasize worker satisfaction and retention."
+                },
+                {
+                    "factor": "Precedent/Path-Dependence",
+                    "effect": "Decreases probability. The status quo has persisted for six years, and inertia is strong absent a major catalyst."
+                },
+                {
+                    "factor": "Macroeconomic Conditions and Revenue Growth",
+                    "effect": "Neutral to slightly decreasing. While Walmart's financial performance is robust, there is no sign that revenue growth necessitates or is constrained by overnight hours."
+                },
+                {
+                    "factor": "Potential for Technological or Policy Shocks",
+                    "effect": "Slightly increases probability. A major technological breakthrough (e.g., self-checkout automation at scale) or a policy shift could marginally increase feasibility, but there is no sign of imminent deployment before 2026."
+                }
+            ],
+            "no_scenario": "Walmart continues its current operating model, maintaining hours between 6 a.m. and 11 p.m. (or similar), citing labor market conditions, low overnight demand, and alignment with industry norms. No credible reports emerge of a majority (over 2,300+) of US Walmarts returning to 24/7 operation. This is reinforced by ongoing news of holiday closures and no deviation from the established policy.",
+            "yes_scenario": "A significant labor market loosening occurs in 2025, reducing wage pressures and making overnight shifts easier to staff. Simultaneously, a new retail trend emerges (e.g., a competitor or Amazon launches 24-hour in-store pickup at scale, or consumer demand for late-night shopping surges unexpectedly). Walmart pilots 24/7 hours in select markets, finds it profitable, and rapidly rolls out the change to a majority of stores before the end of 2025. Credible news sources confirm this operational shift.",
+            "final_reasoning": "All recent news\u2014including for November 2025\u2014indicates Walmart continues to close on holidays, opens at 6 a.m., and closes by 11 p.m. There is no hint of a policy reversal, and industry-wide, shortened hours have become entrenched. The economics of overnight service remain unfavorable due to labor costs, security, and low marginal revenue from overnight hours. Competitors have not resumed 24/7 service, and Walmart has publicly emphasized employee well-being and operational consistency. The only conceivable catalyst\u2014a drastic and sustained improvement in labor supply, or a technological change making overnight operation much cheaper\u2014shows no sign of arriving in the next year. Thus, the base rate for such a reversal this late in 2025 is extremely low. The status quo is deeply entrenched, and Walmart\u2019s incentives remain aligned against a return to 24/7 operations before 2026.",
+            "final_probability": 2
+        },
+        "Economics (LaborEconomics)": {
+            "time_to_resolution": "Approximately 1 month and 10 days (until January 1, 2026)",
+            "perspective_relevance": "As an expert in labor economics, I bring to bear deep understanding of the factors driving labor supply/demand in the low-wage retail sector. I am attuned to the economic rationale behind operational hour decisions, the structure of labor markets post-pandemic, and the competitive pressures in retail. This expertise is directly relevant to assessing Walmart\u2019s incentives and constraints in returning to 24-hour service.",
+            "status_quo": "The status quo is that Walmart has not returned to 24-hour service since 2020. All evidence and recent news indicate that Walmart stores continue to operate from 6 a.m. to 11 p.m. (sometimes earlier) and have not announced or implemented a return to 24/7 hours. Other major retailers have similarly shortened or maintained reduced hours.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Persistent Labor Market Tightness",
+                    "effect": "Decreases probability. Labor shortages, especially for overnight shifts, persist in the US retail sector. Retailers face difficulty recruiting for undesirable hours, and there is a risk premium for overnight work. Recent news notes that other chains (CVS, Walgreens, grocery stores) are also reducing 24/7 operations."
+                },
+                {
+                    "factor": "Structural Consumer Behavior Shift Post-Pandemic",
+                    "effect": "Decreases probability. The pandemic drove a permanent shift toward online shopping and away from late-night in-store shopping. This reduces the marginal revenue benefit from being open overnight."
+                },
+                {
+                    "factor": "Industry-Wide Trend Toward Shorter Hours",
+                    "effect": "Decreases probability. Major competitors (Target, Best Buy, Kroger, etc.) have all maintained reduced hours, and no large retailer is bucking this trend. The news shows a 'silent shrinkage' of hours across retail, reinforcing the new normal."
+                },
+                {
+                    "factor": "Walmart\u2019s Recent Public Statements and Behavior",
+                    "effect": "Strongly decreases probability. Walmart has repeatedly and recently confirmed closures for holidays and maintained limited hours for Black Friday and other high-traffic days. There is no evidence in news or company statements of plans to revert to 24/7."
+                },
+                {
+                    "factor": "Potential for Short-Term Labor Market Easing",
+                    "effect": "Slightly increases probability. If economic conditions deteriorate and unemployment rises, Walmart could theoretically find it easier to staff overnight shifts. However, there is no indication of a dramatic shift in labor supply or company policy in the very near term."
+                },
+                {
+                    "factor": "Competitive/Strategic Incentives for Differentiation",
+                    "effect": "Marginally increases probability. If Walmart perceived a significant competitive advantage or opportunity (e.g., to capture unmet late-night demand), it could move first. However, this effect is currently more theoretical than practical."
+                }
+            ],
+            "no_scenario": "Walmart maintains current hours (6 a.m.\u201311 p.m.), citing labor costs, safety, and diminishing demand for overnight shopping. The company continues to close on major holidays and coordinates with industry peers. The labor market remains tight for overnight retail workers, and online shopping continues to satisfy much of the off-hour demand.",
+            "yes_scenario": "A significant, rapid shift occurs\u2014such as a sudden surplus of available labor, a sharp reversal of consumer shopping habits, or a strategic corporate pivot (perhaps in response to a dramatic competitive move or economic downturn). Walmart pilots 24/7 hours at a large scale, finds it profitable, and quickly rolls it out to a majority of stores before end of 2025.",
+            "final_reasoning": "All recent evidence\u2014news reports, industry trends, and Walmart\u2019s own public statements\u2014indicates a strong status quo bias against returning to 24-hour service. The labor market remains tight, especially for undesirable overnight shifts, and there is a clear, industry-wide move toward shorter hours driven by both labor economics and changes in consumer demand. Walmart's recent holiday and Black Friday plans confirm continued limited hours, and no credible reports suggest a plan to reverse course imminently. The resolution criterion is strict: the majority of US stores must be 24/7 before Jan 1, 2026, not just an announcement or a handful of pilot programs. With less than 6 weeks left in 2025, such a reversal would require a major, currently unforeseen catalyst and a massive, rapid operational overhaul\u2014highly unlikely given retail inertia and the absence of preparatory signals. Base rates for major retailers returning to 24/7 after COVID are near zero. Factoring in extremely low but nonzero probability of a last-minute pivot due to an economic shock, my final probability is extremely low.",
+            "final_probability": 1
+        },
+        "Sociology (ConsumerBehavior)": {
+            "time_to_resolution": "Approximately 5 weeks until January 1, 2026.",
+            "perspective_relevance": "As a sociologist specializing in consumer behavior, I bring expertise in understanding the interplay between consumer demand, labor market dynamics, retail operational strategies, and broader social and economic trends. This perspective is crucial for assessing whether Walmart will revert to 24-hour operations, as such a decision is deeply influenced by shifting consumer habits, labor availability, and the profitability calculus for large retailers.",
+            "status_quo": "Walmart U.S. stores currently operate with reduced hours (typically 6 a.m. to 11 p.m.) and have not returned to 24-hour service since the onset of the COVID-19 pandemic in 2020. This reduced-hour model is still in place as of late November 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Labor Market Tightness",
+                    "effect": "Decreases probability. Ongoing labor shortages and increased wage pressure make overnight shifts difficult and expensive to staff, reducing the incentive to return to 24-hour operations."
+                },
+                {
+                    "factor": "Consumer Shopping Behavior Shift",
+                    "effect": "Decreases probability. The pandemic accelerated a move toward online shopping and reduced late-night in-person shopping demand, making overnight hours less profitable."
+                },
+                {
+                    "factor": "Industry-Wide Trend",
+                    "effect": "Decreases probability. Other major retailers (Target, Best Buy, Home Depot, etc.) also have not resumed 24-hour operations, indicating a new industry norm that reduces competitive pressure on Walmart to extend hours."
+                },
+                {
+                    "factor": "Operational Costs and Risk Management",
+                    "effect": "Decreases probability. Overnight hours add security and operational costs, and the risk of theft or incidents can be higher late at night. These factors deter a return to 24/7 schedules."
+                },
+                {
+                    "factor": "Corporate Messaging and Recent Announcements",
+                    "effect": "Decreases probability. Walmart has explicitly stated (as recently as August 2022 and through repeated holiday news in 2025) that it has no current plans to return to 24/7 service."
+                },
+                {
+                    "factor": "Potential for Sudden Strategic Shift",
+                    "effect": "Increases probability, albeit only slightly. If competitors were to resume 24/7 hours or if there were an unexpected shift in consumer demand or labor markets, Walmart might follow suit to maintain market share. However, no evidence suggests such a trend is imminent."
+                }
+            ],
+            "no_scenario": "Walmart continues to operate on its current schedule (6 a.m. to 11 p.m.) through the end of 2025, citing stable consumer demand during regular hours, persistent labor market constraints, and industry alignment with shorter hours. No credible reports emerge of a majority of U.S. Walmart stores returning to 24-hour service before January 1, 2026.",
+            "yes_scenario": "An unanticipated transformation in labor availability (e.g., sudden labor market loosening or automation breakthroughs reducing staffing requirements), a major competitive move (e.g., a large retailer resumes 24-hour operations), or a dramatic shift in consumer behavior (e.g., massive spike in late-night demand) compels Walmart to announce and implement a return to 24/7 service at most U.S. stores, and this is credibly reported before the end of 2025.",
+            "final_reasoning": "All available evidence, including Walmart's own recent statements, consistent industry trends, and news coverage up to late November 2025, points overwhelmingly toward the maintenance of current reduced hours. There is no sign of a reversal in consumer shopping patterns or labor market conditions that would necessitate or support a return to 24-hour operations. The base rate for large retailers resuming 24/7 hours post-pandemic is effectively zero, and Walmart's current operational and public relations strategy aligns with the industry norm of prioritizing employee well-being and cost control over marginal late-night sales. Given the short time left before resolution and the absence of any credible signal of an impending change, the probability of a return to 24-hour service before 2026 is extremely low.",
+            "final_probability": 1
+        },
+        "Sociology (OrganizationalSociology)": {
+            "time_to_resolution": "Approximately 5 weeks (until January 1, 2026)",
+            "perspective_relevance": "As a sociologist specializing in Organizational Sociology, I assess how organizational routines, labor markets, operational risk, and institutional norms shape decision-making in large corporations like Walmart. My expertise allows me to consider not only economic and logistical factors but also how cultural, labor, and sectoral shifts influence the persistence or abandonment of 24/7 retail models.",
+            "status_quo": "Walmart stores in the US are not open 24 hours; most operate from 6 a.m. to 11 p.m., and there has been no movement toward resuming 24-hour service since the pandemic.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Labor Market Constraints",
+                    "effect": "Decreases probability. The ongoing tight labor market, especially for overnight and retail workers, makes 24-hour operations more costly and difficult to staff. Reports indicate permanent reduction of hours across the retail sector due to difficulty hiring (and retaining) night-shift workers."
+                },
+                {
+                    "factor": "Institutionalization of Reduced Hours",
+                    "effect": "Decreases probability. Organizational routines and consumer expectations have shifted since 2020. Reduced hours are now normalized in the industry, making a return to 24/7 less likely without major competitive pressure."
+                },
+                {
+                    "factor": "Profitability and Consumer Demand",
+                    "effect": "Decreases probability. Online shopping and changes in consumer behavior have reduced the profitability of late-night retail hours. Walmart has not seen compelling demand to justify extended hours."
+                },
+                {
+                    "factor": "Sectoral Convergence",
+                    "effect": "Decreases probability. Major competitors (Target, Costco, Best Buy) have also committed to reduced or non-24/7 hours, signaling a sector-wide norm that lessens competitive pressure to resume 24-hour operations."
+                },
+                {
+                    "factor": "Organizational Signaling and Public Statements",
+                    "effect": "Decreases probability. Walmart has repeatedly made public statements and operational choices reinforcing the permanence of reduced hours, including closing for holidays and stating there are no plans for 24/7 hours."
+                },
+                {
+                    "factor": "Short Time Horizon",
+                    "effect": "Decreases probability. With less than 6 weeks until 2026, even if Walmart reversed policy, logistical implementation (hiring, training, and PR) would likely prevent a majority of stores from shifting to 24/7 before the deadline."
+                }
+            ],
+            "no_scenario": "Walmart continues current operating hours (6 a.m.\u201311 p.m.), with no credible reports of a policy shift. Labor shortages, sectoral norms, and company statements reinforce the status quo. The majority of stores do not resume 24-hour service before January 1, 2026.",
+            "yes_scenario": "Walmart unexpectedly announces and rapidly implements a return to 24/7 operations at the majority of US stores, possibly in response to an unforeseen competitive shock, major improvement in labor supply, or a shift in consumer demand. Credible reports confirm that most stores are open 24 hours before the deadline.",
+            "final_reasoning": "All recent news confirms that Walmart continues to operate with reduced hours, and there is no indication of a policy change. Organizational routines, labor market shortages, and sectoral convergence toward reduced hours have become institutionalized. The short time window makes an operational reversal nearly impossible. As an organizational sociologist, I see the persistence of these routines as highly path-dependent; the absence of any signals or preparations for a shift further reduces the likelihood of a change before 2026. The base rate for rapid reversal of such major operational policies in large, bureaucratic organizations is extremely low, especially when reinforced by sector-wide trends. Therefore, the probability of Walmart returning to 24-hour service at a majority of US stores before 2026 is exceedingly small.",
+            "final_probability": 1
+        }
+    },
+    "deliberation_probability": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+    ],
+    "deliberation_mean_probability": 1.1,
+    "deliberation_sd": 0.31622776601683794,
+    "deliberation_probability_result": 1,
+    "group_results": {
+        "retailoperationsStoreoperatingmodels": {
+            "forecaster_to_engage": "Economics (MicroeconomicTheory)",
+            "response_type": "critique",
+            "response": "Your core reasoning is sound in emphasizing the unfavorable economics of overnight retail operation and the lack of any signals for a reversal. However, your probability assignment of 2% is less justified than a 1% or lower estimate. The difference between 1% and 2% may seem minor, but in a contest rewarding justified extremity, it's important to interrogate whether even a 2% chance is warranted given all available evidence. The resolution window is extremely short, and there is neither a public nor rumored operational shift, nor any large-scale labor or technological shock imminent. The only conceivable catalysts\u2014an overnight change in competitive landscape or automation\u2014are unsupported by reporting or observable investment. Thus, your forecast would be stronger if it aligned with the rest of the field's more extreme (1%) probability, reflecting the near-impossibility of such a rapid and large-scale operational reversal at this stage."
+        },
+        "retailoperationsStorestaffingpractices": {
+            "forecaster_to_engage": "Economics (MicroeconomicTheory)",
+            "response_type": "critique",
+            "response": "While your analysis of the economic disincentives for 24/7 retail operations is robust, your assignment of a 2% probability overstates the plausibility of a last-minute reversal. With less than a month to go, no signals of pilot programs, labor supply surges, or technological advancements, and industry-wide normalization of reduced hours, the base rate for such a change is essentially zero. Even accounting for tail risk, the absence of any enabling conditions or preparatory actions at Walmart means a 1% or lower probability is more appropriate. The difference, though numerically small, is meaningful in a contest that rewards justified extremity and dispassionate calibration. The evidence base supports a more extreme forecast in line with the consensus of the field."
+        },
+        "corporatestrategyStrategicbusinessplanning": {
+            "forecaster_to_engage": "BusinessAdministration (RetailManagement)",
+            "response_type": "defense",
+            "response": "Your reasoning is particularly strong in grounding the forecast in historical precedent and the concept of operational inertia: once large retailers have reduced hours, they almost never revert to 24/7, especially when labor markets and consumer behaviors have shifted. You also correctly highlight that any dramatic strategic reversal would almost certainly have leaked or been telegraphed by now, given the scale of operational and HR changes required. This is an insight sometimes overlooked in more purely economic models, and it aligns closely with both corporate strategy and field realities. Your alignment with the strict resolution criterion and the time constraint makes your extreme forecast well-justified."
+        },
+        "uslabormarketanalysisWagetrendsunitedstates": {
+            "forecaster_to_engage": "Economics (MicroeconomicTheory)",
+            "response_type": "critique",
+            "response": "Your economic reasoning is solid, particularly your discussion of marginal overnight revenue versus labor and security costs. However, assigning a 2% probability rather than 1% (or even lower) does not fully reflect the nearly insurmountable operational, labor, and economic barriers to a reversal within such a limited timeframe. There is no evidence of preparatory moves, pilot programs, or public signaling from Walmart, nor are there sector-wide shifts that would provide a plausible catalyst. In a contest that rewards justified extremity, your forecast would be stronger and better calibrated if it reflected the consensus of near-zero probability, given the totality of labor market, operational, and logistical constraints."
+        },
+        "businessadministrationOperationsmanagement": {
+            "forecaster_to_engage": "Sociology (OrganizationalSociology)",
+            "response_type": "defense",
+            "response": "Your analysis insightfully brings organizational sociology to the fore, emphasizing the path dependency and institutionalization of operational routines in large bureaucratic organizations like Walmart. This perspective is crucial, as it highlights that once an organization has adapted to a new routine\u2014especially one reinforced by sector-wide shifts and labor conditions\u2014it becomes exceedingly difficult to reverse course rapidly. The notion that such routines are highly persistent and resistant to rapid change is well-supported by both sociological theory and observed outcomes in retail post-pandemic. Your alignment of organizational inertia with sectoral convergence and absence of preparatory signals strengthens the case for an extremely low probability. This complements and reinforces the operational and economic arguments present in other forecasts, making your reasoning particularly robust."
+        },
+        "businessadministrationRetailmanagement": {
+            "forecaster_to_engage": "RetailOperations (StoreOperatingModels)",
+            "response_type": "defense",
+            "response": "Your reasoning is particularly compelling in its detailed attention to the operational realities and base rates of retail management. You correctly emphasize that the logistical and communication hurdles to rapidly reversing such a broad operational model are formidable and, with only weeks remaining, essentially insurmountable absent a highly visible and unprecedented catalyst. Highlighting the absence of both internal and external drivers\u2014labor, competition, or consumer demand\u2014further supports your extreme probability estimate. Your argument is strengthened by the practical insight that large-scale changes in store operating models are never implemented overnight and would be telegraphed well in advance. This nuanced operational perspective reinforces the consensus for a near-zero probability."
+        },
+        "economicsMicroeconomictheory": {
+            "forecaster_to_engage": "RetailOperations (StoreStaffingPractices)",
+            "response_type": "defense",
+            "response": "Your focus on staffing practices and the persistent labor shortage for overnight retail shifts is highly relevant and expertly handled. You correctly note that even if labor markets were to loosen marginally, the industry-wide normalization of reduced hours and the absence of any preparatory or pilot activity at Walmart make a rapid, large-scale shift to 24/7 service implausible. Your forecast is well-calibrated to both the structural constraints and the short time horizon. This operational viewpoint complements broader economic and strategic arguments, reinforcing the consensus that a return to 24-hour service before 2026 is essentially out of reach."
+        },
+        "economicsLaboreconomics": {
+            "forecaster_to_engage": "Sociology (ConsumerBehavior)",
+            "response_type": "defense",
+            "response": "Your reasoning effectively applies sociological insight to reinforce the economic and operational barriers to a return to 24/7 service. You correctly observe that consumer demand for overnight shopping has not rebounded post-pandemic, and you highlight the entrenchment of reduced hours as an industry and cultural norm. This focus on the persistence of behavioral shifts and their impact on retail practices is a valuable complement to more supply-side arguments. By situating Walmart's policy within broader societal trends\u2014employee well-being, cost control, and shifting consumer expectations\u2014you provide a well-rounded and robust justification for an extremely low probability. Your argument is both rigorous and contextually grounded."
+        },
+        "sociologyConsumerbehavior": {
+            "forecaster_to_engage": "BusinessAdministration (OperationsManagement)",
+            "response_type": "defense",
+            "response": "Your reasoning is especially robust in emphasizing the institutional inertia and operational hurdles inherent in large-scale retail. Specifically, you highlight that no competitor is moving to 24-hour service, and that there is no reporting\u2014leaked or public\u2014of Walmart even piloting such a shift. This aligns with sociological insights into path dependency, but you also bring in practical operational knowledge about timeframes required for retraining, rehiring, and communicating major changes across thousands of locations. Your point that the only plausible Yes scenario would require a major, currently unforeseen shock underscores the extremely low base rate for such a reversal. Altogether, your argument integrates operational realities, industry norms, and logistical constraints in a way that strongly supports an extreme (near-zero) probability assignment."
+        },
+        "sociologyOrganizationalsociology": {
+            "forecaster_to_engage": "USLaborMarketAnalysis (WageTrendsUnitedStates)",
+            "response_type": "defense",
+            "response": "Your analysis robustly underscores the labor market factors most relevant for large-scale operational change in retail. You rightly highlight that overnight shifts remain undesirable, with wage and cost pressures persisting, and that there is no evidence\u2014either in labor trends or company behavior\u2014of Walmart preparing for a return to 24/7 service. This labor market analysis is critical: even if corporate strategy or operational flexibility existed, the absence of sufficient, affordable, and willing labor makes such a reversal logistically impossible in the timeframe. Your recognition that the base rate for a reversal after multi-year status quo is near zero aligns strongly with both organizational sociology and the practical realities facing Walmart. This perspective complements and reinforces the consensus for an extremely low probability, making your argument particularly compelling."
+        }
+    },
+    "revision_results": {
+        "RetailOperations (StoreOperatingModels)": {
+            "my_phase1_final_probability": 1,
+            "reasoning_for_revised_probability": "After reviewing the group deliberation, including the consensus across multiple experts in operations, labor market analysis, corporate strategy, economics, and sociology\u2014all of whom independently converged on an extremely low probability (almost entirely at 1%)\u2014I see no compelling reason to revise my initial probability. The slight outlier at 2% was critiqued as insufficiently justified given the lack of any signals, operational feasibility, or plausible catalyst in the final month before resolution. My initial probability of 1% remains well-supported by both my own analysis and the broader expert consensus. There are no new signals or arguments that would increase or decrease the likelihood from my original estimate.",
+            "revised_probability": 1
+        },
+        "RetailOperations (StoreStaffingPractices)": {
+            "my_phase1_final_probability": 1,
+            "reasoning_for_revised_probability": "After reviewing my initial forecast and the group deliberation, I see no compelling reason to revise my prediction. The group consensus is strongly aligned with my own analysis, with all forecasters\u2014across a range of relevant domains\u2014assigning extremely low probabilities, uniformly at 1% except for a single 2% outlier, which was critiqued for being too high. No new evidence or argument emerged in the deliberation suggesting any overlooked scenario or catalyst that would justify increasing the probability. All operational, economic, and organizational signals confirm that a return to 24-hour service at the majority of U.S. Walmart stores before 2026 is near-impossible given the short time frame and entrenched industry trends. Therefore, I maintain my original probability.",
+            "revised_probability": 1
+        },
+        "CorporateStrategy (StrategicBusinessPlanning)": {
+            "my_phase1_final_probability": 1,
+            "reasoning_for_revised_probability": "After reviewing the group deliberation, including critiques and defenses from experts in retail operations, labor market analysis, economics, and business administration, there remains overwhelming consensus that the probability of Walmart returning to 24-hour service before 2026 is extremely low. No new arguments or overlooked scenarios were surfaced during deliberation that would justify increasing or decreasing my probability. In fact, the discussion reinforced that the 1% estimate is not only justified by the evidence but also by an appropriate calibration to the contest's reward structure. The razor-thin distinction between 1% and 2% was also debated, and the consensus was that the more extreme estimate is warranted given the lack of any enabling signals or plausible triggers. Therefore, I maintain my initial forecast.",
+            "revised_probability": 1
+        },
+        "USLaborMarketAnalysis (WageTrendsUnitedStates)": {
+            "my_phase1_final_probability": 1,
+            "reasoning_for_revised_probability": "After reviewing the group deliberation, I find the consensus among forecasters is exceptionally strong, with all assigning 1% except for one outlier at 2%. Critiques of the 2% forecast are justified, emphasizing that the absence of any operational or public signals, logistical realities, and entrenched industry trends make even a 2% estimate too high. There remains no evidence or plausible scenario for a reversal in the short timeframe remaining. Therefore, my initial 1% probability is already at the justified floor, and I see no reason to revise it further.",
+            "revised_probability": 1
+        },
+        "BusinessAdministration (OperationsManagement)": {
+            "my_phase1_final_probability": 1,
+            "reasoning_for_revised_probability": "After reviewing both my initial analysis and the group deliberation, including critiques and defenses among forecasters from different specialties, I find no credible reason to adjust my probability. The consensus from operations, corporate strategy, labor economics, organizational sociology, and retail management experts is that the probability of Walmart resuming 24/7 service at the majority of US stores before 2026 is extremely close to zero. The rare dissent (2% probability) was robustly critiqued for overstating tail risk, with all available evidence, sector trends, and operational realities supporting a near-floor estimate. No new information or perspective emerged from deliberation that would justify increasing or even slightly decreasing my initial probability.",
+            "revised_probability": 1
+        },
+        "BusinessAdministration (RetailManagement)": {
+            "my_phase1_final_probability": 1,
+            "reasoning_for_revised_probability": "After reviewing the group deliberation, including critiques and defenses, I have found overwhelming consensus across relevant domains\u2014operations, labor economics, strategy, organizational sociology, and microeconomic theory\u2014that the probability of Walmart returning to 24-hour service at a majority of US stores before 2026 is extremely low. The only minor dissent was a 2% probability, which was widely critiqued as insufficiently extreme given the absence of any signals, preparatory action, or plausible catalyst. The consensus reinforced every key point from my initial forecast, including the base rate, operational inertia, labor market constraints, and the short resolution window. No new information or compelling argument emerged to justify raising or lowering my already extreme forecast.",
+            "revised_probability": 1
+        },
+        "Economics (MicroeconomicTheory)": {
+            "my_phase1_final_probability": 2,
+            "reasoning_for_revised_probability": "After reviewing the group deliberation, it is clear that the consensus among experts across retail operations, staffing, corporate strategy, labor economics, and organizational sociology is near-unanimous for a probability of 1% or even lower, given the extremely short time to resolution, entrenched industry and organizational inertia, and total lack of signals or plausible enabling catalysts. Several critiques correctly note that, in a contest rewarding justified extremity, even a 2% probability overstates the plausibility of a last-minute reversal. The absence of any pilot programs, preparatory action, or labor/technological shock\u2014with only weeks remaining\u2014means the base rate for such a change is effectively zero. My initial allocation of 2% was meant to reflect a nonzero tail risk, but considering the totality of the group\u2019s arguments, a 1% probability is more appropriately calibrated.",
+            "revised_probability": 1
+        },
+        "Economics (LaborEconomics)": {
+            "my_phase1_final_probability": 1,
+            "reasoning_for_revised_probability": "After reviewing the group deliberation, I find my initial forecast fully supported and, if anything, slightly conservative. All forecasters across different disciplines\u2014operations, staffing, strategy, labor markets, sociology, and economics\u2014converge around extremely low probabilities, with 1% being the strong consensus and even 2% viewed as unjustifiably high. No new evidence or reasoning emerged that would increase the likelihood of a majority of Walmart stores returning to 24-hour service before 2026. The operational, labor market, and behavioral barriers are uniformly emphasized, and the short time window further cements the near-zero probability. Therefore, I see no justification for revision.",
+            "revised_probability": 1
+        },
+        "Sociology (ConsumerBehavior)": {
+            "my_phase1_final_probability": 1,
+            "reasoning_for_revised_probability": "After reviewing the group deliberation, I find broad and rigorous consensus across all expert domains\u2014retail operations, labor economics, business administration, and consumer behavior\u2014that the probability of Walmart resuming 24-hour service at the majority of US stores before 2026 is vanishingly small. The only minor dissent (a 2% probability from an economics forecaster) was repeatedly critiqued as too generous, given the extreme operational, economic, and social inertia at play. No new arguments or evidence emerged suggesting any plausible catalyst for a reversal in the few weeks remaining. Therefore, my initial probability of 1% remains fully justified, reflecting the justified extremity appropriate for this contest.",
+            "revised_probability": 1
+        },
+        "Sociology (OrganizationalSociology)": {
+            "my_phase1_final_probability": 1,
+            "reasoning_for_revised_probability": "The group deliberation strongly reinforced my initial reasoning. All engaged experts, spanning retail operations, labor market analysis, economics, and related sociological domains, independently converged on a near-zero probability, citing industry-wide inertia, persistent labor shortages, entrenched consumer and organizational routines, and the absence of any signals or preparatory actions from Walmart. No new evidence or argument emerged to suggest a higher probability. In fact, critiques of the only slightly higher estimate (2%) further supported the case for maximum justified extremity. Thus, my confidence in the original 1% (rounded up from essentially zero) is even stronger; there is no basis for upward revision.",
+            "revised_probability": 1
+        }
+    },
+    "revision_probability": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+    ],
+    "revision_mean_probability": 1.0,
+    "revision_sd": 0.0,
+    "revision_probability_result": 1,
+    "question_details": {
+        "id": 38843,
+        "title": "Will Walmart stores in the United States return to 24-hour service before 2026?",
+        "created_at": "2025-08-31T05:08:34.085741Z",
+        "open_time": "2025-11-21T14:32:03Z",
+        "cp_reveal_time": "2025-11-21T16:02:03Z",
+        "spot_scoring_time": "2025-11-21T16:02:03Z",
+        "scheduled_resolve_time": "2026-01-01T05:00:00Z",
+        "actual_resolve_time": null,
+        "resolution_set_time": null,
+        "scheduled_close_time": "2025-11-21T16:02:03Z",
+        "actual_close_time": "2025-11-21T16:02:03Z",
+        "type": "binary",
+        "options": null,
+        "group_variable": "",
+        "status": "open",
+        "possibilities": null,
+        "resolution": null,
+        "include_bots_in_aggregates": true,
+        "question_weight": 1.0,
+        "default_score_type": "spot_peer",
+        "default_aggregation_method": "unweighted",
+        "label": "",
+        "unit": "",
+        "open_upper_bound": false,
+        "open_lower_bound": false,
+        "inbound_outcome_count": null,
+        "scaling": {
+            "range_min": null,
+            "range_max": null,
+            "nominal_min": null,
+            "nominal_max": null,
+            "zero_point": null,
+            "open_upper_bound": false,
+            "open_lower_bound": false,
+            "inbound_outcome_count": null,
+            "continuous_range": null
+        },
+        "group_rank": null,
+        "description": "This question is synced with an identical question on Metaculus. The original question opened on 2023-12-10 17:30:00 and can be found [here](https://www.metaculus.com/questions/20241). This question will resolve to the same value as the synced question. The original question's background info at this time is below. \n\n[Walmart](https://en.wikipedia.org/wiki/Walmart) is a multinational retail store chain headquartered in the United States. Prior to 2020, Walmart stores were known for being open 24 hours a day, 7 days a week in most locations. However, COVID-19 and related government restrictions resulted in the company's management making the decision to close stores at night. In August of 2022, the chain announced that they had [no plans](https://www.wsfa.com/2022/08/12/walmart-no-plans-make-stores-247-again/) to make its stores open 24/7 again, likely as a result of [labor shortages](https://www.uschamber.com/workforce/understanding-americas-labor-shortage-the-most-impacted-industries). However, this has not stopped [speculation](https://www.cheddarflow.com/blog/the-end-of-24-hour-walmart-what-happened/) that the chain may return to 24-hour service at some point as labor shortages recede.\n\n`{\"format\":\"metac_closes_in_period\",\"info\":{\"post_id\":20241,\"question_id\":20241}}`",
+        "resolution_criteria": "This question will resolve as **Yes** if, before January 1, 2026, [credible sources](https://www.metaculus.com/help/faq/#definitions) report that the majority of Walmart stores in the United States have returned to 24/7 service. The chain merely announcing that this is occurring will not be sufficient to resolve the question. If this does not occur before the resolution date, the question resolves as **No**.",
+        "fine_print": "",
+        "post_id": 39466,
+        "aggregations": {
+            "unweighted": {
+                "history": [],
+                "latest": null,
+                "score_data": {},
+                "movement": null
+            }
+        },
+        "my_forecasts": {
+            "history": [],
+            "latest": null,
+            "score_data": {}
+        }
+    },
+    "news": "Here are the relevant news articles:\n\n**Are Publix and Sedano's closed? Malls? Buses running? See Thanksgiving hours**\nOn Thanksgiving Day, November 27, 2025, most businesses and public services in Miami-Dade and Broward counties were closed, including county offices, schools, courts, libraries, and major retail chains. Supermarkets such as Publix, Winn-Dixie, Walmart Neighborhood Market, Aldi, Trader Joe's, and Costco were closed. However, Sedano's was open until 6 p.m., Presidente Supermarket and Price Choice Supermarket were open with varying hours, Milam's Markets operated from 7 a.m. to 4 p.m., The Fresh Market from 7 a.m. to 3 p.m., and Whole Foods Market from 7 a.m. to 1 a.m. Big-box stores like Walmart, Costco, BJ's, and Target were closed on Thanksgiving but opened at 6 a.m. on Friday, November 28. Chain pharmacies like Walgreens had most stores closed, though 24-hour locations remained open, and CVS stores were open with location-specific hours. All major shopping malls, including Aventura Mall, Brickell City Centre, and Sawgrass Mills, were closed on Thanksgiving Day, with Black Friday hours scheduled for the following day. Mass transit services operated on Sunday schedules: Miami-Dade\u2019s Metrobus, Metrorail, Metromover, and MetroConnect ran on Sunday schedules with no MetroLink service; Broward County Transit operated on a Sunday schedule without Express or Breeze services; Tri-Rail ran on a weekend/holiday schedule. Waste collection continued as normal in Miami-Dade, Miami, Broward County, and Fort Lauderdale. Mail services were suspended except for Priority Mail Express. The New York Stock Exchange and NASDAQ were closed on Thanksgiving but opened at 1 p.m. on November 28. Miami-Dade and Broward county offices, schools, and courts were closed on both Thanksgiving Day and Friday, November 28. Libraries in Miami-Dade were closed on November 27 and 29, and Broward libraries were closed on November 27.\nOriginal language: en\nPublish date: November 21, 2025 11:14 AM\nSource:[Miami Herald](https://www.miamiherald.com/news/business/article312900668.html)\n\n**Thanksgiving Grocery, Black Friday Retail Hours: What's Open, Closed In MA**\nOn Thanksgiving Day, several major retailers in Massachusetts will be closed, including Apple, Army & Air Force Exchange Service (hours vary by location), Banana Republic (hours vary by location and mall), Foot Locker, and Sephora. However, these stores will reopen on Black Friday, with some opening as early as 5 a.m. Notable Black Friday openings include: BJ's Wholesale Club at 7 a.m., Costco at 10 a.m., Dillard's at 9 a.m., JCPenney and Kohl's at 5 a.m., Home Depot, Lowe's, and Target at 6 a.m., Macy's at 6 a.m., and Walmart at 6 a.m. Other stores such as Best Buy (6 a.m.-10 p.m.), Barnes & Noble (8 a.m.-9 p.m.), Bath & Body Works (6 a.m.-9 p.m.), and Dick's Sporting Goods (6 a.m.-10 p.m.) will operate with extended hours. Some stores, including Gap (6 a.m.-9 p.m., varies by mall), Old Navy (5 a.m.-10 p.m., may vary), and Petco (8 or 9 a.m., varies by location), have variable opening times. IKEA and Trader Joe's maintain regular hours. The article lists operating hours for 42 retail locations across Massachusetts for Black Friday 2025, based on information from Patch.\nOriginal language: en\nPublish date: November 21, 2025 12:44 AM\nSource:[Patch](https://patch.com/massachusetts/across-ma/thanksgiving-grocery-black-friday-retail-hours-what-s-open-closed-ma)\n\n**Walmart confirms it will cease operations for 24 hours at all 4,606 stores**\nWalmart will close all 4,606 of its U.S. stores for 24 hours on Thanksgiving Day, Thursday, November 27, 2025, marking the sixth consecutive year the retailer has done so since suspending its previous tradition of staying open for Black Friday shopping in 2020 due to the COVID-19 pandemic. The company cites the closure as a way to 'say thank you' to employees, encouraging staff and customers to spend time with loved ones during the holiday. Stores will operate normally the day before Thanksgiving and reopen at 6 a.m. local time on Black Friday. Walmart is hosting three Black Friday deals events: November 14\u201316 (in-store and online), November 25\u201330 (with online-only deals November 25\u201327 and in-store and online November 28\u201330), and Cyber Monday on December 1, with Walmart+ members receiving early access. The company will also close on Christmas Day, as it does annually, but remains open on other federal holidays including New Year's Day, Memorial Day, and Independence Day. Additionally, Walmart has implemented a new return policy with updated cash return restrictions, prompting shopper warnings ahead of the holiday season.\nOriginal language: en\nPublish date: November 20, 2025 04:01 PM\nSource:[The US Sun](https://www.the-sun.com/money/15522292/walmart-close-all-stores-shutdown-thanksgiving/)\n\n**Walmart, Target, Costco and more: See which stores are open and closed on Thanksgiving Day 2025**\nOn Thanksgiving Day, November 27, 2025, several major retailers will remain closed or operate with limited hours. Costco, Target, Walmart, and Giant Eagle will be fully closed, with Giant Eagle's pharmacies also closed. Amazon Fresh will operate with limited hours, opening at 8 a.m. CVS and Kroger will be open with reduced or shortened hours. Dollar General will remain open in most states, while Dollar Tree will operate from 8 a.m. to 5 p.m. in many regions. Food Lion will close at 3 p.m. local time, except in Roanoke, Lynchburg, Blacksburg, and Charlottesville, where stores close at 4 p.m. Harris Teeter will close at 2 p.m., with pharmacies closed for the day. Meijer will open at 6 a.m. and close at 5 p.m. Walgreens will only keep its 24-hour locations open. Wegmans will close at 4 p.m. in most stores, and Whole Foods will be open with modified holiday hours. This marks the sixth consecutive year Target has remained closed on Thanksgiving, a decision made permanent in 2021.\nOriginal language: en\nPublish date: November 20, 2025 03:51 PM\nSource:[Hindustan Times](https://www.hindustantimes.com/world-news/us-news/walmart-target-costco-and-more-see-which-stores-are-open-and-closed-on-thanksgiving-day-2025-101763650538254.html)\n\n**Walmart Black Friday 2025: What time does Walmart open day after Thanksgiving?**\nWalmart's Black Friday 2025 in-store shopping begins at 6 a.m. on the day after Thanksgiving, with stores remaining open until 11 p.m. that night. However, customers are discouraged from forming lines before opening due to safety concerns. Store hours will remain 6 a.m.\u201311 p.m. through December 23; on Christmas Eve (December 24), stores will close at 6 p.m., and will be closed on Christmas Day. Online Early Black Friday deals begin on November 25 and run intermittently through Black Friday (November 28), featuring discounts such as 50% off Nintendo Switch 2 games and nearly 50% off restored Dyson vacuums. Online deals for Walmart+ members go live at 2 p.m. PT on Sunday, December 1, with general access starting at 5 p.m. PT. Customers can shop the best online deals at Walmart.com and the Walmart app until midnight on Monday, December 2.\nOriginal language: en\nPublish date: November 20, 2025 02:00 PM\nSource:[Oregon Live](https://www.oregonlive.com/shopping-deals/2025/11/walmart-black-friday-2025-what-time-does-walmart-open-day-after-thanksgiving.html)\n\n**Are Publix and Sedano's closed? Malls? Buses running? See Thanksgiving hours**\nOn Thanksgiving Day, November 27, 2025, most businesses and public services in Miami-Dade and Broward counties were closed, including county offices, schools, courts, libraries, and major retail chains. Supermarkets such as Publix, Winn-Dixie, Walmart Neighborhood Market, Aldi, Trader Joe's, and Costco were closed. However, Sedano's was open until 6 p.m., Presidente Supermarket and Price Choice Supermarket were open with varying hours, Milam's Markets operated from 7 a.m. to 4 p.m., The Fresh Market from 7 a.m. to 3 p.m., and Whole Foods Market from 7 a.m. to 1 a.m. Big-box stores like Walmart, Costco, BJ's, and Target were closed on Thanksgiving but opened at 6 a.m. on Friday, November 28. Chain pharmacies like Walgreens had most stores closed, though 24-hour locations remained open, and CVS stores were open with location-specific hours. All major shopping malls, including Aventura Mall, Brickell City Centre, and Sawgrass Mills, were closed on Thanksgiving Day, with Black Friday hours scheduled for the following day. Mass transit services operated on Sunday schedules: Miami-Dade\u2019s Metrobus, Metrorail, Metromover, and MetroConnect ran on Sunday schedules with no MetroLink service; Broward County Transit operated on a Sunday schedule without Express or Breeze services; Tri-Rail ran on a weekend/holiday schedule. Waste collection continued as normal in Miami-Dade, Miami, Broward County, and Fort Lauderdale. Mail services were suspended except for Priority Mail Express. The New York Stock Exchange and NASDAQ were closed on Thanksgiving but opened at 1 p.m. on November 28. Miami-Dade and Broward county offices, schools, and courts were closed on both Thanksgiving Day and Friday, November 28. Libraries in Miami-Dade were closed on November 27 and 29, and Broward libraries were closed on November 27.\nOriginal language: en\nPublish date: November 21, 2025 11:14 AM\nSource:[Miami Herald](https://www.miamiherald.com/news/business/article312900668.html)\n\n**Thanksgiving Grocery, Black Friday Retail Hours: What's Open, Closed In MA**\nOn Thanksgiving Day, several major retailers in Massachusetts will be closed, including Apple, Army & Air Force Exchange Service (hours vary by location), Banana Republic (hours vary by location and mall), Foot Locker, and Sephora. However, these stores will reopen on Black Friday, with some opening as early as 5 a.m. Notable Black Friday openings include: BJ's Wholesale Club at 7 a.m., Costco at 10 a.m., Dillard's at 9 a.m., JCPenney and Kohl's at 5 a.m., Home Depot, Lowe's, and Target at 6 a.m., Macy's at 6 a.m., and Walmart at 6 a.m. Other stores such as Best Buy (6 a.m.-10 p.m.), Barnes & Noble (8 a.m.-9 p.m.), Bath & Body Works (6 a.m.-9 p.m.), and Dick's Sporting Goods (6 a.m.-10 p.m.) will operate with extended hours. Some stores, including Gap (6 a.m.-9 p.m., varies by mall), Old Navy (5 a.m.-10 p.m., may vary), and Petco (8 or 9 a.m., varies by location), have variable opening times. IKEA and Trader Joe's maintain regular hours. The article lists operating hours for 42 retail locations across Massachusetts for Black Friday 2025, based on information from Patch.\nOriginal language: en\nPublish date: November 21, 2025 12:44 AM\nSource:[Patch](https://patch.com/massachusetts/across-ma/thanksgiving-grocery-black-friday-retail-hours-what-s-open-closed-ma)\n\n**New York Stock Exchange Ends Lower Amid Fed Rate Cut Doubts and Tech Valuation Concerns**\nNew York Stock Exchange closed lower amid weakening expectations for future Federal Reserve interest rate cuts and ongoing concerns over high valuations in technology stocks. The Dow Jones Industrial Average fell over 300 points, or 0.84%, closing at 45,752.26. The S&P 500 dropped 1.55% to 6,538.97, while the Nasdaq Composite declined 2.15% to 22,078.05. Although indices opened higher following strong earnings from chipmaker Nvidia and positive September employment data, they turned negative during the day. September non-farm employment rose by 119,000, exceeding expectations, but the unemployment rate increased from 4.3% to 4.4%. Initial jobless claims fell by 8,000 to 220,000 for the week ending November 15. Analysts noted that the strong employment data, which surpassed expectations, was the final report before the December 9\u201310 Federal Open Market Committee (FOMC) meeting, and that more recent data would be released afterward, reinforcing expectations that the Fed would likely hold rates steady. The U.S. Bureau of Labor Statistics announced that the October employment report would not be released due to data collection disruptions during the government shutdown, and the November report\u2014originally planned for December 5\u2014was rescheduled to December 16. Federal Reserve officials also weighed in: Cleveland Fed President Beth Hammack emphasized the need for a measured, mildly restrictive policy to reach the 2% inflation target. Fed Governor Michael Barr expressed concern that inflation remains around 3%, stating the 2% target remains a firm commitment. Chicago Fed President Austan Goolsbee warned that inflation progress may have stalled and could reverse, calling it unsettling. Nvidia\u2019s financial results, released after market close, showed revenue rose 62% year-over-year to $57 billion in the quarter, surpassing market expectations. The company also raised its guidance for the current quarter to $65 billion. Despite a more than 4% gain at the start of the day, Nvidia shares ended the session down 2.9%. Walmart shares surged 6.5% after reporting third-quarter revenue and earnings above expectations and raising its full-year sales forecast.\nOriginal language: tr\nPublish date: November 20, 2025 10:00 PM\nSource:[D\u00fcnya](https://www.dunya.com/finans/haberler/new-york-borsasi-dususle-kapandi-haberi-803965)\n\n**Thanksgiving Grocery, Black Friday Retail Hours: What's Open, Closed In MI**\nOn Thanksgiving Day, several major retail stores in Michigan, including Academy Sports + Outdoors, Apple, Army & Air Force Exchange Service, Ashley HomeStore, Banana Republic, Foot Locker, and others, were closed. However, they reopened on Black Friday, November 28, 2025, with some opening as early as 5 a.m. Notable early openings included Academy Sports + Outdoors at 5 a.m., JCPenney and Kohl's at 5 a.m., Walmart at 6 a.m., Target at 6 a.m., Home Depot and Lowe's at 6 a.m., and Best Buy at 6 a.m. Other stores such as Dick's Sporting Goods, Five Below, and Nordstrom opened at 6 a.m. or 6:30 a.m. Some retailers like BJ's Wholesale Club opened at 7 a.m., while others, including Michaels, HomeGoods, and Marshalls, opened at 7 a.m. or 8 a.m. Costco opened at 10 a.m., and Nordstrom Rack opened at 9 a.m. Stores with variable hours, such as GAP, Guitar Center, and Petco, had openings dependent on location. Sam's Club followed regular hours (8 a.m. for Plus members). The article provides a comprehensive list of store hours for Black Friday, based on updates from Patch, with the latest publication date of November 20, 2025.\nOriginal language: en\nPublish date: November 20, 2025 09:16 PM\nSource:[Patch](https://patch.com/michigan/across-mi/thanksgiving-grocery-black-friday-retail-hours-what-s-open-closed-mi)\n\n**Are Costco, Walmart, Target and Home Depot closed on Nov. 27? Here's what to know**\nOn November 27, 2025, a growing trend sees major U.S. retailers including Costco, Walmart, Target, and Home Depot closing their doors to observe Thanksgiving Day, marking a rare alignment among the nation\u2019s largest stores. This shift aims to allow employees and shoppers more time to spend with family during the holiday and to provide a break before the intense shopping periods of Black Friday and Cyber Monday. While most of these retailers will be closed, Wegmans will remain open from 6 a.m. to 4 p.m. for last-minute Thanksgiving needs. Additionally, most drugstores such as CVS and Walgreens will stay open, though individual pharmacy hours may vary by location. Consumers are advised to verify local store hours in advance. According to NJ.com, the decision reflects a broader cultural movement toward prioritizing family time over commercial activity on Thanksgiving.\nOriginal language: en\nPublish date: November 20, 2025 09:00 PM\nSource:[NJ.com](https://www.nj.com/business/2025/11/are-costco-walmart-target-and-home-depot-closed-on-nov-27-heres-what-to-know.html)\n\n**Thanksgiving Day 2025: Which stores are open and closed in US on November 27 --  Walmart, Kroger, Costco and more | Today News**\nOn Thanksgiving Day 2025, November 27, most major grocery chains in the U.S. will remain open for last-minute shopping, though with reduced holiday hours. The following stores are confirmed to be open: Baker's, City Market, Dillons, Food 4 Less, Foods Co, Fred Meyer, Fry's, Gerbes, Jay C Food Store, King Soopers, Kroger, Mariano's, Metro Market, Pay-Less, Pick'n Save, QFC, Ralphs, Ruler, and Smith's. Shoppers are advised to check their local store\u2019s schedule in advance, as operating hours may vary. The article emphasizes that while many stores are open, nearly all will operate on limited hours, and some of the nation\u2019s largest retailers will close entirely for the holiday. The information is provided as a guide to help hosts prepare for Thanksgiving Day 2025. \nOriginal language: en\nPublish date: November 20, 2025 05:37 PM\nSource:[mint](https://www.livemint.com/news/us-news/thanksgiving-day-2025-which-stores-are-open-and-closed-in-us-on-november-27-walmart-kroger-costco-and-more-11763658394001.html)\n\n**Walmart confirms it will cease operations for 24 hours at all 4,606 stores**\nWalmart will close all 4,606 of its U.S. stores for 24 hours on Thanksgiving Day, Thursday, November 27, 2025, marking the sixth consecutive year the retailer has done so since suspending its previous tradition of staying open for Black Friday shopping in 2020 due to the COVID-19 pandemic. The company cites the closure as a way to 'say thank you' to employees, encouraging staff and customers to spend time with loved ones during the holiday. Stores will operate normally the day before Thanksgiving and reopen at 6 a.m. local time on Black Friday. Walmart is hosting three Black Friday deals events: November 14\u201316 (in-store and online), November 25\u201330 (with online-only deals November 25\u201327 and in-store and online November 28\u201330), and Cyber Monday on December 1, with Walmart+ members receiving early access. The company will also close on Christmas Day, as it does annually, but remains open on other federal holidays including New Year's Day, Memorial Day, and Independence Day. Additionally, Walmart has implemented a new return policy with updated cash return restrictions, prompting shopper warnings ahead of the holiday season.\nOriginal language: en\nPublish date: November 20, 2025 04:01 PM\nSource:[The US Sun](https://www.the-sun.com/money/15522292/walmart-close-all-stores-shutdown-thanksgiving/)\n\n**Walmart, Target, Costco and more: See which stores are open and closed on Thanksgiving Day 2025**\nOn Thanksgiving Day, November 27, 2025, several major retailers will remain closed or operate with limited hours. Costco, Target, Walmart, and Giant Eagle will be fully closed, with Giant Eagle's pharmacies also closed. Amazon Fresh will operate with limited hours, opening at 8 a.m. CVS and Kroger will be open with reduced or shortened hours. Dollar General will remain open in most states, while Dollar Tree will operate from 8 a.m. to 5 p.m. in many regions. Food Lion will close at 3 p.m. local time, except in Roanoke, Lynchburg, Blacksburg, and Charlottesville, where stores close at 4 p.m. Harris Teeter will close at 2 p.m., with pharmacies closed for the day. Meijer will open at 6 a.m. and close at 5 p.m. Walgreens will only keep its 24-hour locations open. Wegmans will close at 4 p.m. in most stores, and Whole Foods will be open with modified holiday hours. This marks the sixth consecutive year Target has remained closed on Thanksgiving, a decision made permanent in 2021.\nOriginal language: en\nPublish date: November 20, 2025 03:51 PM\nSource:[Hindustan Times](https://www.hindustantimes.com/world-news/us-news/walmart-target-costco-and-more-see-which-stores-are-open-and-closed-on-thanksgiving-day-2025-101763650538254.html)\n\n**Walmart Black Friday 2025: What time does Walmart open day after Thanksgiving?**\nWalmart's Black Friday 2025 in-store shopping begins at 6 a.m. on the day after Thanksgiving, with stores remaining open until 11 p.m. that night. However, customers are discouraged from forming lines before opening due to safety concerns. Store hours will remain 6 a.m.\u201311 p.m. through December 23; on Christmas Eve (December 24), stores will close at 6 p.m., and will be closed on Christmas Day. Online Early Black Friday deals begin on November 25 and run intermittently through Black Friday (November 28), featuring discounts such as 50% off Nintendo Switch 2 games and nearly 50% off restored Dyson vacuums. Online deals for Walmart+ members go live at 2 p.m. PT on Sunday, December 1, with general access starting at 5 p.m. PT. Customers can shop the best online deals at Walmart.com and the Walmart app until midnight on Monday, December 2.\nOriginal language: en\nPublish date: November 20, 2025 02:00 PM\nSource:[Oregon Live](https://www.oregonlive.com/shopping-deals/2025/11/walmart-black-friday-2025-what-time-does-walmart-open-day-after-thanksgiving.html)\n\n**Publix, Walmart and CVS: What stores are open in Florida for Thanksgiving 2025?**\nOn Thanksgiving 2025, several grocery stores in Florida will remain open with modified or reduced hours. Bravo Supermarkets will be open from 7:30 a.m. to 6 p.m., The Fresh Market from 7 a.m. to 3 p.m., Sprouts from 7 a.m. to 2 p.m., and most Whole Foods locations from 7 a.m. to 1 p.m. CVS will be open with shortened hours across its more than 750 locations in Florida. Walgreens will remain open only at its 24-hour locations. All other major retailers, including Aldi, BJ's, Costco, Publix, Sam's Club, Target, Trader Joe's, Walmart, and Winn-Dixie, will be closed. The article emphasizes that these stores are available for last-minute shopping needs, such as forgotten ingredients or dishes for holiday feasts.\nOriginal language: en\nPublish date: November 20, 2025 11:01 AM\nSource:[Pensacola News Journal](https://www.pnj.com/story/news/2025/11/20/florida-thanksgiving-grocery-shopping-holidays-open-closed-publix-aldi-walmart/87240405007/)\n\n**Best Buy finalizes closure of all 1,000 outlets in the US for 24 hours**\nBest Buy has finalized the closure of all 1,000 of its U.S. stores for 24 hours on Thanksgiving Day, November 27, 2025, and again on Christmas Day, December 25, 2025, as part of a broader industry shift toward prioritizing employee well-being and family time over holiday sales. This decision follows a trend initiated in 2020, where major retailers like Walmart and Target stopped opening on Thanksgiving night, opting instead to close. Best Buy confirmed it will remain closed on both holidays, though customers can still shop via its website, app, and curbside pickup services. The closures are part of a larger restructuring: at least six stores have already closed in 2024, 24 were closed in 2023, and up to 25 additional stores may shut by the end of 2025 as part of a store model review. CEO Corie Barry stated the company aims to 'strike a balance between its workforce and consumer interest,' while CFO Matthew Bilunas confirmed that traditional stores will continue to close as leases expire. Home Depot has also announced it will close all 2,000 of its stores on both Thanksgiving and Christmas Day this year. The closures coincide with broader operational changes across the retail sector amid evolving consumer shopping habits.\nOriginal language: en\nPublish date: October 08, 2025 12:09 PM\nSource:[The US Sun](https://www.the-sun.com/money/15308079/best-buy-closure-of-all-1000-outlets-24-hours/)\n\n**Target to close down all spots for 24 hours - and Costco won't be any help**\nTarget will close all its locations nationwide for 24 hours on Thanksgiving Day, Thursday, November 28, 2025, as it has done for previous federal holidays including Easter Sunday, Juneteenth, and Labor Day. Shoppers will not be able to visit physical stores on that day, though the Target website and app will remain accessible, albeit with expected delays in order processing. Stores will reopen at 6 a.m. local time on Black Friday, one of the year\u2019s largest shopping days. Costco will also be closed on Thanksgiving, leaving shoppers without major retail alternatives. While grocery chains like Walmart, Sam's Club, Kroger, Aldi, Trader Joe's, and Whole Foods, as well as home improvement retailers Home Depot and Lowe's, and pharmacies CVS and Walgreens, were open on Labor Day, their status on Thanksgiving is uncertain and shoppers are advised to verify hours via each retailer\u2019s store locator. Target will extend store hours from 7 a.m. to midnight local time from November 30 through December 23, and remain open from 7 a.m. to 8 p.m. on Christmas Eve, but will be closed on Christmas Day. The US Sun reached out to Target and Walmart for confirmation on Thanksgiving hours but received no response prior to publication.\nOriginal language: en\nPublish date: October 03, 2025 02:54 PM\nSource:[The US Sun](https://www.the-sun.com/money/15286760/target-holiday-store-opening-hours-thanksgiving/)\n\n**7 Chains That Are Shrinking Their Shopping Hours Without Announcing It**\nThe article reports that many of the United States\u2019 largest retail chains have quietly reduced their operating hours after the pandemic, a trend the author calls \"silent shrinkage.\"  Walmart, once the archetypal 24\u2011hour retailer, now closes most locations at 11\u202fp.m., a change that was never announced.  Major grocery chains such as Kroger and Albertsons have similarly made their pandemic\u2011era reduced hours permanent, with most stores closing at 10 or 11\u202fp.m.  Pharmacy chains Walgreens and CVS have cut hours at many former 24/7 sites because a nationwide shortage of pharmacists makes overnight operation unsafe.  National banks like Chase and Bank of America now often close their lobbies at 4 or 5\u202fp.m. instead of 6\u202fp.m. and have eliminated many Saturday hours, encouraging customers to use ATMs or online banking.  Fast\u2011food chains such as McDonald\u2019s and Taco Bell have allowed franchise owners to shorten hours, and some 24/7 drive\u2011thrus have closed entirely.  Department stores including Macy\u2019s and Kohl\u2019s, once open until 10\u202fp.m. on weeknights, now typically close at 8 or 9\u202fp.m., reflecting a decline in evening foot traffic.  Home improvement giants Home\u202fDepot and Lowe\u2019s, which used to stay open until 10\u202fp.m., now frequently close at 9\u202fp.m.  The article attributes these shifts to a tight labor market and a major move toward online shopping, making the old 24/7 model unprofitable for most businesses.  Consumers are urged to plan shopping trips more carefully within the new, shorter retail day.\nOriginal language: en-US\nPublish date: September 05, 2025 01:30 PM\nSource:[Grocery Coupon Guide](https://www.grocerycouponguide.com/articles/7-chains-that-are-shrinking-their-shopping-hours-without-announcing-it/)\n\n**Labor Day 2025: What's open and closed in New York on September 1 - grocery stores, banks, subway stations & more**\nThe Economic Times article explains that Labor Day 2025 falls on Monday, September 1, the first Monday of September, and that it is a federal holiday that \"celebrates the nation's workforce and the achievements of the American labor movement.\"  Government services, banks, the New\u00a0York Stock Exchange and Nasdaq, and most postal and package\u2011delivery services will be closed.  The United States Postal Service will suspend pickup and delivery, UPS will not pick up or deliver packages (except UPS Express Critical), and FedEx will largely be closed except for FedEx Custom Critical.  Most banks will be closed, but online banking and ATMs remain available.  The Metropolitan Transportation Authority will run on a modified holiday schedule, and travel on highways and airports is expected to be busy.  Retailers such as Walmart, Target, Whole Foods, Trader\u00a0Joe\u2019s, Home\u00a0Depot, and most grocery chains will remain open, while Costco will stay closed and Aldi will operate on limited hours depending on location.  Walgreens will keep regular store hours but most pharmacies will be closed except for 24\u2011hour locations; CVS will be open with variable hours.  The article notes that this holiday marks the symbolic end of summer and the last long weekend before the new school year, and that retailers often launch Labor Day sales.  It encourages residents to check specific operating hours in advance to avoid inconvenience.\nOriginal language: en\nPublish date: September 01, 2025 02:38 PM\nSource:[Economic Times](https://economictimes.indiatimes.com/news/international/us/labor-day-2025-whats-open-and-closed-in-new-york-on-september-1-grocery-stores-banks-subway-stations-more/articleshow/123637786.cms)\n\n**Labor Day 2025: What's open and closed on September 1  --  Stock market, banks, grocery stores & more**\nLabor Day 2025 falls on Monday, September\u202f1, a federal holiday that marks the end of summer and honors American workers. Major retailers such as Walmart, Target, Home\u202fDepot, Trader\u202fJoe\u2019s, and the Kroger group (Ralphs, Harris\u202fTeeter, Pick\u202f\u2019n\u202fSave, Fred\u202fMeyer) will remain open on regular schedules. Costco will be closed nationwide, Aldi will operate on shortened hours that vary by location, and Whole\u202fFoods will remain open but customers should check local hours. Walgreens will keep stores open but most pharmacies will be closed except 24\u2011hour and select locations; CVS will stay open with some adjusted hours. The United States Postal Service (USPS) will suspend both mail pickup and delivery, and UPS will not provide pickup or delivery, though UPS Express Critical will continue. FedEx services will largely be unavailable, but FedEx Custom Critical will function and FedEx Office locations will run on modified schedules. Most major banks will be closed, though ATMs and online banking remain available. The New\u202fYork\u202fStock\u202fExchange and Nasdaq will be shut for the day, with normal trading resuming Tuesday. All non\u2011essential federal, state, and local government offices, courts, and public libraries will be closed. The holiday serves as a cultural marker and a last chance for summer activities before the return to work and school.\nOriginal language: en\nPublish date: August 31, 2025 01:23 PM\nSource:[Economic Times](https://economictimes.indiatimes.com/news/international/us/labor-day-2025-whats-open-and-closed-on-september-1-stock-market-banks-grocery-stores-more/articleshow/123616012.cms)\n\n**Here's what's open and closed on Labor Day 2025 | CNN Business**\nLabor Day 2025 falls on September 1, a federal holiday that closes government offices and banks. Retailers: Costco warehouses will be closed; Aldi locations will operate on limited hours; most Whole Foods stores will be open; Trader Joe\u2019s and all Kroger\u2011chain stores (Kroger, Pick \u2019n Save, Harris Teeter, Fred Meyer, Ralphs) will operate on their usual hours; Walmart and Target will open normally; Home\u202fDepot will be open for deals. Walgreens will keep regular store hours but most of its pharmacies (except 24\u2011hour and select locations) will be closed; CVS stores and pharmacies will remain open, though hours may vary. Postal services: the United States Postal Service will be closed, so it will not pick up or drop off mail; UPS will also not pick up or deliver mail and its locations may be closed, but UPS Express Critical will operate as usual; most FedEx services will be closed, FedEx Office will have modified hours, and FedEx Custom Critical will be open. Banks will be closed for the federal banking holiday, though online banking and ATMs will remain available. The New\u202fYork\u202fStock\u202fExchange and Nasdaq will be closed. State and local courts and administrative offices will be closed, and federal offices such as the DMV and public libraries will also be closed.\nOriginal language: en\nPublish date: August 31, 2025 09:00 AM\nSource:[CNN](https://us.cnn.com/2025/08/31/business/open-closed-labor-day-2025)\n\n**What Opens on 'Labor Day'?: Here Is the List of Services and Stores That Will Operate on September 1**\nThe article explains that in the United States, Labor Day falls on September 1, 2025, marking the symbolic end of summer. It lists which services and stores will be open or closed on that federal holiday. Government offices, post offices, courts, libraries, schools, the U.S. Postal Service, and garbage collection will all be closed. The New York Stock Exchange and NASDAQ will also be closed, with the market reopening on Tuesday, September 2, 2025. Most bank branches will be closed, though ATMs and mobile banking remain available. Sam\u2019s Club will operate from 8:00\u202fa.m. to 6:00\u202fp.m. for Plus members and 10:00\u202fa.m. to 6:00\u202fp.m. for Club members. Walmart stores will be open from 6:00\u202fa.m. to 11:00\u202fp.m., but customers are advised to check local hours. Target will remain open, with hours varying by location. Grocery chains such as Kroger, Food Lion, and Publix will open at normal hours, while Trader Joe\u2019s and Aldi will operate on limited hours that differ by state. Discount department stores like TJ\u202fMaxx, Marshall\u2019s, and HomeGoods will open but close early at 8:00\u202fp.m. local time. Pharmacy chains CVS and Walgreens will be open with limited hours, and prescription medication pickup will be restricted. Private courier services such as FedEx and UPS will not be available. The article cites that the holiday was first celebrated on September 5, 1882, in New York City, where over 10,000 workers marched from City Hall to Union Square, followed by a concert and a picnic. It also notes that the holiday is a federal holiday established by Congress, guaranteeing a day off for federal employees.\nOriginal language: es\nPublish date: August 30, 2025 01:49 PM\nSource:[Univision](https://www.univision.com/noticias/estados-unidos/lista-servicios-tiendas-abriran-o-cerraran-1-septiembre-labor-day)\n\n**Walmart will not close down all locations in days - but Costco faces shutters**\n'Walmart has confirmed that it will not close down any of its 4,606 locations for an upcoming holiday.' Labor Day falls on September\u202f1,\u202f2025, and Walmart will operate with limited hours, from 6:00\u202fam to 11:00\u202fpm. Other retailers such as Target, Kohl\u2019s, BJ\u2019s, and Sam\u2019s Club will remain open, though Sam\u2019s Club will restrict access based on membership tier: Plus members 8:00\u202fam\u20136:00\u202fpm, regular members 10:00\u202fam\u20136:00\u202fpm. 'COSTCO CLOSED' \u2013 Costco will shut all U.S. warehouses for Labor Day. Major banks\u2014including Bank of America, Wells Fargo, and Chase\u2014will be closed, so in\u2011branch services are unavailable, but ATMs and online banking will continue to work. The article was published August\u202f30\u202f2025 by The US Sun.\nOriginal language: en\nPublish date: August 30, 2025 11:00 AM\nSource:[The US Sun](https://www.the-sun.com/money/15051676/walmart-labor-day-holiday-opening-hours/)\n\n**Labor Day 2025: Which Stores Open and Close in Texas**\nThe article explains that Labor Day 2025 is a federal holiday in the United States, so many businesses in Texas will either close for 24 hours or operate on special hours. The USPS announced on August 11 that all delivery units will be closed, and FedEx shipments will not be available. Banks such as Chase, Bank of America, and Wells Fargo will be closed, and the Federal Reserve will not operate. School districts and universities will also close, as will all state and local offices. Pharmacies will remain open on September 1 but may have different hours, so customers should check individual store times. Costco will keep all its stores closed on Labor Day, as it does on other federal holidays like Independence Day, Thanksgiving, and Christmas. Reader's Digest lists several retailers that will remain open in Texas, including CVS, Walgreens, Aldi, Barnes & Noble, Home Depot, HomeGoods, IKEA, Kohl's, Lowe's, Macy's, Marshall's, Nordstrom, Petco, Sam's Club, Sears, Staples, Target, T.J. Maxx, Ulta, Walmart, Dollar Tree, Kroger, Publix, Trader Joe's, and Whole Foods. Public\u2011transport schedules will change: METRO\u2019s local bus, METRORail, and Metro Curb2curb will run on Sunday schedules, while the Park & Ride bus will not run. The article notes that under the Fair Labor Standards Act, employees who work more than 40 hours in a week on a holiday are entitled to at least 1.5 times their regular hourly rate for overtime. Finally, it lists upcoming federal holidays: Independence Day, Thanksgiving, and Christmas. The article uses the phrase 'bajan la persiana' to describe businesses that close for 24 hours.\nOriginal language: es\nPublish date: August 30, 2025 10:49 AM\nSource:[La Nacion](https://www.lanacion.com.ar/estados-unidos/texas/labor-day-2025-las-tiendas-que-cierran-y-abren-durante-el-dia-del-trabajo-en-texas-nid30082025/)\n\n",
+    "date": "2025-11-22T01:09:35.770125",
+    "summary": "All forecasting experts across fields including retail operations, corporate strategy, labor economics, business administration, microeconomics, and sociology converge on an extremely low probability that Walmart will return to 24-hour service at a majority of US stores before January 1, 2026. Their consensus is based on a variety of consistently negative factors: persistent labor shortages and wage pressures, diminished overnight consumer demand accelerated by a post-pandemic shift to online shopping, unfavorable cost-benefit calculations for overnight operations (due to low sales, high staffing and security costs), and clear industry-wide trends toward permanently reduced hours among major retailers with no competitor returning to 24/7 service. Experts also emphasize Walmart's repeated public statements reaffirming reduced hours and recent holiday schedules that double down on shorter operating periods. Path-dependence and institutionalization of the new model, combined with the short time remaining before the resolution date, make a major operational reversal virtually impossible absent a dramatic, unforeseen outside event. Final probability estimates are almost universally 1% (with one expert assigning a slightly less categorical 2%), all emphasizing that a 'Yes' outcome would require an unprecedented, unanticipated, and immediate catalyst not evidenced in any current reporting or signal. The status quo is deeply entrenched, and no expert finds credible evidence or incentive for abrupt change before 2026.",
+    "forecasters": [
+        "RetailOperations (StoreOperatingModels)",
+        "RetailOperations (StoreStaffingPractices)",
+        "CorporateStrategy (StrategicBusinessPlanning)",
+        "USLaborMarketAnalysis (WageTrendsUnitedStates)",
+        "BusinessAdministration (OperationsManagement)",
+        "BusinessAdministration (RetailManagement)",
+        "Economics (MicroeconomicTheory)",
+        "Economics (LaborEconomics)",
+        "Sociology (ConsumerBehavior)",
+        "Sociology (OrganizationalSociology)"
+    ]
+}

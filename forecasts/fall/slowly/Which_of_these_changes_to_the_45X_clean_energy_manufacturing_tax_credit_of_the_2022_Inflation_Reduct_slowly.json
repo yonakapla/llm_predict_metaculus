@@ -1,0 +1,353 @@
+{
+    "deliberation_results": {
+        "Tax Policy Analysis (US Congressional Budget Process)": {
+            "time_to_resolution": "About 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in US Congressional Budget Process and tax policy analysis, I can evaluate the likelihood of legislative changes to the 45X advanced manufacturing production credit through the lens of Congressional dynamics, reconciliation rules, budget scoring, and recent legislative precedent. My knowledge of how tax credit policy changes are negotiated, especially under unified government and with respect to cost-control measures like caps, is central to assessing this question.",
+            "status_quo": "Currently, the 45X advanced manufacturing production credit is uncapped: there is no explicit dollar or volume cap per taxpayer or overall, and it is available as long as statutory criteria are met. No cap has been enacted as of November 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Unified Republican control with stated intent to curb clean energy spending",
+                    "effect": "Increases the probability. The new Congress and President have explicitly called out the cost of uncapped tax credits and have expressed a desire to cut spending, especially on items deemed as 'green subsidies.'"
+                },
+                {
+                    "factor": "Recent legislative action in the 'One Big Beautiful Bill Act' (OBBBA)",
+                    "effect": "Moderately increases the probability. OBBBA accelerates phase-outs and reduces eligibility for many clean energy credits, but evidence shows 45X is preserved with new restrictions (e.g., supply chain, FEOC). The bill does not, as reported, place an explicit cap on 45X, but it demonstrates willingness to tighten clean energy incentives."
+                },
+                {
+                    "factor": "Budgetary pressure and CBO/JCT scoring concerns",
+                    "effect": "Increases the probability. The uncapped nature of 45X is a significant budgetary concern, as highlighted by Cato Institute and others, making it a likely target for caps as part of reconciliation or deficit-reduction efforts."
+                },
+                {
+                    "factor": "Business and state lobbying for certainty and against abrupt changes",
+                    "effect": "Decreases the probability. Manufacturers, states, and some bipartisan coalitions may resist caps that could disrupt planned investments, arguing that caps would undercut the IRA's objectives and current project pipelines."
+                },
+                {
+                    "factor": "Precedent of recent major tax legislation",
+                    "effect": "Increases the probability. Past major tax bills (e.g., IRA, OBBBA) have included various restrictions (phase-outs, eligibility limitations, FEOC rules), though outright caps are less common for production credits. However, the political climate is more favorable to such caps now."
+                },
+                {
+                    "factor": "Timeline and legislative vehicle constraints",
+                    "effect": "Slightly decreases the probability. With less than 14 months remaining, legislative calendars are tight. Major tax changes often move in budget reconciliation or year-end tax bills; if not addressed in 2025, time runs short."
+                }
+            ],
+            "no_scenario": "Despite Republican control and rhetoric, Congress does not enact a cap on 45X credits before January 1, 2026. Instead, changes focus on FEOC exclusions, phase-outs, or tightening eligibility (as in OBBBA), but the credit remains nominally uncapped\u2014either because a cap is too disruptive to ongoing manufacturing investment, business opposition is strong, or other legislative priorities take precedence. Budget hawks may accept more gradual restrictions or future phaseouts instead.",
+            "yes_scenario": "Republicans, prioritizing deficit reduction and responding to criticism over the open-ended cost of 45X, successfully include a cap (annual, lifetime, or per-taxpayer) on the credit in a 2025 budget reconciliation bill or tax package. The cap could be justified as a 'guardrail' to control spending, either as a strict dollar cap or as a volume cap (e.g., maximum output eligible per taxpayer). The measure passes, likely over Democratic opposition but possibly with some bipartisan support, especially if paired with FEOC and anti-China provisions.",
+            "final_reasoning": "The base rate for major production credit caps being enacted in less than 2 years, even under unified government, is low; most past tax credits have not been capped in this fashion. However, the current context is exceptional: 1) There is unified Republican control with an explicit agenda to cut spending on climate and clean energy, 2) The uncapped nature of 45X has become a prominent target for criticism, 3) Recent major tax legislation (OBBBA) has shown that clean energy tax credits can be sharply curtailed or terminated early, and 4) budget scoring will make 45X's open-ended cost a tempting target for caps, especially as the fiscal impact becomes clearer. On the other hand, the OBBBA and reporting to date suggest restrictions have focused more on eligibility and phase-out acceleration rather than explicit caps. There is no clear reporting in the news articles or legislative summaries that a cap on 45X is being actively advanced or has political momentum in the current Congress, even as FEOC and eligibility changes are prioritized. The business lobby is also likely to push hard against caps, and there is precedent for simply tightening eligibility instead. Taking these factors together, and giving appropriate weight to the status quo (no explicit cap yet, and the most recent sweeping legislation did not impose one), I judge the probability of a cap being enacted before January 1, 2026 to be elevated but not greater than even odds.",
+            "final_probability": 37
+        },
+        "Energy Policy Advising (Federal Clean Energy Program Implementation)": {
+            "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in federal clean energy program implementation, I am well-versed in the mechanics and political dynamics surrounding the 45X production tax credit. My background gives me an understanding of legislative processes, stakeholder incentives (including manufacturers, utilities, and policymakers), and the typical pace and sequence of tax credit reforms, as well as the technical and economic consequences of capping credits for the growth and localization of clean energy manufacturing. This perspective allows me to assess the likelihood of capped credits not just from a legislative standpoint, but also in terms of policy implementation feasibility and the signals being sent to industry.",
+            "status_quo": "Currently, the 45X credit is uncapped; taxpayers can claim unlimited credits as long as they meet eligibility. No cap on credit size or lifetime benefit exists.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Republican Control of Congress and Presidency",
+                    "effect": "Increases probability of capping. Unified GOP control (post-2024 election) prioritizes fiscal restraint and skepticism of open-ended clean energy subsidies. Recent statements and budget talks point to serious efforts to rein in IRA spending, with specific mentions of 45X as a target for cuts."
+                },
+                {
+                    "factor": "Recent Legislative Activity (OBBBA and Budget Reconciliation)",
+                    "effect": "Increases probability of capping. The 'One Big Beautiful Bill Act' (OBBBA) and subsequent tax packages have demonstrated willingness to compress timelines, add supply chain restrictions, and repeal or phase out other IRA credits, showing that aggressive changes to clean energy tax credits are politically feasible. Budget reconciliation is a powerful tool for passing fiscal and tax measures with a simple majority, bypassing filibusters."
+                },
+                {
+                    "factor": "Industry and Stakeholder Pushback",
+                    "effect": "Decreases probability. Strong industry lobbying\u2014particularly from U.S.-based manufacturers, utilities, and unions\u2014makes Congress wary of abrupt changes that could undercut announced investments and jobs. Many new plants and supply chains are already under construction, and capping credits risks retroactively harming these investments."
+                },
+                {
+                    "factor": "Timing and Legislative Prioritization",
+                    "effect": "Slightly decreases probability. With only 13 months left and a crowded legislative agenda (including appropriations, debt ceiling, and other energy/fiscal reforms), enacting a cap in time is a logistical challenge. However, the fact that reconciliation bills are being actively developed and that clean energy credits are under direct scrutiny means quick action is possible if prioritized."
+                },
+                {
+                    "factor": "Fiscal Pressure and Cost Overruns",
+                    "effect": "Increases probability. The uncapped nature of 45X has led to major upward revisions in cost projections, giving fiscal conservatives and moderates political cover to push for caps as a way to contain federal spending. High-profile CBO projections and media attention increase the salience of this issue."
+                },
+                {
+                    "factor": "Precedent and Base Rate of Retroactive Caps",
+                    "effect": "Slightly decreases probability. Historically, large energy credits are rarely capped retroactively within a short time frame due to legal and market disruption risks. Most changes apply prospectively or with phase-ins. However, the current political moment is unusually aggressive in rolling back IRA provisions."
+                }
+            ],
+            "no_scenario": "Despite Republican control, pushback from industry, state leaders (including red-state governors benefiting from new manufacturing), and key senators (especially from Midwest and Sunbelt states with new facilities) leads to compromise: 45X is left uncapped, or only new projects after a future date are subject to a cap, preserving the current structure through at least Jan 1, 2026. Legislative bandwidth and higher priority fiscal or political issues delay or water down proposed changes.",
+            "yes_scenario": "Republican leadership, citing cost overruns and the need for fiscal discipline, inserts a cap (annual, per taxpayer, or aggregate) for the 45X credit into a reconciliation bill or tax package. The cap is applied retroactively or prospectively, but the legislation is signed into law before Jan 1, 2026. Industry pushback is overridden by the political imperative to show action on deficit reduction and to limit perceived 'green corporate welfare.'",
+            "final_reasoning": "The probability of capped credits being enacted before Jan 1, 2026 is notably elevated compared to historical base rates, given the unique political alignment (GOP control), explicit mention of 45X as a target, and the aggressive rollback of IRA provisions in the OBBBA and related bills. However, the combination of industry pushback, the logistical challenges of legislating within a short window, historical reluctance to make abrupt retroactive tax changes, and the fact that other priorities may delay action means that a cap is not inevitable. Given all factors and the current legislative trajectory, I estimate the probability at 60%. This reflects a significant risk\u2014well above base rates\u2014but falls short of certainty due to the aforementioned countervailing pressures.",
+            "final_probability": 60
+        },
+        "US Legislative Affairs (Federal Legislative Tracking)": {
+            "time_to_resolution": "Approximately 13 months (question closes January 1, 2026; today is November 22, 2025)",
+            "perspective_relevance": "As an expert in US Legislative Affairs with a focus on federal legislative tracking, I have specialized insight into how major tax credits like 45X are amended, the mechanics of Congressional negotiations (especially under unified government), and the practicalities of how and when credit caps are legislated, implemented, and prioritized given political, fiscal, and industrial pressures. My familiarity with past reconciliation bills, tax credit reforms, and the intersection of industrial policy and budgeting provides a grounded basis for evaluating the likelihood of statutory caps being imposed on 45X before 2026.",
+            "status_quo": "Currently, the 45X advanced manufacturing production credit is uncapped; there are no statutory limits on how much a taxpayer or affiliated group can claim, and the credit is being widely utilized by domestic manufacturers.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Republican Unified Government and Fiscal Prioritization",
+                    "effect": "Increases probability. The GOP now controls the White House and both chambers of Congress, and public statements from the Trump administration and Congressional leaders indicate a strong desire to reduce federal spending on clean energy tax credits, with 45X specifically identified as a target due to its open-ended cost."
+                },
+                {
+                    "factor": "Recent Legislation (One Big Beautiful Bill/OBBBA) and Budget Reconciliation Dynamics",
+                    "effect": "Increases probability. The OBBBA, signed July 4, 2025, already restructured or accelerated sunsets for many clean energy credits (notably 45Y/48E), demonstrating both the political will and legislative vehicle to make rapid, sweeping changes to IRA tax credits. 45X remains in place but has attracted substantial attention for its cost."
+                },
+                {
+                    "factor": "Lobbying by Industry and State Interests",
+                    "effect": "Decreases probability modestly. Major US manufacturers, state governments pursuing clean energy investments, and bipartisan economic development coalitions are actively lobbying to preserve the uncapped nature of 45X to avoid undermining existing investments and supply chain expansions. This introduces friction and potential carveouts/delays."
+                },
+                {
+                    "factor": "Base Rate and Historical Precedent",
+                    "effect": "Increases probability. Historically, when a major tax credit's uncapped cost balloons and is explicitly targeted by a unified government, Congress often moves to impose caps or other restrictions within 1-2 years, especially in reconciliation or omnibus budget vehicles."
+                },
+                {
+                    "factor": "Competing Priorities and Legislative Bandwidth",
+                    "effect": "Decreases probability slightly. Despite unified control, Congress faces competing demands (deficit reduction, energy security, geopolitical crises) and may prioritize even more politically salient fights (Social Security, defense, immigration) over additional 45X tweaks in the next legislative window."
+                },
+                {
+                    "factor": "Recent News and Resolution Criteria",
+                    "effect": "Increases probability. Axios and other reporting confirms that capping 45X is under active discussion in reconciliation talks, and the question resolves YES immediately if *any* statutory cap is enacted before Jan 1, 2026, even if later reversed."
+                }
+            ],
+            "no_scenario": "Despite strong Republican intent, Congress does not pass or the President does not sign any bill imposing a cap on 45X before January 1, 2026, due to successful industry lobbying, legislative gridlock, or because capping 45X gets deferred to a later budget cycle. The program continues uncapped into 2026.",
+            "yes_scenario": "Congress and the Trump administration, seeking to quickly rein in spending and fulfill campaign promises, include a cap on 45X credits (either per taxpayer, per year, or overall) in a major budget reconciliation bill or tax package signed into law before Jan 1, 2026. The cap may be immediate or phased in, but the enactment itself triggers a YES resolution.",
+            "final_reasoning": "The combination of a newly unified GOP government with a clear policy mandate to cut IRA clean energy spending, explicit signals in public statements and budget negotiations, and the precedent of rapid action on related credits (via the OBBBA) strongly increases the likelihood that 45X will be capped before January 1, 2026. While industry pushback and legislative bandwidth offer some counterweight, the base rate for this kind of action under unified control (especially given current deficit and tax politics) is high. The fact that the question resolves YES on *any* cap being signed into law\u2014regardless of later developments\u2014lowers the threshold for resolution. The news confirms active consideration and a tight window, so I judge the probability as very high, but not certain, allowing for last-minute legislative failure or strategic delay.",
+            "final_probability": 90
+        },
+        "Economics (Public Choice Theory)": {
+            "time_to_resolution": "Just over 13 months (Question resolves January 1, 2026; today is November 22, 2025).",
+            "perspective_relevance": "As an expert in Public Choice Theory, I focus on the incentives and constraints facing political actors, interest groups, and bureaucracies, especially regarding fiscal policy, rent-seeking, and distributive politics. This perspective is crucial for evaluating the likelihood of a politically contentious policy\u2014like capping 45X credits\u2014being enacted, given the shifting coalitions, lobbying, and legislative bargaining in the current U.S. political landscape.",
+            "status_quo": "The 45X clean energy manufacturing tax credit is currently uncapped; there are no limits on the amount of credits a taxpayer or affiliated group can receive.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Unified GOP Government with Fossil-Fuel Priorities",
+                    "effect": "Increases probability. With Trump as president and Republican majorities in both chambers, the GOP has both the means and motive to scale back clean energy spending, especially uncapped credits widely criticized as costly and prone to political backlash."
+                },
+                {
+                    "factor": "Legislative Filibuster and Intra-Party Differences",
+                    "effect": "Decreases probability. Even with Republican control, the Senate filibuster could require 60 votes unless budget reconciliation is used, which limits the types of provisions and may force compromise or narrowing of caps. GOP moderates from manufacturing-heavy or swing states may resist aggressive caps."
+                },
+                {
+                    "factor": "Interest Group Pressure and Lobbying",
+                    "effect": "Decreases probability. Clean energy manufacturers, state governments, and utilities have built large coalitions and invested heavily based on current rules. These coalitions will lobby fiercely to prevent or dilute caps, arguing for economic growth, jobs, and U.S. manufacturing competitiveness."
+                },
+                {
+                    "factor": "Fiscal Pressures and the Budget Process",
+                    "effect": "Increases probability. Capping credits is an attractive way to achieve deficit reduction or 'pay for' other priorities in reconciliation, especially since the open-ended cost of 45X has drawn significant criticism from fiscal conservatives."
+                },
+                {
+                    "factor": "Public Choice Dynamics\u2014Rent-Seeking and Special Deals",
+                    "effect": "Ambiguous, but slightly increases probability. In practice, capping may be structured in a way that preserves windfalls for key constituencies or exempts favored industries (e.g., critical minerals, certain battery manufacturers), making a cap more politically palatable and thus more likely to be enacted, albeit in a less-than-sweeping form."
+                },
+                {
+                    "factor": "Precedent of OBBB and Current Legislative Timeline",
+                    "effect": "Increases probability. The One Big Beautiful Bill Act (OBBB) already signals a willingness to rapidly reconfigure clean energy incentives and to apply hard deadlines/phaseouts. This demonstrates both urgency and ability to legislate major changes, even over industry objections."
+                },
+                {
+                    "factor": "Base Rate\u2014Historical Precedent for Rapid Rollbacks",
+                    "effect": "Slightly increases probability. Historically, large, uncapped tax credits in the U.S. are often curtailed or capped within a few years when the political pendulum swings, especially when costs rise faster than expected."
+                },
+                {
+                    "factor": "Salience and Technical Complexity",
+                    "effect": "Decreases probability. The technical nature of capping 45X (as opposed to outright repeal or phaseout) makes it harder to message politically and easier to water down or delay. Lawmakers may prefer more visible changes such as phaseouts, FEOC restrictions, or headline repeals."
+                }
+            ],
+            "no_scenario": "Despite GOP control and pressure to cut costs, intense lobbying from manufacturers, state governments, and some moderate Republicans\u2014especially from states with new clean energy investments\u2014leads to a compromise that avoids hard caps. Instead, Congress opts for accelerated phaseouts, new FEOC restrictions, or tighter definitions of eligible components, but leaves 45X credit amounts uncapped through 2026.",
+            "yes_scenario": "Driven by the need for budget offsets and pressure from fiscal conservatives, the GOP enacts a reconciliation bill that includes a cap on 45X credits per taxpayer or affiliated group (either annual or lifetime). The cap is structured with carve-outs for politically influential sectors (e.g., certain minerals or domestic-only production), but nonetheless constitutes a statutory limit, meeting the resolution criteria.",
+            "final_reasoning": "The base rate for major changes to large tax credits within four years of passage\u2014especially after a partisan government turnover\u2014is moderately high. The current unified GOP government, clear fiscal motivation, and critical media/policy attention to the uncapped cost of 45X all point toward a significant risk of capping. However, Public Choice dynamics suggest that lobbying by manufacturers and affected states will be intense, and the technical complexity and salience of a cap (versus a phaseout or tightening eligibility) may delay or blunt action. Given the urgency demonstrated by the passage of OBBB and the explicit inclusion of capping in Republican budget discussions, but offset by the above constraints, I judge the probability that 45X credits are capped by statutory limit before January 1, 2026, as distinctly above 50% but not overwhelming\u2014reflecting considerable uncertainty about the details and political trade-offs. I set my initial forecast at 64%.",
+            "final_probability": 64
+        },
+        "Economics (Regulatory Economics)": {
+            "time_to_resolution": "Approximately 1 year, 1 month until January 1, 2026.",
+            "perspective_relevance": "As an expert in Regulatory Economics, I focus on how regulatory changes are enacted and their economic ramifications, particularly in the context of tax credits, sectoral investment, and policy stability. The 45X credit is a major upstream subsidy affecting investment and supply chains in clean energy manufacturing. My expertise allows me to weigh the likelihood of regulatory restrictions, budgetary pressures, and the political economy of subsidy reform in a rapidly changing U.S. policy landscape.",
+            "status_quo": "Currently, the 45X clean energy manufacturing tax credit is uncapped; there is no limit on the amount that a taxpayer or affiliated group can receive.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Republican Political Control",
+                    "effect": "Increases probability. Unified Republican control of the presidency and both chambers of Congress, with clear stated intentions to cut spending on clean energy credits, increases the odds for restrictive amendments to the IRA, including capping credits."
+                },
+                {
+                    "factor": "Budgetary Concerns and Cost Overruns",
+                    "effect": "Increases probability. There is bipartisan concern, amplified by libertarian and conservative think tanks, about the unlimited fiscal exposure from uncapped credits, especially as investment surges beyond original estimates."
+                },
+                {
+                    "factor": "Precedent and Base Rate for Major Credit Reforms",
+                    "effect": "Decreases probability somewhat. While major tax credits are frequently reformed or sunsetted, outright caps (as opposed to phaseouts or eligibility restrictions) are less common in recent U.S. legislative history, especially for credits already spurring large-scale investment."
+                },
+                {
+                    "factor": "Legislative Calendar and Prioritization",
+                    "effect": "Decreases probability. Congress has a limited window to enact complex reforms, and capping credits may not be the highest energy policy priority compared to repeals, FEOC restrictions, or accelerating phaseouts."
+                },
+                {
+                    "factor": "Industry and State Pushback",
+                    "effect": "Decreases probability. States and manufacturers are aggressively accelerating projects to maximize federal incentives before expected rollbacks, and there is substantial lobbying to avoid abrupt disruption to ongoing or planned projects."
+                },
+                {
+                    "factor": "Alternative Restriction Mechanisms",
+                    "effect": "Decreases probability. Other mechanisms\u2014such as FEOC exclusions, stricter domestic content requirements, or earlier phaseouts\u2014may be preferred over hard caps, as they can be targeted at specific policy objectives (e.g., excluding China) and are already in advanced legislative drafts."
+                }
+            ],
+            "no_scenario": "Congress enacts IRA reforms that focus on accelerated phaseouts, FEOC exclusions, and eligibility tightening, but does not impose any hard cap on the total or per-taxpayer value of 45X credits. The emphasis is on restricting access based on supply-chain or national security concerns, and the political cost of disrupting U.S. manufacturing investments leads to a preference for gradual phaseouts rather than caps.",
+            "yes_scenario": "Congress passes a budget reconciliation or omnibus bill before January 1, 2026, that contains an explicit cap\u2014either annual or lifetime\u2014on the 45X credits available to any taxpayer or affiliated group. This could be a response to fiscal projections showing runaway subsidy costs, or as a tradeoff to preserve some form of the credit in exchange for overall budget discipline.",
+            "final_reasoning": "There is substantial momentum for reforming clean energy tax credits under Republican control, and capping credits is a plausible method to limit fiscal exposure. However, a review of the One Big Beautiful Bill Act and related reporting shows the focus is more on phaseouts, FEOC restrictions, and accelerated timelines, not explicit caps. Industry and state lobbying, the risk of investment disruption, and the legislative history of tax credit reforms suggest caps are less likely than phaseouts or eligibility tightening. While the probability is higher than under divided government, it remains below 50%, as most legislative energy is directed at other forms of restriction, and explicit caps are relatively rare in recent U.S. clean energy policy. I estimate a 30% probability for capped credits being enacted before January 1, 2026.",
+            "final_probability": 30
+        },
+        "Political Science (American Public Policy Process)": {
+            "time_to_resolution": "About 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in the American public policy process, I bring a deep understanding of legislative dynamics, partisan incentives, budgetary politics, and the typical timeline and pathways for major tax policy changes. My expertise allows me to assess how divided government, committee bottlenecks, industry lobbying, and election cycles influence the likelihood of changes to major tax credits such as 45X.",
+            "status_quo": "The 45X clean energy manufacturing tax credit is currently uncapped. Under the original Inflation Reduction Act, there is no statutory cap on the total amount of credits available to a taxpayer or affiliated group.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent legislative activity (OBBBA and Trump administration priorities)",
+                    "effect": "Increases probability. The July 2025 'One Big Beautiful Bill Act' (OBBBA), already signed into law, demonstrates a willingness and ability by unified Republican government to substantially alter or repeal clean energy tax credits. Republicans have explicitly signaled concern about the cost and open-ended nature of 45X and have majorities in both chambers."
+                },
+                {
+                    "factor": "Budgetary politics and deficit hawk rhetoric",
+                    "effect": "Increases probability. There is heightened scrutiny on federal spending, especially for large, open-ended tax credits. Capping credits is a straightforward way to control outlays and aligns with stated GOP goals."
+                },
+                {
+                    "factor": "Industry and bipartisan lobbying",
+                    "effect": "Decreases probability. Many manufacturers and clean energy advocates, including some in GOP-leaning states, benefit from 45X. There is bipartisan interest in U.S. energy manufacturing competitiveness, which creates resistance to dramatic or abrupt restrictions."
+                },
+                {
+                    "factor": "Legislative calendar and inertia",
+                    "effect": "Decreases probability. Major changes to tax credits\u2014even with unified government\u2014can encounter delays, especially as focus shifts to the 2026 midterms and other priorities. The window for further major legislative action before 2026 is narrowing."
+                },
+                {
+                    "factor": "Precedent and base rates for capping existing credits",
+                    "effect": "Slightly increases probability. Historically, Congress does sometimes cap or sunset open-ended credits when faced with unexpectedly high outlays, but such actions usually occur as part of larger budget packages and are often prospective, with phase-ins and exceptions."
+                }
+            ],
+            "no_scenario": "Despite Republican control and critical rhetoric, Congress fails to pass (or the president does not sign) any legislation that sets a limit on the amount of 45X credits a taxpayer or affiliated group can receive before January 1, 2026. This could result from intraparty disagreements, successful industry lobbying, or simple legislative inertia as time runs out.",
+            "yes_scenario": "Congress enacts and the president signs a law that imposes a cap on the 45X tax credit per taxpayer or affiliated group before January 1, 2026. This could be as a direct provision in a budget reconciliation bill, a targeted tax reform, or an omnibus appropriations package, and could take the form of an annual, lifetime, or per-project cap.",
+            "final_reasoning": "The status quo (no cap) is being directly challenged by recent legislative action under unified Republican government, which has already enacted OBBBA and prioritized reducing open-ended clean energy subsidies. Republican policymakers, including those close to Trump, have publicly stated concerns about the cost and scalability of 45X. There is active discussion in budget reconciliation talks about capping these credits. However, there remain significant headwinds: industry and bipartisan support for domestic manufacturing, the complexity of implementing a cap (retroactively or prospectively), and the fact that Congress often moves more slowly than rhetoric would suggest. Additionally, the biggest legislative window for such changes was likely summer-fall 2025, and the closer we get to an election cycle, the harder it is to pass controversial budget measures. Historically, capping credits is not unusual, especially in the context of budget cutting, but it often occurs with compromise and some grandfathering. Given all these factors, and the explicit signaling in the news and legislative record, I assess the probability of 45X being capped before January 1, 2026 as moderately high, but not overwhelming\u2014bold, but not extreme.",
+            "final_probability": 68
+        },
+        "Political Science (Legislative Politics)": {
+            "time_to_resolution": "Just over 1 year (resolution on or before January 1, 2026; today is November 22, 2025)",
+            "perspective_relevance": "As a political scientist specializing in legislative politics, my expertise is directly relevant because the question hinges on Congressional action to cap the 45X tax credit. I bring understanding of U.S. legislative procedures, coalition dynamics, the reconciliation process, partisan and interest group pressures, and typical timelines for major fiscal/energy policy changes. I can assess the likelihood of rapid, substantive tweaks to major tax credits given divided interests, lobbying, budget scoring, and historical base rates for similar policy reversals.",
+            "status_quo": "There is currently no cap on the 45X clean energy manufacturing tax credit. Credits are uncapped and flow according to statutory formulas. No legislation capping the credits has been enacted.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Republican Unified Government (Trump, GOP House & Senate)",
+                    "effect": "Increases probability. With unified partisan control, the GOP has greater capacity to advance legislative priorities, including fiscal retrenchment and fossil-friendly energy policy."
+                },
+                {
+                    "factor": "Recent Precedent: One Big Beautiful Bill Act (OBBBA)",
+                    "effect": "Increases probability. The OBBBA has already rapidly curtailed or sunsetted many IRA tax credits, demonstrating willingness and ability to move major tax policy reversals, though 45X was preserved and even enhanced for some sectors."
+                },
+                {
+                    "factor": "Political/Interest Group Resistance from States and Industry",
+                    "effect": "Decreases probability. Many key states (including swing states with major clean energy manufacturing investments) and influential manufacturers have a strong vested interest in preserving 45X credits without caps; capping would provoke intense lobbying and threaten jobs, which moderates may resist."
+                },
+                {
+                    "factor": "Budgetary Pressure & CBO Scoring",
+                    "effect": "Increases probability. 45X is highly expensive and 'uncapped' credits are a budgetary wildcard. Fiscal conservatives and budget hawks will push hard for caps, especially if CBO scores show escalating outlays."
+                },
+                {
+                    "factor": "Legislative Vehicle & Timeline",
+                    "effect": "Decreases probability. While GOP control and reconciliation facilitate action, Congress is historically slow to pass mid-cycle tax policy changes outside major budget vehicles. With only about a year left, floor time and legislative bandwidth are limited\u2014especially given 2026 election proximity."
+                },
+                {
+                    "factor": "Precedent/Base Rate for Retrospective Caps",
+                    "effect": "Decreases probability. Retroactive or mid-course caps on already-active tax credits are rare due to legal, administrative, and constituency backlash. More commonly, phase-outs or future eligibility restrictions are used."
+                },
+                {
+                    "factor": "Alternative GOP Priorities (FEOC, Buyback Limits, Fossil Incentives)",
+                    "effect": "Decreases probability. The GOP may focus instead on barring Chinese/FEOC entities, tightening eligibility, or boosting fossil fuel incentives, rather than capping credits outright."
+                },
+                {
+                    "factor": "Bipartisan Interest in Some Clean Energy Support",
+                    "effect": "Decreases probability. There is bipartisan interest in maintaining U.S. competitiveness in 'strategic' sectors (EVs, grid equipment, batteries); capping credits could undercut these goals."
+                },
+                {
+                    "factor": "Recent News Signals",
+                    "effect": "Neutral. News focuses on FEOC restrictions, early sunsets, and eligibility tightening, with no direct mention of Congress moving to cap 45X. Most recent statutory changes have not capped 45X, despite pressure."
+                }
+            ],
+            "no_scenario": "Despite GOP control and budget hawk pressure, Congress does not pass any legislation capping 45X before January 1, 2026. The focus remains on FEOC exclusions, eligibility tightening, and accelerating phase-outs for other credits. Industry and swing-state resistance, and legislative bandwidth issues, prevent a cap from moving through both chambers in time. 45X continues as uncapped, with possible other eligibility restrictions (e.g., FEOC, anti-buyback) but no cap on credit size per taxpayer or group.",
+            "yes_scenario": "Congress, motivated by concerns over runaway costs and budget deficits, and leveraging unified GOP control, advances a reconciliation bill or other legislative vehicle that imposes a cap (annual, lifetime, or otherwise) on the 45X credit, as part of broader energy/fiscal reforms. Despite industry pushback, leadership secures enough support, possibly by pairing a cap with expansions elsewhere (e.g., for fossil fuels, select credits for nuclear, etc.). The bill is signed into law before January 1, 2026, making the cap effective for 45X credits.",
+            "final_reasoning": "The base rate for Congress capping an already-operational, politically salient federal tax credit within a single year is quite low, especially given the intensity of industry/state opposition and the complexity of tax policy. However, the current context is unusually favorable to change: unified GOP control, a demonstrated willingness to alter/curtail clean energy tax credits (OBBBA), and prominent budgetary concerns. While the OBBBA and related legislation have targeted other clean energy credits for phase-out or restriction, 45X was notably preserved and even modestly expanded in some respects, likely reflecting its strategic importance and strong lobbying. There is clear evidence of GOP interest in containing costs, with Axios and Cato noting that caps are under discussion, but legislative focus has thus far been on eligibility tightening (FEOC, etc.), not explicit caps. The window for legislative action is narrow; historical precedent suggests phase-outs or eligibility restrictions are more politically viable than outright caps. With no explicit cap movement reported in recent news, and strong countervailing pressures, the probability of a cap being enacted before January 1, 2026 remains modest, but not negligible given the alignment of partisan, fiscal, and policy dynamics. The most likely scenario is that Congress enacts further FEOC/eligibility restrictions, but does not impose a cap on 45X. I estimate the probability at 22%.",
+            "final_probability": 22
+        },
+        "Law (US Tax Law Interpretation)": {
+            "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in US Tax Law Interpretation, I bring a deep understanding of statutory construction, Congressional legislative processes, and IRS administrative guidance. This expertise is highly relevant because the question hinges on whether federal legislation will be enacted that imposes caps on the Section 45X advanced manufacturing production credit before January 1, 2026. I can parse the difference between statutory amendments, regulatory changes, and IRS guidance, and recognize what counts as 'enacted legislation' for tax credit caps. Furthermore, I understand the practical and political feasibility of such legislative changes, considering both the letter and spirit of US tax law and the typical pace of Congressional action.",
+            "status_quo": "Currently, the 45X credit is uncapped; there is no limit on the total or per-taxpayer credits available. The status quo is that, absent further legislative action, credits remain uncapped through at least January 1, 2026.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Republican Control of Congress and Presidency",
+                    "effect": "Increases probability. Unified Republican control since the 2024 election makes legislative changes to IRA tax credits more likely, as the party has signaled opposition to open-ended clean energy subsidies."
+                },
+                {
+                    "factor": "Legislative Priorities and Political Trade-offs",
+                    "effect": "Moderately increases probability. While Republicans have criticized the uncapped nature of 45X, their legislative focus has primarily been on repeal or acceleration of sunsetting credits, or FEOC (foreign entity) exclusions, not specifically on capping credits. However, budget hawks and deficit concerns raise the salience of imposing caps as a compromise position."
+                },
+                {
+                    "factor": "Recent Legislative Activity (OBBBA and 2025 Tax Legislation)",
+                    "effect": "Decreases probability. The major recent legislation (One Big Beautiful Bill Act and 2025 Tax Legislation) focused on changing phaseout dates, FEOC exclusions, and component definitions. No credible reporting or statutory language thus far points to a hard cap on 45X credits for taxpayers or affiliated groups before 2026, though phaseouts for specific minerals/components begin in 2031."
+                },
+                {
+                    "factor": "Complexity of Capping Credits",
+                    "effect": "Decreases probability. Imposing a cap on a production-based credit is administratively complex and could disrupt already-planned investments. The IRS would need to implement new compliance systems, and industry pushback could slow or derail such efforts."
+                },
+                {
+                    "factor": "Base Rates of Retroactive or Near-term Credit Caps",
+                    "effect": "Decreases probability. Historically, it is rare for Congress to retroactively cap or limit credits for in-progress or near-term projects; phaseouts and FEOC-type restrictions are more common than outright caps, especially with less than a year before the phaseout date."
+                },
+                {
+                    "factor": "Industry and State Pushback",
+                    "effect": "Decreases probability. States and manufacturers are accelerating project timelines to qualify under current rules, and there is strong lobbying to avoid any retroactive or near-term cap that could undermine investments already made under the IRA's original framework."
+                }
+            ],
+            "no_scenario": "Congressional Republicans prioritize ending, phasing out, or restricting eligibility for 45X (via FEOC or component exclusions) but do not impose a dollar or per-taxpayer cap. Legislation signed before January 1, 2026, changes phaseout dates or eligibility, but the credit remains uncapped for all taxpayers who meet the new requirements. The IRS continues to process uncapped 45X claims through the end of 2025.",
+            "yes_scenario": "Congress passes and the President signs legislation before January 1, 2026, that imposes a limit on the total Section 45X credits any taxpayer or affiliated group can claim, either annually or over the life of the credit. For example, a statutory amendment sets a maximum dollar amount (e.g., per taxpayer, per facility, or in aggregate) or otherwise limits the amount of credits distributed, effective immediately or for future years.",
+            "final_reasoning": "While there is heightened political scrutiny of the cost and scope of 45X credits following the Republican sweep in 2024, the legislative record and recent reporting show that Congressional action has focused on phaseouts, FEOC exclusions, and tightening eligibility\u2014not on capping credits. The One Big Beautiful Bill Act and subsequent tax legislation have not included explicit caps, and industry opposition and administrative complexity further reduce the likelihood of Congress implementing such a cap in the short term. Historically, caps on business credits are rare, especially when phaseouts or eligibility restrictions are already being used as primary policy levers. The base rate for new caps being enacted on a production-based credit within a year of its scheduled phaseout is low. Therefore, given current statutory trends, the status quo, and the lack of reporting on an imminent cap, the probability that 45X credits will be capped via enacted legislation before January 1, 2026, remains low, though not impossible given the budgetary climate.",
+            "final_probability": 12
+        },
+        "Law (Administrative Law)": {
+            "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Administrative Law, I bring a nuanced understanding of how federal statutes like the Inflation Reduction Act (IRA) are amended, interpreted, and implemented. My expertise informs the likelihood of legislative changes (such as a cap on 45X credits) being enacted and the practical legal pathways\u2014including reconciliation, agency guidance, and judicial review\u2014that can accelerate or hinder such changes. I am also familiar with the procedural inertia and statutory entrenchment that often protect existing major tax credits from rapid alteration.",
+            "status_quo": "The current status quo is that the 45X advanced manufacturing production credit is uncapped\u2014there are no statutory limits on how much credit a taxpayer or affiliated group can claim, and industry investment has responded robustly to these incentives.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Unified Republican control and stated intent",
+                    "effect": "Increases probability. With Republicans holding the presidency and both chambers of Congress\u2014and having stated a clear intent to restrict IRA tax credits\u2014there is an unusually high structural capacity and political will for statutory change."
+                },
+                {
+                    "factor": "Legislative process and reconciliation window",
+                    "effect": "Increases probability. The most likely legislative vehicle is budget reconciliation, which only requires a simple majority in the Senate and is explicitly being used to target IRA credits. This process is already underway per news articles."
+                },
+                {
+                    "factor": "Recent major legislative changes (OBBBA and FEOC rules)",
+                    "effect": "Increases probability. The One Big Beautiful Bill Act has already curtailed several clean energy credits and imposed FEOC restrictions. While the base articles do not specify a cap on 45X, the ongoing climate of retrenchment increases the likelihood of further restrictions such as caps being enacted."
+                },
+                {
+                    "factor": "Industry pushback and economic impact",
+                    "effect": "Decreases probability. Large investments and industry expansion based on 45X create economic and job dependencies, which may prompt lobbying to avoid strict caps, or at least to grandfather some existing projects. This could slow or moderate legislative action."
+                },
+                {
+                    "factor": "Base rate/statistical inertia",
+                    "effect": "Decreases probability. Historically, once major tax credits are in place, outright capping or repeal is less common than phase-outs or additional targeting, especially when credits are already being narrowed via eligibility or supply chain restrictions."
+                },
+                {
+                    "factor": "Timing and legislative bandwidth",
+                    "effect": "Decreases probability. With only one year left and a crowded legislative agenda (and potential for policy inertia or court challenges), the window for passing and implementing such a cap is tight."
+                },
+                {
+                    "factor": "Focus of current reform efforts",
+                    "effect": "Unclear/slightly increases. News and analysis focus heavily on FEOC exclusions and early phase-outs, but there is explicit discussion in Axios and Cato Institute coverage of capping as a live topic in Republican reconciliation negotiations, signaling non-trivial risk."
+                }
+            ],
+            "no_scenario": "Despite Republican control and intent, reconciliation legislation either does not include a cap on 45X credits, or a cap is proposed but fails to pass due to Senate filibuster (if not in reconciliation), lobbying, industry pressure, or procedural delays. Alternatively, a cap is passed but with an effective date after January 1, 2026, or is struck down in court before taking effect.",
+            "yes_scenario": "A reconciliation bill (or other legislation) is enacted in 2025 that explicitly limits the amount of 45X credits a taxpayer or affiliated group can claim, whether as an annual, project, or lifetime cap. The cap could be broad or targeted (e.g., focused on certain technologies or companies), but must be signed into law before January 1, 2026.",
+            "final_reasoning": "The combination of unified Republican government, strong stated intent to curtail uncapped clean energy credits, and explicit reporting that capping 45X is under consideration in budget reconciliation negotiations markedly raises the risk compared to historical base rates. Administrative law experience indicates that statutory amendments to tax credits are feasible through reconciliation, especially with fiscal conservatives and fossil fuel interests pushing for budget controls. However, several countervailing factors moderate the probability: the sheer scale of existing industry investment, economic and political pushback from affected states and companies, and the historical tendency to opt for phase-outs or eligibility tightening over hard caps. The legislative window is short, and while FEOC and early sunset rules are clearly advancing, the news record does not definitively confirm a cap is imminent. Given these factors, and assuming the resolution requires an explicit statutory cap (not just de facto limits via FEOC or phase-outs), the probability is above historical norms but not overwhelming\u2014caps are possible but not certain. I therefore assign a probability of 38%.",
+            "final_probability": 38
+        }
+    },
+    "deliberation_probability": [
+        37,
+        60,
+        90,
+        64,
+        30,
+        68,
+        22,
+        12,
+        38
+    ],
+    "deliberation_mean_probability": 46.77777777777778,
+    "deliberation_sd": 25.168322241350225,
+    "deliberation_probability_result": 47
+}
