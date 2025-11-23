@@ -1,353 +1,477 @@
 {
     "deliberation_results": {
-        "Tax Policy Analysis (US Congressional Budget Process)": {
-            "time_to_resolution": "About 13 months (until January 1, 2026)",
-            "perspective_relevance": "As an expert in US Congressional Budget Process and tax policy analysis, I can evaluate the likelihood of legislative changes to the 45X advanced manufacturing production credit through the lens of Congressional dynamics, reconciliation rules, budget scoring, and recent legislative precedent. My knowledge of how tax credit policy changes are negotiated, especially under unified government and with respect to cost-control measures like caps, is central to assessing this question.",
-            "status_quo": "Currently, the 45X advanced manufacturing production credit is uncapped: there is no explicit dollar or volume cap per taxpayer or overall, and it is available as long as statutory criteria are met. No cap has been enacted as of November 2025.",
-            "perspective_derived_factors": [
-                {
-                    "factor": "Unified Republican control with stated intent to curb clean energy spending",
-                    "effect": "Increases the probability. The new Congress and President have explicitly called out the cost of uncapped tax credits and have expressed a desire to cut spending, especially on items deemed as 'green subsidies.'"
-                },
-                {
-                    "factor": "Recent legislative action in the 'One Big Beautiful Bill Act' (OBBBA)",
-                    "effect": "Moderately increases the probability. OBBBA accelerates phase-outs and reduces eligibility for many clean energy credits, but evidence shows 45X is preserved with new restrictions (e.g., supply chain, FEOC). The bill does not, as reported, place an explicit cap on 45X, but it demonstrates willingness to tighten clean energy incentives."
-                },
-                {
-                    "factor": "Budgetary pressure and CBO/JCT scoring concerns",
-                    "effect": "Increases the probability. The uncapped nature of 45X is a significant budgetary concern, as highlighted by Cato Institute and others, making it a likely target for caps as part of reconciliation or deficit-reduction efforts."
-                },
-                {
-                    "factor": "Business and state lobbying for certainty and against abrupt changes",
-                    "effect": "Decreases the probability. Manufacturers, states, and some bipartisan coalitions may resist caps that could disrupt planned investments, arguing that caps would undercut the IRA's objectives and current project pipelines."
-                },
-                {
-                    "factor": "Precedent of recent major tax legislation",
-                    "effect": "Increases the probability. Past major tax bills (e.g., IRA, OBBBA) have included various restrictions (phase-outs, eligibility limitations, FEOC rules), though outright caps are less common for production credits. However, the political climate is more favorable to such caps now."
-                },
-                {
-                    "factor": "Timeline and legislative vehicle constraints",
-                    "effect": "Slightly decreases the probability. With less than 14 months remaining, legislative calendars are tight. Major tax changes often move in budget reconciliation or year-end tax bills; if not addressed in 2025, time runs short."
-                }
-            ],
-            "no_scenario": "Despite Republican control and rhetoric, Congress does not enact a cap on 45X credits before January 1, 2026. Instead, changes focus on FEOC exclusions, phase-outs, or tightening eligibility (as in OBBBA), but the credit remains nominally uncapped\u2014either because a cap is too disruptive to ongoing manufacturing investment, business opposition is strong, or other legislative priorities take precedence. Budget hawks may accept more gradual restrictions or future phaseouts instead.",
-            "yes_scenario": "Republicans, prioritizing deficit reduction and responding to criticism over the open-ended cost of 45X, successfully include a cap (annual, lifetime, or per-taxpayer) on the credit in a 2025 budget reconciliation bill or tax package. The cap could be justified as a 'guardrail' to control spending, either as a strict dollar cap or as a volume cap (e.g., maximum output eligible per taxpayer). The measure passes, likely over Democratic opposition but possibly with some bipartisan support, especially if paired with FEOC and anti-China provisions.",
-            "final_reasoning": "The base rate for major production credit caps being enacted in less than 2 years, even under unified government, is low; most past tax credits have not been capped in this fashion. However, the current context is exceptional: 1) There is unified Republican control with an explicit agenda to cut spending on climate and clean energy, 2) The uncapped nature of 45X has become a prominent target for criticism, 3) Recent major tax legislation (OBBBA) has shown that clean energy tax credits can be sharply curtailed or terminated early, and 4) budget scoring will make 45X's open-ended cost a tempting target for caps, especially as the fiscal impact becomes clearer. On the other hand, the OBBBA and reporting to date suggest restrictions have focused more on eligibility and phase-out acceleration rather than explicit caps. There is no clear reporting in the news articles or legislative summaries that a cap on 45X is being actively advanced or has political momentum in the current Congress, even as FEOC and eligibility changes are prioritized. The business lobby is also likely to push hard against caps, and there is precedent for simply tightening eligibility instead. Taking these factors together, and giving appropriate weight to the status quo (no explicit cap yet, and the most recent sweeping legislation did not impose one), I judge the probability of a cap being enacted before January 1, 2026 to be elevated but not greater than even odds.",
-            "final_probability": 37
-        },
-        "Energy Policy Advising (Federal Clean Energy Program Implementation)": {
+        "US Public Policy Analysis (Federal Legislative Procedures)": {
             "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
-            "perspective_relevance": "As an expert in federal clean energy program implementation, I am well-versed in the mechanics and political dynamics surrounding the 45X production tax credit. My background gives me an understanding of legislative processes, stakeholder incentives (including manufacturers, utilities, and policymakers), and the typical pace and sequence of tax credit reforms, as well as the technical and economic consequences of capping credits for the growth and localization of clean energy manufacturing. This perspective allows me to assess the likelihood of capped credits not just from a legislative standpoint, but also in terms of policy implementation feasibility and the signals being sent to industry.",
-            "status_quo": "Currently, the 45X credit is uncapped; taxpayers can claim unlimited credits as long as they meet eligibility. No cap on credit size or lifetime benefit exists.",
+            "perspective_relevance": "As an expert in US public policy analysis with a focus on federal legislative procedures, I am uniquely positioned to assess the likelihood of new statutory restrictions on share buybacks being enacted as a condition of the 45X tax credit. My expertise enables me to interpret legislative intent, the procedural likelihood of such policy amendments under current partisan control, and the influence of stakeholder lobbying, precedent, and congressional workflow in the run-up to a major election and amidst comprehensive energy policy revision.",
+            "status_quo": "There are currently no statutory limits on share buybacks for recipients of the 45X advanced manufacturing production credit. The 2022 IRA imposed a 1% excise tax on corporate buybacks more generally, but no direct link between 45X eligibility and buyback limitations exists.",
             "perspective_derived_factors": [
                 {
-                    "factor": "Republican Control of Congress and Presidency",
-                    "effect": "Increases probability of capping. Unified GOP control (post-2024 election) prioritizes fiscal restraint and skepticism of open-ended clean energy subsidies. Recent statements and budget talks point to serious efforts to rein in IRA spending, with specific mentions of 45X as a target for cuts."
+                    "factor": "Republican Trifecta and Legislative Agenda",
+                    "effect": "Decreases probability. The current GOP control of the presidency, House, and Senate makes progressive-style restrictions\u2014such as limits on buybacks connected to clean energy credits\u2014very unlikely. The GOP's focus is on rolling back or capping clean energy spending, not tightening conditions in a manner associated with Democratic priorities."
                 },
                 {
-                    "factor": "Recent Legislative Activity (OBBBA and Budget Reconciliation)",
-                    "effect": "Increases probability of capping. The 'One Big Beautiful Bill Act' (OBBBA) and subsequent tax packages have demonstrated willingness to compress timelines, add supply chain restrictions, and repeal or phase out other IRA credits, showing that aggressive changes to clean energy tax credits are politically feasible. Budget reconciliation is a powerful tool for passing fiscal and tax measures with a simple majority, bypassing filibusters."
+                    "factor": "Recent Major Energy Legislation (OBBB/2025 Tax Law)",
+                    "effect": "Decreases probability. The One Big Beautiful Bill and 2025 tax legislation have already made major amendments to IRA clean energy credits, including FEOC exclusions and phaseouts, but there is no evidence in news or analysis that buyback restrictions were incorporated. Recent changes focused on eligibility, phaseout, and cost\u2014not on corporate behavior such as buybacks."
                 },
                 {
-                    "factor": "Industry and Stakeholder Pushback",
-                    "effect": "Decreases probability. Strong industry lobbying\u2014particularly from U.S.-based manufacturers, utilities, and unions\u2014makes Congress wary of abrupt changes that could undercut announced investments and jobs. Many new plants and supply chains are already under construction, and capping credits risks retroactively harming these investments."
+                    "factor": "Base Rate for Share Buyback Restrictions on Tax Credits",
+                    "effect": "Decreases probability. Historically, explicit statutory restrictions on share buybacks for recipients of federal tax credits are extremely rare in US law, and attempts to add such restrictions (outside of general excise taxes) have failed to gain traction even under Democratic majorities."
                 },
                 {
-                    "factor": "Timing and Legislative Prioritization",
-                    "effect": "Slightly decreases probability. With only 13 months left and a crowded legislative agenda (including appropriations, debt ceiling, and other energy/fiscal reforms), enacting a cap in time is a logistical challenge. However, the fact that reconciliation bills are being actively developed and that clean energy credits are under direct scrutiny means quick action is possible if prioritized."
+                    "factor": "Stakeholder Influence (Industry and Business Lobbies)",
+                    "effect": "Decreases probability. The manufacturing and business lobbies have strong influence, especially with current congressional leadership. They generally oppose such restrictions, arguing they would reduce investment and flexibility."
                 },
                 {
-                    "factor": "Fiscal Pressure and Cost Overruns",
-                    "effect": "Increases probability. The uncapped nature of 45X has led to major upward revisions in cost projections, giving fiscal conservatives and moderates political cover to push for caps as a way to contain federal spending. High-profile CBO projections and media attention increase the salience of this issue."
+                    "factor": "Progressive Advocacy and High-Profile Criticism",
+                    "effect": "Marginally increases probability. There has been some prominent progressive advocacy for limiting buybacks on firms receiving public subsidies, and the Biden-era IRS guidance considered requirements for other credits (e.g., direct pay). However, with Republicans controlling all levers of federal power, this advocacy is unlikely to prevail."
                 },
                 {
-                    "factor": "Precedent and Base Rate of Retroactive Caps",
-                    "effect": "Slightly decreases probability. Historically, large energy credits are rarely capped retroactively within a short time frame due to legal and market disruption risks. Most changes apply prospectively or with phase-ins. However, the current political moment is unusually aggressive in rolling back IRA provisions."
+                    "factor": "Potential for Symbolic or Narrow Compromise",
+                    "effect": "Slight increase. In budget negotiations, sometimes one party agrees to a minor symbolic provision for political cover, especially if it can be limited in scope or easily circumvented. While unlikely in this context, a minimal reporting requirement or a narrow penalty could be introduced if paired with industry-favored changes."
                 }
             ],
-            "no_scenario": "Despite Republican control, pushback from industry, state leaders (including red-state governors benefiting from new manufacturing), and key senators (especially from Midwest and Sunbelt states with new facilities) leads to compromise: 45X is left uncapped, or only new projects after a future date are subject to a cap, preserving the current structure through at least Jan 1, 2026. Legislative bandwidth and higher priority fiscal or political issues delay or water down proposed changes.",
-            "yes_scenario": "Republican leadership, citing cost overruns and the need for fiscal discipline, inserts a cap (annual, per taxpayer, or aggregate) for the 45X credit into a reconciliation bill or tax package. The cap is applied retroactively or prospectively, but the legislation is signed into law before Jan 1, 2026. Industry pushback is overridden by the political imperative to show action on deficit reduction and to limit perceived 'green corporate welfare.'",
-            "final_reasoning": "The probability of capped credits being enacted before Jan 1, 2026 is notably elevated compared to historical base rates, given the unique political alignment (GOP control), explicit mention of 45X as a target, and the aggressive rollback of IRA provisions in the OBBBA and related bills. However, the combination of industry pushback, the logistical challenges of legislating within a short window, historical reluctance to make abrupt retroactive tax changes, and the fact that other priorities may delay action means that a cap is not inevitable. Given all factors and the current legislative trajectory, I estimate the probability at 60%. This reflects a significant risk\u2014well above base rates\u2014but falls short of certainty due to the aforementioned countervailing pressures.",
-            "final_probability": 60
+            "no_scenario": "Congress passes further amendments to 45X or related IRA credits\u2014such as imposing caps, tightening FEOC rules, adjusting phaseouts, or even reducing overall spending\u2014but does not enact any statutory restriction or penalty on share buybacks by 45X credit recipients. The status quo continues, with only the generic 1% excise tax on buybacks applying, and no linkage to 45X eligibility.",
+            "yes_scenario": "A bipartisan or Republican-led energy/tax bill\u2014perhaps as part of a grand budget deal or in response to headline-grabbing abuses\u2014includes a provision that substantially limits or penalizes share buybacks by firms receiving 45X credits. This could take the form of an excise tax, exclusion from credit eligibility, or a clawback if buybacks are conducted within a specified window. This would require a major political shift or a high-profile scandal that forces legislators' hands.",
+            "final_reasoning": "The overwhelming weight of procedural, partisan, and historical factors makes the enactment of share buyback restrictions linked to 45X credits before January 1, 2026, extremely unlikely. The newly enacted OBBB and related 2025 tax law make no mention of buyback restrictions, focusing instead on FEOC exclusions, phaseouts, and caps. The current Republican trifecta is ideologically opposed to such measures, and base rates for this type of statutory restriction are near zero. While some progressive advocacy exists, it is largely out of step with the current political climate, and there is no evidence of bipartisan movement on this specific issue. Symbolic or reporting-only provisions are possible but would not meet the resolution criteria for 'substantially limited.' Thus, the probability is very low, but not absolutely zero due to the inherent unpredictability of politics and the slim chance of a symbolic compromise provision.",
+            "final_probability": 3
         },
-        "US Legislative Affairs (Federal Legislative Tracking)": {
-            "time_to_resolution": "Approximately 13 months (question closes January 1, 2026; today is November 22, 2025)",
-            "perspective_relevance": "As an expert in US Legislative Affairs with a focus on federal legislative tracking, I have specialized insight into how major tax credits like 45X are amended, the mechanics of Congressional negotiations (especially under unified government), and the practicalities of how and when credit caps are legislated, implemented, and prioritized given political, fiscal, and industrial pressures. My familiarity with past reconciliation bills, tax credit reforms, and the intersection of industrial policy and budgeting provides a grounded basis for evaluating the likelihood of statutory caps being imposed on 45X before 2026.",
-            "status_quo": "Currently, the 45X advanced manufacturing production credit is uncapped; there are no statutory limits on how much a taxpayer or affiliated group can claim, and the credit is being widely utilized by domestic manufacturers.",
+        "US Public Policy Analysis (Clean Energy Incentive Policy)": {
+            "time_to_resolution": "Just over 1 year (question resolves January 1, 2026; today is November 23, 2025).",
+            "perspective_relevance": "As an expert in US Public Policy Analysis, specifically on clean energy incentive policy, I am attuned to legislative trends, political alignments, and the detailed mechanics of tax credit legislation. My expertise allows me to assess both the technical policy levers (e.g., how share buyback restrictions would be structured and implemented) and the real-world political and industry forces influencing such changes, especially given the current Republican dominance and recent policy shifts away from expansive clean energy support.",
+            "status_quo": "There are currently no statutory limits on share buybacks tied specifically to the 45X clean energy manufacturing tax credit. The 2022 IRA included a general 1% excise tax on share buybacks for all large corporations, but not a targeted restriction for 45X recipients.",
             "perspective_derived_factors": [
                 {
-                    "factor": "Republican Unified Government and Fiscal Prioritization",
-                    "effect": "Increases probability. The GOP now controls the White House and both chambers of Congress, and public statements from the Trump administration and Congressional leaders indicate a strong desire to reduce federal spending on clean energy tax credits, with 45X specifically identified as a target due to its open-ended cost."
+                    "factor": "Republican control of the federal government post-2024 election",
+                    "effect": "Decreases probability. The GOP and Trump administration have signaled intent to limit clean energy spending, but their focus is overwhelmingly on FEOC exclusions, caps, or outright rollbacks, not progressive mechanisms like buyback limits."
                 },
                 {
-                    "factor": "Recent Legislation (One Big Beautiful Bill/OBBBA) and Budget Reconciliation Dynamics",
-                    "effect": "Increases probability. The OBBBA, signed July 4, 2025, already restructured or accelerated sunsets for many clean energy credits (notably 45Y/48E), demonstrating both the political will and legislative vehicle to make rapid, sweeping changes to IRA tax credits. 45X remains in place but has attracted substantial attention for its cost."
+                    "factor": "Recent legislative history and base rate of targeted buyback restrictions",
+                    "effect": "Decreases probability. There is little precedent in US federal law for enacting share buyback limits as a condition for a specific tax credit, especially from a Republican-led Congress. The 1% excise tax (IRA 2022) is as far as Congress has gone, and that was under Democratic control."
                 },
                 {
-                    "factor": "Lobbying by Industry and State Interests",
-                    "effect": "Decreases probability modestly. Major US manufacturers, state governments pursuing clean energy investments, and bipartisan economic development coalitions are actively lobbying to preserve the uncapped nature of 45X to avoid undermining existing investments and supply chain expansions. This introduces friction and potential carveouts/delays."
+                    "factor": "Policy priorities and rhetoric among current Congressional majority",
+                    "effect": "Decreases probability. Republican priorities are to reduce the fiscal cost of clean energy tax credits, target Chinese-linked entities (FEOC), and possibly cap total credits, not to layer on progressive-style corporate governance rules."
                 },
                 {
-                    "factor": "Base Rate and Historical Precedent",
-                    "effect": "Increases probability. Historically, when a major tax credit's uncapped cost balloons and is explicitly targeted by a unified government, Congress often moves to impose caps or other restrictions within 1-2 years, especially in reconciliation or omnibus budget vehicles."
+                    "factor": "Stakeholder and industry lobbying",
+                    "effect": "Decreases probability. US manufacturing and energy lobbyists are likely to argue against additional restrictions, especially those viewed as 'anti-business' (like buyback limits), and have strong influence with the current majority."
                 },
                 {
-                    "factor": "Competing Priorities and Legislative Bandwidth",
-                    "effect": "Decreases probability slightly. Despite unified control, Congress faces competing demands (deficit reduction, energy security, geopolitical crises) and may prioritize even more politically salient fights (Social Security, defense, immigration) over additional 45X tweaks in the next legislative window."
+                    "factor": "Progressive advocacy and public criticism of buybacks",
+                    "effect": "Slightly increases probability. While progressive think tanks and some Democrats have called for such restrictions to prevent 'leakage' of public funds to shareholders, their leverage is minimal in the current Congress."
                 },
                 {
-                    "factor": "Recent News and Resolution Criteria",
-                    "effect": "Increases probability. Axios and other reporting confirms that capping 45X is under active discussion in reconciliation talks, and the question resolves YES immediately if *any* statutory cap is enacted before Jan 1, 2026, even if later reversed."
+                    "factor": "Legislative vehicle and process",
+                    "effect": "Decreases probability. Any major clean energy changes are likely to come via reconciliation or large omnibus bills, where priorities will be FEOC exclusions and caps\u2014buyback restrictions are unlikely to be prioritized or survive negotiations."
+                },
+                {
+                    "factor": "Recent legislative activity (e.g. One Big Beautiful Bill Act and 2025 Tax Legislation)",
+                    "effect": "Decreases probability. Extensive news coverage and bill summaries mention FEOC and caps, but no mention of buyback restrictions on 45X, suggesting they are not on the legislative agenda."
                 }
             ],
-            "no_scenario": "Despite strong Republican intent, Congress does not pass or the President does not sign any bill imposing a cap on 45X before January 1, 2026, due to successful industry lobbying, legislative gridlock, or because capping 45X gets deferred to a later budget cycle. The program continues uncapped into 2026.",
-            "yes_scenario": "Congress and the Trump administration, seeking to quickly rein in spending and fulfill campaign promises, include a cap on 45X credits (either per taxpayer, per year, or overall) in a major budget reconciliation bill or tax package signed into law before Jan 1, 2026. The cap may be immediate or phased in, but the enactment itself triggers a YES resolution.",
-            "final_reasoning": "The combination of a newly unified GOP government with a clear policy mandate to cut IRA clean energy spending, explicit signals in public statements and budget negotiations, and the precedent of rapid action on related credits (via the OBBBA) strongly increases the likelihood that 45X will be capped before January 1, 2026. While industry pushback and legislative bandwidth offer some counterweight, the base rate for this kind of action under unified control (especially given current deficit and tax politics) is high. The fact that the question resolves YES on *any* cap being signed into law\u2014regardless of later developments\u2014lowers the threshold for resolution. The news confirms active consideration and a tight window, so I judge the probability as very high, but not certain, allowing for last-minute legislative failure or strategic delay.",
-            "final_probability": 90
+            "no_scenario": "The most likely scenario is that as Republicans pursue spending cuts and tougher FEOC/cap provisions for the 45X credit via a reconciliation bill or omnibus package, there is no political appetite to add limits on share buybacks. Industry opposition and lack of bipartisan support for such a provision ensures it is not included in any enacted legislation before January 1, 2026.",
+            "yes_scenario": "The only plausible (but highly unlikely) scenario is if a last-minute bipartisan compromise is struck\u2014perhaps as a trade for keeping some 45X funding in place\u2014where Democrats secure a symbolic win by attaching share buyback limits to the credit. Even then, the odds are low given the current political composition and priorities.",
+            "final_reasoning": "The base rate for the US Congress enacting share buyback restrictions as a prerequisite for a specific tax credit, especially in a Republican-controlled environment, is extremely low\u2014especially for a clean energy incentive. All recent legislative and political signals (including the One Big Beautiful Bill Act and 2025 tax changes) indicate Republican focus is on FEOC exclusions and caps, not progressive corporate governance reforms like buyback limits. While progressive advocates have raised the issue, they lack leverage in the current Congress, and there is no evidence from news, bill summaries, or legislative trackers that such a provision is under serious consideration. The status quo is thus extremely likely to persist for at least the next year.",
+            "final_probability": 2
+        },
+        "Tax Law (US Tax Code Compliance)": {
+            "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in US Tax Law with a focus on statutory compliance and the legislative process for tax credits, I bring a deep understanding of both the mechanics and political constraints surrounding major tax legislation. This expertise is crucial for assessing the plausibility, legislative pathway, and statutory language likely to be used in any amendment to Section 45X regarding share buybacks.",
+            "status_quo": "Currently, Section 45X of the Internal Revenue Code (as created by the Inflation Reduction Act) does not limit or penalize the use of tax credits for corporate share buybacks. There are no explicit restrictions or additional excise taxes on 45X recipients related to buybacks beyond the general 1% excise tax on all corporate repurchases enacted in the IRA.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Historical Precedent for Targeted Buyback Restrictions in US Tax Law",
+                    "effect": "Decreases probability. US tax law rarely attaches targeted buyback restrictions to specific credits, instead relying (as in the IRA) on broad-based measures like the 1% excise tax on all buybacks."
+                },
+                {
+                    "factor": "2025-2026 Political Landscape (Unified Republican Control)",
+                    "effect": "Decreases probability. With Republicans holding the presidency and both chambers, the legislative focus (as evidenced by the OBBB and public statements) is on capping or repealing clean energy credits, not adding progressive guardrails like buyback restrictions."
+                },
+                {
+                    "factor": "Primary Legislative Targets: Caps, FEOC Exclusions, Sunset Dates",
+                    "effect": "Decreases probability. Recent and ongoing legislative activity (e.g., OBBB) is focused on capping credit value, tightening FEOC rules, and accelerating sunset timelines, not on corporate governance restrictions such as buyback limits."
+                },
+                {
+                    "factor": "Progressive Advocacy and Policy Literature",
+                    "effect": "Slightly increases probability. Progressive think tanks and some Democrats have called for buyback restrictions to prevent windfall enrichment, but these voices lack current legislative leverage given the GOP majority."
+                },
+                {
+                    "factor": "Base Rate for Share Buyback Restrictions in Federal Tax Credits",
+                    "effect": "Decreases probability. There is very little precedent for imposing buyback restrictions as a condition for any production or investment tax credit."
+                },
+                {
+                    "factor": "Recent Major Legislation (OBBB) and Clean Energy Rollbacks",
+                    "effect": "Decreases probability. The OBBB (July 2025) was sweeping in its cuts and phaseouts of clean energy credits and added FEOC rules, but did not introduce or even propose buyback restrictions for 45X or related credits."
+                }
+            ],
+            "no_scenario": "Congress passes legislation (e.g., as in the OBBB or a follow-on reconciliation bill) that caps, phases out, or restricts 45X credits (via FEOC exclusion, value caps, or earlier sunset), but does not address or amend the statute to include any limitations, penalties, or restrictions on share repurchases by recipients.",
+            "yes_scenario": "In the face of mounting public or bipartisan concern about the optics of companies receiving large 45X credits and simultaneously conducting major share buybacks, an amendment is introduced and survives the legislative process\u2014possibly as a political compromise or via must-pass appropriations\u2014explicitly restricting or penalizing buybacks for credit recipients (e.g., by increasing the excise tax for these firms or making eligibility contingent on no buybacks during the subsidy period), and is enacted before January 1, 2026.",
+            "final_reasoning": "The status quo is a lack of buyback limits on 45X. The dominant legislative trend (with unified GOP control) is to scale back or eliminate IRA clean energy credits, not add new restrictions more typical of progressive priorities. The OBBB and related bills focus on cost containment, FEOC exclusions, and earlier sunsets for 45X, with no significant discussion of buyback limits. The base rate for new, targeted buyback limits in US tax credits is near zero, and the only notable federal action on buybacks in recent years is the 1% excise tax (which is general, not specific to 45X). Progressive calls for such limits lack legislative traction in the current climate, and there is no evidence from the news or legislative trackers that such a provision is under serious consideration. Thus, while theoretically possible under rare circumstances (e.g., as part of a bipartisan optics deal), there is no credible pathway or recent precedent for this change by January 2026.",
+            "final_probability": 2
+        },
+        "Tax Law (Corporate Tax Law Interpretation)": {
+            "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in corporate tax law, I bring detailed knowledge of U.S. tax legislation, the legislative process, precedent for imposing limits on share buybacks as a condition for tax incentives, and the interaction between tax credits and corporate finance strategies. My background allows me to closely analyze Congressional behavior, the intent and mechanics of Section 45X, and how political shifts affect tax code amendments.",
+            "status_quo": "Currently, there are no statutory limits on share buybacks for corporations receiving 45X credits under the Inflation Reduction Act (IRA). Share buybacks are subject to a 1% excise tax (from the 2022 IRA), but no further restrictions exist specifically for 45X beneficiaries.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent Political Shift (GOP Control and Trump Presidency)",
+                    "effect": "Decreases probability. The new Republican majority and administration are highly skeptical of green energy incentives and generally favor less regulation on corporations, making it less likely that new buyback restrictions will be enacted."
+                },
+                {
+                    "factor": "Legislative Precedent for Buyback Restrictions",
+                    "effect": "Slightly increases probability. The 2022 IRA introduced a 1% excise tax on buybacks, and progressive groups have advocated for stronger restrictions. However, such measures have faced significant opposition and are not currently a bipartisan priority."
+                },
+                {
+                    "factor": "Legislative Focus on FEOC and Caps, Not Buybacks",
+                    "effect": "Decreases probability. Current legislative discussions and news focus on capping credits and foreign entity (especially Chinese) exclusions, not on restricting buybacks. These are the main targets in ongoing budget talks."
+                },
+                {
+                    "factor": "Corporate Lobbying Power and Economic Arguments",
+                    "effect": "Decreases probability. Manufacturing and energy companies lobby heavily against buyback limitations, arguing these would distort capital allocation and harm competitiveness, which resonates with the current Congress."
+                },
+                {
+                    "factor": "Timeframe and Legislative Calendar",
+                    "effect": "Decreases probability. With only about a year until the deadline, and given that major legislative efforts (OBBB) have already focused on other aspects (caps, FEOC exclusions, phase-outs), the legislative window is tight for new, non-priority changes."
+                },
+                {
+                    "factor": "Public and Policy Discourse",
+                    "effect": "Neutral to slightly decreases probability. While there is some academic and activist support for buyback limits, this is not a central issue in current Congressional or public debate on clean energy tax credits."
+                }
+            ],
+            "no_scenario": "Congress enacts further changes to 45X, such as stricter FEOC rules or caps on credit amounts, but does not introduce or pass any statutory provision substantially limiting share buybacks for 45X recipients before January 1, 2026.",
+            "yes_scenario": "An unforeseen scandal or public backlash arises, causing bipartisan support for anti-buyback provisions\u2014perhaps as part of a broader package targeting 'corporate abuse' of green subsidies. Congress passes a bill that adds explicit limitations or penalties for share repurchases by companies claiming the 45X credit, and it is signed into law before the deadline.",
+            "final_reasoning": "Base rates for the U.S. Congress imposing limits on share buybacks as a condition for sector-specific tax credits are extremely low. The 2022 IRA's 1% excise served as a compromise, and since then, direct restrictions have not gained traction. The current Congressional majority is focused on reducing clean energy subsidies, not adding new corporate restrictions. Most recent legislative energy has been spent on capping credits and preventing foreign (especially Chinese) entities from accessing incentives, which have bipartisan traction, while buyback limits remain a progressive priority without significant bipartisan or business support. Recent major legislation (OBBB) did not address buybacks. Corporate lobbying against such restrictions is significant, and the time window for new legislative initiatives is short given the 2026 deadline. Therefore, the probability of new, substantial limits on share buybacks for 45X recipients being enacted before January 1, 2026, is very low.",
+            "final_probability": 3
+        },
+        "Government Affairs (Energy Sector Lobbying Practices)": {
+            "time_to_resolution": "~13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Government Affairs with a focus on energy sector lobbying practices, I have deep insight into how lobbying coalitions, corporate interests, and legislative bargaining shape the fine print of tax credit policy. Given the complexity of the U.S. energy sector and the high stakes of the 45X credit, my perspective allows me to weigh not just partisan dynamics but also how industry pushback and advocacy campaigns influence final legislative outcomes, especially on controversial guardrails like share buyback limits.",
+            "status_quo": "There are currently no statutory limits on share buybacks for recipients of the 45X clean energy manufacturing tax credit under the Inflation Reduction Act.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Partisan Control and Legislative Priorities",
+                    "effect": "Decreases probability. The current Republican administration and congressional majority are ideologically opposed to imposing new restrictions on business activities like share buybacks. The legislative energy is focused on capping credits and restricting access for foreign and Chinese entities, not on progressive guardrails such as limiting buybacks."
+                },
+                {
+                    "factor": "Industry Influence and Lobbying",
+                    "effect": "Decreases probability. Major beneficiaries of the 45X credit\u2014large U.S. and multinational manufacturers\u2014are staunchly opposed to limits on share buybacks, viewing them as an intrusion on corporate autonomy and capital allocation. Industry groups (Chamber of Commerce, NAM, API) have significant sway with the current majority, making it very unlikely that such provisions would pass."
+                },
+                {
+                    "factor": "Progressive Advocacy and Policy Precedent",
+                    "effect": "Marginally increases probability. Progressive groups have called for share buyback limits to ensure tax credits are used for investment, not shareholder enrichment. The precedent of the IRA\u2019s 1% buyback excise tax shows some congressional appetite, but this is modest and not targeted at 45X credits per se."
+                },
+                {
+                    "factor": "Legislative Focus on Cost Control and China",
+                    "effect": "Decreases probability. The overwhelming policy and media momentum is toward capping total credits, tightening FEOC rules, and preventing Chinese benefit. These priorities are more likely to be enacted in reconciliation or spending bills than buyback restrictions, which are seen as a secondary or tertiary concern."
+                },
+                {
+                    "factor": "Base Rate of Similar Policy Adoption",
+                    "effect": "Decreases probability. Historically, U.S. tax credits rarely come with direct restrictions on share buybacks outside of the financial/banking sector. Even major recent climate or industrial policy (IRA, CHIPS Act) has mostly avoided hard buyback bans or penalties."
+                }
+            ],
+            "no_scenario": "The prevailing scenario is that Congress passes amendments to 45X before January 1, 2026, but focuses on imposing caps on the credit, tightening Foreign Entity of Concern rules, and possibly adding domestic content requirements or other cost-containment measures. No language limiting or penalizing share buybacks for 45X recipients is included in enacted legislation. Industry lobbying and partisan priorities prevent such a provision from gaining traction.",
+            "yes_scenario": "A sharp public backlash, possibly triggered by a high-profile case of a clean energy firm using 45X credits for massive share buybacks, galvanizes bipartisan support for anti-buyback provisions. Progressive Democrats and populist Republicans unite to include a restriction or penalty on share repurchases for 45X beneficiaries as part of a broader energy or budget package. The provision is narrowly tailored, perhaps modeled on the IRA\u2019s 1% excise tax, and survives conference negotiations to be signed into law before January 1, 2026.",
+            "final_reasoning": "The base rate for direct buyback restrictions tied to tax credits is extremely low in U.S. legislative history, especially outside the financial sector. Current congressional priorities are dominated by fiscal hawkishness and geopolitical concerns (China, cost overruns), not progressive guardrails. The political configuration resulting from the 2024 elections makes share buyback limits particularly unlikely, as the Republican majority and their industry allies are philosophically and practically hostile to such measures. While progressive advocacy has put the issue on the radar, it lacks bipartisan momentum or compelling recent precedent. No news or legislative reporting suggests imminent movement on buyback limits for 45X; all attention is on caps and FEOC exclusion. The only plausible 'Yes' scenario involves a major scandal or public outcry, but none is currently brewing. As such, the status quo is heavily favored, with a high probability that no such limits will be enacted before January 1, 2026.",
+            "final_probability": 5
+        },
+        "Government Affairs (Congressional Budget Procedures)": {
+            "time_to_resolution": "Approximately 1 year and 1 month (until January 1, 2026).",
+            "perspective_relevance": "As an expert in Congressional Budget Procedures, I bring a deep understanding of how changes to major tax credits are negotiated, the mechanics of budget reconciliation, and the types of policy trade-offs that are considered in the legislative process\u2014especially with respect to measures like the 45X tax credit. I track precedent for attaching restrictions (such as share buyback limits) to federal tax incentives, and understand the political and procedural hurdles such amendments face in a divided or unified government.",
+            "status_quo": "There are currently no statutory limits on share buybacks for recipients of the 45X clean energy manufacturing tax credit. The Inflation Reduction Act imposed a 1% excise tax on buybacks generally, but did not condition clean energy credits on restrictions related to share repurchases.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Unified Republican Control and Policy Agenda",
+                    "effect": "Decreases probability. Trump and Congressional Republicans have prioritized rolling back clean energy subsidies and maximizing fossil fuel production, not tightening guardrails on corporate actions like buybacks. The focus is on reducing cost and scope of tax credits, not adding new progressive restrictions."
+                },
+                {
+                    "factor": "Recent Legislative Focus and Precedent",
+                    "effect": "Decreases probability. The One Big Beautiful Bill Act and follow-on legislation have focused on FEOC exclusions, phaseouts, and hard caps for credits, not on restricting share buybacks. The last major attempt to address buybacks was the 1% excise tax in the IRA, which has not been expanded in subsequent legislative vehicles."
+                },
+                {
+                    "factor": "Political Salience of Share Buybacks",
+                    "effect": "Slightly increases probability. Progressive Democrats and some advocacy groups have called for limiting buybacks tied to subsidies, but these efforts have not gained bipartisan traction. The issue is most salient to the left and less so to the current majority."
+                },
+                {
+                    "factor": "Budget Reconciliation Constraints",
+                    "effect": "Decreases probability. Adding buyback restrictions would complicate reconciliation by introducing provisions that may be challenged under the Byrd rule (if not clearly budgetary) and could fracture the party line vote."
+                },
+                {
+                    "factor": "Comparative International and Industry Pressure",
+                    "effect": "Neutral/slightly increases probability. While the EU and Germany have tied some subsidies to reinvestment requirements, there is little evidence this has translated to U.S. clean energy tax credit design, especially under current leadership."
+                },
+                {
+                    "factor": "Base Rate for Similar Restrictions",
+                    "effect": "Decreases probability. Historically, it is rare for U.S. federal tax credits to be conditioned on buyback restrictions\u2014such provisions are typically found in direct grant programs rather than in the tax code."
+                }
+            ],
+            "no_scenario": "Congress enacts further restrictions on the 45X credit (such as FEOC exclusions or capped credits), but does not adopt any statutory limit or penalty regarding share buybacks. The legislative focus remains on reducing outlays, tightening eligibility, and advancing broader energy priorities, with no major provisions targeting corporate capital allocation. Any Democratic proposals to limit buybacks are excluded in conference or fail to gain traction in committee.",
+            "yes_scenario": "A political scandal or wave of negative press highlights a major 45X recipient engaging in large-scale buybacks, prompting bipartisan outrage and a narrowly targeted amendment in an omnibus or budget bill. Alternatively, share buyback restrictions are included as a late-stage bargaining chip in reconciliation negotiations, perhaps as a trade-off for softening other caps. The restriction could take the form of a temporary limitation or penalty for firms conducting buybacks while claiming the credit.",
+            "final_reasoning": "The base rate for imposing share buyback restrictions on U.S. tax credits is exceedingly low. All recent legislative activity has focused on FEOC restrictions, credit caps, and phaseouts, not on progressive guardrails like buyback limits. The current Congressional majority and administration are ideologically opposed to such restrictions, and there is no evidence in the legislative record or policy debates that this is under active consideration. While the progressive wing continues to advocate for tying credits to reinvestment, these provisions are not likely to survive reconciliation or conference, especially in a Republican-controlled Congress. The only plausible path would be an unforeseen scandal or public backlash, but this is speculative and unsupported by recent developments. The status quo is strongly favored, and I see no compelling signals in either the news or the legislative process to suggest imminent change.",
+            "final_probability": 3
+        },
+        "Political Science (Legislative Process Theory)": {
+            "time_to_resolution": "Just over 1 year (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Legislative Process Theory, I analyze how congressional coalitions, agenda-setting, and the sequencing of legislative priorities\u2014especially during unified government and periods of policy retrenchment\u2014shape the likelihood of specific policy amendments. My expertise is highly relevant because the question involves the passage of specialized amendments (specifically, limits on share buybacks) to a major tax credit in a context of partisan realignment and active policy rollback.",
+            "status_quo": "No limits on share buybacks are attached to the 45X tax credit; firms benefiting from 45X can currently engage in share repurchases without restriction.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Partisan Alignment and Agenda Control",
+                    "effect": "Decreases probability. With unified Republican control (Trump presidency, GOP House and Senate), the legislative agenda is determined by a party historically opposed to adding corporate restrictions like share buyback limits. The GOP focus is on reducing or redirecting clean energy subsidies, not on imposing progressive guardrails."
+                },
+                {
+                    "factor": "Legislative Vehicle and Issue Salience",
+                    "effect": "Decreases probability. The main focus of current energy and tax legislation is on capping or phasing out clean energy credits, not on redesigning them to include progressive accountability measures like buyback limits. Buyback restrictions are controversial and not a salient GOP priority."
+                },
+                {
+                    "factor": "Historical Precedent/Base Rates",
+                    "effect": "Decreases probability. Historically, share buyback restrictions are very rarely attached to broad-based tax credits, especially outside of crisis or major bipartisan compromise. The IRA itself imposed only a general 1% excise tax on buybacks, not direct linkage to particular credits."
+                },
+                {
+                    "factor": "Policy Coalition Dynamics",
+                    "effect": "Decreases probability. The coalition driving current changes (conservative, pro-fossil fuel, deficit hawk) is unlikely to compromise by inserting progressive guardrails, particularly when the dominant narrative is about clawing back or capping 'wasteful' spending, not policing corporate financial behavior."
+                },
+                {
+                    "factor": "Procedural Constraints/Legislative Timing",
+                    "effect": "Decreases probability. With a busy agenda for major policy reversals and election-year dynamics, only the highest-priority or consensus amendments are likely to be included before the 2026 deadline."
+                },
+                {
+                    "factor": "External Advocacy and Pressure",
+                    "effect": "Marginally increases probability. Progressive think tanks and some Democratic policymakers have advocated for buyback limits, but lack the agenda-setting power in the current Congress. Only a major scandal or public outcry could overcome the current partisan resistance."
+                }
+            ],
+            "no_scenario": "Congress enacts caps or FEOC restrictions on the 45X credit, but does not include any language substantially limiting or penalizing share repurchases by recipient firms. Clean energy manufacturers remain free to conduct share buybacks while benefiting from the credit, perhaps facing only the generic 1% excise tax on buybacks established under the IRA.",
+            "yes_scenario": "A major scandal or unexpected bipartisan backlash\u2014perhaps triggered by revelations that a large recipient of 45X credits engaged in massive buybacks while laying off workers or underinvesting in innovation\u2014sparks a late-breaking amendment during budget reconciliation. Under public and media pressure, a buyback restriction is included, possibly as a compromise to secure support for a broader package revising 45X.",
+            "final_reasoning": "All legislative signals point against the adoption of limits on share buybacks for the 45X credit before 2026. The current status quo is permissive. The new partisan alignment is focused on capping or curtailing clean energy subsidies, not on adding progressive accountability measures. Buyback restrictions are anathema to the priorities of the new majority, and have little precedent for attachment to tax credits in this context. The legislative calendar is crowded, and buyback limits are not salient in public discourse or among the dominant coalition. Only a highly unlikely external shock would change the coalition calculus. Therefore, the base rate and all process factors suggest the probability is very low, though not quite zero given unpredictable political shocks.",
+            "final_probability": 3
+        },
+        "Political Science (Punctuated Equilibrium Policy Change)": {
+            "time_to_resolution": "About 13 months (question resolves January 1, 2026; today is November 23, 2025)",
+            "perspective_relevance": "As an expert in Punctuated Equilibrium Policy Change, I focus on how long periods of policy stability are interrupted by abrupt, significant policy shifts due to exogenous shocks, changes in political control, or reframing of issues. This perspective is directly relevant given the recent change in U.S. political control (Republican White House and Congress) and the potential for major legislative changes to the 45X tax credit framework.",
+            "status_quo": "No limits on share buybacks are currently attached to the 45X clean energy manufacturing tax credit; companies benefiting from 45X are not penalized or restricted regarding share repurchases.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Partisan Control and Policy Priorities",
+                    "effect": "Decreases probability. With Republicans controlling the White House and Congress, the legislative focus is on scaling back clean energy subsidies and maximizing fossil fuel production, not adding additional guardrails such as limits on share buybacks\u2014an idea more aligned with progressive policy goals."
+                },
+                {
+                    "factor": "Legislative Agenda and Overton Window",
+                    "effect": "Decreases probability. The legislative agenda, as reflected in the One Big Beautiful Bill (OBBB), centers on FEOC exclusions, credit phaseouts, and fossil fuel incentives, not on adding new restrictions like buyback limits. The Overton window is currently shifted away from such corporate governance interventions."
+                },
+                {
+                    "factor": "Historical Precedent/Base Rate",
+                    "effect": "Decreases probability. There is very little precedent in U.S. tax policy for attaching share buyback restrictions to broad-based tax credits for manufacturing. Such limits have only recently become associated with specific, highly scrutinized sectors (e.g., CHIPS Act) and generally under Democratic control."
+                },
+                {
+                    "factor": "Industry Influence and Political Economy",
+                    "effect": "Decreases probability. Clean energy manufacturers, along with business lobbies, have significant influence and would strongly oppose buyback restrictions, especially with a pro-business Republican trifecta in power."
+                },
+                {
+                    "factor": "Competing Priorities for 45X Reform",
+                    "effect": "Decreases probability. The political and legislative energy is focused on FEOC exclusions, capping total credits, and supply chain security. These are widely discussed and have bipartisan momentum, unlike buyback limits."
+                },
+                {
+                    "factor": "Progressive Pressure and Public Criticism",
+                    "effect": "Slightly increases probability. There is criticism from progressive think tanks and some coverage of the risk that 45X could fuel buybacks, but in the current political climate, this factor is weak."
+                },
+                {
+                    "factor": "Salience of Buyback Issue in Other Legislation",
+                    "effect": "Neutral to slightly decreasing. While buyback excise taxes (1%) exist from the IRA, there is no momentum or Republican appetite for expanding restrictions to 45X credits, and the 'stock buyback' issue is not central to the current policy debate."
+                }
+            ],
+            "no_scenario": "Congress passes reforms to 45X in 2025 (e.g., FEOC exclusions, caps on credit volume, phaseouts for critical minerals), but no statutory language limiting or penalizing share buybacks is enacted. The Republican majority resists any Democratic or progressive attempts to attach buyback limits, arguing they are unnecessary and anti-business. The Treasury and IRS do not add buyback restrictions administratively.",
+            "yes_scenario": "A major scandal or investigative report in 2025 reveals egregious use of 45X credits for share buybacks at odds with the public interest, triggering a bipartisan backlash. In a compromise package, Republicans agree to a modest, targeted buyback limitation or penalty as part of a broader reform to secure moderate Democratic votes in the Senate, perhaps as a symbolic gesture or to address a specific loophole.",
+            "final_reasoning": "The base rate for new, targeted share buyback restrictions attached to major manufacturing tax credits in U.S. federal policy is extremely low, especially under unified Republican control. All legislative signals, including the OBBB and current committee discussions, indicate the focus is on restricting access for foreign entities, capping total outlays, and scaling back the overall clean energy subsidy regime\u2014not adding progressive-style guardrails like buyback limits. The only path to a Yes involves an unforeseen scandal or public uproar, which is not currently in evidence. The punctuated equilibrium model suggests that, absent a triggering event or rapid change in the policy image, status quo inertia dominates. Therefore, the probability of a legislative change imposing limits on share buybacks tied to 45X before January 1, 2026 is extremely low.",
+            "final_probability": 2
+        },
+        "Political Science (Interest Group Theory)": {
+            "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Political Science (Interest Group Theory), I bring a focus on how coalitions of stakeholders\u2014industry groups, environmental advocates, unions, and financial interests\u2014shape legislative outcomes on complex tax provisions like 45X. My analysis emphasizes the relative power of competing lobbies, the alignment of partisan interests, and the likelihood of policy changes that affect capital allocation, especially those that might constrain corporate discretion, such as limits on share buybacks.",
+            "status_quo": "Currently, there are no statutory limits on share buybacks tied to eligibility for the 45X clean energy manufacturing tax credit. Firms can use the financial windfall from these credits as they see fit, including for share repurchases, though the IRA includes a separate 1% excise tax on buybacks.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Partisan Control and Legislative Priorities",
+                    "effect": "Decreases probability. With a Republican-controlled White House and Congress, legislative attention is focused on capping costs, restricting foreign access, and phasing out credits, rather than imposing progressive guardrails like buyback limits."
+                },
+                {
+                    "factor": "Interest Group Pressure from Clean Energy Industry",
+                    "effect": "Decreases probability. The clean energy manufacturing industry, and its powerful business coalitions, strongly oppose any restrictions on post-tax-credit capital allocation, arguing such measures would deter investment and reduce U.S. competitiveness."
+                },
+                {
+                    "factor": "Progressive Advocacy and Public Perception",
+                    "effect": "Increases probability slightly. Progressive think tanks and some Democratic legislators have called for buyback restrictions, framing them as necessary to prevent taxpayer-funded enrichment of shareholders. This creates some pressure, but it is not dominant in the current political environment."
+                },
+                {
+                    "factor": "Legislative Precedent and Base Rates",
+                    "effect": "Decreases probability. Recent major energy and industrial bills (IRA, OBBBA) have not included direct buyback restrictions tied to specific credits. The base rate for such provisions in U.S. tax law is extremely low."
+                },
+                {
+                    "factor": "Potential for Grand Bargains or Last-Minute Concessions",
+                    "effect": "Increases probability slightly. In rare cases, deals to secure moderate or progressive votes include symbolic restrictions, but this is unlikely given unified Republican control."
+                },
+                {
+                    "factor": "Salience of Alternative Reforms",
+                    "effect": "Decreases probability. The legislative and lobbying focus is overwhelmingly on FEOC exclusions and credit caps, which have broader bipartisan and cross-industry support."
+                }
+            ],
+            "no_scenario": "Congress moves swiftly to cap the overall 45X credit and tighten FEOC (Foreign Entity of Concern) rules, but does not include any restrictions or penalties on share buybacks in the enacted legislation. Clean energy manufacturers retain full discretion over capital allocation, and progressive calls for buyback limits are sidelined as incompatible with the dominant deregulatory, industry-friendly legislative approach.",
+            "yes_scenario": "A last-minute amendment, potentially as part of a larger budget reconciliation package or to secure the support of a narrow group of moderate or populist senators, adds language to the 45X reform bill that conditions eligibility for the tax credit on a company agreeing to refrain from share buybacks during the period in which credits are claimed. This provision is included in final legislation and signed into law before January 1, 2026.",
+            "final_reasoning": "The base rate for enacting share buyback limits as a condition for energy-related tax credits is extremely low in U.S. law. The current Republican-controlled political environment is focused on reducing federal spending, tightening foreign eligibility, and sunsetting clean energy credits\u2014priorities that align with industry and fiscal conservatives, not with progressive priorities such as buyback restrictions. The clean energy manufacturing lobby is large and would likely fight such constraints, while there is little evidence of Republican interest in penalizing buybacks outside of rhetorical anti-ESG or anti-woke themes. Progressive advocacy for buyback limitations exists, but lacks the legislative leverage needed for inclusion, especially given the more urgent focus on other reforms (FEOC, credit caps). While it is theoretically possible for a symbolic restriction to be included as a compromise, this is highly unlikely given the partisan and interest group alignment. Therefore, the probability that legislation imposing substantial limits on share buybacks as a condition of the 45X tax credit will be enacted before January 1, 2026 is very low.",
+            "final_probability": 5
         },
         "Economics (Public Choice Theory)": {
-            "time_to_resolution": "Just over 13 months (Question resolves January 1, 2026; today is November 22, 2025).",
-            "perspective_relevance": "As an expert in Public Choice Theory, I focus on the incentives and constraints facing political actors, interest groups, and bureaucracies, especially regarding fiscal policy, rent-seeking, and distributive politics. This perspective is crucial for evaluating the likelihood of a politically contentious policy\u2014like capping 45X credits\u2014being enacted, given the shifting coalitions, lobbying, and legislative bargaining in the current U.S. political landscape.",
-            "status_quo": "The 45X clean energy manufacturing tax credit is currently uncapped; there are no limits on the amount of credits a taxpayer or affiliated group can receive.",
+            "time_to_resolution": "Approximately 1 year and 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Public Choice Theory, I analyze how self-interested actors (politicians, bureaucrats, industry lobbyists, and voters) shape policy outcomes, especially under conditions of concentrated benefits and diffuse costs. In the context of the 45X tax credit, I assess not just the 'should' of policy reform but the 'will'\u2014what legislative and regulatory outcomes are likely given political incentives and institutional constraints.",
+            "status_quo": "There are currently no statutory limits or penalties on share buybacks for firms claiming the 45X advanced manufacturing production credit. Companies can use increased after-tax profits (from 45X) for share repurchases with no restrictions beyond the general 1% excise tax on buybacks introduced by the IRA.",
             "perspective_derived_factors": [
                 {
-                    "factor": "Unified GOP Government with Fossil-Fuel Priorities",
-                    "effect": "Increases probability. With Trump as president and Republican majorities in both chambers, the GOP has both the means and motive to scale back clean energy spending, especially uncapped credits widely criticized as costly and prone to political backlash."
+                    "factor": "Unified Republican Government and Policy Agenda",
+                    "effect": "Decreases probability. The incoming Trump administration and GOP Congressional majorities have signaled a strong preference for rolling back clean energy tax credits, not making them more restrictive. Their rhetoric and legislative priorities focus on reducing overall federal support for renewables and maximizing fossil fuel production, rather than tightening guardrails on remaining incentives."
                 },
                 {
-                    "factor": "Legislative Filibuster and Intra-Party Differences",
-                    "effect": "Decreases probability. Even with Republican control, the Senate filibuster could require 60 votes unless budget reconciliation is used, which limits the types of provisions and may force compromise or narrowing of caps. GOP moderates from manufacturing-heavy or swing states may resist aggressive caps."
+                    "factor": "Base Rate for Buyback Restrictions in US Industrial Policy",
+                    "effect": "Decreases probability. Historically, US industrial subsidies, including energy tax credits, rarely include outright bans or penalties on share buybacks. The 1% excise tax in the 2022 IRA is a notable exception, but specific restrictions attached to sectoral credits remain rare. The base rate for adding such restrictions within a short interval (next 13 months) is very low."
                 },
                 {
-                    "factor": "Interest Group Pressure and Lobbying",
-                    "effect": "Decreases probability. Clean energy manufacturers, state governments, and utilities have built large coalitions and invested heavily based on current rules. These coalitions will lobby fiercely to prevent or dilute caps, arguing for economic growth, jobs, and U.S. manufacturing competitiveness."
+                    "factor": "Interest Group Politics: Business and Industry Lobby",
+                    "effect": "Decreases probability. The clean energy manufacturing sector, along with the broader business community, strongly opposes restrictions on capital allocation such as buyback limits. With Republicans in power, business lobbyists will have outsized influence, and are likely to resist any new restrictions that could be seen as anti-business or anti-market."
                 },
                 {
-                    "factor": "Fiscal Pressures and the Budget Process",
-                    "effect": "Increases probability. Capping credits is an attractive way to achieve deficit reduction or 'pay for' other priorities in reconciliation, especially since the open-ended cost of 45X has drawn significant criticism from fiscal conservatives."
+                    "factor": "Progressive Policy Pressure and Bipartisan Optics",
+                    "effect": "Slightly increases probability. Progressive think tanks and some Democrats advocate for buyback limits to ensure taxpayer funds are not used for shareholder enrichment. There is a slim chance of an 'optics' move to add such limits to preserve some clean energy credits or as a bargaining chip. However, with the current partisan alignment, this is unlikely to overcome the other factors."
                 },
                 {
-                    "factor": "Public Choice Dynamics\u2014Rent-Seeking and Special Deals",
-                    "effect": "Ambiguous, but slightly increases probability. In practice, capping may be structured in a way that preserves windfalls for key constituencies or exempts favored industries (e.g., critical minerals, certain battery manufacturers), making a cap more politically palatable and thus more likely to be enacted, albeit in a less-than-sweeping form."
-                },
-                {
-                    "factor": "Precedent of OBBB and Current Legislative Timeline",
-                    "effect": "Increases probability. The One Big Beautiful Bill Act (OBBB) already signals a willingness to rapidly reconfigure clean energy incentives and to apply hard deadlines/phaseouts. This demonstrates both urgency and ability to legislate major changes, even over industry objections."
-                },
-                {
-                    "factor": "Base Rate\u2014Historical Precedent for Rapid Rollbacks",
-                    "effect": "Slightly increases probability. Historically, large, uncapped tax credits in the U.S. are often curtailed or capped within a few years when the political pendulum swings, especially when costs rise faster than expected."
-                },
-                {
-                    "factor": "Salience and Technical Complexity",
-                    "effect": "Decreases probability. The technical nature of capping 45X (as opposed to outright repeal or phaseout) makes it harder to message politically and easier to water down or delay. Lawmakers may prefer more visible changes such as phaseouts, FEOC restrictions, or headline repeals."
+                    "factor": "Legislative Path and Time Constraint",
+                    "effect": "Decreases probability. Complex, targeted restrictions like share buyback limits are hard to draft and pass quickly, especially in a context where the main thrust is to reduce or sunset clean energy credits, not reform them. The legislative calendar is tight, and attention will likely focus on topline fiscal savings and FEOC/cap restrictions, not new conditionalities."
                 }
             ],
-            "no_scenario": "Despite GOP control and pressure to cut costs, intense lobbying from manufacturers, state governments, and some moderate Republicans\u2014especially from states with new clean energy investments\u2014leads to a compromise that avoids hard caps. Instead, Congress opts for accelerated phaseouts, new FEOC restrictions, or tighter definitions of eligible components, but leaves 45X credit amounts uncapped through 2026.",
-            "yes_scenario": "Driven by the need for budget offsets and pressure from fiscal conservatives, the GOP enacts a reconciliation bill that includes a cap on 45X credits per taxpayer or affiliated group (either annual or lifetime). The cap is structured with carve-outs for politically influential sectors (e.g., certain minerals or domestic-only production), but nonetheless constitutes a statutory limit, meeting the resolution criteria.",
-            "final_reasoning": "The base rate for major changes to large tax credits within four years of passage\u2014especially after a partisan government turnover\u2014is moderately high. The current unified GOP government, clear fiscal motivation, and critical media/policy attention to the uncapped cost of 45X all point toward a significant risk of capping. However, Public Choice dynamics suggest that lobbying by manufacturers and affected states will be intense, and the technical complexity and salience of a cap (versus a phaseout or tightening eligibility) may delay or blunt action. Given the urgency demonstrated by the passage of OBBB and the explicit inclusion of capping in Republican budget discussions, but offset by the above constraints, I judge the probability that 45X credits are capped by statutory limit before January 1, 2026, as distinctly above 50% but not overwhelming\u2014reflecting considerable uncertainty about the details and political trade-offs. I set my initial forecast at 64%.",
-            "final_probability": 64
+            "no_scenario": "The most plausible scenario is that the Republican Congress and White House prioritize reducing or phasing out 45X and other clean energy tax credits. Any reforms target cost containment (e.g., caps, FEOC rules) rather than imposing new restrictions on how companies use their remaining credits. Buyback limits are not introduced, and existing broad rules (like the 1% excise tax on buybacks) remain the only federal constraint.",
+            "yes_scenario": "A much less likely scenario would involve a bipartisan compromise where, to preserve some version of the 45X credit (perhaps at a reduced level or with new caps), Republicans accept a Democratic demand to add a restriction or penalty on share buybacks by recipient firms. This could take the form of a temporary prohibition or a clawback mechanism, but it would likely only emerge if Republicans are forced to make concessions to moderate Democrats in the Senate to secure passage of a larger budget bill.",
+            "final_reasoning": "The status quo is a 45X credit with no buyback-specific restrictions beyond the general IRA excise tax. The new GOP administration and Congressional majority are focused on reducing, not tightening, clean energy subsidies, and their coalition is aligned with corporate interests that strongly oppose buyback limits. Historically, buyback-specific restrictions on industrial credits are extremely rare and would require either significant bipartisan compromise or a shift in public outrage\u2014neither of which is in evidence. Most policy energy will go into FEOC rules and caps, both of which have more bipartisan traction and fiscal justification. While a progressive push for buyback limits exists, it lacks leverage in the present political configuration. Given the time constraint (just 13 months), the base rate for this kind of targeted, restrictive amendment is extremely low. The most probable world is one where 45X is capped, phased out, or narrowed, but not further conditioned by buyback restrictions. I estimate the probability of a 'Yes' (legislated share buyback limits attached to 45X before Jan 1, 2026) at 3%.",
+            "final_probability": 3
         },
-        "Economics (Regulatory Economics)": {
-            "time_to_resolution": "Approximately 1 year, 1 month until January 1, 2026.",
-            "perspective_relevance": "As an expert in Regulatory Economics, I focus on how regulatory changes are enacted and their economic ramifications, particularly in the context of tax credits, sectoral investment, and policy stability. The 45X credit is a major upstream subsidy affecting investment and supply chains in clean energy manufacturing. My expertise allows me to weigh the likelihood of regulatory restrictions, budgetary pressures, and the political economy of subsidy reform in a rapidly changing U.S. policy landscape.",
-            "status_quo": "Currently, the 45X clean energy manufacturing tax credit is uncapped; there is no limit on the amount that a taxpayer or affiliated group can receive.",
-            "perspective_derived_factors": [
-                {
-                    "factor": "Republican Political Control",
-                    "effect": "Increases probability. Unified Republican control of the presidency and both chambers of Congress, with clear stated intentions to cut spending on clean energy credits, increases the odds for restrictive amendments to the IRA, including capping credits."
-                },
-                {
-                    "factor": "Budgetary Concerns and Cost Overruns",
-                    "effect": "Increases probability. There is bipartisan concern, amplified by libertarian and conservative think tanks, about the unlimited fiscal exposure from uncapped credits, especially as investment surges beyond original estimates."
-                },
-                {
-                    "factor": "Precedent and Base Rate for Major Credit Reforms",
-                    "effect": "Decreases probability somewhat. While major tax credits are frequently reformed or sunsetted, outright caps (as opposed to phaseouts or eligibility restrictions) are less common in recent U.S. legislative history, especially for credits already spurring large-scale investment."
-                },
-                {
-                    "factor": "Legislative Calendar and Prioritization",
-                    "effect": "Decreases probability. Congress has a limited window to enact complex reforms, and capping credits may not be the highest energy policy priority compared to repeals, FEOC restrictions, or accelerating phaseouts."
-                },
-                {
-                    "factor": "Industry and State Pushback",
-                    "effect": "Decreases probability. States and manufacturers are aggressively accelerating projects to maximize federal incentives before expected rollbacks, and there is substantial lobbying to avoid abrupt disruption to ongoing or planned projects."
-                },
-                {
-                    "factor": "Alternative Restriction Mechanisms",
-                    "effect": "Decreases probability. Other mechanisms\u2014such as FEOC exclusions, stricter domestic content requirements, or earlier phaseouts\u2014may be preferred over hard caps, as they can be targeted at specific policy objectives (e.g., excluding China) and are already in advanced legislative drafts."
-                }
-            ],
-            "no_scenario": "Congress enacts IRA reforms that focus on accelerated phaseouts, FEOC exclusions, and eligibility tightening, but does not impose any hard cap on the total or per-taxpayer value of 45X credits. The emphasis is on restricting access based on supply-chain or national security concerns, and the political cost of disrupting U.S. manufacturing investments leads to a preference for gradual phaseouts rather than caps.",
-            "yes_scenario": "Congress passes a budget reconciliation or omnibus bill before January 1, 2026, that contains an explicit cap\u2014either annual or lifetime\u2014on the 45X credits available to any taxpayer or affiliated group. This could be a response to fiscal projections showing runaway subsidy costs, or as a tradeoff to preserve some form of the credit in exchange for overall budget discipline.",
-            "final_reasoning": "There is substantial momentum for reforming clean energy tax credits under Republican control, and capping credits is a plausible method to limit fiscal exposure. However, a review of the One Big Beautiful Bill Act and related reporting shows the focus is more on phaseouts, FEOC restrictions, and accelerated timelines, not explicit caps. Industry and state lobbying, the risk of investment disruption, and the legislative history of tax credit reforms suggest caps are less likely than phaseouts or eligibility tightening. While the probability is higher than under divided government, it remains below 50%, as most legislative energy is directed at other forms of restriction, and explicit caps are relatively rare in recent U.S. clean energy policy. I estimate a 30% probability for capped credits being enacted before January 1, 2026.",
-            "final_probability": 30
-        },
-        "Political Science (American Public Policy Process)": {
-            "time_to_resolution": "About 13 months (until January 1, 2026)",
-            "perspective_relevance": "As an expert in the American public policy process, I bring a deep understanding of legislative dynamics, partisan incentives, budgetary politics, and the typical timeline and pathways for major tax policy changes. My expertise allows me to assess how divided government, committee bottlenecks, industry lobbying, and election cycles influence the likelihood of changes to major tax credits such as 45X.",
-            "status_quo": "The 45X clean energy manufacturing tax credit is currently uncapped. Under the original Inflation Reduction Act, there is no statutory cap on the total amount of credits available to a taxpayer or affiliated group.",
-            "perspective_derived_factors": [
-                {
-                    "factor": "Recent legislative activity (OBBBA and Trump administration priorities)",
-                    "effect": "Increases probability. The July 2025 'One Big Beautiful Bill Act' (OBBBA), already signed into law, demonstrates a willingness and ability by unified Republican government to substantially alter or repeal clean energy tax credits. Republicans have explicitly signaled concern about the cost and open-ended nature of 45X and have majorities in both chambers."
-                },
-                {
-                    "factor": "Budgetary politics and deficit hawk rhetoric",
-                    "effect": "Increases probability. There is heightened scrutiny on federal spending, especially for large, open-ended tax credits. Capping credits is a straightforward way to control outlays and aligns with stated GOP goals."
-                },
-                {
-                    "factor": "Industry and bipartisan lobbying",
-                    "effect": "Decreases probability. Many manufacturers and clean energy advocates, including some in GOP-leaning states, benefit from 45X. There is bipartisan interest in U.S. energy manufacturing competitiveness, which creates resistance to dramatic or abrupt restrictions."
-                },
-                {
-                    "factor": "Legislative calendar and inertia",
-                    "effect": "Decreases probability. Major changes to tax credits\u2014even with unified government\u2014can encounter delays, especially as focus shifts to the 2026 midterms and other priorities. The window for further major legislative action before 2026 is narrowing."
-                },
-                {
-                    "factor": "Precedent and base rates for capping existing credits",
-                    "effect": "Slightly increases probability. Historically, Congress does sometimes cap or sunset open-ended credits when faced with unexpectedly high outlays, but such actions usually occur as part of larger budget packages and are often prospective, with phase-ins and exceptions."
-                }
-            ],
-            "no_scenario": "Despite Republican control and critical rhetoric, Congress fails to pass (or the president does not sign) any legislation that sets a limit on the amount of 45X credits a taxpayer or affiliated group can receive before January 1, 2026. This could result from intraparty disagreements, successful industry lobbying, or simple legislative inertia as time runs out.",
-            "yes_scenario": "Congress enacts and the president signs a law that imposes a cap on the 45X tax credit per taxpayer or affiliated group before January 1, 2026. This could be as a direct provision in a budget reconciliation bill, a targeted tax reform, or an omnibus appropriations package, and could take the form of an annual, lifetime, or per-project cap.",
-            "final_reasoning": "The status quo (no cap) is being directly challenged by recent legislative action under unified Republican government, which has already enacted OBBBA and prioritized reducing open-ended clean energy subsidies. Republican policymakers, including those close to Trump, have publicly stated concerns about the cost and scalability of 45X. There is active discussion in budget reconciliation talks about capping these credits. However, there remain significant headwinds: industry and bipartisan support for domestic manufacturing, the complexity of implementing a cap (retroactively or prospectively), and the fact that Congress often moves more slowly than rhetoric would suggest. Additionally, the biggest legislative window for such changes was likely summer-fall 2025, and the closer we get to an election cycle, the harder it is to pass controversial budget measures. Historically, capping credits is not unusual, especially in the context of budget cutting, but it often occurs with compromise and some grandfathering. Given all these factors, and the explicit signaling in the news and legislative record, I assess the probability of 45X being capped before January 1, 2026 as moderately high, but not overwhelming\u2014bold, but not extreme.",
-            "final_probability": 68
-        },
-        "Political Science (Legislative Politics)": {
-            "time_to_resolution": "Just over 1 year (resolution on or before January 1, 2026; today is November 22, 2025)",
-            "perspective_relevance": "As a political scientist specializing in legislative politics, my expertise is directly relevant because the question hinges on Congressional action to cap the 45X tax credit. I bring understanding of U.S. legislative procedures, coalition dynamics, the reconciliation process, partisan and interest group pressures, and typical timelines for major fiscal/energy policy changes. I can assess the likelihood of rapid, substantive tweaks to major tax credits given divided interests, lobbying, budget scoring, and historical base rates for similar policy reversals.",
-            "status_quo": "There is currently no cap on the 45X clean energy manufacturing tax credit. Credits are uncapped and flow according to statutory formulas. No legislation capping the credits has been enacted.",
-            "perspective_derived_factors": [
-                {
-                    "factor": "Republican Unified Government (Trump, GOP House & Senate)",
-                    "effect": "Increases probability. With unified partisan control, the GOP has greater capacity to advance legislative priorities, including fiscal retrenchment and fossil-friendly energy policy."
-                },
-                {
-                    "factor": "Recent Precedent: One Big Beautiful Bill Act (OBBBA)",
-                    "effect": "Increases probability. The OBBBA has already rapidly curtailed or sunsetted many IRA tax credits, demonstrating willingness and ability to move major tax policy reversals, though 45X was preserved and even enhanced for some sectors."
-                },
-                {
-                    "factor": "Political/Interest Group Resistance from States and Industry",
-                    "effect": "Decreases probability. Many key states (including swing states with major clean energy manufacturing investments) and influential manufacturers have a strong vested interest in preserving 45X credits without caps; capping would provoke intense lobbying and threaten jobs, which moderates may resist."
-                },
-                {
-                    "factor": "Budgetary Pressure & CBO Scoring",
-                    "effect": "Increases probability. 45X is highly expensive and 'uncapped' credits are a budgetary wildcard. Fiscal conservatives and budget hawks will push hard for caps, especially if CBO scores show escalating outlays."
-                },
-                {
-                    "factor": "Legislative Vehicle & Timeline",
-                    "effect": "Decreases probability. While GOP control and reconciliation facilitate action, Congress is historically slow to pass mid-cycle tax policy changes outside major budget vehicles. With only about a year left, floor time and legislative bandwidth are limited\u2014especially given 2026 election proximity."
-                },
-                {
-                    "factor": "Precedent/Base Rate for Retrospective Caps",
-                    "effect": "Decreases probability. Retroactive or mid-course caps on already-active tax credits are rare due to legal, administrative, and constituency backlash. More commonly, phase-outs or future eligibility restrictions are used."
-                },
-                {
-                    "factor": "Alternative GOP Priorities (FEOC, Buyback Limits, Fossil Incentives)",
-                    "effect": "Decreases probability. The GOP may focus instead on barring Chinese/FEOC entities, tightening eligibility, or boosting fossil fuel incentives, rather than capping credits outright."
-                },
-                {
-                    "factor": "Bipartisan Interest in Some Clean Energy Support",
-                    "effect": "Decreases probability. There is bipartisan interest in maintaining U.S. competitiveness in 'strategic' sectors (EVs, grid equipment, batteries); capping credits could undercut these goals."
-                },
-                {
-                    "factor": "Recent News Signals",
-                    "effect": "Neutral. News focuses on FEOC restrictions, early sunsets, and eligibility tightening, with no direct mention of Congress moving to cap 45X. Most recent statutory changes have not capped 45X, despite pressure."
-                }
-            ],
-            "no_scenario": "Despite GOP control and budget hawk pressure, Congress does not pass any legislation capping 45X before January 1, 2026. The focus remains on FEOC exclusions, eligibility tightening, and accelerating phase-outs for other credits. Industry and swing-state resistance, and legislative bandwidth issues, prevent a cap from moving through both chambers in time. 45X continues as uncapped, with possible other eligibility restrictions (e.g., FEOC, anti-buyback) but no cap on credit size per taxpayer or group.",
-            "yes_scenario": "Congress, motivated by concerns over runaway costs and budget deficits, and leveraging unified GOP control, advances a reconciliation bill or other legislative vehicle that imposes a cap (annual, lifetime, or otherwise) on the 45X credit, as part of broader energy/fiscal reforms. Despite industry pushback, leadership secures enough support, possibly by pairing a cap with expansions elsewhere (e.g., for fossil fuels, select credits for nuclear, etc.). The bill is signed into law before January 1, 2026, making the cap effective for 45X credits.",
-            "final_reasoning": "The base rate for Congress capping an already-operational, politically salient federal tax credit within a single year is quite low, especially given the intensity of industry/state opposition and the complexity of tax policy. However, the current context is unusually favorable to change: unified GOP control, a demonstrated willingness to alter/curtail clean energy tax credits (OBBBA), and prominent budgetary concerns. While the OBBBA and related legislation have targeted other clean energy credits for phase-out or restriction, 45X was notably preserved and even modestly expanded in some respects, likely reflecting its strategic importance and strong lobbying. There is clear evidence of GOP interest in containing costs, with Axios and Cato noting that caps are under discussion, but legislative focus has thus far been on eligibility tightening (FEOC, etc.), not explicit caps. The window for legislative action is narrow; historical precedent suggests phase-outs or eligibility restrictions are more politically viable than outright caps. With no explicit cap movement reported in recent news, and strong countervailing pressures, the probability of a cap being enacted before January 1, 2026 remains modest, but not negligible given the alignment of partisan, fiscal, and policy dynamics. The most likely scenario is that Congress enacts further FEOC/eligibility restrictions, but does not impose a cap on 45X. I estimate the probability at 22%.",
-            "final_probability": 22
-        },
-        "Law (US Tax Law Interpretation)": {
+        "Economics (Regulatory Capture Theory)": {
             "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
-            "perspective_relevance": "As an expert in US Tax Law Interpretation, I bring a deep understanding of statutory construction, Congressional legislative processes, and IRS administrative guidance. This expertise is highly relevant because the question hinges on whether federal legislation will be enacted that imposes caps on the Section 45X advanced manufacturing production credit before January 1, 2026. I can parse the difference between statutory amendments, regulatory changes, and IRS guidance, and recognize what counts as 'enacted legislation' for tax credit caps. Furthermore, I understand the practical and political feasibility of such legislative changes, considering both the letter and spirit of US tax law and the typical pace of Congressional action.",
-            "status_quo": "Currently, the 45X credit is uncapped; there is no limit on the total or per-taxpayer credits available. The status quo is that, absent further legislative action, credits remain uncapped through at least January 1, 2026.",
+            "perspective_relevance": "As an expert in Economics (Regulatory Capture Theory), I specialize in analyzing the interplay between industry interests and regulatory policy, especially around large, salient federal incentive programs like IRA 45X. I can assess the likelihood of policy changes that would meaningfully constrain corporate behavior (e.g., share buybacks) in the face of both public interest arguments and powerful industry lobbying\u2014offering unique insight into the political economy and base rates for such interventions.",
+            "status_quo": "There are currently no statutory limits or penalties on share buybacks for recipients of the 45X clean energy manufacturing tax credit. Most U.S. business tax incentives historically lack such restrictions, and there has been limited recent legislative momentum for imposing buyback limits on clean energy credits.",
             "perspective_derived_factors": [
                 {
-                    "factor": "Republican Control of Congress and Presidency",
-                    "effect": "Increases probability. Unified Republican control since the 2024 election makes legislative changes to IRA tax credits more likely, as the party has signaled opposition to open-ended clean energy subsidies."
+                    "factor": "Historical Base Rate for Share Buyback Restrictions in Tax Law",
+                    "effect": "Decreases probability. The U.S. rarely attaches buyback restrictions to tax credits. Even the 2022 IRA's 1% excise tax on buybacks was a compromise and not widely extended."
                 },
                 {
-                    "factor": "Legislative Priorities and Political Trade-offs",
-                    "effect": "Moderately increases probability. While Republicans have criticized the uncapped nature of 45X, their legislative focus has primarily been on repeal or acceleration of sunsetting credits, or FEOC (foreign entity) exclusions, not specifically on capping credits. However, budget hawks and deficit concerns raise the salience of imposing caps as a compromise position."
+                    "factor": "Political Environment (GOP Trifecta Post-2024 Election)",
+                    "effect": "Decreases probability. The Republican party is ideologically opposed to new corporate restrictions, especially those seen as 'anti-market.' Their focus is on reducing or capping credits, not adding progressive guardrails."
                 },
                 {
-                    "factor": "Recent Legislative Activity (OBBBA and 2025 Tax Legislation)",
-                    "effect": "Decreases probability. The major recent legislation (One Big Beautiful Bill Act and 2025 Tax Legislation) focused on changing phaseout dates, FEOC exclusions, and component definitions. No credible reporting or statutory language thus far points to a hard cap on 45X credits for taxpayers or affiliated groups before 2026, though phaseouts for specific minerals/components begin in 2031."
+                    "factor": "Salience of Buybacks and Populist Momentum",
+                    "effect": "Increases probability, but only slightly. Buybacks have become a populist target, especially among progressive Democrats, but this has not translated into bipartisan action on clean energy credits."
                 },
                 {
-                    "factor": "Complexity of Capping Credits",
-                    "effect": "Decreases probability. Imposing a cap on a production-based credit is administratively complex and could disrupt already-planned investments. The IRS would need to implement new compliance systems, and industry pushback could slow or derail such efforts."
+                    "factor": "Regulatory Capture & Industry Influence",
+                    "effect": "Decreases probability. Clean energy manufacturing lobbies (and broader business groups) are likely to push back strongly against any such restriction, favoring more flexible capital allocation."
                 },
                 {
-                    "factor": "Base Rates of Retroactive or Near-term Credit Caps",
-                    "effect": "Decreases probability. Historically, it is rare for Congress to retroactively cap or limit credits for in-progress or near-term projects; phaseouts and FEOC-type restrictions are more common than outright caps, especially with less than a year before the phaseout date."
+                    "factor": "Recent Legislative Focus on 45X Modifications",
+                    "effect": "Decreases probability. Current legislative energy is concentrated on capping credits, imposing FEOC exclusions, and tightening eligibility, not on buyback restrictions."
                 },
                 {
-                    "factor": "Industry and State Pushback",
-                    "effect": "Decreases probability. States and manufacturers are accelerating project timelines to qualify under current rules, and there is strong lobbying to avoid any retroactive or near-term cap that could undermine investments already made under the IRA's original framework."
+                    "factor": "Comparative International Practice",
+                    "effect": "Neutral to mildly decreases probability. Even in other advanced economies with aggressive green subsidies, share buyback restrictions are rare."
                 }
             ],
-            "no_scenario": "Congressional Republicans prioritize ending, phasing out, or restricting eligibility for 45X (via FEOC or component exclusions) but do not impose a dollar or per-taxpayer cap. Legislation signed before January 1, 2026, changes phaseout dates or eligibility, but the credit remains uncapped for all taxpayers who meet the new requirements. The IRS continues to process uncapped 45X claims through the end of 2025.",
-            "yes_scenario": "Congress passes and the President signs legislation before January 1, 2026, that imposes a limit on the total Section 45X credits any taxpayer or affiliated group can claim, either annually or over the life of the credit. For example, a statutory amendment sets a maximum dollar amount (e.g., per taxpayer, per facility, or in aggregate) or otherwise limits the amount of credits distributed, effective immediately or for future years.",
-            "final_reasoning": "While there is heightened political scrutiny of the cost and scope of 45X credits following the Republican sweep in 2024, the legislative record and recent reporting show that Congressional action has focused on phaseouts, FEOC exclusions, and tightening eligibility\u2014not on capping credits. The One Big Beautiful Bill Act and subsequent tax legislation have not included explicit caps, and industry opposition and administrative complexity further reduce the likelihood of Congress implementing such a cap in the short term. Historically, caps on business credits are rare, especially when phaseouts or eligibility restrictions are already being used as primary policy levers. The base rate for new caps being enacted on a production-based credit within a year of its scheduled phaseout is low. Therefore, given current statutory trends, the status quo, and the lack of reporting on an imminent cap, the probability that 45X credits will be capped via enacted legislation before January 1, 2026, remains low, though not impossible given the budgetary climate.",
-            "final_probability": 12
+            "no_scenario": "The most plausible scenario: Congressional Republicans, with a legislative majority and Trump in the White House, focus on capping 45X credits, excluding FEOCs, and possibly tightening definitions, but do not introduce or pass any statutory limits or penalties on share buybacks for credit recipients. Industry lobbying and lack of bipartisan consensus prevent any such measure from reaching the floor or being included in omnibus legislation.",
+            "yes_scenario": "A low-probability scenario: Progressive backlash over high-profile buybacks by clean energy firms receiving 45X credits leads to bipartisan outcry. As a political trade in a broader package (perhaps to retain some level of 45X support or in response to a budget scandal), a limited buyback restriction or penalty is enacted\u2014perhaps modeled after the IRA's 1% excise tax or as a temporary restriction while credits are claimed. This would likely require significant negative media coverage or a triggering event.",
+            "final_reasoning": "The base rate for legislative restrictions on share buybacks attached to tax credits is extremely low, and the U.S. policy environment in late 2025\u2014characterized by unified Republican control\u2014strongly disfavors new corporate restrictions as opposed to reducing the size of the subsidy itself. The news and legislative signals overwhelmingly indicate focus on capping the credit amount and tightening FEOC exclusion, not on buyback limits. While some progressive groups and think tanks have advocated for such guardrails, there is little sign of bipartisan traction or urgency. Regulatory capture theory predicts industry resistance would be highly effective, especially with a pro-business Congress and administration. The only plausible pathway to a Yes is a major scandal or a high-profile buyback controversy that catalyzes political momentum, but there are no signs of such an event in the news flow. Therefore, the most compelling, base-rate-driven forecast is that no limits on share buybacks will be enacted for 45X before January 1, 2026.",
+            "final_probability": 5
         },
-        "Law (Administrative Law)": {
-            "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
-            "perspective_relevance": "As an expert in Administrative Law, I bring a nuanced understanding of how federal statutes like the Inflation Reduction Act (IRA) are amended, interpreted, and implemented. My expertise informs the likelihood of legislative changes (such as a cap on 45X credits) being enacted and the practical legal pathways\u2014including reconciliation, agency guidance, and judicial review\u2014that can accelerate or hinder such changes. I am also familiar with the procedural inertia and statutory entrenchment that often protect existing major tax credits from rapid alteration.",
-            "status_quo": "The current status quo is that the 45X advanced manufacturing production credit is uncapped\u2014there are no statutory limits on how much credit a taxpayer or affiliated group can claim, and industry investment has responded robustly to these incentives.",
+        "Law (Statutory Interpretation)": {
+            "time_to_resolution": "Just over 1 year (until January 1, 2026; today is November 23, 2025)",
+            "perspective_relevance": "As an expert in Law (Statutory Interpretation), I can closely analyze legislative text, amendments, and Congressional intent. My expertise allows me to distinguish between substantive statutory changes (e.g., new buyback limits enacted by statute) and mere regulatory guidance or executive actions. I can also assess the likelihood of legislative language regarding share buybacks being included in bills, based on past legislative patterns and Congressional dynamics.",
+            "status_quo": "There are currently no statutory limits on share buybacks for recipients of the 45X tax credit; the Inflation Reduction Act does not restrict share repurchases beyond the pre-existing 1% excise tax on buybacks. No subsequent legislation has imposed such restrictions as of today.",
             "perspective_derived_factors": [
                 {
-                    "factor": "Unified Republican control and stated intent",
-                    "effect": "Increases probability. With Republicans holding the presidency and both chambers of Congress\u2014and having stated a clear intent to restrict IRA tax credits\u2014there is an unusually high structural capacity and political will for statutory change."
+                    "factor": "Legislative Priorities of Republican Majorities",
+                    "effect": "Decreases probability. The current GOP-controlled Congress and White House are focused on scaling back clean energy incentives, cutting spending, and prioritizing fossil fuel production. Limiting share buybacks is a progressive/Democratic priority, not a GOP one."
                 },
                 {
-                    "factor": "Legislative process and reconciliation window",
-                    "effect": "Increases probability. The most likely legislative vehicle is budget reconciliation, which only requires a simple majority in the Senate and is explicitly being used to target IRA credits. This process is already underway per news articles."
+                    "factor": "Base Rate of Statutory Buyback Restrictions in U.S. Tax Law",
+                    "effect": "Decreases probability. It is extremely rare for U.S. federal tax credits to include explicit statutory restrictions on share buybacks, particularly in sector-specific credits."
                 },
                 {
-                    "factor": "Recent major legislative changes (OBBBA and FEOC rules)",
-                    "effect": "Increases probability. The One Big Beautiful Bill Act has already curtailed several clean energy credits and imposed FEOC restrictions. While the base articles do not specify a cap on 45X, the ongoing climate of retrenchment increases the likelihood of further restrictions such as caps being enacted."
+                    "factor": "Recent Legislative Action (OBBB/2025 Act)",
+                    "effect": "Strongly decreases probability. The major 2025 energy bill (One Big Beautiful Bill Act) made significant changes to clean energy tax credits, including winding down several, but did not include buyback restrictions for 45X. The focus was on supply chain, phase-out timelines, and FEOC exclusions."
                 },
                 {
-                    "factor": "Industry pushback and economic impact",
-                    "effect": "Decreases probability. Large investments and industry expansion based on 45X create economic and job dependencies, which may prompt lobbying to avoid strict caps, or at least to grandfather some existing projects. This could slow or moderate legislative action."
+                    "factor": "Ongoing Criticism of Corporate Use of Subsidies for Buybacks",
+                    "effect": "Slightly increases probability. Progressive think tanks and some Democrats have called for buyback restrictions in the context of public subsidies, and the 2022 IRA imposed a 1% excise tax on buybacks. However, these are not priorities for the current Congress."
                 },
                 {
-                    "factor": "Base rate/statistical inertia",
-                    "effect": "Decreases probability. Historically, once major tax credits are in place, outright capping or repeal is less common than phase-outs or additional targeting, especially when credits are already being narrowed via eligibility or supply chain restrictions."
+                    "factor": "Practicality and Enforcement Concerns",
+                    "effect": "Decreases probability. Enforcing share buyback limits would be complex and could deter investment, which is contrary to the stated goals of the current Congressional majority."
                 },
                 {
-                    "factor": "Timing and legislative bandwidth",
-                    "effect": "Decreases probability. With only one year left and a crowded legislative agenda (and potential for policy inertia or court challenges), the window for passing and implementing such a cap is tight."
-                },
-                {
-                    "factor": "Focus of current reform efforts",
-                    "effect": "Unclear/slightly increases. News and analysis focus heavily on FEOC exclusions and early phase-outs, but there is explicit discussion in Axios and Cato Institute coverage of capping as a live topic in Republican reconciliation negotiations, signaling non-trivial risk."
+                    "factor": "Short Time Window Remaining",
+                    "effect": "Decreases probability. With just over a year left, and the major 2025 reconciliation bill already enacted, there is minimal legislative runway for new restrictions to be added before January 2026."
                 }
             ],
-            "no_scenario": "Despite Republican control and intent, reconciliation legislation either does not include a cap on 45X credits, or a cap is proposed but fails to pass due to Senate filibuster (if not in reconciliation), lobbying, industry pressure, or procedural delays. Alternatively, a cap is passed but with an effective date after January 1, 2026, or is struck down in court before taking effect.",
-            "yes_scenario": "A reconciliation bill (or other legislation) is enacted in 2025 that explicitly limits the amount of 45X credits a taxpayer or affiliated group can claim, whether as an annual, project, or lifetime cap. The cap could be broad or targeted (e.g., focused on certain technologies or companies), but must be signed into law before January 1, 2026.",
-            "final_reasoning": "The combination of unified Republican government, strong stated intent to curtail uncapped clean energy credits, and explicit reporting that capping 45X is under consideration in budget reconciliation negotiations markedly raises the risk compared to historical base rates. Administrative law experience indicates that statutory amendments to tax credits are feasible through reconciliation, especially with fiscal conservatives and fossil fuel interests pushing for budget controls. However, several countervailing factors moderate the probability: the sheer scale of existing industry investment, economic and political pushback from affected states and companies, and the historical tendency to opt for phase-outs or eligibility tightening over hard caps. The legislative window is short, and while FEOC and early sunset rules are clearly advancing, the news record does not definitively confirm a cap is imminent. Given these factors, and assuming the resolution requires an explicit statutory cap (not just de facto limits via FEOC or phase-outs), the probability is above historical norms but not overwhelming\u2014caps are possible but not certain. I therefore assign a probability of 38%.",
-            "final_probability": 38
+            "no_scenario": "Congress enacts no new legislation imposing limits on share buybacks for 45X recipients before January 1, 2026. The 45X credit continues under the status quo, with no statutory buyback cap or penalty beyond the existing 1% excise tax from the IRA.",
+            "yes_scenario": "A new law is enacted prior to January 1, 2026, that specifically limits, prohibits, or penalizes share buybacks by companies receiving the 45X credit\u2014e.g., by making buyback activity disqualifying for the credit, imposing a higher tax, or requiring companies to forgo buybacks during the credit period.",
+            "final_reasoning": "The legislative window is nearly closed: the major 2025 omnibus energy/tax bill (OBBB) has already been enacted and did not impose share buyback limits for 45X. The current Congressional majority (Republican) is ideologically opposed to such restrictions, and buyback limits are not a salient concern for the GOP base\u2014rather, they are a progressive/Democratic idea. The status quo in U.S. tax law is that such restrictions are extremely rare, and the only recent movement (the 1% excise tax) came from the 2022 IRA, not the current Congress. With only about a year left, and the major legislative vehicle already spent, the probability of a late-breaking bipartisan deal targeting buybacks is vanishingly low, especially as the GOP focus is on spending caps, FEOC exclusions, and phaseouts. There is little evidence of momentum or bipartisan agreement for a buyback restriction. Regulatory or executive action alone would not satisfy this subquestion\u2019s statutory requirement. The base rate, legislative context, and timing all strongly point to a No.",
+            "final_probability": 2
+        },
+        "Law (Administrative Law Doctrine)": {
+            "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Administrative Law Doctrine, I bring a specialized understanding of how statutory changes to federal tax credits like 45X are legislated, interpreted, and implemented, particularly in the context of evolving executive and legislative priorities. I can assess the plausibility of Congress passing and the President signing legislation that would impose limits on share buybacks for 45X recipients, considering the current political configuration, legislative process, and the history of similar statutory amendments.",
+            "status_quo": "There are currently no statutory limits on share buybacks for recipients of the 45X clean energy manufacturing tax credit. The Inflation Reduction Act of 2022 created a 1% excise tax on stock buybacks generally, but did not condition 45X eligibility on refraining from buybacks.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Current Political Control (Republican President and Congress)",
+                    "effect": "Decreases probability. The current unified Republican government, as of November 2024, is ideologically hostile to additional restrictions on corporate activity, particularly progressive policy tools like buyback limits. Recent legislative efforts, such as the One Big Beautiful Bill (OBBB), have focused on rolling back clean energy credits, not imposing new social or corporate governance strings."
+                },
+                {
+                    "factor": "Legislative Agenda and Prioritization",
+                    "effect": "Decreases probability. Congressional Republicans are prioritizing spending caps, FEOC (Foreign Entity of Concern) exclusions, and credit phaseouts, not buyback restrictions. The bipartisan energy discussions focus on capping credits and limiting exposure to China, not corporate governance mandates."
+                },
+                {
+                    "factor": "Historical Precedent for Share Buyback Limits in Federal Tax Policy",
+                    "effect": "Decreases probability. The federal government rarely conditions business tax credits on share repurchase behavior. The 2022 IRA's 1% buyback tax is an excise tax, not a restriction tied to specific credits. Imposing a new, credit-specific restriction would be a significant departure from recent practice."
+                },
+                {
+                    "factor": "Progressive Advocacy and Policy Proposals",
+                    "effect": "Slightly increases probability. Progressive think tanks like Governing for Impact have advocated for buyback limits on IRA credits, arguing that public subsidies should not enrich shareholders at taxpayers' expense. However, there is little evidence that this advocacy has traction in the current policy climate."
+                },
+                {
+                    "factor": "Administrative Law Constraints and Implementation Complexity",
+                    "effect": "Decreases probability. Conditioning tax credit eligibility on buyback behavior would require detailed statutory language and complex IRS guidance, increasing administrative burden and risk of legal challenge. There is little appetite for this complexity amid a broader deregulatory push."
+                },
+                {
+                    "factor": "Base Rate of Similar Congressional Action",
+                    "effect": "Decreases probability. In recent major tax legislation, restrictions on share buybacks tied to specific credits are virtually nonexistent. The base rate is near zero."
+                }
+            ],
+            "no_scenario": "Congress passes and the President signs legislation related to the 45X credit\u2014such as capping credits, tightening FEOC exclusions, or amending phaseout schedules\u2014but does not include any statutory language that substantially limits share buybacks for 45X recipients. The status quo regarding buybacks remains, except for the general 1% excise tax.",
+            "yes_scenario": "A bill is enacted before January 1, 2026, that explicitly prohibits or penalizes share repurchases by companies receiving 45X credits, either by making buybacks during the credit period grounds for loss of eligibility, imposing a surtax or clawback, or conditioning the credit on a no-buyback pledge. The law applies specifically to 45X and is not merely the general 1% excise tax.",
+            "final_reasoning": "The likelihood of Congress enacting limits on share buybacks for 45X credit recipients before January 1, 2026, is extremely low. The 2024 election produced unified Republican control of government, and recent legislative activity\u2014including the One Big Beautiful Bill\u2014has focused on cutting or capping clean energy credits, not imposing new progressive-style restrictions on corporate behavior. There is bipartisan interest in FEOC exclusions and capping total credit outlays, but no evidence of traction for buyback limits, which are not a traditional Republican priority and are opposed by industry. The administrative complexity and lack of historical precedent for tying tax credits to buyback restrictions further reduce the probability. While progressive advocacy exists, it is not reflected in current legislative proposals or negotiations. The base rate for this kind of statutory change is near zero, and all observable trends point away from new corporate governance constraints in this domain. Therefore, the probability that limits on share buybacks with respect to 45X will be enacted before January 1, 2026, is extremely low.",
+            "final_probability": 2
         }
     },
     "deliberation_probability": [
-        37,
-        60,
-        90,
-        64,
-        30,
-        68,
-        22,
-        12,
-        38
+        3,
+        2,
+        2,
+        3,
+        5,
+        3,
+        3,
+        2,
+        5,
+        3,
+        5,
+        2,
+        2
     ],
-    "deliberation_mean_probability": 46.77777777777778,
-    "deliberation_sd": 25.168322241350225,
-    "deliberation_probability_result": 47
+    "deliberation_mean_probability": 3.076923076923077,
+    "deliberation_sd": 1.1875421719907089,
+    "deliberation_probability_result": 3
 }
