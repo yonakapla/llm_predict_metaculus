@@ -1,0 +1,261 @@
+{
+    "deliberation_results": {
+        "Global Health Policy (Donor Funding Models)": {
+            "time_to_resolution": "Just over 1 month (question resolves January 1, 2026; today is November 24, 2025)",
+            "perspective_relevance": "As an expert in global health policy and donor funding models, I have a deep understanding of how U.S. bilateral and multilateral global health initiatives are structured, funded, and re-organized. I closely track the legal, bureaucratic, and political channels through which aid programs like PMI are established, maintained, disrupted, or dissolved, and am attuned to the interplay of Congressional appropriations, executive actions, interagency reorganizations, and international funding environments. This allows me to interpret not only surface-level funding news but also the operational, legal, and programmatic realities that might determine whether a program like PMI truly 'ceases to exist.'",
+            "status_quo": "If nothing changed from the pre-2025 status quo, PMI would have continued as a U.S. government-led bilateral malaria control initiative, administered by USAID and CDC, with sustained Congressional appropriations and ongoing projects in malaria-endemic countries.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Executive Orders and Reorganization",
+                    "effect": "Increases probability. The Trump administration's EO 14169 and subsequent reorganization have already resulted in the dissolution of USAID, mass layoffs, and the transfer of global health programs to the State Department, severely undermining PMI's operational capacity. The move to dissolve USAID and transfer PMI functions signals an intent to discontinue PMI as a standalone entity."
+                },
+                {
+                    "factor": "Legal/Resolution Criteria",
+                    "effect": "Increases probability. The question specifies that if PMI is terminated, merged, or its funding eliminated by Congress, or if a presidential action to this effect is in place for 60 days, the question resolves Yes. The transfer of PMI functions out of USAID and the announcement of a permanent dissolution, with functions moved to a different bureau, meet the criteria for 'ceasing to exist as a distinct organization.'"
+                },
+                {
+                    "factor": "Congressional Appropriations",
+                    "effect": "Moderately decreases probability. Despite executive actions, Congress passed a FY2025 Continuing Resolution with level PMI funding and has not (yet) eliminated PMI funding entirely for FY2025. However, the FY2026 budget proposal cuts PMI by nearly 50%; Congress still must finalize appropriations, and historically, Congress has sometimes restored or partially restored funding to key global health programs."
+                },
+                {
+                    "factor": "Bureaucratic Inertia and Branding",
+                    "effect": "Decreases probability. U.S. government programs are sometimes rebranded, merged, or administratively reduced in scope, but the 'shell' of the program (name, website, minimal activity) can persist for years due to bureaucratic inertia, even if operational capacity is heavily degraded. The fine print specifies that a name change or partial cut is insufficient for Yes resolution."
+                },
+                {
+                    "factor": "Operational Reality and Transparency",
+                    "effect": "Increases probability. Multiple sources report PMI's website is offline, awards are canceled, staff are laid off, and project implementation has halted or is severely degraded. The operational reality is that PMI as an independent, fully functioning initiative is essentially defunct, even if the legal entity or brand still exists on paper."
+                },
+                {
+                    "factor": "International and Domestic Political Pressure",
+                    "effect": "Decreases probability. Global and domestic advocacy have, in the past, succeeded in restoring or protecting funding for high-profile programs like PMI or PEPFAR, especially when facing catastrophic humanitarian consequences. However, the current U.S. administration appears strongly committed to its 'America First' realignment and has withstood significant criticism."
+                }
+            ],
+            "no_scenario": "Despite massive disruption, some minimal form of PMI continues to exist as a distinct entity within the State Department (or another agency), with at least token funding and ongoing malaria activities, even if at vastly reduced scale. The website might relaunch, and Congressional appropriators could insist on some continued bilateral malaria funding under the PMI brand, forestalling a true 'cessation.'",
+            "yes_scenario": "PMI has been formally dissolved through executive action, its functions and staff absorbed into the State Department\u2019s Bureau of Global Health Security and Diplomacy, with no separate PMI identity, budget line, or branding. Congressional appropriations for FY2026 either accept the proposed 47% cut or eliminate the PMI line altogether, and no PMI-branded activities or website exist by January 1, 2026. The program no longer exists as a distinct organization, meeting the resolution criteria.",
+            "final_reasoning": "The evidence overwhelmingly indicates that PMI, as a distinct U.S. government initiative, has already been functionally dismantled: USAID, its prime implementing agency, has been dissolved, staff purged, and activities largely canceled. The administration has publicly committed to transferring all global health functions to the State Department, with a new structure and sharply reduced funding, and has explicitly indicated a permanent end to the traditional PMI model. The PMI website is down, and field reports confirm mass layoffs and halted operations. While the FY2025 Continuing Resolution maintained funding, the FY2026 budget proposes a near-halving, and there is no indication that Congress will override this in the very short time left before resolution. Importantly, the question\u2019s fine print allows for a 'Yes' if PMI is consolidated/absorbed into another agency and ceases to exist as a distinct organization, which has now occurred. The only meaningful uncertainty is whether bureaucratic inertia, Congressional intervention, or a legal technicality will preserve a nominal PMI existence through January 1, 2026, but the overwhelming trend is toward dissolution. Given the short time to resolution and the comprehensive dismantling already underway, the probability that PMI will cease to exist before January 1, 2026, is very high.",
+            "final_probability": 92
+        },
+        "International Development (USAID Malaria Program Management)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026; today is November 24, 2025)",
+            "perspective_relevance": "As an expert in International Development and USAID Malaria Program Management, I bring insight into the technical, bureaucratic, and legislative processes required to truly end (rather than merely reduce or disrupt) a flagship program like PMI. I understand the difference between funding disruptions, agency reorganizations, and the legal and practical criteria for a program to 'cease to exist' as specified by the question's fine print.",
+            "status_quo": "Historically, U.S. global health programs like PMI exhibit remarkable institutional inertia, surviving changes in administration and funding due to bipartisan Congressional support and the legal/structural hurdles involved in outright termination. Even during prior periods of proposed cuts (e.g., Trump\u2019s first term), Congress preserved core funding and programs persisted, albeit sometimes with reduced scope.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Legal Structure and Mandate of PMI, and Congressional Involvement",
+                    "effect": "Decreases probability; Enacted law or 60-day unstayed presidential action is required for true termination. Congress has historically preserved global health programs despite executive branch hostility."
+                },
+                {
+                    "factor": "Dissolution and Reorganization of USAID/PMI Implementation",
+                    "effect": "Increases probability; As of July 2025, USAID (PMI\u2019s main implementing agency) has been dissolved and functions transferred to the State Department\u2019s GHSD, which could be considered a consolidation or merger, potentially ending PMI as a distinct entity."
+                },
+                {
+                    "factor": "Funding Eliminations or Severe Cuts",
+                    "effect": "Increases probability; The proposed FY 2026 budget cuts PMI by 47%. However, only full elimination, not partial funding, counts for resolution. So far, Congress has maintained some funding, but the risk is elevated."
+                },
+                {
+                    "factor": "Executive Orders and Waivers",
+                    "effect": "Increases probability; Trump\u2019s executive order halted most USAID/PMI activities, with only limited waivers for 'life-saving' services, but the program as a legal entity may persist on paper."
+                },
+                {
+                    "factor": "Web Presence, Operational Capacity, and Staff Layoffs",
+                    "effect": "Increases probability; PMI\u2019s website is down, staff have been laid off, and operations are severely disrupted, but the legal test is existence as a program, not functionality."
+                },
+                {
+                    "factor": "Base Rate of Program Cessation",
+                    "effect": "Decreases probability; Historically, flagship U.S. global health programs are rarely fully terminated within short timeframes, especially without explicit Congressional action."
+                }
+            ],
+            "no_scenario": "Despite the dissolution of USAID and transfers of PMI\u2019s operational functions, the program remains a legally distinct entity within the State Department (GHSD), with at least some budget line and staff assigned to malaria. Congress maintains a partial funding stream, and while implementation is disrupted and the website is offline, there is no formal merger, elimination, or 60-day unstayed action that meets the question\u2019s criteria. Thus, PMI technically still exists on January 1, 2026.",
+            "yes_scenario": "The transfer of PMI\u2019s functions to the State Department\u2019s Bureau of Global Health Security and Diplomacy is deemed a true consolidation, with all malaria activities folded into a new or broader health program and the PMI brand, budget line, and distinct operational identity dissolved. Alternatively, Congress enacts (or the administration upholds for 60+ days) a law or order that terminates PMI or zeroes out its funding, and no distinct PMI entity exists by January 1, 2026.",
+            "final_reasoning": "The risk to PMI\u2019s continued legal existence is higher than at any prior point in its history, given the dissolution of USAID (its main implementing agency), the transfer of global health functions to a new State Department bureau, severe funding cuts, and widespread staff layoffs. However, the fine print requires full program termination, merger/consolidation (where PMI ceases to be a distinct organization), or total funding elimination\u2014not just operational paralysis or severe disruption. The October 2025 KFF analysis and news reporting indicate that the reorganization is complete, but ambiguity remains as to whether PMI as a distinct programmatic entity persists in name, budget line, or mission under State. Funding for FY 2025 was level, and the FY 2026 budget proposes deep cuts, but not total elimination. There is no report of a law or 60-day effective executive action terminating PMI outright, and the program\u2019s core mission (malaria control) continues to be supported in some form. The base rate for full program cessation of major U.S. global health initiatives remains low. Therefore, while the probability of a YES outcome is significantly elevated\u2014possibly as high as 30\u201340%\u2014the best-supported forecast, in light of the fine print and lack of clear evidence of full termination or consolidation, remains that PMI will technically still exist in some form on January 1, 2026.",
+            "final_probability": 35
+        },
+        "Political Science (Punctuated Equilibrium)": {
+            "time_to_resolution": "Just over 1 month (question resolves Jan 1, 2026; today is Nov 24, 2025)",
+            "perspective_relevance": "As a Political Science expert specializing in Punctuated Equilibrium, my approach foregrounds the tendency for policy institutions and programs to exhibit long periods of stability (policy stasis) punctuated by brief, intense intervals of major change. This lens emphasizes organizational resilience, path dependence, and the high bar for actual program termination in the U.S. bureaucracy\u2014even amid major executive branch disruptions or hostile political climates. Thus, I assess the likelihood of abrupt policy discontinuity (the 'punctuation') against the background of historical inertia and procedural barriers to full termination.",
+            "status_quo": "PMI continues to exist as a distinct U.S. government program, albeit with severe disruption and downsizing, but not fully eliminated by law or merged/consolidated such that its organizational identity ceases. Funding persists, even if reduced, and PMI is still recognized as an entity, albeit with operational difficulties.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Executive and Legislative Actions",
+                    "effect": "Increases probability: President Trump\u2019s executive orders and the dissolution of USAID have demonstrably targeted PMI, including mass layoffs, funding freezes, and the transfer of functions. However, full legal elimination generally requires Congressional action or a permanent, uncontested executive order surviving court challenges and bureaucratic inertia for 60 days."
+                },
+                {
+                    "factor": "Legal and Bureaucratic Inertia",
+                    "effect": "Decreases probability: U.S. federal programs, especially those established in law and with bipartisan support, are rarely fully terminated within a single year due to complex legal, procedural, and appropriations hurdles. Even with executive hostility, total elimination often stalls or is only partially implemented, especially in the face of Congressional appropriations, continuing resolutions, or legal ambiguity."
+                },
+                {
+                    "factor": "Partial vs. Total Elimination",
+                    "effect": "Decreases probability: Question criteria specify that partial funding cuts, operational disruption, or renaming do NOT count as cessation. Only total termination, full merger/consolidation (with loss of distinct identity), or complete funding elimination by Congress would trigger a Yes."
+                },
+                {
+                    "factor": "Recent Funding and Reorganization Signals",
+                    "effect": "Decreases probability: Despite rhetoric and major operational disruptions, recent news notes that the FY2025 continuing resolution provided level funding for PMI, and the FY2026 budget proposes a 47% cut but not zeroing out. The State Department also claims 100% of commodity/frontline worker funding will continue in FY2026, at least via bilateral channels."
+                },
+                {
+                    "factor": "Base Rate of U.S. Program Termination",
+                    "effect": "Decreases probability: Historically, even in eras of budget-cutting or program hostility, full program elimination before a fixed near-term deadline is rare. Most programs limp on in diminished form or are absorbed gradually into other bureaucratic structures, maintaining ostensible continuity."
+                },
+                {
+                    "factor": "Recent Precedents and Litigation",
+                    "effect": "Decreases probability: Legal challenges to executive orders pausing or terminating aid have yielded only temporary injunctions, but the process has introduced delays, and the Supreme Court has permitted withholding of funds, not necessarily outright elimination. Full termination by executive order would still require the 60-day period to pass without court stays."
+                }
+            ],
+            "no_scenario": "Despite mass layoffs, funding cuts, and transfer of functions out of USAID, the PMI retains enough legal and organizational identity\u2014through Congressional appropriations, ongoing (albeit reduced) operations, and bureaucratic inertia\u2014to remain in existence, even if in a shell or highly impaired form. Congress does not pass a law terminating PMI, no unchallenged executive order completes an uncontested 60-day period ending PMI as a distinct entity, and/or PMI is not fully merged or consolidated into another agency such that its core mission and identity are lost. The program continues as a line item, or at least as a named initiative within State Department structures.",
+            "yes_scenario": "Congress passes and the President signs a law terminating PMI or eliminating all its funding before Jan 1, 2026. Alternatively, an executive order or administrative action merges all PMI functions into another agency or program, and PMI ceases to exist as a distinct organization for at least 60 consecutive days before Jan 1, 2026, with no successful legal challenge. Alternatively, the State Department or OMB formally announces complete program termination, and this is sustained for 60 days before the deadline.",
+            "final_reasoning": "Despite unprecedented operational disruption, funding cuts, and the dissolution of USAID, the President\u2019s Malaria Initiative appears to persist as a legally recognized program, even if severely impaired. Recent reporting and budget documents indicate continued (if reduced) funding through FY2025 and into FY2026, and the State Department maintains that malaria commodity and frontline worker support will continue. The question\u2019s stringent resolution criteria\u2014requiring total elimination, not just downsizing or operational paralysis\u2014set a high bar. Historically, the U.S. government rarely fully terminates major foreign assistance programs, especially within a single year, due to legal, bureaucratic, and political inertia. Even with the Trump administration\u2019s clear intent to downsize and disrupt, the absence of explicit legislative repeal, a completed 60-day termination period, or full and public merger/consolidation by the deadline makes a Yes outcome unlikely. The base rate for abrupt program extinction is low, and the evidence suggests PMI is battered but not yet dead. However, the risk is non-negligible due to continued executive hostility and the possibility of further reorganization in the coming month, so I do not go all the way to a minimal probability.",
+            "final_probability": 13
+        },
+        "Political Science (Advocacy Coalition Approach)": {
+            "time_to_resolution": "Just over 1 month (question resolves January 1, 2026; today is November 24, 2025).",
+            "perspective_relevance": "As an expert in the Advocacy Coalition Approach (ACA) in political science, I focus on how durable coalitions (spanning government, NGOs, and international actors) interact within policy subsystems over time, and how policy change (or stasis) often results from shifts in coalition power, external shocks, or policy learning rather than short-term political cycles. This approach is relevant because the President\u2019s Malaria Initiative (PMI) is embedded in a longstanding bipartisan coalition with broad support among advocacy groups, global health actors, and segments of Congress, but is currently facing a major challenge due to an external shock: the Trump administration's sweeping foreign aid review and reorganization.",
+            "status_quo": "The PMI, despite severe funding and operational disruptions, remains a legally extant program as of late November 2025\u2014though its capacity is dramatically reduced, its website is offline, and its main implementing agency (USAID) has been dissolved. The program has not been formally abolished via law, funding zeroed out by Congress, or merged/consolidated with another agency such that it ceases to exist as a distinct entity.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Legal and Institutional Inertia",
+                    "effect": "Decreases probability. The ACA emphasizes that programs with deep institutional roots and bipartisan support are hard to abolish outright, even under hostile administrations. Congress has not passed a law terminating PMI, and the FY2025 Continuing Resolution maintained funding. The administrative reorganization (transferring PMI from USAID to the State Department) does not, by itself, meet the resolution criteria for total elimination."
+                },
+                {
+                    "factor": "Trump Administration Executive Actions and Implementation",
+                    "effect": "Increases probability. The administration has dissolved USAID, canceled most global health awards, sought to cut PMI funding by nearly half in the FY2026 budget, and shifted the foreign aid paradigm. However, the fine print requires either explicit program termination, full funding elimination, or sustained merger/consolidation\u2014none definitively confirmed yet. The administration has shown willingness to push these changes, but legal and bureaucratic resistance, as well as delays, slow implementation."
+                },
+                {
+                    "factor": "Congressional Dynamics and Bipartisan Advocacy Coalition",
+                    "effect": "Decreases probability. Despite strong executive action, Congress retains the power of the purse, and there is still observable bipartisan support for malaria and global health programs. The ACA would highlight that, even in a polarized environment, advocacy coalitions often succeed in preserving core programs, especially when adverse effects (rising malaria deaths, negative press) become visible and advocacy pressure intensifies."
+                },
+                {
+                    "factor": "External Shocks and International Pressure",
+                    "effect": "Ambiguous, but slightly increases probability. The scale of the Trump administration's foreign aid retrenchment is an external shock, but the international response (other donors cutting aid as well, and the U.S. still making a large, though reduced, pledge to the Global Fund) suggests reorganization rather than outright abolition of U.S. malaria funding. International reputational costs could pressure the administration to retain at least a shell of PMI."
+                },
+                {
+                    "factor": "Bureaucratic Reorganization/Consolidation",
+                    "effect": "Slightly increases probability. The transfer of PMI functions to the State Department's Bureau of Global Health Security and Diplomacy could, if completed and PMI is no longer a distinct entity, trigger a Yes resolution. However, as of now, PMI is still referenced as a program (even if nonfunctional) in public documents and funding lines."
+                }
+            ],
+            "no_scenario": "Despite severe disruption, PMI continues to exist as a distinct program under the State Department, even if at reduced funding and operational capacity. Congress does not pass a law terminating it, and administrative actions do not fully satisfy the resolution criteria (either because the 60-day threshold for effective merger/abolition isn\u2019t met before January 1, 2026, or because the program is nominally preserved for political or legal reasons).",
+            "yes_scenario": "Within the next month, the administration completes the full legal and organizational consolidation of PMI into another State Department entity, with documentation showing that PMI no longer exists as a distinct program for 60 consecutive days before January 1, 2026, or Congress passes a law eliminating PMI or reducing its funding to zero. Alternatively, if new evidence emerges that the program\u2019s functions have been entirely absorbed and the PMI label is dropped, with no continued funding or activity, the question would resolve Yes.",
+            "final_reasoning": "Based on the ACA's emphasis on policy subsystem stability, advocacy coalition resilience, and institutional inertia, the outright abolition of PMI within the next month remains unlikely\u2014especially given the historical bipartisan support for malaria programs and the slow pace of legal and bureaucratic changes, even amid a hostile executive. While the Trump administration has taken unprecedented steps to disrupt U.S. global health aid and PMI\u2019s operational capacity is gravely undermined, the fine print requires more than severe disruption: termination, full funding elimination, or 60 consecutive days of effective consolidation/merger prior to January 1. The latest reporting indicates that the PMI still exists as a program (albeit nominally), with level funding for FY2025 and a proposed cut (not yet enacted) for FY2026. The transfer of functions to the State Department is a bureaucratic reorganization, but as of now, PMI remains a distinct line item and program, pending possible elimination, which is not yet realized. Therefore, the base rate for sudden termination of long-standing, high-profile global health programs is low, and there is no direct evidence that PMI will meet the strict resolution criteria in the next five weeks.",
+            "final_probability": 17
+        },
+        "Public Health (Health Policy Analysis)": {
+            "time_to_resolution": "Just over 1 month (today is November 24, 2025; resolves January 1, 2026)",
+            "perspective_relevance": "As a public health policy analyst, I bring expertise in the structure, funding, and political vulnerabilities of global health initiatives. I can interpret how legal, bureaucratic, and funding changes affect program existence and continuity, and distinguish between program weakening and true program termination, which is key for this resolution. I also understand the historical context of U.S. global health policy and the operational requirements for initiatives like PMI to function as distinct entities.",
+            "status_quo": "PMI formally exists as a U.S. government program, though it is greatly weakened and partially defunded. Prior to 2025, it was consistently funded and operational, with broad bipartisan support.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Legal/Bureaucratic Dissolution of USAID",
+                    "effect": "Increases probability. The dissolution of USAID (PMI's operational home) and transfer of global health to the State Department create a strong legal and administrative basis for PMI's elimination as a distinct initiative."
+                },
+                {
+                    "factor": "Executive Order 14169 and Foreign Aid Freeze",
+                    "effect": "Increases probability. The Trump administration's executive order and sweeping halt to foreign aid initiated the process of eliminating or merging programs, with PMI singled out as lacking a waiver for continued operation."
+                },
+                {
+                    "factor": "Budget Cuts and Funding Uncertainty",
+                    "effect": "Increases probability. The FY2026 proposed budget reduces PMI funding by 47%, and the FY2025 budget is only a continuing resolution. However, partial defunding alone does not meet the resolution criteria unless funding is eliminated or the program is formally ended."
+                },
+                {
+                    "factor": "Transfer/Merger to State Department Bureau",
+                    "effect": "Increases probability. The announced merger of global health functions into the Bureau of Global Health Security and Diplomacy (GHSD) at State, with USAID dissolved by July 2025, raises the risk of PMI losing its status as a distinct entity."
+                },
+                {
+                    "factor": "Bipartisan and Congressional Support for Malaria Funding",
+                    "effect": "Decreases probability. There remains substantial bipartisan support for funding malaria efforts, and the FY2025 continuing resolution provided level funding for PMI. Congress may act to prevent full cessation before January 2026."
+                },
+                {
+                    "factor": "Public and International Scrutiny",
+                    "effect": "Decreases probability. Given the high-profile negative coverage and international consequences, there is political incentive to avoid fully terminating PMI outright before the election year."
+                },
+                {
+                    "factor": "Resolution Fine Print and Legal Thresholds",
+                    "effect": "Decreases probability. The question requires full termination, consolidation, or elimination of funding, not merely weakening, delays, or partial cuts. Renaming or shifting operational control does not automatically count unless the program ceases as a distinct entity."
+                }
+            ],
+            "no_scenario": "PMI continues as a distinct program\u2014perhaps with a skeletal staff, reduced funding, and minimal activity\u2014under State's GHSD, or as a legal shell in the federal budget. Funding for malaria programs continues through the Global Fund or other bilateral channels, but PMI is not formally dissolved, merged, or eliminated by law before January 1, 2026.",
+            "yes_scenario": "PMI is formally terminated by law, or its functions are fully merged into another entity (e.g., State's GHSD), such that PMI ceases to exist as a distinct program. Alternatively, Congress eliminates all funding for PMI, or a presidential action (not blocked in court) results in PMI ceasing to operate as a distinct initiative for 60 consecutive days before January 1, 2026.",
+            "final_reasoning": "The base rate for abrupt termination of major, well-established global health programs is very low: such programs are rarely fully eliminated with little notice, especially with bipartisan support and Congressional inertia. However, the Trump administration's actions have been highly unprecedented and legally aggressive: USAID has been dissolved, PMI's operational capacity has been gutted, and there is credible reporting that its activities are mostly halted. Yet, the resolution criteria require either formal termination, full merger/consolidation (so PMI is not distinct), or elimination of funding. The transfer to State's GHSD, if accompanied by the elimination of the PMI 'brand' and its distinct operational existence, could satisfy the 'merger' criterion\u2014but reporting suggests that, while the program is nearly moribund, it may still exist as a legal entity or line item. There is no clear evidence that a law has been enacted to terminate PMI or that funding has been fully zeroed before January 1, 2026; the continuing resolution for FY2025 provided full funding, and while the FY2026 budget proposes steep cuts, Congress has not yet acted. The critical variable is whether the merger into State's GHSD (completed July 2025) means PMI no longer exists as a 'distinct' initiative. The reporting is ambiguous, but as of late November 2025, there is no public announcement that PMI has been legally terminated or fully merged/consolidated to the point of ceasing to exist as a distinct program. Thus, while the probability is much higher than historical base rates, the fine print and available evidence indicate that a full Yes resolution is still less likely than No.",
+            "final_probability": 30
+        },
+        "Public Health (Global Health Governance)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Public Health and Global Health Governance, I bring deep knowledge of the structure, funding flows, and operational vulnerabilities of major US-led global health initiatives, including those dependent on Congressional appropriations, executive orders, and international partnerships. I am well-versed in the mechanics of program dissolution, operational disruptions, and how USG reorganization and budgetary processes interact with legal and diplomatic constraints in the global health domain.",
+            "status_quo": "If nothing changed, the President's Malaria Initiative (PMI) would continue to exist as a distinct US government program funding malaria control in high-burden countries, with annual appropriations and operations mainly managed through USAID and CDC, even amid some periodic funding uncertainty.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Legal and institutional inertia",
+                    "effect": "Decreases probability. US global health initiatives, especially those created by law and with Congressional appropriations, are historically difficult to eliminate outright within a single year due to legal, bureaucratic, and appropriations process inertia. Even when reorganization is attempted, it usually takes years, not months, for complete dissolution to take effect."
+                },
+                {
+                    "factor": "Executive actions and USAID dissolution",
+                    "effect": "Increases probability. The Trump administration has already dissolved USAID, terminated most global health contracts, and transferred PMI functions to the State Department, with severe operational disruptions and mass layoffs. This is an unprecedented level of disruption that directly threatens the continued existence of PMI as a distinct, functional program."
+                },
+                {
+                    "factor": "Funding and Congressional appropriations",
+                    "effect": "Decreases probability. Despite executive hostility, Congress provided level funding for PMI in the FY25 continuing resolution, and even the proposed FY26 budget retains a (reduced) line for PMI. Complete elimination of funding by Congress is rare, especially for programs with bipartisan support and life-saving outcomes."
+                },
+                {
+                    "factor": "Program consolidation/merger",
+                    "effect": "Increases probability. The reorganization of PMI's activities and staff into the Bureau of Global Health Security and Diplomacy at State, with USAID dissolved, raises the risk that PMI will cease to exist as a distinct entity, satisfying the resolution criteria for cessation via merger/consolidation, even if some malaria work continues under a different structure."
+                },
+                {
+                    "factor": "Humanitarian/operational waivers and legal challenges",
+                    "effect": "Decreases probability. Some waivers for life-saving activities have been granted, and legal challenges to executive actions have at least temporarily slowed or complicated full dissolution. A presidential action must be in effect for 60 days, unstayed, before January 1, 2026, for the question to resolve Yes."
+                },
+                {
+                    "factor": "Recent international signals and US global health positioning",
+                    "effect": "Decreases probability. The US continues to make substantial pledges to the Global Fund and remains the top malaria donor. The administration's rhetoric emphasizes 'reforming' rather than outright abolishing all malaria assistance, suggesting some continuity of mission even if operational models shift. This makes outright, recognized program extinction less likely."
+                }
+            ],
+            "no_scenario": "Despite operational chaos, PMI continues to exist as a distinct program within the State Department, with ongoing Congressional appropriations, a maintained (if reduced and hobbled) web presence, and continued core malaria work\u2014perhaps in a diminished or restructured form, but not fully terminated or merged into another entity as defined by the resolution criteria.",
+            "yes_scenario": "The dissolution of USAID and transfer of PMI activities to the State Department's Bureau of Global Health Security and Diplomacy is followed by an explicit announcement or de facto operational merger, with PMI no longer functioning as a distinct program (loss of web presence, elimination of all staff/branding, no appropriated line item, complete absorption/termination of PMI identity), and no court stays or Congressional rescue before January 1, 2026.",
+            "final_reasoning": "The evidence shows unprecedented executive action: USAID, PMI's main implementer, has been dissolved, with most staff laid off and contracts canceled. PMI's website is offline, and its activities have been transferred to a new bureau at the State Department. However, funding lines for PMI persist in the FY25 continuing resolution, and even the reduced FY26 budget request proposes a PMI line. Congress has historically been reluctant to completely zero out programs like PMI, especially given bipartisan support. Legal and bureaucratic inertia, as well as recent humanitarian waivers for 'life-saving' malaria work, further buffer against full extinction. However, the risk is higher than ever before: the dissolution of USAID, the operational absorption of PMI functions, and the loss of program distinctiveness mean the resolution criteria could plausibly be met if the new structure is deemed to have terminated PMI as a distinct entity and 60 days elapse without court reversal. Given the very short time to resolution and lack of recent explicit Congressional defense of PMI's institutional identity, the probability of full cessation is elevated, but the base rate of such a program being formally ended within a single year remains low. I judge that the balance of evidence points slightly in favor of PMI surviving in some form through January 1, 2026, but with a significant risk (perhaps the highest ever) of technical extinction.",
+            "final_probability": 35
+        },
+        "African Studies (African Health Systems Policy)": {
+            "time_to_resolution": "Just over 1 month (question resolves January 1, 2026; today is November 24, 2025)",
+            "perspective_relevance": "As an African Studies (African Health Systems Policy) expert, I have a nuanced understanding of how U.S. global health initiatives, particularly PMI, interact with African health systems, including dependency on funding, programmatic implementation, and the impact of U.S. policy shifts on malaria morbidity and mortality. I also track donor trends, the operational realities of global health aid, and the bureaucratic and legal mechanisms that shape program continuity or termination.",
+            "status_quo": "PMI continues to exist as a distinct U.S. government program, albeit with significant operational disruptions, funding reductions, and administrative reorganization following the dissolution of USAID and its absorption into the State Department\u2019s Bureau of Global Health Security and Diplomacy. Funding for FY2025 remains at $805 million, but the FY2026 budget request proposes a drastic reduction. The program\u2019s website is offline, and its field activities are severely curtailed but not formally terminated.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Legal and bureaucratic barriers to termination",
+                    "effect": "Decreases probability. PMI was created by law; outright termination before January 1, 2026, would require either explicit congressional action or a presidential action surviving legal challenge and being in effect for 60 days. The legal process is slow and courts have not yet definitively enabled full program abolishment."
+                },
+                {
+                    "factor": "Administrative reorganization and absorption into State Department",
+                    "effect": "Increases probability. The effective dissolution of USAID and transfer of global health functions to the State Department\u2019s Bureau of Global Health Security and Diplomacy, combined with the ongoing website outage and program disruption, make it plausible that PMI could lose its distinct identity or be merged into a broader bureaucracy before the deadline."
+                },
+                {
+                    "factor": "Congressional funding trends and appropriations",
+                    "effect": "Decreases probability. Despite a proposed 47% budget cut for FY2026, the FY2025 Continuing Resolution maintained level funding, and Congress has historically shown bipartisan support for malaria and global health programs. Complete funding elimination is unlikely in the short term, especially with many members wary of being seen as responsible for a global malaria resurgence."
+                },
+                {
+                    "factor": "Trump administration's 'America First' global health policy and executive action",
+                    "effect": "Increases probability. The administration has shown willingness to bypass traditional aid mechanisms, dissolve agencies, and severely cut funding, even at the cost of human lives. The executive order to review and halt foreign aid, along with mass layoffs and project cancellations, demonstrates a credible threat to PMI's continued existence."
+                },
+                {
+                    "factor": "International and domestic political optics",
+                    "effect": "Decreases probability. The U.S. continues to make large (if reduced) pledges to the Global Fund and maintains a presence in international health fora. A total and public abolition of PMI could have severe diplomatic repercussions and undermine the U.S. narrative of global health leadership, which may make a final step to full termination less attractive in the near term."
+                },
+                {
+                    "factor": "Operational collapse vs. formal cessation",
+                    "effect": "Decreases probability. While PMI is severely disrupted and may be 'defunct in all but name,' the resolution requires formal cessation, merger, or elimination of all funding. Partial cuts, rebranding, or operational hibernation do not meet the criteria. There is no clear public evidence that the final legal or administrative step to abolish PMI has been completed or is scheduled to be completed before January 1, 2026."
+                }
+            ],
+            "no_scenario": "Despite severe disruptions, PMI continues to exist on paper, with minimal or suspended activities, reduced staff, and a skeleton budget. The program is not officially terminated or merged into another agency, and Congress does not pass a law eliminating it nor does an executive order survive legal challenge and remain in force for 60 consecutive days before January 1, 2026.",
+            "yes_scenario": "A formal action\u2014either an enacted law or a presidential order (unblocked for 60 consecutive days)\u2014results in the termination of PMI as a distinct program or its merger into another agency such that it no longer exists as a separate entity. Alternatively, Congress eliminates all PMI funding for the rest of the fiscal year, or the State Department finalizes the absorption of PMI functions into a different bureau, making PMI cease to exist before the deadline.",
+            "final_reasoning": "Base rates indicate that U.S. global health programs are rarely outright terminated in under a year, especially those with bipartisan support and legal underpinnings. However, the Trump administration\u2019s unprecedented moves\u2014dissolving USAID, halting foreign aid, and transferring global health functions\u2014raise the probability above baseline. The operational collapse of PMI is clear and its future is bleak, but the resolution requires formal cessation, not just dysfunction or hibernation. News coverage and KFF analysis indicate that while PMI is gutted, no definitive legal or administrative action has yet occurred to eliminate PMI fully as a distinct program; even the severe cuts and reorganizations have left a legal shell in place as of late November 2025. The FY2025 budget still funds PMI, and the proposed FY2026 reduction, while drastic, does not equal elimination. The timing is tight: less than six weeks remain, and such a final move would likely have been publicly signaled by now. Therefore, while the probability is higher than in a normal year, it remains more likely than not that PMI will technically exist (if only nominally) on January 1, 2026.",
+            "final_probability": 30
+        }
+    },
+    "deliberation_probability": [
+        92,
+        35,
+        13,
+        17,
+        30,
+        35,
+        30
+    ],
+    "deliberation_mean_probability": 36.0,
+    "deliberation_sd": 26.14064523559687,
+    "deliberation_probability_result": 36
+}
