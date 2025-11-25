@@ -1,0 +1,309 @@
+{
+    "deliberation_results": {
+        "US Congressional Procedure (Hearing and Subpoena Process)": {
+            "time_to_resolution": "Just over 1 month (until Jan 1, 2026)",
+            "perspective_relevance": "As an expert in US Congressional procedure, especially regarding hearings and subpoenas, I bring detailed knowledge of the mechanics required to compel testimony from incarcerated witnesses, the logistics of holding such hearings (including remote testimony), base rates of such testimony occurring, and the political and legal barriers that routinely prevent high-profile testimony even when subpoenas are issued.",
+            "status_quo": "Ghislaine Maxwell has not testified before Congress and, as of the latest reporting, is highly resistant to doing so. While House committees have expressed interest and even issued subpoenas, her legal team has indicated she will not answer questions and will invoke the Fifth Amendment. The committee has reportedly abandoned plans to interview her and is focused elsewhere.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Congressional Leverage Over Incarcerated Witnesses",
+                    "effect": "Decreases probability. Even with a subpoena, Congress cannot easily compel oral testimony from a federal inmate who refuses to cooperate, especially if the witness is determined to plead the Fifth and/or demands immunity or clemency that Congress is unwilling or unable to provide."
+                },
+                {
+                    "factor": "Recent Statements and Actions by Maxwell's Legal Team",
+                    "effect": "Strongly decreases probability. Maxwell's lawyers have explicitly stated she will not answer questions and will invoke the Fifth Amendment. The committee has therefore deprioritized her appearance."
+                },
+                {
+                    "factor": "Congressional Interest and Subpoena Activity",
+                    "effect": "Slightly increases probability. The committee has shown willingness to issue subpoenas and pursue testimony from high-profile figures, indicating at least some political will. However, this is outweighed by the above factors."
+                },
+                {
+                    "factor": "Political Climate and High-Profile Nature of the Case",
+                    "effect": "Mixed/neutral. While the political climate is heated and there is public and congressional appetite for dramatic hearings, this can cut both ways: it increases pressure to call witnesses but also increases legal resistance, risk aversion, and incentives for Maxwell to remain silent unless offered significant concessions."
+                },
+                {
+                    "factor": "Base Rates for Incarcerated Witnesses Testifying before Congress",
+                    "effect": "Strongly decreases probability. Historically, it is rare for federal inmates to provide oral testimony in congressional hearings, especially in high-stakes, adversarial, or politically-charged cases."
+                },
+                {
+                    "factor": "Recent Focus on Clinton Testimony",
+                    "effect": "Decreases probability. News indicates that committee resources and attention are now focused on the Clintons, with Maxwell's appearance deprioritized."
+                },
+                {
+                    "factor": "Imminence of the 2026 Deadline",
+                    "effect": "Decreases probability. There is little time left to negotiate, overcome legal obstacles, and schedule a hearing, especially given the congressional holiday schedule and end-of-session distractions."
+                }
+            ],
+            "no_scenario": "Maxwell's legal team continues to refuse cooperation, she invokes the Fifth Amendment, and Congress does not pursue further action. The committee focuses on other witnesses (e.g., the Clintons). No credible reports emerge before January 1, 2026 that Maxwell gave oral testimony in a hearing.",
+            "yes_scenario": "In a last-minute development, Congress and Maxwell reach a negotiated agreement (possibly involving some form of limited immunity or other inducement), and she provides oral testimony\u2014likely invoking the Fifth on most questions\u2014either in person or via remote link at a congressional hearing before the deadline. This is publicly reported by credible sources.",
+            "final_reasoning": "All available evidence points to Congress abandoning efforts to secure Maxwell's oral testimony, given her clear intent to invoke the Fifth and demand conditions Congress will not meet. The committee is now focused on other witnesses, and there is very little time left in the year. Historically, it is extremely rare for federal inmates in high-profile cases to provide oral testimony to Congress under these adversarial circumstances. The only plausible 'Yes' scenario would require a rapid, dramatic reversal in both Maxwell's legal posture and congressional priorities, neither of which is suggested in any news or procedural evidence. Base rates, current committee focus, and explicit statements from all relevant parties make a Yes resolution very unlikely.",
+            "final_probability": 2
+        },
+        "Criminal Justice (Custodial Witness Management)": {
+            "time_to_resolution": "Approximately 5 weeks until January 1, 2026.",
+            "perspective_relevance": "As an expert in Criminal Justice (Custodial Witness Management), I bring insight into the practical, legal, and institutional barriers that exist when attempting to secure the oral testimony of high-profile, incarcerated witnesses like Ghislaine Maxwell. I am familiar with the logistics of prisoner transport, interactions between the Bureau of Prisons and Congress, the incentives and disincentives for incarcerated persons to testify, and the interplay of Fifth Amendment rights, immunity negotiations, and custodial security.",
+            "status_quo": "No testimony by Ghislaine Maxwell before Congress. Historically, Congress almost never succeeds in compelling oral testimony from high-profile incarcerated witnesses who are not cooperating voluntarily, especially when they have active appeals, potential exposure to further liability, and are known to invoke the Fifth Amendment.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Maxwell's Legal Incentives and Fifth Amendment",
+                    "effect": "Decreases probability. Maxwell has repeatedly indicated she will invoke her Fifth Amendment right and will not testify without immunity or clemency, both of which Congress has refused. Her legal exposure is ongoing, and she is actively appealing."
+                },
+                {
+                    "factor": "Congressional Political Will and Public Pressure",
+                    "effect": "Increases probability slightly. There is bipartisan political pressure to hold high-profile hearings, as shown by the subpoenas to the Clintons and others, as well as the passage of the Epstein Files Transparency Act. However, this pressure is more likely to result in document releases than successful hearings with reluctant witnesses."
+                },
+                {
+                    "factor": "Bureau of Prisons and DOJ Cooperation",
+                    "effect": "Neutral to slightly decreasing. While the DOJ and BOP can facilitate remote testimony, they will not override a witness's invocation of her rights or force cooperation without a court order. There is no sign such an order will be sought or granted."
+                },
+                {
+                    "factor": "Recent Precedent and Status of Negotiations",
+                    "effect": "Decreases probability. News articles from November 21, 2025, indicate the House committee has abandoned plans to interview Maxwell after her legal team confirmed she would invoke the Fifth and not cooperate without immunity. This makes the window for a sudden reversal extremely narrow."
+                },
+                {
+                    "factor": "Maxwell's Personal Security and Custodial Status",
+                    "effect": "Decreases probability. She has recently been transferred to a lower-security facility and is reportedly seeking clemency. She has no incentive to risk further legal exposure or personal safety by testifying at a public or even closed congressional hearing."
+                }
+            ],
+            "no_scenario": "Congress maintains its current course: unable to reach an agreement with Maxwell, and with her legal team reiterating her intent to plead the Fifth, no hearing is scheduled or held before January 1, 2026. The committee focuses on other witnesses (e.g., the Clintons), and Maxwell continues her appeals and clemency efforts from prison.",
+            "yes_scenario": "A sudden political breakthrough occurs: Congress (perhaps under immense public pressure or as a result of new evidence) offers Maxwell some form of limited immunity or other incentive, or she unexpectedly decides to testify for personal reasons (e.g., as part of a clemency negotiation). The Bureau of Prisons and DOJ coordinate to allow remote or in-person testimony at a hearing before the deadline.",
+            "final_reasoning": "The base rate for Congress compelling oral testimony from an incarcerated, high-profile, non-cooperative witness is extremely low, especially when the witness is actively appealing, has strong Fifth Amendment incentives, and is seeking clemency. Despite bipartisan and media pressure, the House committee itself has stated it is abandoning plans to pursue Maxwell's testimony, based on her clear intent to invoke the Fifth and not cooperate. The logistical and legal challenges are formidable, and there is no sign Congress or the DOJ are willing to meet her demands for immunity or clemency. With only about five weeks left and no scheduled hearing or ongoing negotiations apparent, the scenario for a 'Yes' outcome is highly implausible barring an unforeseen, dramatic shift. Therefore, the probability is very low, but not absolutely zero, given the unpredictability of last-minute political deals.",
+            "final_probability": 2
+        },
+        "US Legal Practice (Immunity Agreements)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in US Legal Practice (Immunity Agreements), I understand the mechanics, incentives, and institutional hurdles involved when incarcerated witnesses like Ghislaine Maxwell are asked to testify before Congress, especially on controversial matters with potential criminal, political, and intelligence implications. I can assess the likelihood of immunity deals, the interplay between Congress and DOJ/Bureau of Prisons, strategic use of the Fifth Amendment, and the historical base rates of similarly situated witnesses agreeing to appear and testify.",
+            "status_quo": "Ghislaine Maxwell has not testified at a Congressional hearing. To date, Congressional efforts to compel her testimony have failed; her legal team has stated she would invoke the Fifth Amendment and refused to cooperate without immunity, advance questions, and/or clemency. No hearing with oral testimony has occurred.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Congressional Subpoena and Political Will",
+                    "effect": "Increases probability. The House Oversight Committee has issued a subpoena and public statements indicate both political and bipartisan interest in testimony. However, this is necessary but not sufficient."
+                },
+                {
+                    "factor": "Maxwell\u2019s Legal Strategy and Fifth Amendment",
+                    "effect": "Decreases probability. Maxwell\u2019s lawyers have explicitly stated she will not testify without immunity or clemency and is prepared to invoke the Fifth Amendment on all substantive questions. Incarcerated witnesses rarely voluntarily testify without guarantees against self-incrimination, especially on matters with ongoing civil/criminal exposure."
+                },
+                {
+                    "factor": "Immunity and Clemency Negotiations",
+                    "effect": "Decreases probability. Congress is highly unlikely to grant immunity (especially in a case involving child sex trafficking), and presidential clemency is politically toxic, especially so close to a presidential election. DOJ and the White House have denied any dealmaking, and the Oversight Committee has publicly rejected immunity."
+                },
+                {
+                    "factor": "Bureaucratic/Procedural Barriers",
+                    "effect": "Decreases probability. The logistics of arranging Congressional testimony from a federal inmate are formidable\u2014requiring DOJ and Bureau of Prisons cooperation, security, and strict timelines. The clock is also very short (about 5 weeks)."
+                },
+                {
+                    "factor": "Recent Precedent and Base Rate",
+                    "effect": "Strongly decreases probability. In similar high-profile cases (e.g., mafia, intelligence, or sex crime witnesses in federal custody), oral Congressional testimony is extremely rare without immunity or some form of negotiated deal\u2014especially within a short time frame and with ongoing legal exposure."
+                },
+                {
+                    "factor": "Recent Developments\u2014Focus Shift to Clintons",
+                    "effect": "Decreases probability. Recent reports indicate Congressional focus has shifted to compelling testimony from the Clintons and other political figures, with the committee deprioritizing Maxwell after her counsel\u2019s refusal and Fifth Amendment stance."
+                }
+            ],
+            "no_scenario": "Maxwell and her legal team maintain their position: she refuses to testify without immunity, clemency, or advance questions; Congress declines to grant immunity or negotiate a deal; the committee publicly deprioritizes her testimony, focusing on other witnesses (e.g., Clintons). No hearing is held before January 1, 2026.",
+            "yes_scenario": "A political or legal breakthrough occurs: perhaps Maxwell is offered a limited-use immunity deal (very unlikely), or Congressional leadership and DOJ/White House strike a deal in which she testifies (even if she invokes the Fifth on every question). Logistics are rapidly arranged and a hearing (public, closed, or secret) is held before the deadline, and credible media report her oral testimony on the Epstein Files or Trump's relationship with Epstein.",
+            "final_reasoning": "The base rate for incarcerated witnesses with ongoing criminal/civil exposure testifying before Congress\u2014especially in sex trafficking cases\u2014is extremely low without immunity or clemency. Maxwell\u2019s legal team has been explicit: she will not testify without such protections and will invoke the Fifth if compelled. Both Congress and DOJ have publicly rejected immunity or a deal, and the committee has deprioritized her testimony in favor of other political targets. The logistics and time remaining are formidable barriers. All recent reporting indicates Maxwell is not cooperating and Congress is not pushing further. Unless an extraordinary last-minute deal is struck (which would likely leak), the probability of a hearing with Maxwell\u2019s oral testimony before January 1, 2026 is exceedingly low.",
+            "final_probability": 2
+        },
+        "Political Science (Congressional Oversight Theory)": {
+            "time_to_resolution": "Approximately 5 weeks (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Congressional Oversight Theory, I bring a nuanced understanding of the legal, procedural, and political constraints governing Congressional hearings, especially regarding high-profile, controversial witnesses under federal custody. I am attuned to the strategic incentives of Congressional committees, inter-branch negotiations (particularly with DOJ and BOP), and the historic pattern of Congress compelling or failing to compel oral testimony from incarcerated witnesses in sensitive matters.",
+            "status_quo": "Ghislaine Maxwell has not testified orally before Congress on the Epstein Files or Epstein\u2019s relationship with Trump. Congress has received documents and a transcript of her DOJ interview, but has not, as of now, held a hearing with her oral testimony.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Procedural Barriers (Custody, Fifth Amendment, Immunity)",
+                    "effect": "Decreases probability. Maxwell is in federal prison; her legal team has clearly stated she will invoke the Fifth and refuse to answer questions, and has demanded immunity, clemency, and resolution of appeals\u2014none of which Congress is inclined or likely to offer. Congressional leadership has publicly rejected immunity for Maxwell."
+                },
+                {
+                    "factor": "Committee Incentives and Political Moment",
+                    "effect": "Neutral to slight increase. The GOP-led House Oversight Committee is highly motivated to pursue public hearings on Epstein-related matters (as shown by the Clintons' subpoenas, document releases, and public rhetoric). However, theatrics and document releases may serve their political needs more than the logistical and legal challenges of compelling Maxwell's oral testimony."
+                },
+                {
+                    "factor": "Recent Precedent/History",
+                    "effect": "Decreases probability. There is scant precedent for Congress successfully compelling oral testimony from a high-profile, incarcerated witness who refuses to cooperate and is legally protected (Fifth Amendment). Past attempts (e.g., Whitey Bulger, Michael Cohen pre-plea) were rare and only succeeded with voluntary cooperation, not when the witness was overtly hostile or seeking immunity."
+                },
+                {
+                    "factor": "DOJ/BOP Cooperation",
+                    "effect": "Small decrease. DOJ has released documents and permitted a DOJ interview, but a public congressional hearing is a different category and would require complex logistics, security, and inter-branch coordination\u2014unlikely given Maxwell\u2019s refusal."
+                },
+                {
+                    "factor": "Maxwell's Personal Incentives",
+                    "effect": "Decreases probability. Maxwell is seeking clemency or a deal, reportedly angling for a Trump pardon. Her lawyer\u2019s letter and media statements suggest she will not cooperate without substantial concessions she is unlikely to receive before January 1, 2026."
+                },
+                {
+                    "factor": "Recent News: Abandonment of Interview Plans",
+                    "effect": "Strongly decreases probability. As of November 21, 2025, NBC News reports the House Oversight Committee has abandoned plans to interview Maxwell after her legal team confirmed she would invoke the Fifth and refuse to answer any questions, and that proceeding would be a waste of time and taxpayer funds."
+                },
+                {
+                    "factor": "Congressional Focus on Other Witnesses",
+                    "effect": "Decreases probability. The committee is now focusing on the Clintons, with scheduled depositions in December, and no evidence of renewed attempts to secure Maxwell\u2019s testimony."
+                }
+            ],
+            "no_scenario": "Congress does not hold a hearing in which Maxwell gives oral testimony (even if she invokes the Fifth) before January 1, 2026. Her legal team continues to refuse cooperation, Congress sees no political or practical value in compelling a non-cooperative witness, and the committee focuses on other targets (e.g., the Clintons). Maxwell remains in custody, her appeals unresolved, and no deal is struck.",
+            "yes_scenario": "A last-minute political or legal breakthrough occurs: Maxwell is granted some form of immunity or deal (perhaps as the result of a political calculation by Trump, should he perceive benefit), or she voluntarily agrees to testify (even to invoke the Fifth) in a high-profile hearing, and Congress, DOJ, and BOP coordinate to make it happen before the deadline.",
+            "final_reasoning": "The base rate for Congress compelling oral testimony from a hostile, incarcerated witness who is openly refusing cooperation and demanding immunity/clemency is extremely low. While the political incentives for spectacle are high, the committee appears to have already abandoned efforts, per the latest reporting (NBC News, Nov 21, 2025), and is prioritizing other witnesses. There is no indication Maxwell\u2019s stance has changed, or that Congress is willing to meet her demands. The window for action is very narrow (just over a month), and the legal and logistical challenges are formidable. Given the status quo, the clear signals from both Maxwell\u2019s legal team and Congressional leadership, and the lack of precedent for success in such cases, the probability of Maxwell testifying orally at a Congressional hearing on the Epstein Files or Trump before January 1, 2026, is extremely low.",
+            "final_probability": 2
+        },
+        "Political Science (Elite Theory)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As a political scientist specializing in Elite Theory, I focus on how elite actors, institutions, and informal networks shape key outcomes. In this scenario, the interplay between elite interests (politicians, intelligence agencies, high-profile individuals) and institutional incentives (Congress, DOJ, executive branch) is crucial. Elite Theory posits that when elite interests are threatened by transparency or accountability, procedural and informal barriers are likely to be deployed, regardless of public or legislative pressure.",
+            "status_quo": "Ghislaine Maxwell has not testified orally before Congress regarding the Epstein Files or Epstein's relationship with Trump. She remains incarcerated, and Congress has not successfully compelled her to testify at a hearing.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Elite Risk Aversion and Mutual Protection",
+                    "effect": "Decreases probability. Elite actors named in the Epstein Files (including Trump, Clinton, and others) have strong incentives to avoid public, under-oath testimony by Maxwell. Elite networks are likely to exert influence, overt or covert, to prevent such testimony, especially in a polarized election year."
+                },
+                {
+                    "factor": "Congressional Subpoena Power vs. Executive/DOJ Control",
+                    "effect": "Decreases probability. Although Congress can issue subpoenas, Maxwell is in federal custody and logistics (i.e., security, venue, DOJ cooperation) are controlled by the executive branch. The DOJ and Bureau of Prisons can slow-walk, complicate, or conditionally refuse access under plausible pretexts."
+                },
+                {
+                    "factor": "Maxwell's Own Incentives and Legal Position",
+                    "effect": "Decreases probability. Maxwell has signaled she will only testify if granted immunity and/or clemency, and that she would otherwise invoke the Fifth Amendment or refuse to answer. Congress has refused to grant immunity. She is unlikely to voluntarily risk new charges or perjury."
+                },
+                {
+                    "factor": "Precedent and Base Rates for Incarcerated Witnesses",
+                    "effect": "Decreases probability. Historically, it is exceedingly rare for high-profile incarcerated witnesses to testify live at congressional hearings, especially on matters that threaten elite networks. Base rate is low."
+                },
+                {
+                    "factor": "Political Incentives in the 2024-2025 Electoral Cycle",
+                    "effect": "Mixed/Neutral. While some Republicans may wish to embarrass Democrats (and vice versa) by compelling testimony, the bipartisan nature of elite connections to Epstein makes both parties risk-averse. Political theater is more likely than substantive risk to elites."
+                },
+                {
+                    "factor": "Recent Developments: Document Releases and Subpoenas",
+                    "effect": "Slightly increases probability. The House has demonstrated willingness to subpoena and release documents, and there is some momentum in compelling hearings (e.g., with the Clintons). However, Maxwell's participation remains stalled by her conditions."
+                },
+                {
+                    "factor": "DOJ and White House Position",
+                    "effect": "Decreases probability. The DOJ has shown little interest in facilitating Maxwell's testimony, and the White House is keen to avoid the appearance of a 'deal' or leniency for Maxwell in exchange for testimony. There is no sign of imminent executive intervention."
+                }
+            ],
+            "no_scenario": "Congress issues a subpoena, but Maxwell refuses to answer any substantive questions without immunity or clemency. The DOJ and Bureau of Prisons cite logistical, legal, or security barriers. Hearings focus on other witnesses (e.g., the Clintons), but Maxwell never physically or virtually appears at a hearing to answer questions about the Epstein Files or Trump's association. News outlets report on failed negotiations and political posturing, but no oral testimony occurs before January 1, 2026.",
+            "yes_scenario": "A political breakthrough occurs\u2014perhaps as a result of new revelations, a shift in DOJ/White House strategy, or a successful negotiation for limited immunity. Maxwell is transported (or appears remotely) for a congressional hearing, even if she invokes the Fifth on most questions. The event is confirmed by multiple credible media outlets, and she is under oath regarding the Epstein Files or Trump's association before January 1, 2026.",
+            "final_reasoning": "Elite Theory suggests that, despite public legislative efforts and media scrutiny, entrenched elite interests are highly effective at blocking or deferring existential risks. The base rate for incarcerated, high-profile witnesses testifying at congressional hearings, especially when multiple elite actors are potentially exposed, is extremely low. Recent news confirms Maxwell's refusal without immunity, Congress's unwillingness to negotiate her demands, and the DOJ's lack of facilitation. While the current congressional posture is aggressive (subpoenas, document releases), these are more likely to serve as political theater than to result in substantive, risky testimony from Maxwell. Even though there is a short window remaining, there is no evidence of a breakthrough or softening of positions. The status quo is strongly reinforced by institutional inertia and elite self-protection.",
+            "final_probability": 5
+        },
+        "Law (Federal Subpoena Power)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in federal subpoena power, I bring a nuanced understanding of the mechanisms and practical limitations of compelling incarcerated individuals to testify before Congress, the interplay between congressional oversight authority and Department of Justice (DOJ)/Bureau of Prisons (BOP) cooperation, legal strategies available to witnesses (such as the Fifth Amendment), and the practical, political, and procedural hurdles involved in high-profile congressional hearings\u2014especially in cases with significant criminal exposure and ongoing legal appeals.",
+            "status_quo": "Ghislaine Maxwell, as of now, has not testified under oath at a congressional hearing on the Epstein Files or Trump\u2019s relationship with Epstein. While there was initial movement toward subpoenaing her, recent reporting indicates that the House Oversight Committee abandoned plans to interview her after her lawyers stated she would plead the Fifth and not cooperate. She remains incarcerated and her legal appeals are ongoing.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Congressional Subpoena Power over Incarcerated Witnesses",
+                    "effect": "Increases probability slightly, as Congress can subpoena and coordinate with DOJ/BOP to produce a federal prisoner. However, logistics are complex and require executive branch cooperation."
+                },
+                {
+                    "factor": "Fifth Amendment Invocation and Legal Strategy",
+                    "effect": "Decreases probability, as Maxwell\u2019s legal team has already indicated she will invoke the Fifth Amendment and refuse to answer questions absent immunity or clemency, both of which are extremely unlikely to be granted."
+                },
+                {
+                    "factor": "Committee Abandonment of Plans",
+                    "effect": "Strongly decreases probability, since the House Oversight Committee publicly abandoned attempts after learning Maxwell would not testify substantively, finding it a waste of taxpayer resources."
+                },
+                {
+                    "factor": "Political Incentives and Timing",
+                    "effect": "Marginally increases probability, with the GOP eager to focus attention on Democratic figures, but reduces overall since the Maxwell angle has become less politically attractive. Focus has shifted to the Clintons, who are set to appear, rather than Maxwell."
+                },
+                {
+                    "factor": "Maxwell\u2019s Legal Appeals and Conditions",
+                    "effect": "Decreases probability. Maxwell has attached strict, almost certainly unacceptable conditions to any cooperation, such as immunity, advance questions, and clemency. Her pending appeals and habeas petitions further delay any potential testimony."
+                },
+                {
+                    "factor": "Recent Precedent and Base Rate",
+                    "effect": "Strongly decreases probability. Historically, it is extremely rare for a convicted, incarcerated federal defendant with ongoing post-conviction litigation to testify voluntarily or be compelled to testify at a congressional hearing on matters of criminal exposure without immunity."
+                }
+            ],
+            "no_scenario": "Maxwell\u2019s counsel continues to refuse cooperation; she maintains her intention to invoke the Fifth Amendment on all relevant questions. Congressional leadership, unwilling to waste resources or set a precedent for fruitless hearings, does not proceed with a hearing. No credible report emerges of Maxwell being orally questioned by House or Senate members under oath before January 1, 2026.",
+            "yes_scenario": "A sudden political shift or new leverage prompts Maxwell to agree to appear\u2014perhaps in exchange for an (improbable) promise of clemency, or in a last-minute move by Congress to force her appearance for public theater, even if she only invokes the Fifth. The DOJ and BOP coordinate to allow her remote or in-person testimony at a hearing, and credible sources confirm she was sworn and at least formally questioned regarding the Epstein Files or Trump.",
+            "final_reasoning": "The preponderance of evidence from recent news, committee statements, and Maxwell's legal posture makes a Yes resolution highly unlikely. Congress has deprioritized Maxwell, focusing instead on the Clintons and others. The committee explicitly abandoned plans to interview her upon learning she would not testify substantively. Maxwell continues to demand immunity, clemency, and other conditions that Congress is unwilling to meet; her lawyers have made clear she will plead the Fifth, and Congress has stated it will not waste resources on an uncooperative witness. The base rate for an incarcerated federal defendant with ongoing appeals testifying at a congressional hearing\u2014especially one with exposure to further criminal jeopardy and no immunity\u2014is near zero. While Congress retains the theoretical power to subpoena and produce her, all practical and political momentum has shifted away from Maxwell. Therefore, the chance of her testifying before Congress by January 1, 2026, is extremely low.",
+            "final_probability": 3
+        },
+        "Law (Fifth Amendment Privilege)": {
+            "time_to_resolution": "Slightly over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in the Fifth Amendment privilege, my perspective is particularly relevant because the question explicitly states that invocation of the Fifth Amendment does not prevent question resolution as 'Yes.' This means the legal nuances of compelled testimony, congressional subpoena enforcement, immunity negotiations, and the behavior of high-profile defendants facing criminal exposure are central. I also track base rates for congressional testimony by incarcerated witnesses and analyze the legal and political barriers to compelling such testimony.",
+            "status_quo": "Ghislaine Maxwell has not testified in a congressional hearing about the Epstein Files or Epstein's relationship with Trump. She has refused past requests, citing her intent to invoke the Fifth Amendment unless given immunity or clemency. Congress has shown interest but has not succeeded in compelling her oral testimony.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Fifth Amendment invocation and refusal to testify without immunity",
+                    "effect": "Decreases probability. Maxwell's stated intent to invoke the Fifth and her legal team's hard line against testifying without immunity or clemency make it far less likely she will appear, especially since Congress has explicitly refused to negotiate these terms."
+                },
+                {
+                    "factor": "Congressional precedent and base rate for testimony by incarcerated felons",
+                    "effect": "Decreases probability. It is extremely rare for incarcerated felons to be brought before Congress for oral testimony, especially if they are unwilling and there is no immunity deal."
+                },
+                {
+                    "factor": "Political motivation and public pressure on Congress",
+                    "effect": "Increases probability. There is significant bipartisan pressure for transparency and accountability in the Epstein case, with aggressive subpoenas for other high-profile witnesses (the Clintons, former AGs, etc.), and the release of the Epstein Files Transparency Act. This keeps the issue alive and incentivizes Congress to keep trying to secure Maxwell's testimony."
+                },
+                {
+                    "factor": "Recent developments: transfer to lower-security prison and possible pursuit of clemency",
+                    "effect": "Slightly increases probability. Maxwell's transfer and reported happiness, as well as rumors of her seeking a commutation from Trump, suggest she may be maneuvering for leverage. If she believes testimony could help her case for clemency, she might shift her position."
+                },
+                {
+                    "factor": "House Oversight Committee's public statements and strategic priorities",
+                    "effect": "Decreases probability. The Committee has recently deprioritized Maxwell, focusing instead on the Clintons after her lawyers said she would not cooperate. The political cost and logistical difficulty of staging a hearing just for her, when she promises only silence, makes this outcome less likely."
+                },
+                {
+                    "factor": "Congressional rules: depositions vs. hearings and news reporting requirements",
+                    "effect": "Decreases probability. The rules for what counts (must be a hearing, not a deposition; must be reported by credible sources) reduce the chances of an ambiguous or last-minute outcome. There is little time left to organize a hearing."
+                },
+                {
+                    "factor": "Possibility of last-minute political deal or legal compulsion",
+                    "effect": "Minimally increases probability. If there is a major political incentive, e.g., for Trump to grant clemency in exchange for testimony, this could change the equation, but there is no concrete sign this is imminent."
+                }
+            ],
+            "no_scenario": "Maxwell continues to refuse to testify, invoking the Fifth through her counsel and/or in writing, or simply stonewalls. Congress, facing the logistical and political cost of bringing an uncooperative prisoner for a public hearing, ultimately focuses on other witnesses (such as the Clintons, AGs, FBI directors). No credible report emerges of Maxwell giving oral testimony at a congressional hearing before January 1, 2026.",
+            "yes_scenario": "Through a combination of political pressure and possible negotiations (perhaps a minor concession, or a change in Maxwell's legal strategy if she believes she can gain clemency or other benefit), Maxwell is physically or virtually brought before a congressional hearing and is orally questioned by House or Senate members about the Epstein Files or Trump's relationship with Epstein. Even if she invokes the Fifth on every question, the hearing is credibly reported and meets the resolution criteria.",
+            "final_reasoning": "All recent developments point to Congress deprioritizing Maxwell's testimony after her legal team confirmed she will only invoke the Fifth and will not answer questions unless given immunity or clemency\u2014terms Congress has flatly rejected. There is no sign of political will or urgency to overcome the logistical, legal, and reputational risks of bringing her before Congress just for her to remain silent, particularly with the Committee's focus shifting heavily to the Clintons and other figures. The base rate for compelled oral testimony by unwilling, incarcerated felons in front of Congress is extremely low, especially within a short deadline and absent a negotiated deal. Maxwell's pursuit of clemency is real, but any such deal would require time and political capital that is lacking as the deadline nears. The only plausible path to 'Yes' is a dramatic, last-minute political deal or an unexpected change in Maxwell's legal calculus, neither of which is supported by current reporting. Thus, the probability is very low, but not absolute zero given the political volatility and the incentives for a dramatic reveal. A 5% probability is justified: low enough to reflect the base rate and all obstacles, but not zero due to theoretical possibility of a surprise deal or hearing.",
+            "final_probability": 5
+        },
+        "Sociology (Scandal and Moral Panic Theory)": {
+            "time_to_resolution": "Approximately 1 month until January 1, 2026",
+            "perspective_relevance": "As an expert in Sociology (Scandal and Moral Panic Theory), I bring a deep understanding of the social processes that drive moral panics, political theater, and the evolution of scandals in the public sphere. My expertise is particularly relevant because the Epstein/Maxwell saga has become a focal point of elite scandal, conspiracy, and moral outrage, with frequent claims of coverup, political manipulation, and performative transparency. Understanding how such scandals unfold, escalate, and are managed by elites and institutions is key to assessing the likelihood of an imprisoned figure like Maxwell being compelled to give public oral testimony before Congress.",
+            "status_quo": "Ghislaine Maxwell has not testified before Congress in a hearing regarding the Epstein Files or Epstein's relationship with Trump. Past testimony opportunities have been rebuffed by her legal team, with repeated invocation of the Fifth Amendment, and Congressional interest has waxed and waned with political tides.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Political Incentive and Polarization",
+                    "effect": "Increases probability somewhat, as current Congressional actors (notably the GOP-led House) are incentivized to pursue high-profile hearings for political gain, especially with the simultaneous pursuit of the Clintons. However, these incentives often result in spectacle rather than substantive testimony."
+                },
+                {
+                    "factor": "Scandal Fatigue and Issue-attention Cycle",
+                    "effect": "Decreases probability, as the Epstein/Maxwell case has reached a point of diminishing returns in terms of new revelations. Sociologically, the issue-attention cycle suggests that after repeated failed efforts, public and political appetite for yet another attempt at a Maxwell hearing is low, unless a significant new development arises."
+                },
+                {
+                    "factor": "Maxwell's Legal Strategy and Fifth Amendment",
+                    "effect": "Strongly decreases probability. Maxwell and her lawyers have consistently indicated she will invoke the Fifth Amendment, and the NBC News article confirms that the House Oversight Committee is abandoning efforts to interview her for this reason. Her requests for immunity and clemency have been rejected."
+                },
+                {
+                    "factor": "Institutional Risk Aversion and Elite Protection",
+                    "effect": "Decreases probability. Congressional leadership and the DOJ have strong incentives to avoid testimony that could backfire, embarrass powerful figures, or result in unpredictable disclosures. This risk aversion tends to result in controlled, symbolic actions rather than actual live testimony."
+                },
+                {
+                    "factor": "Recent Precedents and Base Rates",
+                    "effect": "Decreases probability. In high-profile scandals involving imprisoned or legally-compromised figures, Congressional oral testimony is rare. Depositions and written statements are more common. Congressional hearings with oral testimony from such individuals are exceedingly rare."
+                },
+                {
+                    "factor": "Potential for Moral Panic Resurgence",
+                    "effect": "Marginally increases probability, but only if a new, shocking revelation emerges that tips the scandal back into the center of the public agenda. This is not currently the case, and the recent document releases have not produced such a moment."
+                }
+            ],
+            "no_scenario": "Maxwell continues to refuse to testify unless granted immunity or clemency (which is not forthcoming). The House Oversight Committee, after public posturing, abandons plans to bring her in for oral testimony, citing her intent to plead the Fifth and the poor use of taxpayer funds. No new, explosive revelations surface in the released documents to reignite the urgency. The year turns over to 2026 with no Maxwell hearing having taken place, and the issue fades back into the background.",
+            "yes_scenario": "A sudden, major revelation in the newly released Epstein files (perhaps via the DOJ's court-ordered unsealing) triggers a renewed, bipartisan moral panic. Under immense public and political pressure, Congress negotiates a limited hearing with Maxwell, possibly with her present via video link. Even if she invokes the Fifth on most questions, her oral testimony at a Congressional hearing is reported by credible sources before January 1, 2026.",
+            "final_reasoning": "While there is clear Congressional interest in high-profile testimony and an ongoing political incentive to keep the Epstein scandal in the news, the sociological status quo and recent developments point strongly against the likelihood of Maxwell giving oral testimony at a Congressional hearing before 2026. Her legal team's strategy is to refuse all testimony unless granted substantial concessions, which have been emphatically rejected by Congressional leadership. The House Oversight Committee has publicly abandoned plans to pursue her testimony for now, and there is no indication of a breakthrough or a new moral panic surge that would override these entrenched stances. The base rate for incarcerated, high-profile figures being compelled to testify orally before Congress\u2014especially while their legal appeals are ongoing and without immunity\u2014is extremely low. The performative aspects of the scandal are being satisfied through document releases and the targeting of the Clintons for hearings. Unless an unexpected, dramatic new revelation or external event upends the situation in the next month, the probability of Maxwell testifying orally at a hearing before 2026 is very low.",
+            "final_probability": 5
+        }
+    },
+    "deliberation_probability": [
+        2,
+        2,
+        2,
+        2,
+        5,
+        3,
+        5,
+        5
+    ],
+    "deliberation_mean_probability": 3.25,
+    "deliberation_sd": 1.4880476182856899,
+    "deliberation_probability_result": 3
+}
