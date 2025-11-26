@@ -1,0 +1,469 @@
+{
+    "deliberation_results": {
+        "US Government Affairs (Congressional Funding Process)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in US government affairs and the congressional funding process, I am well-placed to interpret the nuances of how federal programs like PEPFAR can be eliminated, restructured, or defunded\u2014whether through congressional action, executive orders, or budgetary maneuvers. My expertise helps weigh the legal, procedural, and political barriers to full program termination, as distinct from partial cuts or temporary pauses.",
+            "status_quo": "Historically, PEPFAR has enjoyed strong bipartisan support and has always been reauthorized or funded, even amid controversy or changes in administration. The status quo is continued existence with some level of funding, unless specifically eliminated by law or executive action unchallenged by courts.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Congressional authority and appropriations",
+                    "effect": "Decreases probability of full termination. Congress has the power of the purse, and even in recent years with controversy, PEPFAR has typically retained funding through appropriations bills or continuing resolutions. Complete elimination by Congress would be unprecedented and politically risky."
+                },
+                {
+                    "factor": "Executive branch actions (Trump Administration)",
+                    "effect": "Increases probability. The Trump administration has demonstrated willingness to take extraordinary executive actions, including dissolving USAID, pausing foreign aid, and issuing rescission packages. However, many of these actions have been challenged in court or partially walked back."
+                },
+                {
+                    "factor": "Judicial intervention and legal ambiguity",
+                    "effect": "Decreases probability. Multiple judicial blocks have prevented or delayed some executive actions, and legal ambiguity over the ability to impound or rescind funds without Congress has resulted in court challenges. The Supreme Court has allowed some freezes to continue, but not a clear, clean elimination of PEPFAR."
+                },
+                {
+                    "factor": "Partial waivers and ongoing limited operations",
+                    "effect": "Decreases probability. Even as much of PEPFAR's funding has been frozen, reports indicate that some life-saving services (e.g., HIV treatment, PMTCT, some PrEP) continue through waivers, meaning the program has not ceased to exist, though its scope is dramatically reduced."
+                },
+                {
+                    "factor": "Program consolidation or rebranding",
+                    "effect": "Neutral. The question's fine print specifies that merging or renaming PEPFAR only resolves Yes if its core mission and distinct identity are lost. Current evidence suggests reorganization under the State Department's Bureau of Global Health Security and Diplomacy, but not full elimination."
+                },
+                {
+                    "factor": "Political optics and international consequences",
+                    "effect": "Decreases probability. The catastrophic impact on global health and US soft power from a total PEPFAR cessation could provoke backlash from Congress, the public, and international partners, making a full termination less likely at the last minute."
+                }
+            ],
+            "no_scenario": "Despite severe funding reductions, legal wrangling, and reorganization, PEPFAR continues to exist in a limited form\u2014possibly under a new bureau or with drastically reduced operations, but still identifiable as PEPFAR and still delivering some core services. No law is passed to terminate it outright, and executive actions do not go unchallenged for 60 days. Congress may restore some funding in an end-of-year omnibus or CR, or the administration refrains from formally eliminating the program before January 1, 2026.",
+            "yes_scenario": "A law is enacted before January 1, 2026, terminating PEPFAR, or the Trump administration issues an executive order that wholly eliminates the program (including all waivers and minimal services), with the action standing unblocked for 60 consecutive days. Alternatively, PEPFAR's functions are fully merged into another entity, losing its distinct organizational identity and mission, with no ongoing separate services or funding.",
+            "final_reasoning": "The current situation is extremely dire for PEPFAR: funding has been slashed, USAID was dissolved, and only a fraction of services are operating via waivers. However, the program still exists in some form\u2014core life-saving HIV treatment and prevention services continue, and there is no clear evidence of a law or unchallenged executive order fully terminating PEPFAR. Courts have intervened to block some actions, and Congress has not passed legislation eliminating PEPFAR. The reorganization under the State Department's Bureau of Global Health Security and Diplomacy appears to be a structural change rather than a full merger or dissolution. While the administration's actions have come closer than ever to ending PEPFAR, the fine print excludes partial or temporary elimination. With just over a month left, and given the inertia and legal complexity of fully terminating an established federal program, the base rate and recent events suggest it is unlikely\u2014though not impossible\u2014that PEPFAR will cease to exist entirely before January 1, 2026.",
+            "final_probability": 18
+        },
+        "US Government Affairs (Federal Appropriations Lifecycle)": {
+            "time_to_resolution": "Just over 1 month (forecast date: Nov 26, 2025; resolves Jan 1, 2026)",
+            "perspective_relevance": "As an expert in US federal appropriations and program lifecycles, I understand the statutory, executive, and bureaucratic requirements for creating, eliminating, or restructuring large federal programs like PEPFAR. My expertise allows me to distinguish between funding delays, agency reorganizations, and true program termination as defined by law and the question's fine print.",
+            "status_quo": "PEPFAR continues to exist, though with major disruptions, partial funding, and greatly reduced scope. Historically, even under hostile administrations, headline global health programs like PEPFAR have survived as distinct entities, albeit with budget and mission changes.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Executive hostility and use of impoundment/pocket rescission",
+                    "effect": "Increases probability. The Trump administration has attempted to halt, withhold, or rescind PEPFAR and broader foreign aid funding, using aggressive executive interpretations and legal maneuvers."
+                },
+                {
+                    "factor": "Congressional appropriations and legal challenges",
+                    "effect": "Decreases probability. Congress has not enacted legislation to terminate PEPFAR or eliminate its public funding, and courts have often sided against executive overreach, albeit with delays and ambiguity."
+                },
+                {
+                    "factor": "Dissolution of USAID and program consolidation",
+                    "effect": "Increases probability. USAID, PEPFAR's key implementation partner, was dismantled, and its functions transferred or absorbed, raising the risk of PEPFAR losing its distinct programmatic existence."
+                },
+                {
+                    "factor": "Partial waivers and carve-outs for 'life-saving' HIV services",
+                    "effect": "Decreases probability. Despite sweeping cuts and dissolutions, the administration has allowed limited PEPFAR activities to continue for core treatment/prevention, albeit at reduced scale."
+                },
+                {
+                    "factor": "Historical base rate for elimination of flagship global health programs",
+                    "effect": "Decreases probability. There is no precedent for full legal termination of PEPFAR or similar programs in a comparable time frame; they often survive even under congressional and executive hostility."
+                },
+                {
+                    "factor": "Program absorption vs. outright elimination",
+                    "effect": "Increases probability somewhat. The merger of USAID into State Department GHSD and severe staff/contract cuts blur the line between program absorption and true elimination, which is relevant for resolution."
+                },
+                {
+                    "factor": "Impacts on the ground and operational continuity",
+                    "effect": "Neutral to decreases probability. Severe operational disruption does not automatically mean legal/programmatic elimination per the fine print; the program may be a shell yet legally extant."
+                }
+            ],
+            "no_scenario": "Despite mass layoffs, funding delays, and agency reorganizations, PEPFAR continues to exist as a distinct program under the State Department (or GHSD), with at least some congressionally appropriated funding and a public mission for HIV/AIDS relief. No law is enacted to terminate it, and executive actions to halt PEPFAR are blocked, reversed, or stayed by courts or Congress before 60 days elapse.",
+            "yes_scenario": "The Trump administration succeeds in legally terminating PEPFAR by merging it fully into another agency or program such that it ceases to exist as a distinct entity, or Congress passes a law eliminating its funding or statutory basis. Alternatively, an executive action (e.g., impoundment or merger) eliminating PEPFAR is not blocked by a court and remains in effect for at least 60 consecutive days before Jan 1, 2026.",
+            "final_reasoning": "The past year has seen unprecedented executive hostility and disruption to US global health programs, with USAID dissolved, mass layoffs, and PEPFAR funding severely curtailed. However, the fine print requires full legal/programmatic elimination\u2014not just massive disruption, funding delays, or absorption of some functions. Despite the near-dismantling of USAID and absorption of functions into the State Department, there is strong evidence that at least a core of PEPFAR's mission continues under the State Department's Bureau of Global Health Security and Diplomacy (GHSD), with waivers for life-saving HIV services and some funds released. No law has been passed to terminate PEPFAR, and federal courts have at times blocked or limited the executive's attempts to fully impound and eliminate funding, though court action has been inconsistent. Historical base rates for fully terminating major global health programs are extremely low, especially within a year. The legal battle over impoundment has not definitively resolved in the administration's favor, and Congress has not acted to kill PEPFAR outright. While the risk of elimination is far higher than at any prior point, and the line between absorption and elimination is blurred by the absorption into State's GHSD, the available evidence\u2014budget carve-outs, partial waivers, lack of a terminating law, and ongoing albeit diminished operations\u2014suggests PEPFAR will narrowly survive in name and core function through January 1, 2026. That said, the probability of outright extinction is non-negligible given the extraordinary legal, administrative, and operational assault.",
+            "final_probability": 22
+        },
+        "International Aid Program Management (Donor Funding Continuity)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in International Aid Program Management with specialization in donor funding continuity, my perspective emphasizes the structural, legal, and operational mechanisms by which large-scale donor programs persist or are discontinued. I prioritize base rates of donor program termination, the realities of congressional vs. executive authority in U.S. foreign aid, and the resilience of flagship programs like PEPFAR in the face of political disruption.",
+            "status_quo": "Historically, PEPFAR has enjoyed robust bipartisan support and has never been terminated since its 2003 inception. Even under hostile administrations, it has persisted with only partial funding interruptions, not outright cessation.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Executive action and agency dissolution (Trump administration\u2019s January 2025 orders, USAID dismantling)",
+                    "effect": "Increases probability. The executive branch has taken unprecedented steps, including dissolving USAID and freezing/cancelling most foreign aid, including PEPFAR funding. However, courts have partially checked these actions, and the core PEPFAR mission continues under State Department oversight."
+                },
+                {
+                    "factor": "Legal/judicial constraints and congressional appropriations",
+                    "effect": "Decreases probability. Federal courts have intervened multiple times to block or limit the executive branch\u2019s ability to unilaterally impound or rescind congressionally-appropriated funds. Congress has exempted PEPFAR from some rescissions. Complete program cessation by executive fiat is legally and politically difficult."
+                },
+                {
+                    "factor": "Partial vs. total program cessation (funding disruptions, but not legal elimination)",
+                    "effect": "Decreases probability. The resolution criteria are strict: only complete elimination, merger, or Congressional defunding counts. Partial or temporary halts\u2014even if catastrophic\u2014do not meet the threshold. Most current disruptions are partial, not total elimination."
+                },
+                {
+                    "factor": "Base rate of flagship donor program termination",
+                    "effect": "Decreases probability. No U.S. flagship global health program of PEPFAR\u2019s stature has been outright terminated in under a year since creation. Even with hostile administrations, historical precedent is resilience, not extinction."
+                },
+                {
+                    "factor": "Current operational status and future budget requests",
+                    "effect": "Slightly increases probability. FY2026 budget proposes a ~$2B cut, but not elimination. Ongoing legal disputes, the absorption of USAID functions by the State Department, and a general anti-global-aid posture elevate risk, but current evidence shows PEPFAR continues in diminished form."
+                },
+                {
+                    "factor": "Political blowback and global repercussions",
+                    "effect": "Decreases probability. The severe humanitarian and diplomatic fallout from total PEPFAR cessation makes complete elimination less likely, as demonstrated by Congressional and international pushback and ongoing legal action."
+                },
+                {
+                    "factor": "Congressional action/lack of reauthorization",
+                    "effect": "Neutral to slightly increases probability. Congress has not formally reauthorized PEPFAR but has continued to appropriate funds. Only a law specifically terminating PEPFAR or eliminating all its funding would trigger a \"Yes\" resolution."
+                }
+            ],
+            "no_scenario": "Despite executive branch hostility, PEPFAR persists as a distinct program under the State Department, with diminished funding and scope, but without full legal or operational termination. Courts continue to block or delay executive attempts at total rescission, Congress does not pass a law to eliminate PEPFAR, and no merger or consolidation strips PEPFAR\u2019s identity by January 1, 2026.",
+            "yes_scenario": "Congress passes a law eliminating PEPFAR or its funding entirely before January 1, 2026; or the administration successfully merges PEPFAR into another program/agency with its identity erased, and this action survives court challenges and lasts for at least 60 days before the deadline. Alternatively, the administration manages to withhold all funding and terminate all operations for a continuous 60-day period without legal interruption before the deadline.",
+            "final_reasoning": "While the Trump administration has taken drastic steps to disrupt, shrink, and partially defund PEPFAR\u2014including the dissolution of USAID and large-scale executive orders\u2014PEPFAR continues to exist in a limited form under State Department oversight with ongoing, albeit diminished, operations. No enacted law has terminated it, and the courts have at times limited the executive\u2019s ability to completely freeze congressionally-appropriated funds. The FY2026 budget request and the ongoing legal tug-of-war point to further reductions and instability, but not outright elimination. The base rate of flagship U.S. donor program extinction is extremely low, especially within such a short period. The current disruptions\u2014massive as they are\u2014fall short of the question\u2019s strict resolution criteria. Given the time remaining (just over a month), the legal and political hurdles, and the historical resilience of PEPFAR, the probability of total cessation before January 1, 2026, is elevated compared to prior years but remains less likely than not. However, I assign non-trivial risk due to the unprecedented executive actions, ongoing legal ambiguity, and the partial absorption of PEPFAR functions into other agencies.",
+            "final_probability": 22
+        },
+        "International Aid Program Management (Program Transition Planning)": {
+            "time_to_resolution": " ~1 month (as of November 26, 2025, resolves January 1, 2026)",
+            "perspective_relevance": "As an expert in international aid program management and transition planning, I focus on the legal, operational, and organizational continuity of major aid programs. This includes understanding the nuances of what constitutes program cessation, how government reorganizations and funding rescissions are implemented, and the difference between partial funding cuts vs. full elimination or legal dissolution. My experience also includes managing transitions under political and legal uncertainty, and interpreting the implications of executive vs. legislative actions, court orders, and budgetary mechanics on program existence.",
+            "status_quo": "Historically, PEPFAR has enjoyed broad bipartisan support and continuity even through changes in administration. Significant funding or operational changes have occurred, but total dissolution or legal elimination prior to 2026 would be unprecedented.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Legal and statutory basis of PEPFAR",
+                    "effect": "Decreases probability. PEPFAR was created by statute; elimination typically requires an act of Congress, not just executive action. While executive orders can disrupt or freeze implementation, outright legal termination is rare absent explicit legislative repeal."
+                },
+                {
+                    "factor": "Executive actions and structural reorganizations (e.g., USAID dissolution)",
+                    "effect": "Increases probability. The Trump administration has shown willingness to dismantle major aid infrastructure (e.g., USAID), and has frozen/disrupted PEPFAR operations via executive order. However, absorption of functions into State Department structures may mean the program persists in some form even if funding is gutted."
+                },
+                {
+                    "factor": "Funding status and budgetary appropriations",
+                    "effect": "Increases probability. FY25 budget disruptions and FY26 proposed cuts threaten the viability of PEPFAR. While some funding continues under waivers, only partial funding has been released, and the administration has attempted to rescind or impound funds, leading to major service interruptions."
+                },
+                {
+                    "factor": "Court challenges and Congressional response",
+                    "effect": "Decreases probability. Courts have at times blocked executive overreach and sought to enforce congressional appropriations. However, the Supreme Court has recently allowed the administration to withhold funds, and Congress has not intervened decisively."
+                },
+                {
+                    "factor": "Program rebranding, merging, or absorption",
+                    "effect": "Increases probability. If PEPFAR is fully merged into another bureau (e.g., State Department\u2019s GHSD) and ceases to exist as a distinct entity, per the resolution criteria, this could count as cessation even if some functions persist."
+                },
+                {
+                    "factor": "Partial vs. full termination",
+                    "effect": "Decreases probability. The resolution criteria require full elimination, not just major cuts or partial shutdown. Most reporting and legal actions describe drastic reductions, but not full legal or practical cessation yet."
+                }
+            ],
+            "no_scenario": "Despite massive disruption, PEPFAR continues to exist as a legally distinct program under the State Department or another entity, even if its funding and activities are minimal or only cover limited life-saving services. Congressional appropriations, court injunctions, or bureaucratic inertia prevent outright legal elimination before January 1, 2026.",
+            "yes_scenario": "A new law is enacted, or a presidential action (not blocked by the courts) fully eliminates PEPFAR as a program, or merges/absorbs all PEPFAR functions into another entity such that it no longer exists as a distinct organization, with this state persisting for 60 consecutive days before January 1, 2026. Alternatively, Congress or the administration eliminates all PEPFAR public funding, ending its existence as defined.",
+            "final_reasoning": "The Trump administration has taken extraordinary measures, including the dissolution of USAID and the suspension or termination of most foreign aid, with PEPFAR facing severe operational and funding cutbacks. However, the legal standard for PEPFAR to 'cease to exist' is high: either a law must be passed, a presidential action must remove PEPFAR as a distinct program for 60 days (and not be blocked by courts), or all public funding must be eliminated. As of late November 2025, there is no evidence of a law terminating PEPFAR, and while most of its functions have been gutted or suspended, waivers and partial funding continue. The program appears to persist in a reduced, fragmented form, with some activities and legal identity intact under the State Department. Additionally, the FY25 Continuing Resolution maintains some funding, and while the FY26 budget threatens further cuts, the fiscal year does not begin until October 2026. Court challenges and Congressional inaction have allowed the administration to restrict funding but not to outright abolish PEPFAR. There is also no conclusive reporting that PEPFAR's legal existence has ended or that it has been merged such that it is no longer distinct. The base rate for abrupt elimination of a major U.S. aid program within a single year is extremely low. Given the short time to resolution and the high bar for a Yes outcome, the probability is low but not zero due to the unprecedented administrative disruption and legal uncertainty.",
+            "final_probability": 8
+        },
+        "Political Science (US Policy Process)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026, from November 26, 2025).",
+            "perspective_relevance": "As a political scientist specializing in the US policy process, I provide expertise in how federal programs are terminated, the interplay between executive action and congressional appropriations, the typical resilience of entrenched global health initiatives, and the legal/structural requirements for program elimination. I also bring an understanding of base rates for the actual cessation of longstanding, bipartisan-branded US foreign aid initiatives.",
+            "status_quo": "PEPFAR, while dramatically disrupted, technically continues to exist as a legal program, though funding and scope have been sharply reduced and operationalized under new constraints.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Executive Actions and Bureaucratic Reorganization",
+                    "effect": "Increases probability. The Trump administration has taken unprecedented steps: dissolving USAID, reorienting global health under State, and attempting to rescind funds and halt projects. The legal and administrative actions show intent to dismantle traditional aid delivery structures."
+                },
+                {
+                    "factor": "Congressional Appropriations and Legal Constraints",
+                    "effect": "Decreases probability. Congress has continued to appropriate funding for PEPFAR, and courts have sometimes blocked or complicated executive attempts to impound, rescind, or redirect those funds. The fine print requires full legal elimination or 60+ days of unblocked executive action for a Yes resolution, which is difficult to achieve against congressional opposition."
+                },
+                {
+                    "factor": "Judicial Intervention",
+                    "effect": "Decreases probability. Federal courts have repeatedly intervened to block or complicate outright termination of foreign aid programs, including PEPFAR, and the Supreme Court has left some issues unresolved, but no final legal green light for full cessation has clearly occurred."
+                },
+                {
+                    "factor": "Program Restructuring vs. Elimination",
+                    "effect": "Decreases probability. Much of the activity constitutes restructuring, rebranding, or shifting funds/administrative oversight, rather than outright abolition. There is evidence of severe reductions or suspension, but not total legal termination or merger into another entity."
+                },
+                {
+                    "factor": "Base Rate of Termination for Major Aid Programs",
+                    "effect": "Decreases probability. Historically, flagship, bipartisan-branded, multi-billion-dollar US foreign aid programs (like PEPFAR) are very rarely eliminated outright; partial defunding, reorganization, or neutering is far more common, especially in the absence of explicit congressional repeal."
+                },
+                {
+                    "factor": "Recent News of Operational Collapse and Funding Withholding",
+                    "effect": "Increases probability. There is clear evidence of operational collapse, widespread layoffs, and mass program halts, plus the absorption of USAID functions and budget reductions. However, there is no unequivocal evidence that PEPFAR, as a legal entity, has been formally terminated, merged, or fully defunded by statute or unblocked executive action lasting 60+ days."
+                }
+            ],
+            "no_scenario": "Despite severe cuts, disruption, and shifting of oversight, PEPFAR remains a legally distinct program with at least some funding appropriated by Congress, and no new law is enacted to eliminate it, nor does an executive action to terminate it go unchallenged for the required 60+ days. The program may be 'zombified' (existing on paper but largely inoperative), but it is not formally dissolved, merged, or stripped of all funding in a way that satisfies the resolution criteria.",
+            "yes_scenario": "Congress passes an explicit repeal or elimination of PEPFAR; or, an executive order or administrative action fully terminates, merges, or eliminates all public funding for PEPFAR, and this action stands unblocked for 60 consecutive days before January 1, 2026 (e.g., all legal/judicial challenges fail, and no funding is allowed to flow or program operations occur under the PEPFAR label).",
+            "final_reasoning": "While the Trump administration has taken extraordinary steps to disrupt and shrink PEPFAR, including dissolving USAID, massive layoffs, and withholding funds, there is no clear evidence that PEPFAR has been formally terminated or merged per the resolution criteria. Significant funding remains appropriated, albeit held up, and courts have intervened to impede a clean executive termination. The historical base rate for outright elimination of such a major program within a single year is extremely low. The fine print also requires strict conditions for a Yes resolution (formal elimination, not merely operational collapse or severe funding disruption). Unless Congress passes a repeal or an executive action fully eliminating PEPFAR remains in place for 60 days without judicial interference\u2014neither of which has clearly occurred\u2014PEPFAR will technically continue to exist, even if its impact is drastically reduced. Thus, a No outcome remains more likely, but with much higher risk than in previous years. I estimate a 22% chance that the program will be formally eliminated or merged before Jan 1, 2026, reflecting the unprecedented severity of the current disruption and legal standoff.",
+            "final_probability": 22
+        },
+        "Political Science (Advocacy Coalition Framework)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As a political scientist specializing in the Advocacy Coalition Framework (ACF), my perspective is particularly relevant because PEPFAR's continued existence or termination hinges on the interactions between advocacy coalitions (e.g., global health NGOs, bipartisan congressional supporters, faith groups, conservative think tanks, Trump administration officials), their belief systems, and their ability to leverage institutions and legal venues. The ACF stresses how policy change requires major shifts in coalition power or external shocks, and the persistence of programs like PEPFAR often depends on entrenched coalitional support, institutional lock-in, and the ability of adversarial coalitions to overcome status quo inertia.",
+            "status_quo": "PEPFAR has survived for over two decades through bipartisan support, annual appropriations, and institutionalization within U.S. global health policy. Even under previous Republican administrations, it has been maintained\u2014though sometimes with controversy or budgetary threat.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Executive branch hostility and administrative restructuring",
+                    "effect": "Increases probability of termination. The Trump administration has taken aggressive actions: dissolving USAID, mass layoffs, budget impoundments, and repeated attempts to halt foreign aid (including PEPFAR) via executive order. The current administration is hostile to the program and has used legal and bureaucratic tools to undermine it."
+                },
+                {
+                    "factor": "Congressional resistance and legal/judicial obstacles",
+                    "effect": "Decreases probability of termination. Courts have at times blocked executive attempts to rescind congressionally appropriated funds, and Congress has shown some effort to shield PEPFAR in budget language, though its capacity to resist is limited by partisan divides and legal ambiguity over executive impoundment authority."
+                },
+                {
+                    "factor": "Advocacy coalitions and bipartisan support",
+                    "effect": "Decreases probability. PEPFAR has long had a strong, diverse advocacy coalition: global health groups, faith-based organizations, and bipartisan politicians. However, that coalition has fragmented, with rising conservative opposition (especially over abortion issues) and the dissolution of key implementing agencies (e.g., USAID)."
+                },
+                {
+                    "factor": "Program institutionalization and bureaucratic inertia",
+                    "effect": "Decreases probability. PEPFAR is not merely an executive branch program but has statutory origins, annual appropriations, and is deeply embedded in U.S. foreign health policy. Fully terminating it requires coordinated legal, administrative, and budgetary action."
+                },
+                {
+                    "factor": "Recent administrative actions and program scope",
+                    "effect": "Increases probability. The Trump administration has already succeeded in dissolving USAID, cancelling most foreign aid awards, and massively disrupting PEPFAR\u2019s implementation (e.g., mass layoffs, funding freeze, legal workarounds like 'pocket rescission'). Many services have ceased or been drastically reduced, and the administration\u2019s FY 2026 budget slashes PEPFAR\u2019s funding."
+                },
+                {
+                    "factor": "Resolution criteria and partial vs. total termination",
+                    "effect": "Decreases probability. The question requires total cessation of PEPFAR as a distinct program\u2014partial cuts, funding freezes, or temporary halts are insufficient. Unless a law eliminates PEPFAR, or all of its functions are absorbed into another agency and the program ceases to exist as a distinct entity, the question will not resolve Yes."
+                }
+            ],
+            "no_scenario": "Despite large-scale administrative disruption, PEPFAR remains a distinct, statutorily recognized program with some continued funding and operations\u2014possibly at a much-reduced scale, with remaining functions moved to the State Department\u2019s Bureau of Global Health Security and Diplomacy. Legal and congressional barriers, plus advocacy pressure, prevent complete elimination before January 1, 2026. No enacted law or sustained executive action (unblocked by courts for 60 days) fully terminates the initiative.",
+            "yes_scenario": "Congress or the Trump administration enacts a law, or a presidential action (unblocked by courts for 60 days), that explicitly terminates PEPFAR, eliminates all its public funding, or merges its functions fully into another program or agency so that PEPFAR no longer exists as a distinct entity. Alternatively, administrative workarounds (e.g., legal impoundment of all funds, absorption into State, and cessation of all activities) cross the threshold for 'cease to exist' under the resolution criteria before January 1, 2026.",
+            "final_reasoning": "Base rates suggest that programs as large and entrenched as PEPFAR are rarely terminated outright within a single year, especially given their statutory basis and bipartisan legacy. However, the Trump administration has already achieved unprecedented administrative disruption: dissolved USAID, impounded funds, mass layoffs, and partial shutdowns of PEPFAR activities. The courts have blocked some actions, but the Supreme Court has recently sided with the administration on impoundment and program mergers. Congressional opposition is fragmented, and recent budget requests propose major PEPFAR cuts. Nevertheless, partial funding and limited program waivers continue, and the program is still referenced as a distinct entity in government documents. There is no clear sign of an enacted law or unblocked presidential action that fully eliminates PEPFAR as a distinct program as of late November 2025. Given the short time to resolution, the need for a strong legal trigger, and the inertia of statutory programs, though the risk is unusually high, the most likely scenario is that PEPFAR\u2014though severely crippled\u2014still exists in some form on January 1, 2026.",
+            "final_probability": 23
+        },
+        "Political Science (Punctuated Equilibrium Theory)": {
+            "time_to_resolution": "Just over one month (from November 26, 2025 to January 1, 2026)",
+            "perspective_relevance": "As a Punctuated Equilibrium Theory (PET) expert, I focus on how policy change is usually incremental but occasionally undergoes abrupt, disruptive shifts due to exogenous shocks or major institutional changes. PET emphasizes the stability of policy subsystems and path dependence, but also recognizes that sudden political or institutional changes\u2014like new administrations or court rulings\u2014can drive dramatic policy punctuations. This perspective is directly relevant for forecasting whether the long-standing PEPFAR program, which has been resilient for decades, could abruptly cease to exist in response to recent dramatic political, administrative, and legal developments.",
+            "status_quo": "PEPFAR has existed as a distinct, congressionally authorized program since 2003, with broad bipartisan support and recurring reauthorizations. Despite periodic partisan tensions, its core mission and funding have continued uninterrupted for over two decades.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Major Institutional Disruption (Trump's 2025 Executive Orders, Dissolution of USAID, DOGE actions)",
+                    "effect": "Strongly increases probability of PEPFAR's termination; the scale of institutional change is consistent with PET 'punctuations' that can dismantle even longstanding programs."
+                },
+                {
+                    "factor": "Judicial Intervention (Federal court rulings on foreign aid freezes and agency dissolution)",
+                    "effect": "Mixed. Initial lower court orders opposed Trump\u2019s actions, but subsequent Supreme Court decisions have allowed the administration to continue withholding foreign aid and dismantling agencies. This reduces the probability that courts will block further cuts/terminations."
+                },
+                {
+                    "factor": "Congressional Action or Inaction",
+                    "effect": "Moderately increases probability of termination. In 2024 and 2025, Congress only managed a short-term reauthorization and has shown little resistance to the administration\u2019s aggressive cuts. The lack of bipartisan consensus and legislative inertia make program termination or absorption more likely."
+                },
+                {
+                    "factor": "Administrative Absorption/Reorganization",
+                    "effect": "Significantly increases probability. With USAID dissolved and its functions absorbed into the State Department\u2019s Bureau of Global Health Security and Diplomacy, coupled with the reorientation of U.S. global health priorities, there is a clear administrative pathway for PEPFAR to be merged or lose its separate identity\u2014meeting a 'cease to exist' criterion."
+                },
+                {
+                    "factor": "Budgetary Actions (FY 2026 Request, Withholding and Rescission Efforts)",
+                    "effect": "Increases probability. The administration has proposed deep cuts to PEPFAR funding, and OMB is already withholding or rescinding appropriated funds. Congressional resistance appears minimal, and the administration has cited legal justification for withholding funds."
+                },
+                {
+                    "factor": "Path Dependence and Policy Inertia",
+                    "effect": "Decreases probability. PEPFAR is a deeply entrenched program with a history of overcoming political threats, and institutional stickiness could still prevent full dissolution."
+                },
+                {
+                    "factor": "Resolution Criteria Fine Print (Partial funding cuts/renaming not enough; must be full termination, absorption, or funding elimination)",
+                    "effect": "Decreases probability slightly, as even severe disruptions must meet a high threshold to count as 'ceasing to exist.'"
+                }
+            ],
+            "no_scenario": "Despite severe disruptions, PEPFAR continues to exist as a recognizable program into 2026. Congress fails to pass a law terminating it, and although funding is delayed or reduced, partial waivers and minimal operations persist (e.g., only 'life-saving' services continue). Administrative absorption into the State Department does not fully erase PEPFAR\u2019s legal or operational distinctiveness, or the courts intervene to halt a full merger/termination before year's end.",
+            "yes_scenario": "The Trump administration\u2019s executive actions lead to the full administrative absorption of PEPFAR into the Bureau of Global Health Security and Diplomacy or another agency, with PEPFAR no longer operating as a distinct initiative. Alternatively, Congress or the administration (with 60 days' effect and no court stay) eliminates all public funding for PEPFAR, or passes a law terminating it. All PEPFAR-specific functions, branding, and line items are dissolved or merged before January 1, 2026.",
+            "final_reasoning": "The period since January 2025 has seen unprecedented institutional disruption: USAID has been dismantled, DOGE has mass-fired federal staff, and PEPFAR funding has been drastically curtailed and withheld. The administration\u2019s explicit goal is to reduce or eliminate legacy global health programs, and PEPFAR has been targeted both administratively (absorption into the State Department) and financially (massive budget cuts, rescissions). Court interventions have failed to restore operations, and Congress has been largely inert. PET predicts that such a substantial shock\u2014combining executive action, judicial acquiescence, and legislative inaction\u2014can overcome even deep policy inertia and path dependence, producing a true punctuation. The only countervailing factors are the legal and institutional complexity of fully erasing PEPFAR and the fine print requiring total cessation or absorption. Nevertheless, the available evidence (mass layoffs, program absorption, funding elimination, and programmatic collapse) suggests that PEPFAR is at very high risk of ceasing to exist as a distinct entity before January 1, 2026\u2014unless courts step in immediately or Congress reverses course, neither of which are currently in evidence. Therefore, a probability of 90% is justified, reflecting a rare but profound policy punctuation.",
+            "final_probability": 90
+        },
+        "Public Health (Global Health Governance)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As a global health governance expert, I have deep familiarity with U.S. foreign global health programs, legal and bureaucratic structures underpinning initiatives like PEPFAR, historical precedent for program elimination/consolidation, and the practical and political mechanisms by which such large-scale health aid is sustained or disrupted. This enables me to assess not just the legal/political surface, but also institutional inertia, international outcry, and the technical distinction between funding suspension, reorganization, and true program cessation.",
+            "status_quo": "PEPFAR is a distinct, congressionally created program, which for two decades has enjoyed bipartisan support. Even amid controversy, it has typically survived reauthorization battles and funding brinkmanship, with only short-term disruptions. The default expectation is that PEPFAR would continue to operate in some form, even if funding is reduced or temporarily frozen.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Legal/Bureaucratic Barriers to Dissolution",
+                    "effect": "Decreases probability. PEPFAR can only be eliminated via legislation or a presidential action unchallenged for 60 days; complete program elimination is rare and difficult, especially for programs with entrenched infrastructure and global visibility."
+                },
+                {
+                    "factor": "Executive Actions and Agency Restructuring",
+                    "effect": "Increases probability. The Trump administration has already dissolved USAID and attempted to suspend or rescind foreign aid (including PEPFAR funds), using executive authority to force reorganization and large-scale layoffs, and attempting to bypass Congress via 'pocket rescission'."
+                },
+                {
+                    "factor": "Judicial Challenges and Congressional Resistance",
+                    "effect": "Decreases probability. Multiple federal court rulings have blocked or delayed the full implementation of the administration's funding freeze; some waivers and exemptions have preserved minimal PEPFAR operations. However, recent Supreme Court orders have permitted ongoing withholding of funds, and Congress has not forcefully intervened."
+                },
+                {
+                    "factor": "Reorganization/Absorption into Other Bureaucracies",
+                    "effect": "Increases probability. USAID dissolution and transfer of global health functions to the State Department's Bureau of Global Health Security and Diplomacy (GHSD) increase the risk that PEPFAR ceases to exist as a distinct entity, even if some activities continue elsewhere."
+                },
+                {
+                    "factor": "Partial vs. Full Termination and Fine Print",
+                    "effect": "Decreases probability. The fine print specifies that partial funding cuts or program renaming do NOT count as cessation unless the core mission and distinct identity are lost. Many reports describe severe curtailment or suspension, but not definitive legal/programmatic elimination."
+                },
+                {
+                    "factor": "International and Domestic Political Backlash",
+                    "effect": "Decreases probability. The global outcry, Congressional criticism (bipartisan, including Republican senators), and the catastrophic impact projections (millions of deaths) create strong political pressure to preserve at least a shell of PEPFAR, especially with a presidential election and midterms on the horizon."
+                },
+                {
+                    "factor": "Timing and Legal Resolution Criteria",
+                    "effect": "Decreases probability. Even if a presidential order or reorganization could theoretically end PEPFAR, it must remain in effect for 60 uninterrupted days before January 1, 2026, and not be stayed or blocked by courts. With less than five weeks remaining, timelines are tight for new actions to meet these criteria."
+                }
+            ],
+            "no_scenario": "Despite draconian cuts, USAID's dissolution, and sustained executive pressure, PEPFAR continues to exist as a legal entity, though drastically reduced in funding, scope, and personnel. Its core mission is maintained under the State Department, perhaps with minimal operations and a reduced staff, or as a 'zombie' program pending further legislative action after January 1, 2026. Courts or Congress block any final elimination attempt before the deadline, or the administration refrains from further action, calculating that full elimination is politically or legally risky.",
+            "yes_scenario": "The Trump administration, emboldened by recent Supreme Court deference to executive authority, issues a final executive order (or secures a legislative rescission) that terminates PEPFAR or merges its remaining functions into a new entity within the State Department or GHSD, with all funding and branding for PEPFAR eliminated. No court intervenes within 60 days, and by January 1, 2026, PEPFAR as a distinct program no longer exists\u2014either by legal dissolution, absorption, or total defunding.",
+            "final_reasoning": "Since early 2025, the Trump administration has pursued a maximalist agenda to dismantle and radically restructure U.S. foreign aid, including dissolving USAID and slashing or freezing PEPFAR funding. Many activities and awards have been canceled, and large-scale layoffs have crippled implementation. However, the resolution criteria require not just drastic cuts, but the elimination of PEPFAR as a distinct program\u2014either by law, by a sustained and unchallenged executive order, or by merger/elimination of all public funding. So far, most actions have produced partial suspension, severe reductions, or absorption of functions, but credible sources (including KFF and major news outlets) indicate that some PEPFAR activities, funding streams, and legal identity persist as of late November 2025, even if only as a shell. The program's fate is entangled in ongoing legal disputes, with the Supreme Court allowing some freezes but not definitively blessing full elimination, and Congress showing reluctance (but not total acquiescence) to executive overreach. With only five weeks left, the odds of a new, legally effective action being taken\u2014and remaining unblocked for 60 full days\u2014are low, though not negligible. The administration could attempt a final action in early December, but the courts or Congress might again intervene, or bureaucratic inertia could delay implementation. The pattern of U.S. global health governance is that even under hostile administrations, flagship programs rarely vanish outright in such a short window, especially when facing legal, institutional, and political headwinds. Therefore, the base rate and current evidence suggest PEPFAR is extremely likely to survive as a distinct program (even if moribund) through January 1, 2026.",
+            "final_probability": 10
+        },
+        "Public Health (Health Systems Strengthening)": {
+            "time_to_resolution": "36 days (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Public Health (Health Systems Strengthening), I bring a deep understanding of how global health aid programs operate, how funding disruptions impact health service delivery, and the bureaucratic and legal intricacies of large-scale donor initiatives like PEPFAR. This expertise is crucial for interpreting the difference between program reorganization, funding cuts, and actual program termination or absorption, and for understanding the real-world implications and signals of program cessation versus mere reduction.",
+            "status_quo": "As of late 2025, PEPFAR exists but with severely reduced scope: significant legal, financial, and bureaucratic disruptions have occurred, funding is partially blocked or frozen, and USAID has been dissolved, but PEPFAR as a program has not been formally terminated or absorbed into another agency in a way that erases its distinct identity. The State Department\u2019s Bureau of Global Health Security and Diplomacy (GHSD) has absorbed some functions, but PEPFAR remains a named, if crippled, program.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Legal Barriers to Termination",
+                    "effect": "Decreases probability. Terminating PEPFAR by law requires either Congressional action or an executive action that goes unchallenged for 60 days. Judicial challenges and Congressional appropriations have so far prevented total program elimination, even as funding is withheld or delayed."
+                },
+                {
+                    "factor": "Executive Actions and Agency Dissolutions",
+                    "effect": "Increases probability. The dissolution of USAID, mass layoffs, and the absorption of functions into the State Department or other bodies signals a coordinated effort to disrupt US global health aid, with PEPFAR especially targeted. However, the program has not been formally erased."
+                },
+                {
+                    "factor": "Funding Blockades and Budget Proposals",
+                    "effect": "Slightly increases probability. The Trump administration has withheld or frozen billions in appropriated funds, and the FY 2026 budget proposes dramatic cuts to PEPFAR. However, Congress has so far exempted PEPFAR from the most severe rescissions, and partial funding continues."
+                },
+                {
+                    "factor": "Judicial Intervention & Ongoing Litigation",
+                    "effect": "Decreases probability. Courts have repeatedly intervened to block the most aggressive attempts to eliminate funding, and legal ambiguity persists; the Supreme Court has not definitively resolved the executive's power to impound funds, and Congress has not formally repealed PEPFAR."
+                },
+                {
+                    "factor": "Program Absorption vs. Termination",
+                    "effect": "Decreases probability. While USAID was dissolved and some PEPFAR functions have moved to the State Department GHSD, reports suggest PEPFAR continues to operate, albeit in a reduced and crisis state. The resolution criteria require that PEPFAR cease to exist as a distinct program\u2014mere absorption or budgetary reduction is insufficient unless its identity is lost."
+                },
+                {
+                    "factor": "Congressional Will and Political Backlash",
+                    "effect": "Decreases probability. Despite reduced bipartisan support, PEPFAR still enjoys some level of Congressional protection, as evidenced by carve-outs in recent rescission packages and ongoing appropriations, albeit at reduced levels. The political cost of outright termination before an election year may temper further action."
+                },
+                {
+                    "factor": "Implementation and Field-Level Disruption",
+                    "effect": "Neutral/Contextual. While massive disruptions are occurring on the ground, with layoffs, service collapse, and millions losing access, this does not equate to formal program elimination under the resolution criteria."
+                }
+            ],
+            "no_scenario": "Despite ongoing chaos, PEPFAR persists as a distinct program within the State Department or GHSD, with reduced funding and limited implementation. Legal and bureaucratic inertia, continued Congressional appropriations (even if not fully disbursed), and ongoing branding and reporting under the PEPFAR name (even at much lower impact) mean the program has not been formally terminated, nor has it been fully absorbed under a different name or merged such that its identity is lost. No law is passed to terminate PEPFAR, and any executive action to do so is blocked or not in effect for 60 consecutive days before January 1, 2026.",
+            "yes_scenario": "Congress passes a law (or an executive action that is not blocked for 60 days) that formally eliminates PEPFAR, merges it indistinguishably into another program, or fully eliminates its public funding such that it no longer operates as a distinct initiative. Alternatively, the State Department or another federal agency absorbs all PEPFAR functions without retaining the PEPFAR brand/identity, and this is recognized by official documentation and not reversed for 60 days before the deadline.",
+            "final_reasoning": "The base rate for a major, heavily institutionalized US global health program like PEPFAR being terminated outright is extremely low. Despite the most severe anti-aid executive actions in recent history\u2014dissolution of USAID, dramatic funding freezes, and a hostile administration\u2014PEPFAR has so far survived, albeit in a much-diminished form. Legal challenges have blocked or delayed the total elimination of the program; Congressional appropriations, though reduced, remain in place for now; and there is no clear evidence that any law or effective executive action has yet erased PEPFAR\u2019s existence as a distinct program. The absorption of USAID is unprecedented and increases the risk, but the State Department\u2019s continued PEPFAR reporting and the lack of a 60-day unblocked action eliminating the program suggest the threshold for a 'Yes' resolution has not yet been met. Given the time remaining (just over a month), the high legal and bureaucratic barriers, and the pace of recent developments, the risk of outright, formal PEPFAR termination before January 1, 2026 remains real but not yet probable.",
+            "final_probability": 21
+        },
+        "Public Health (Program Sustainability Models)": {
+            "time_to_resolution": "About 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Public Health Program Sustainability Models, I bring a deep understanding of how large-scale global health initiatives like PEPFAR persist or end, especially amid political, financial, and organizational turmoil. My expertise covers the interaction between funding streams, legal authorities, bureaucratic inertia, and the mechanisms by which health programs are sustained, restructured, or terminated. This knowledge is crucial for assessing the durability of PEPFAR's institutional, legal, and funding foundations in the face of hostile executive action and congressional ambiguity.",
+            "status_quo": "Historically, PEPFAR has persisted for two decades despite political headwinds, due to strong bipartisan support, a robust legal framework, and its integration into US global health diplomacy. Even under critical administrations, the program has usually survived, albeit with funding delays or uncertainty.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Legal Authority & Congressional Appropriations",
+                    "effect": "Decreases probability of cessation. PEPFAR was created by statute, and Congress has continued to appropriate funds for it. Unilateral executive action generally cannot terminate a statutory program without congressional acquiescence, and the courts have sometimes blocked outright impoundments."
+                },
+                {
+                    "factor": "Executive Hostility & Administrative Action",
+                    "effect": "Increases probability. The Trump administration has used aggressive executive orders: dissolving USAID (the primary implementer), freezing and rescinding funds, and reassessing foreign aid in ways that have already drastically reduced PEPFAR operations and outputs."
+                },
+                {
+                    "factor": "Judicial Intervention & Legal Uncertainty",
+                    "effect": "Increases probability, but with complications. Courts have found many Trump administration actions unlawful, but the Supreme Court has allowed key impoundments to stand, thereby enabling the administration to continue blocking or withholding funds\u2014even if the program is not legally terminated."
+                },
+                {
+                    "factor": "Program Implementation Capacity",
+                    "effect": "Increases probability. With USAID dismantled, most PEPFAR awards canceled, and massive staff layoffs, the operational infrastructure for PEPFAR is gutted\u2014even if the program is not formally ended."
+                },
+                {
+                    "factor": "Congressional Response & Bipartisanship",
+                    "effect": "Decreases probability. There is still vocal bipartisan support for PEPFAR, but Congress has been mostly ineffective in overriding or reversing executive actions this year, and some new appropriations have not been fully disbursed."
+                },
+                {
+                    "factor": "Program Redesign/Reorganization",
+                    "effect": "Increases probability. The administration is actively pursuing a strategy to consolidate, rename, or absorb PEPFAR functions into other entities, which could, depending on the execution and legal interpretation, meet the resolution criteria for cessation."
+                },
+                {
+                    "factor": "Partial vs. Total Elimination",
+                    "effect": "Decreases probability. The fine print clarifies that partial funding cuts or program narrowing do NOT count as cessation. Some 'life-saving' services continue under waivers, and PEPFAR's statutory shell persists even as its scope shrinks."
+                }
+            ],
+            "no_scenario": "Despite the gutting of USAID and severe operational disruptions, PEPFAR's statutory authority remains intact, some minimal funding continues, and the program is not formally eliminated or merged into another entity. Legal challenges or congressional maneuvers prevent full cessation prior to January 1, 2026. PEPFAR remains a distinct (if crippled) program, with at least some activities ongoing and budget lines preserved, even if vastly reduced.",
+            "yes_scenario": "By December 2025, the Trump administration succeeds in formally merging or dissolving PEPFAR into a new Bureau of Global Health Security and Diplomacy (GHSD) at the State Department, eliminating its distinct statutory and operational identity. Alternatively, Congress or the executive branch achieves a full rescission of PEPFAR's funding, and/or a 60-day period elapses in which a presidential action to terminate PEPFAR is not blocked by the courts. All programmatic activities are either ended or absorbed, and there is no longer a distinct PEPFAR program by year-end.",
+            "final_reasoning": "The past year has seen the most severe assault on PEPFAR in its history: USAID, its main engine, has been dissolved; 86% of awards canceled; funding is stalled or impounded; staff laid off; and most programmatic activity disrupted. However, the legal and statutory extinction of PEPFAR is a high bar. The fine print requires either a formal elimination (statutory or by unblocked executive action for 60 days), total funding elimination, or its merger into another agency such that it no longer exists as a distinct program. While the administration has attempted all these, legal ambiguity persists: the courts have allowed continued impoundment, but Congress still appropriates funds and the program's statutory identity is not yet formally repealed or merged. Some minimal life-saving services continue under waivers, and even the administration's new strategy nods to PEPFAR as a framework (albeit a hollowed one). No clear, public legal act or unblocked executive order has yet met the fine print for 'cessation', and the window for doing so is now very short. The historical base rate for a program of this stature vanishing within a year is extremely low. Thus, while the probability is much higher than it would be in any previous year, and despite the catastrophic practical collapse of PEPFAR's operations, the strict, legalistic criteria for 'cease to exist' are likely not yet satisfied. I estimate a significant risk, but the most likely outcome is that PEPFAR\u2014though a shell\u2014technically persists as a program past January 1, 2026.",
+            "final_probability": 22
+        },
+        "African Studies (Development Aid Politics Africa)": {
+            "time_to_resolution": "Just over 1 month (from November 26, 2025 to January 1, 2026)",
+            "perspective_relevance": "As an African Studies (Development Aid Politics Africa) expert, I have deep knowledge of the role PEPFAR plays in Africa, the policy mechanics of US foreign aid, and the institutional and political constraints around major aid program cessation. I can accurately interpret not only the programmatic effects of disruption but also the legal, bureaucratic, and congressional dynamics that determine whether a program like PEPFAR is formally terminated, merged, or simply gutted in practice.",
+            "status_quo": "PEPFAR continues to exist in a diminished and highly disrupted state: funding is severely reduced, many programs are terminated or suspended, and the implementing agency (USAID) has been dissolved, but PEPFAR as a program/brand and at least some core HIV/AIDS services (through waivers and State Department management) are still active. There is no public record of a law terminating PEPFAR or a 60-day effective presidential order that has fully ended it as a distinct entity.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Legal/Statutory Existence of PEPFAR",
+                    "effect": "Decreases probability of cessation (No outcome favored): Ending a program created by statute requires either an enacted law or a 60-day effective presidential action not blocked by courts. Despite aggressive executive actions, congressional resistance, legal blockages, and bureaucratic inertia make outright legal dissolution difficult on a short timeline."
+                },
+                {
+                    "factor": "Executive Actions and Agency Reorganization",
+                    "effect": "Increases probability of cessation (Yes outcome more likely): The Trump administration has aggressively used executive orders to dissolve USAID, freeze/cancel most foreign aid, and reorient health programs. PEPFAR has lost its primary implementation agency, and most of its funding and staff have been eliminated, suggesting a de facto shutdown even if not fully formalized."
+                },
+                {
+                    "factor": "Judicial Constraints and Ongoing Litigation",
+                    "effect": "Decreases probability (No outcome favored): Courts have repeatedly blocked or limited executive actions to cut congressionally appropriated aid, and the Supreme Court's involvement has led to unresolved legal ambiguity. The lack of finality in court rulings makes it less likely that a clear-cut, unchallenged 60-day presidential termination of PEPFAR has occurred."
+                },
+                {
+                    "factor": "Congressional and Bureaucratic Resistance",
+                    "effect": "Decreases probability (No outcome favored): Bipartisan support for PEPFAR, congressional efforts to exempt it from rescissions, and OMB's slow release of funds all point to a situation where Congress is not actively terminating PEPFAR and is trying to preserve at least its core legal/brand existence."
+                },
+                {
+                    "factor": "De Facto vs. De Jure Termination",
+                    "effect": "Mixed effect: While PEPFAR has been functionally gutted (de facto), the resolution criteria require de jure (legal/formal) cessation\u2014elimination as a distinct program/brand, merging into another agency, or funding zeroed by Congress. The evidence points to functional destruction, but not yet formal legal elimination."
+                },
+                {
+                    "factor": "Recent News and Funding Streams",
+                    "effect": "Decreases probability (No outcome favored): Despite mass layoffs, suspended programs, and the dissolution of USAID, there are repeated references to some PEPFAR activities still continuing through the State Department, and South Africa reports celebrating a continued plan for US HIV funding. This suggests the brand and some core functions survive."
+                }
+            ],
+            "no_scenario": "Despite massive disruption\u2014USAID dissolved, most PEPFAR funds frozen, programs canceled, and staff laid off\u2014PEPFAR as a legal entity and brand persists under the State Department's Bureau of Global Health Security and Diplomacy. Some core HIV/AIDS services continue via waivers, and Congress has not passed a law terminating PEPFAR nor has a 60-day unchallenged presidential order eliminated it. PEPFAR's existence is a hollow shell but it is not legally or formally ended.",
+            "yes_scenario": "Congress enacts a law terminating PEPFAR, or the president issues an order eliminating PEPFAR as a distinct entity (merging it fully into another program or ending all funding), and this action takes legal effect without being blocked for 60 consecutive days prior to January 1, 2026. Alternatively, all public funding is formally eliminated and the program ceases to exist as a legal or operational brand/initiative.",
+            "final_reasoning": "The overwhelming evidence indicates that PEPFAR has been devastated: USAID is dissolved, the vast majority of PEPFAR's funding and activities are canceled or frozen, and most staff have been laid off. However, neither the news nor the legal reporting shows a formal statutory termination or a 60-day effective presidential elimination of PEPFAR as a distinct program. Core PEPFAR services (albeit reduced) continue through the State Department, and there are still references to PEPFAR-branded activities in Africa as of late 2025. While the program is a shadow of its former self, the resolution criteria require formal nonexistence as a distinct entity. With just over a month left, and given the inertia of US bureaucracy and ongoing litigation, it is unlikely that a full, legally unambiguous cessation will occur and persist for 60 days before January 1, 2026. The base rate for rapid, outright termination of congressionally created flagship aid programs is extremely low. Therefore, while the probability of PEPFAR being functionally destroyed is high, the probability that it will formally cease to exist per the question's criteria is low, though not negligible given the administration's aggressiveness.",
+            "final_probability": 15
+        },
+        "African Studies (Government Donor Relations Africa)": {
+            "time_to_resolution": "Just over 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in African Studies with a focus on Government Donor Relations Africa, I bring detailed knowledge of the mechanisms, dependencies, and impacts of U.S. government development and health assistance, especially PEPFAR, across Africa. My expertise extends to understanding how U.S. domestic politics, legal frameworks, agency structures, and budgetary processes intersect with global HIV/AIDS funding and program continuity, as well as how operational disruptions are experienced on the ground in African partner countries.",
+            "status_quo": "PEPFAR faces severe disruptions, with most funding cut, halted, or redirected, but a limited subset of 'life-saving' activities continuing under waiver/exemptions. USAID has been dismantled, and many programs have been terminated, though some implementation persists under the State Department's Bureau of Global Health Security and Diplomacy. Legal battles over the executive branch's authority to withhold or rescind funds remain unresolved, and Congress has not enacted a law explicitly terminating PEPFAR.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Legal and Congressional Barriers",
+                    "effect": "Decreases probability. Even with aggressive executive actions, total program elimination requires either an act of Congress, a successful and unchallenged executive order, or the program's consolidation and defunding for 60 consecutive days. So far, no law has been enacted to explicitly eliminate PEPFAR, and court challenges to executive overreach have at least temporarily delayed or blocked some actions."
+                },
+                {
+                    "factor": "Executive Aggression and Agency Dismantling",
+                    "effect": "Increases probability. The Trump administration has taken radical steps: dissolving USAID, halting most foreign aid, blocking funding for PEPFAR activities, and attempting to consolidate or eliminate programs. The administration's stated intention is to radically scale back or redirect global health efforts. Many PEPFAR activities have ceased or been critically scaled back."
+                },
+                {
+                    "factor": "Funding Flows and Operational Continuity",
+                    "effect": "Decreases probability (relative to full elimination). Despite massive disruptions, some core PEPFAR functions\u2014especially 'life-saving' services\u2014continue under State Department waivers. Congress exempted PEPFAR from some rescissions, and a portion of the FY2025 budget remains allocated. Full elimination of funding has not occurred."
+                },
+                {
+                    "factor": "Domestic Political Will and Congressional Inertia",
+                    "effect": "Decreases probability. There is still some bipartisan support for PEPFAR, and Congress has resisted complete rescission. The lack of legislative action to terminate PEPFAR outright, despite executive hostility, reflects ongoing political and reputational risk for total elimination."
+                },
+                {
+                    "factor": "On-the-Ground Reality and Program Branding",
+                    "effect": "Decreases probability. Even with massive disruptions, PEPFAR as a brand and a funding mechanism still exists in a limited form (e.g., continuing some treatment and prevention services). Merging or consolidating functions into the State Department's GHSD does not, by itself, meet the strict resolution criteria unless PEPFAR ceases to exist as a distinct program."
+                },
+                {
+                    "factor": "Court Outcomes and Unresolved Litigation",
+                    "effect": "Decreases probability. The legal battles over the administration's authority to impound or redirect congressionally appropriated funds are ongoing. The Supreme Court has allowed some freezes, but not definitively upheld the total elimination of PEPFAR. The possibility of further injunctions or court-ordered disbursement remains until the question closes."
+                },
+                {
+                    "factor": "Base Rate for Abrupt Elimination of Major U.S. Aid Programs",
+                    "effect": "Decreases probability. Historically, major U.S. foreign aid programs are rarely eliminated outright, especially those with strong bipartisan legacies like PEPFAR. Significant disruption is common, but outright legal/programmatic extinction before a fiscal year ends is rare."
+                }
+            ],
+            "no_scenario": "Despite executive branch hostility, PEPFAR continues to exist in a legally distinct and operationally recognizable form (even if heavily scaled back), with some funding flowing (however limited), some activities ongoing under State Department waivers or other authorities, and no law or unchallenged executive order eliminating or fully consolidating the program for 60 consecutive days before January 1, 2026. Court battles over funding impoundment remain unresolved, and thus the program is not legally terminated.",
+            "yes_scenario": "Congress passes, and the President signs, a law terminating PEPFAR as a separate program before January 1, 2026; or an executive order eliminates or fully merges PEPFAR into another agency with no distinct PEPFAR operations for at least 60 consecutive days without legal or court challenge, and this is not reversed before the deadline. Alternatively, all public funding for PEPFAR is eliminated, with no activities or branding remaining, and this state persists for 60 days prior to January 1, 2026.",
+            "final_reasoning": "There is unprecedented disruption to PEPFAR\u2014operations have been slashed, USAID has been dismantled, and the funding pipeline has been severely constricted. However, crucially, some core PEPFAR activities continue under State Department waivers, and Congressional appropriations have not been fully rescinded or retracted. The legal and political barriers to outright elimination of PEPFAR before January 1, 2026, remain substantial: no law has been passed to terminate the program, and even the most aggressive executive actions have been partially blocked or are still being litigated. The branding and core mission of PEPFAR, though hobbled, persist in a reduced form, and the merger of functions into the State Department has not legally ended the program as a distinct entity. While the future beyond 2026 looks dire, the base rate for outright extinction of such a major program in such a short time frame\u2014especially during unresolved legal disputes\u2014is low. My forecast is that PEPFAR will continue to exist, in some form, on January 1, 2026, though its capacity and global impact may be gravely diminished.",
+            "final_probability": 20
+        }
+    },
+    "deliberation_probability": [
+        18,
+        22,
+        22,
+        8,
+        22,
+        23,
+        90,
+        10,
+        21,
+        22,
+        15,
+        20
+    ],
+    "deliberation_mean_probability": 24.416666666666668,
+    "deliberation_sd": 21.245142047208358,
+    "deliberation_probability_result": 24
+}
