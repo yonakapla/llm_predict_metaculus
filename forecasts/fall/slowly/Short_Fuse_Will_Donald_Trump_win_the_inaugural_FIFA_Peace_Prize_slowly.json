@@ -1,0 +1,417 @@
+{
+    "deliberation_results": {
+        "Sports Administration (FIFA Institutional Governance)": {
+            "time_to_resolution": "8 days (until December 5, 2025)",
+            "perspective_relevance": "As an expert in FIFA institutional governance, I am uniquely positioned to assess the plausibility of FIFA awarding its inaugural Peace Prize to Donald Trump. My expertise includes understanding FIFA's historical decision-making patterns, public image management, political alliances, and susceptibility to external influence. This perspective enables me to separate credible likelihoods from mere speculation, taking into account both FIFA's organizational incentives and past precedent.",
+            "status_quo": "No U.S. president or major non-football political figure has won a FIFA award of any kind; FIFA's annual non-sporting awards (e.g., Fair Play, Presidential Award) have historically gone to individuals or organizations directly associated with football or humanitarian causes closely tied to the sport. The status quo would be for the Peace Prize to go to a football-related figure, NGO, or global peacemaker broadly recognized for nonpartisan humanitarian efforts.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Infantino-Trump Alliance",
+                    "effect": "Strongly increases probability. Infantino's personal friendship with Trump, opening of a FIFA office in Trump Tower, and repeated public praise point to a willingness to flout norms and use FIFA events for political theater."
+                },
+                {
+                    "factor": "FIFA's History of Politicized Decisions",
+                    "effect": "Moderately increases probability. FIFA has awarded events and honors based on political and financial interests (e.g., Qatar and Russia World Cups, close Saudi ties). While controversial, this is not unprecedented."
+                },
+                {
+                    "factor": "Public and Institutional Backlash Risk",
+                    "effect": "Moderately decreases probability. Awarding Trump would provoke major backlash from football stakeholders, media, and international organizations. FIFA has sometimes retreated under pressure (e.g., Super League, human rights criticisms)."
+                },
+                {
+                    "factor": "Symbolism and Timing",
+                    "effect": "Moderately increases probability. The award coincides with Trump's Nobel snubbing, his new role at the Kennedy Center, and the U.S. hosting the World Cup, feeding the narrative of a consolation prize and political spectacle."
+                },
+                {
+                    "factor": "Lack of Transparency in Selection Process",
+                    "effect": "Slightly increases probability. FIFA has not disclosed criteria, voters, or a shortlist, which makes an unorthodox, last-minute decision more feasible."
+                },
+                {
+                    "factor": "Recent Media and Political Scrutiny",
+                    "effect": "Slightly decreases probability. The Senate investigation, media outcry, and perception of cronyism create reputational risk, possibly deterring FIFA from proceeding with such a controversial move."
+                }
+            ],
+            "no_scenario": "Despite speculation, FIFA ultimately awards the inaugural Peace Prize to a less controversial figure\u2014possibly a footballer, humanitarian, or football-related NGO\u2014either to avoid backlash, in response to Senate and media scrutiny, or because internal decision-makers balk at the perceived impropriety of awarding Trump. The prize ceremony may still feature Trump prominently, but the award goes elsewhere.",
+            "yes_scenario": "FIFA, led by Infantino and emboldened by the draw's U.S. location and Trump's visible involvement, proceeds to give the Peace Prize to Trump, framing it as recognition for 'uniting people' through his role in the U.S.-Canada-Mexico World Cup bid or his claimed international peacemaking efforts. The backlash is disregarded or spun as evidence of 'politicized attacks' on FIFA's independence.",
+            "final_reasoning": "The evidence for Trump receiving the Peace Prize is unusually strong by FIFA standards: the event is in Washington, D.C.; Trump is both headlining and claims to have influenced the venue; Infantino has a documented close relationship with Trump and has spoken approvingly of his 'peace' credentials; and multiple outlets report rampant speculation, some sourced to FIFA insiders or political actors, that the prize is being engineered as a symbolic gesture after Trump's Nobel snub. The lack of transparency and Infantino's history of politicizing FIFA decisions further support a high probability. However, the risk of major backlash, ongoing U.S. Senate investigations, and FIFA's occasional responsiveness to reputational crises (particularly when under sustained Western scrutiny) temper the probability somewhat. Historically, FIFA has rarely given major honors to sitting political leaders, especially in such a nakedly political context, but the convergence of interests and current leadership's priorities make this a plausible break from precedent. The 'base rate' for such an event is exceedingly low, but the current context is highly abnormal. Weighing all factors, I assess the probability as much higher than for any other non-football political figure, but not quite a lock:",
+            "final_probability": 70
+        },
+        "Sports Administration (International Sports Diplomacy)": {
+            "time_to_resolution": "8 days (until December 5, 2025)",
+            "perspective_relevance": "As an expert in Sports Administration with a focus on International Sports Diplomacy, I bring a deep understanding of the ways in which major sporting organizations like FIFA use awards and ceremonial gestures for soft power, political signaling, and relationship management. I can also assess the reputational calculus that FIFA and Infantino weigh in selecting controversial figures, and the interplay between global football politics, host-nation interests, and international perceptions.",
+            "status_quo": "Historically, FIFA has not awarded a Peace Prize, and when similar symbolic awards are created by major sporting bodies, they typically go to figures with broad, uncontroversial reputations for unifying impact. If nothing changed, the first winner would likely be a globally respected, non-controversial football or humanitarian figure, not a polarizing political leader.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Infantino-Trump Relationship",
+                    "effect": "Greatly increases probability. The extensive, public, and ongoing personal relationship between FIFA President Gianni Infantino and Donald Trump is well-documented (Infantino's office in Trump Tower, shared events, mutual praise). Infantino has made a habit of rewarding political allies, especially those with influence over FIFA events."
+                },
+                {
+                    "factor": "Political Symbolism and U.S. Host Role",
+                    "effect": "Increases probability. The World Cup draw, the Peace Prize's debut, and related ceremonies are being held in Washington, D.C., with Trump as host-country president and Kennedy Center chairman. Awarding Trump would be a highly visible gesture to the host nation and its leader, consistent with FIFA's tendency to curry favor with host governments."
+                },
+                {
+                    "factor": "FIFA's History of Realpolitik and Transactional Awards",
+                    "effect": "Increases probability. FIFA has a long track record of exchanging honors and symbolic gestures for political support, event hosting, and commercial advantage, often in ways that draw criticism or allegations of cronyism."
+                },
+                {
+                    "factor": "International and Domestic Backlash Risk",
+                    "effect": "Decreases probability. Awarding Trump would prompt immediate controversy, U.S. domestic criticism (Senate investigation, nonprofit law questions), and international media ridicule, risking further reputational damage to FIFA, which is already under scrutiny."
+                },
+                {
+                    "factor": "Absence of Official Confirmation",
+                    "effect": "Decreases probability. Despite heavy speculation, no official statement has confirmed Trump as the recipient. FIFA may keep the winner secret to avoid premature backlash or may still be weighing alternatives."
+                },
+                {
+                    "factor": "FIFA's Need for Legitimacy and Global Image",
+                    "effect": "Decreases probability. FIFA, under intense scrutiny for corruption and political manipulation, has incentive to avoid actions that further tarnish its legitimacy with global football audiences, sponsors, and partner federations."
+                }
+            ],
+            "no_scenario": "Facing mounting domestic and international criticism\u2014including a U.S. Senate probe, negative global press, and backlash from sponsors\u2014FIFA ultimately selects a less controversial figure (e.g., a universally admired humanitarian, activist, or football legend) for the inaugural Peace Prize. Trump attends the ceremony and is perhaps acknowledged in some capacity, but is not named as a winner.",
+            "yes_scenario": "Infantino, prioritizing loyalty, political symbolism, and a desire to reward Trump for his support of the 2026 World Cup bid and hosting, chooses to award the inaugural FIFA Peace Prize to Trump. The ceremony features lavish praise for Trump's role in 'uniting people,' and FIFA frames the move as a bold statement, despite inevitable global criticism.",
+            "final_reasoning": "The preponderance of evidence\u2014Infantino's close relationship with Trump, the event's location and context, the overt political signaling, and FIFA's history of transactional decisions\u2014strongly suggests Trump is at least the frontrunner for the FIFA Peace Prize. Multiple news reports cite speculation or unconfirmed reports that the prize is 'widely expected' to go to Trump, and Infantino's public comments ('On December 5, you will see') hint at a fait accompli. Nonetheless, the absence of official confirmation, the risk of intense backlash (including a U.S. Senate investigation and negative international coverage), and FIFA's need to maintain some degree of legitimacy introduce uncertainty. There's a non-trivial chance that, in the final days, FIFA pivots to a less controversial recipient or shares the award among multiple figures to dilute controversy. On balance, however, given FIFA's track record of favoring power and expedient alliances over optics, and the extraordinary convergence of Trump\u2019s influence at this event, I judge the probability to be high, but not absolute.",
+            "final_probability": 80
+        },
+        "Public Relations (Crisis Communication Models)": {
+            "time_to_resolution": "8 days (until December 5, 2025)",
+            "perspective_relevance": "As an expert in Public Relations (Crisis Communication Models), my perspective is relevant because the FIFA Peace Prize scenario is intensely entangled with issues of organizational reputation, legitimacy, and the management of public perception in the midst of political scandal and scrutiny. The decision to award Trump the FIFA Peace Prize would be both a reputational flashpoint for FIFA and a global PR crisis, demanding a nuanced understanding of how organizations calibrate symbolic gestures, anticipate backlash, and attempt to frame controversial decisions.",
+            "status_quo": "Historically, FIFA has not awarded a Peace Prize and has avoided overtly politicized, controversial personal awards at major ceremonies. The default outcome would be that FIFA does not give the inaugural Peace Prize to Donald Trump, especially given the risk of severe international backlash and reputational harm.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "FIFA Leadership's Personal Relationship with Trump",
+                    "effect": "Increases probability. Extensive reporting confirms FIFA President Infantino is personally close to Trump, with public praise, visits, and even an office in Trump Tower. This strong personal and organizational alignment increases the likelihood that the prize could be used as a means of flattery or political reciprocation."
+                },
+                {
+                    "factor": "Political and Public Backlash Risk",
+                    "effect": "Decreases probability. Awarding Trump would generate intense criticism, media scrutiny, and possibly undermine FIFA's global legitimacy, especially in Europe and regions where Trump is highly controversial. Crisis communication theory suggests that organizations usually avoid actions that create self-inflicted PR crises unless they perceive the benefits to clearly outweigh the costs."
+                },
+                {
+                    "factor": "Recent Precedents of FIFA's Politicized Actions",
+                    "effect": "Increases probability. FIFA under Infantino has increasingly blurred lines between politics and football, with leniency in high-profile disciplinary cases (e.g., Ronaldo's ban reduction after the White House visit) and willingness to make controversial decisions for perceived strategic gains."
+                },
+                {
+                    "factor": "Senate and Public Investigations Into FIFA-Kennedy Center Deal",
+                    "effect": "Decreases probability. Ongoing investigations and negative press around the zero-dollar rental, donations, and Trump-driven board overhaul at the Kennedy Center add risk and may incentivize FIFA to avoid further escalation\u2014unless the award is already a fait accompli."
+                },
+                {
+                    "factor": "Symbolic Rebound from Nobel Peace Prize Snub",
+                    "effect": "Increases probability. Multiple sources highlight the perception that the FIFA Peace Prize is a direct response to Trump's Nobel snub, suggesting the award may be pre-engineered as a consolation prize to Trump."
+                },
+                {
+                    "factor": "Absence of Transparent Selection Criteria",
+                    "effect": "Increases probability. FIFA has not disclosed the selection or vetting process, and Infantino's evasive statements ('On the 5th of December, you will see') suggest the choice is tightly controlled and possibly non-meritocratic, favoring a preselected, politically motivated recipient."
+                },
+                {
+                    "factor": "Potential for Reputational Damage Control via Shared/Joint Award",
+                    "effect": "Increases probability slightly. The fine print allows for Trump to be among several winners. This could provide FIFA with a means to dilute some backlash by honoring Trump alongside less controversial figures, a classic PR tactic to spread risk."
+                }
+            ],
+            "no_scenario": "Facing mounting negative press, U.S. Senate scrutiny, and international outcry about the politicization of the event and the Kennedy Center deal, FIFA and Infantino recalculate the reputational risk and quietly select a less controversial recipient (such as a footballer, humanitarian, or even a group of activists) for the inaugural Peace Prize, announcing Trump as an honored guest or host but not as a winner. Alternatively, FIFA announces multiple recipients, none of whom are Trump, and frames the decision as being made by an independent panel.",
+            "yes_scenario": "Despite the controversy, Infantino and FIFA proceed with their original intention, presenting the inaugural FIFA Peace Prize to Donald Trump, either as the sole recipient or as part of a group (e.g., with a football star or humanitarian), using the event to cement their alliance and provide Trump with a symbolic global endorsement after his Nobel Peace Prize snub. FIFA's crisis communications frame the award as recognizing Trump's role in securing the 2026 World Cup and 'bringing people together through football.'",
+            "final_reasoning": "The base rate for heads of state or highly controversial political figures winning globally-branded 'peace' awards from major sports bodies is extremely low. However, the convergence of factors\u2014Infantino's public and private alliance with Trump, the timing with the World Cup in the U.S., the Nobel snub, Trump's installation as Kennedy Center chair, and the complete opacity of the prize selection process\u2014strongly suggest the award may be intended as a symbolic gesture to Trump. At the same time, the risk of reputational blowback, ongoing U.S. Senate investigation, and negative press create substantial disincentives. However, the evidence points to a situation where the decision may already be locked in and the backlash is being managed rather than avoided (classic 'stealing thunder' and 'justification' strategies in crisis communication). Given the overwhelming circumstantial evidence, repeated leaks, Infantino's evasive answers, and multiple sources stating Trump is expected to win, I assess that the probability of Donald Trump being named as a recipient of the inaugural FIFA Peace Prize is high\u2014though not absolute\u2014because FIFA could still pivot at the last minute if the backlash becomes unmanageable or if an internal negotiation leads to a compromise. Nonetheless, the preponderance of public signaling and absence of any credible denial means the outcome is more likely than not.",
+            "final_probability": 75
+        },
+        "Public Relations (Image Restoration Theory)": {
+            "time_to_resolution": "8 days (until December 5, 2025)",
+            "perspective_relevance": "As an expert in Public Relations and Image Restoration Theory, I bring a nuanced understanding of how institutions attempt to rehabilitate, reward, or align their public image\u2014sometimes by leveraging high-profile figures or awards. This perspective is crucial in assessing whether FIFA, facing its own image challenges and seeking global legitimacy, would risk further controversy by awarding Trump the inaugural Peace Prize, especially given the intense speculation and criticism.",
+            "status_quo": "Historically, FIFA has not awarded a Peace Prize, and when similar global organizations introduce such awards, they typically select recipients with widely acknowledged, non-controversial peace credentials. The status quo would be for FIFA to select a figure with broad, international approval to avoid backlash.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "FIFA-Trump-Infantino Relationship",
+                    "effect": "Increases probability. The extraordinary closeness between FIFA President Gianni Infantino and Donald Trump, including FIFA opening offices in Trump Tower and Infantino\u2019s repeated praise, suggests strong personal and institutional incentives to reward Trump."
+                },
+                {
+                    "factor": "Reputational Risk and Image Restoration Needs",
+                    "effect": "Decreases probability. Awarding Trump would spark significant controversy and could be seen as furthering FIFA\u2019s reputation for cronyism and politicization, especially amid an ongoing U.S. Senate investigation into the Kennedy Center deal. If FIFA seeks to restore or protect its image, it may avoid an overtly political selection."
+                },
+                {
+                    "factor": "Event Location and U.S. Political Climate",
+                    "effect": "Increases probability. The draw is being held in Washington, D.C., with Trump as a central figure and chairman of the Kennedy Center. The U.S.-centric context makes a Trump award more plausible as a symbolic gesture, especially after his Nobel snub."
+                },
+                {
+                    "factor": "Media and Public Backlash",
+                    "effect": "Decreases probability. Intense global media criticism, academic condemnation, and meme-driven public ridicule signal the award would be viewed as illegitimate, potentially undermining its intended prestige and FIFA\u2019s global standing."
+                },
+                {
+                    "factor": "Selection Transparency and Precedent Risk",
+                    "effect": "Decreases probability. The lack of disclosed selection criteria or process raises the risk of severe reputational blowback if Trump is chosen. Historically, even corrupt or politicized organizations avoid first-award controversies that could permanently devalue a new prize."
+                },
+                {
+                    "factor": "FIFA\u2019s History of Political Calculations and Symbolic Gestures",
+                    "effect": "Increases probability. FIFA has a track record of controversial, politically motivated decisions when it perceives institutional advantage, especially if the cost is diffused or the leadership is insulated."
+                }
+            ],
+            "no_scenario": "FIFA, after gauging the negative publicity and political risk, opts for a non-controversial figure (such as a globally recognized humanitarian, footballer, or activist) as the inaugural Peace Prize winner, perhaps even announcing a joint or symbolic recipient. Trump attends the event and is praised but not awarded.",
+            "yes_scenario": "Despite criticism and investigation, FIFA proceeds to award Trump the inaugural Peace Prize, either as the sole winner or as part of a group, leveraging the event\u2019s U.S. location and Infantino\u2019s personal relationship with Trump. The move is justified by citing Trump\u2019s role in bringing the World Cup to North America and his claimed peacemaking efforts.",
+            "final_reasoning": "The convergence of factors is highly unusual: the prize\u2019s creation seems suspiciously timed with Trump\u2019s political resurgence, a personal snub by the Nobel committee, and Infantino\u2019s overt praise. The venue (Kennedy Center), the U.S.-centric focus, and Trump\u2019s centrality to the event all increase the probability of a Yes. However, the backlash is severe: multiple news sources highlight ethical, political, and reputational risks, with a U.S. Senate investigation and significant negative press. Image Restoration Theory suggests organizations in crisis or with fragile legitimacy (like FIFA) may double down on controversial alliances if they perceive the benefits (access, power, reciprocal favors) outweigh the costs, especially if the leadership feels insulated or is aiming at a particular political constituency. Given the lack of transparency and FIFA\u2019s history, but balancing the risk of permanent delegitimization of the prize, I assign a high\u2014but not extreme\u2014probability that Trump will win the inaugural FIFA Peace Prize.",
+            "final_probability": 75
+        },
+        "US Political Analysis (US Political Influence in Global Organizations)": {
+            "time_to_resolution": "8 days (until December 5, 2025)",
+            "perspective_relevance": "As an expert in US Political Influence in Global Organizations, I bring a nuanced understanding of the interplay between US political figures, international sporting bodies, and the use of soft power and symbolic honors for advancing both domestic and international agendas. This perspective is essential given the convergence of FIFA (historically susceptible to political influence), the US presidency, and a newly created, highly politicized prize.",
+            "status_quo": "FIFA has never before awarded a Peace Prize; inaugural awards of this type in global sporting organizations are typically given to figures with broadly positive, uncontroversial reputations or to those with major sporting or peace-related achievements. Historically, international sports organizations have avoided overtly politicized recognitions, especially to sitting political leaders, to limit controversy.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Public and private ties between Infantino and Trump",
+                    "effect": "Substantially increases probability. The depth of their relationship\u2014including FIFA opening an office in Trump Tower and numerous collaborative events\u2014suggests the possibility of a personalized award."
+                },
+                {
+                    "factor": "Media speculation and explicit political signaling",
+                    "effect": "Increases probability. Multiple articles, including major global outlets, reference Trump as the expected recipient, citing sources close to both FIFA and the Kennedy Center. Infantino has publicly praised Trump and deflected questions about the award with suggestive remarks."
+                },
+                {
+                    "factor": "US hosting the World Cup and Trump\u2019s role in the Kennedy Center",
+                    "effect": "Increases probability. The event is being held in Washington, D.C. with Trump as chairman of the Kennedy Center, making the optics of an award to Trump more feasible for FIFA than if the event were held elsewhere."
+                },
+                {
+                    "factor": "Recent Nobel Peace Prize snub and FIFA\u2019s desire to curry favor",
+                    "effect": "Increases probability. There is an apparent desire, per numerous reports, to compensate Trump for being denied the Nobel Peace Prize, with the FIFA Peace Prize as an alternative form of international recognition."
+                },
+                {
+                    "factor": "Potential reputational and backlash risk to FIFA",
+                    "effect": "Decreases probability. Awarding the prize to Trump risks severe backlash from international media, human rights organizations, and football\u2019s global fan base. FIFA is already under Senate investigation for political favoritism and self-dealing, which could cause last-minute reconsideration."
+                },
+                {
+                    "factor": "Lack of transparency in selection process",
+                    "effect": "Increases uncertainty. No public shortlist, no clear criteria, and no independent vetting process have been disclosed. This means decision-making could be arbitrary or subject to late-stage changes."
+                },
+                {
+                    "factor": "Potential alternative high-profile recipients (e.g., Ronaldo, Messi, non-political figures)",
+                    "effect": "Decreases probability. While speculation centers on Trump, FIFA could opt for a less controversial, universally admired figure to avoid political fallout, especially given the current scrutiny."
+                }
+            ],
+            "no_scenario": "FIFA, under intense scrutiny from the US Senate and global media, reconsiders the optics of awarding Trump the inaugural Peace Prize. Fearing reputational damage, FIFA instead selects a non-political figure\u2014perhaps a universally beloved footballer (like Messi or Ronaldo), a humanitarian working through football, or an activist\u2014framing the award as apolitical and focused on football\u2019s grassroots peace efforts.",
+            "yes_scenario": "Despite the controversy, FIFA leadership, especially Infantino, chooses to proceed with a highly personalized award to Trump as a symbolic gesture of gratitude for his role in the 2026 World Cup bid, his close relationship with FIFA, and in response to his Nobel Peace Prize snub. The award is given, possibly alongside another less controversial co-recipient to blunt criticism.",
+            "final_reasoning": "There is overwhelming circumstantial evidence that Trump is the intended recipient: the timing, location, Infantino\u2019s public statements, the unprecedented nature of the prize, and the explicit speculation in reputable media. The alignment of Trump\u2019s interests, FIFA\u2019s willingness to engage in political theater, and Infantino\u2019s personal ties all point toward a Yes outcome. However, the risk of last-minute reversal due to public backlash or internal FIFA dissent is non-trivial, especially as global attention and political scrutiny intensify. Historically, such honors are rarely awarded to currently serving, highly polarizing politicians, and FIFA is under scrutiny for political favoritism. Nonetheless, the lack of transparency, the extraordinary circumstances, and the directness of the media reporting suggest the probability is well above 50%, though not so overwhelming as to justify a near-certainty prediction. I assess the probability at 72%, reflecting a heavy weight on the evidence for a Yes, but factoring in the plausible risk of a strategic FIFA pivot at the last minute.",
+            "final_probability": 72
+        },
+        "Political Science (Political Leadership Studies)": {
+            "time_to_resolution": "8 days (until December 5, 2025)",
+            "perspective_relevance": "Political Leadership Studies provides analytical tools for understanding how political actors leverage international institutions for personal or regime legitimation, how symbolic awards are used for political gain, and the interplay between global organizations and national leaders. This context is crucial in evaluating the likelihood of Trump, a polarizing political figure with close ties to FIFA President Infantino, receiving a highly publicized and controversial award.",
+            "status_quo": "No U.S. President or major national leader has ever won a FIFA-related peace award, and FIFA has not previously awarded major symbolic non-sports prizes to sitting heads of state. FIFA\u2019s Peace Prize is new, with no established precedent.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Infantino-Trump Personal Relationship",
+                    "effect": "Strongly increases probability. The evidence of a close and mutually supportive relationship, including Infantino\u2019s public praise, meetings, and the FIFA office at Trump Tower, suggests Infantino may use FIFA\u2019s institutional power to reward Trump."
+                },
+                {
+                    "factor": "Political Symbolism and FIFA\u2019s Strategic Interests",
+                    "effect": "Increases probability. Awarding Trump the prize during the U.S.-hosted draw could curry favor with the host government, maximize global publicity, and align FIFA with the American executive at a time when it is seeking to expand its influence and financial operations in North America."
+                },
+                {
+                    "factor": "Reputational Risk and FIFA\u2019s History",
+                    "effect": "Decreases probability. FIFA is sensitive to global criticism and has been embroiled in corruption scandals. While Infantino may be bold, outright awarding Trump (a lightning rod for controversy) could generate backlash from sponsors, member associations, and civil society, potentially deterring such a move."
+                },
+                {
+                    "factor": "Public and Political Backlash",
+                    "effect": "Decreases probability. Senate probes, critical editorials, and public accusations of cronyism and 'fake' awards might prompt last-minute caution or a decision to give the award to a less controversial, more globally acceptable figure."
+                },
+                {
+                    "factor": "Lack of Transparency in Selection Process",
+                    "effect": "Increases probability. The selection process is opaque, controlled by Infantino and FIFA, and not subject to external checks, making a surprise or overtly political choice more feasible."
+                },
+                {
+                    "factor": "Recent Nobel 'Snub' and Media Speculation",
+                    "effect": "Marginally increases probability. The context of Trump\u2019s Nobel loss and the widespread media narrative that the FIFA award is a 'consolation prize' builds expectations and pressure that could reinforce the logic of awarding it to him."
+                }
+            ],
+            "no_scenario": "FIFA, recognizing the strong backlash, negative publicity, and possible sponsor or member association revolt, opts to give the inaugural Peace Prize to a non-political figure (such as a footballer or humanitarian linked to football). Alternatively, Infantino chooses a compromise candidate (e.g., Ronaldo, Messi, or a globally respected activist) to avoid the appearance of political favoritism, citing the need for the award to remain above politics.",
+            "yes_scenario": "Infantino, leveraging the lack of oversight and his personal alliance with Trump, decides to make a dramatic, headline-grabbing gesture by awarding Trump the inaugural Peace Prize, framing it as recognition for peace efforts related to the World Cup, U.S.-Mexico-Canada cooperation, or Trump\u2019s role in global football diplomacy. The surrounding controversy is dismissed as political noise, and the event is staged as a celebration of U.S. leadership in the global game.",
+            "final_reasoning": "There is an unprecedented level of circumstantial evidence suggesting the award may be engineered for Trump: the prize\u2019s sudden creation, the draw\u2019s relocation to Washington at Trump\u2019s urging, Infantino\u2019s repeated public praise, and the absence of a transparent selection process. The timing, after a Nobel snub, and the media narrative reinforce this. However, the move would carry significant reputational and commercial risks for FIFA, given the Senate probe, negative press, and potential sponsor concerns. Still, FIFA under Infantino has demonstrated a willingness to take bold, controversial actions, particularly when opaque governance shields internal decision-making. The lack of precedent is offset by the unique convergence of Trump\u2019s influence, Infantino\u2019s personal incentives, and FIFA\u2019s desire to maximize global spectacle. The base rate for such an occurrence is extremely low, but the specifics of this case substantially raise the odds.",
+            "final_probability": 72
+        },
+        "Political Science (Soft Power Theory)": {
+            "time_to_resolution": "Approximately 8 days (question resolves on December 5, 2025; today is November 27, 2025)",
+            "perspective_relevance": "As an expert in Political Science (Soft Power Theory), I focus on how international organizations like FIFA utilize symbolic awards to project values, build alliances, and curry favor with powerful stakeholders. The interplay of soft power, image management, and transnational politics is central to predicting whether FIFA would risk credibility to honor a political leader like Trump, especially in the context of recent controversies and strategic alliances.",
+            "status_quo": "Historically, FIFA has not awarded peace prizes and has generally avoided overtly political awards, especially to sitting heads of state. The base rate for sports organizations giving major peace-related awards to controversial political figures is extremely low.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Personal Relationship Between Infantino and Trump",
+                    "effect": "Strongly increases probability. Infantino\u2019s close public and private ties to Trump, including opening an office in Trump Tower and referring to Trump as a 'close friend,' suggest a willingness to use FIFA\u2019s platform to amplify Trump\u2019s prestige."
+                },
+                {
+                    "factor": "Political Symbolism and Soft Power Calculation",
+                    "effect": "Increases probability. Awarding Trump the inaugural Peace Prize would be a symbolic act, potentially designed to curry favor with the U.S. administration ahead of the World Cup and reward Trump for facilitating FIFA\u2019s U.S. ambitions."
+                },
+                {
+                    "factor": "Backlash and Reputational Risk to FIFA",
+                    "effect": "Decreases probability. There is significant criticism in the media, academia, and political circles (e.g., Senate probe, accusations of cronyism and 'fake prize') and risk of undermining FIFA's legitimacy. FIFA is sensitive to global opinion, especially after recent corruption scandals."
+                },
+                {
+                    "factor": "Event Context and Timing",
+                    "effect": "Significantly increases probability. The prize is to be awarded at a high-profile event in Washington, D.C., which Trump is chairing, and was reportedly secured at his recommendation. The timing, immediately after a Nobel snub, strengthens the perception that the award is tailored for Trump."
+                },
+                {
+                    "factor": "Precedent and Organizational Norms",
+                    "effect": "Decreases probability. Awarding such a prize to a sitting president, especially one as polarizing as Trump, would be unprecedented for a sports body and could set a problematic precedent for future awards."
+                },
+                {
+                    "factor": "Ambiguity of Selection Process",
+                    "effect": "Increases probability. FIFA has not clarified the selection criteria or process, which could indicate that the winner is already internally decided and that transparency is being deliberately avoided to reduce backlash until the announcement."
+                }
+            ],
+            "no_scenario": "FIFA, after weighing the reputational costs and ongoing Senate investigation, decides to give the inaugural Peace Prize to a less controversial figure (perhaps a footballer, humanitarian, or activist) to avoid deepening the perception of corruption and political favoritism. Alternatively, negative press or political intervention causes a last-minute reversal, and Trump is thanked or acknowledged but not formally named as the winner.",
+            "yes_scenario": "FIFA, acting on Infantino\u2019s personal alliance with Trump and motivated by the desire to cement the U.S. relationship ahead of the 2026 World Cup, announces Trump as the inaugural winner of the Peace Prize in a ceremony that highlights his role in 'uniting the world through football' and/or for his claimed diplomatic achievements. FIFA absorbs the backlash, banking on the event\u2019s spectacle and Trump\u2019s support to outweigh reputational costs.",
+            "final_reasoning": "The base rate for sports organizations awarding peace prizes to sitting heads of state is extremely low, which would normally anchor this at near 0%. However, several powerful, compounding factors push this probability much higher: Infantino\u2019s unusually close relationship with Trump, the lack of transparency in the selection process, the event\u2019s location (with Trump as chairman), and the explicit pattern of political symbolism (especially after the Nobel Prize snub). The timing, messaging, and repeated hints in the news all suggest the award is being tailored for Trump. The risks of reputational damage and the ongoing Senate probe are non-trivial, but FIFA\u2019s history of controversial decisions and Infantino\u2019s willingness to court powerful allies suggest these may not be decisive deterrents. There is a strong convergence of circumstantial evidence, and the lack of any other rumored candidates increases the likelihood further. Given the status quo, I would normally anchor this at <5%, but given the news and context, I am compelled to go much higher. However, I stop short of absolute certainty due to the possibility of last-minute reversal or face-saving compromise. Thus:",
+            "final_probability": 78
+        },
+        "International Relations (Constructivism)": {
+            "time_to_resolution": "8 days (until December 5, 2025)",
+            "perspective_relevance": "As a constructivist in International Relations, I focus on how identities, norms, and relationships shape actors' behaviors and the construction of legitimacy. The FIFA Peace Prize is a new institution, and its inaugural awarding is not governed by established tradition or widely shared expectations. Instead, social relationships, symbolic capital, and the perceived legitimacy of the act (by both FIFA and the international community) are central. The identity of the recipient, FIFA's interests, and the narratives constructed around the prize are critical to forecasting the outcome.",
+            "status_quo": "No FIFA Peace Prize has ever been awarded; there is no precedent for Trump or anyone else to win it. In the absence of overwhelming political or personal motivation, it is typical for established sports organizations to avoid overtly politicized, controversial, or self-serving choices in major public forums.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Personal Relationship and Mutual Instrumentalization between Trump and Infantino",
+                    "effect": "Strongly increases probability. The close public and private relationship between Infantino and Trump, including Infantino's office in Trump Tower and frequent mutual praise, creates a context where symbolic rewards are plausible instruments for mutual benefit."
+                },
+                {
+                    "factor": "FIFA's Organizational Norms and Reputation Concerns",
+                    "effect": "Decreases probability. FIFA is historically wary of appearing overtly beholden to specific political interests, especially in an era of heightened transparency and external scrutiny. The risk of delegitimizing the prize and causing reputational backlash is significant."
+                },
+                {
+                    "factor": "Current Political Climate and U.S. Institutional Dynamics",
+                    "effect": "Somewhat increases probability. Trump's control over the Kennedy Center, the recent board overhaul, and his public framing of the event as a 'war on woke culture' lower the institutional barriers to politicized decisions at this specific venue."
+                },
+                {
+                    "factor": "International and Media Scrutiny",
+                    "effect": "Decreases probability. The ongoing Senate investigation, media criticism, and public debate about cronyism and the legitimacy of the prize raise the reputational cost for both FIFA and Trump."
+                },
+                {
+                    "factor": "Constructivist Symbolism and Narrative Construction",
+                    "effect": "Increases probability. The creation of the Peace Prize in the wake of Trump's Nobel snub and Infantino\u2019s explicit narrative construction around Trump as a peace-maker suggest the prize is being used as a vehicle for symbolic recognition, independent of substantive peace achievements."
+                },
+                {
+                    "factor": "Absence of Clear Selection Criteria and Transparency",
+                    "effect": "Increases probability. FIFA has not provided any transparent process or shortlist, leaving room for a discretionary, even transactional, award."
+                },
+                {
+                    "factor": "Potential for Shared or Face-saving Outcome",
+                    "effect": "Slightly increases probability. The fine print allows for multiple winners; FIFA could mitigate reputational risk by awarding Trump alongside a less controversial figure."
+                }
+            ],
+            "no_scenario": "FIFA, under pressure from ongoing political investigations, critical media coverage, and potential internal dissent, decides against awarding Trump the Peace Prize, opting instead for a figure with less political baggage and more obvious peace credentials (e.g., a humanitarian, football ambassador, or activist). The prize is used to highlight football's unifying power without explicit reference to contemporary U.S. politics.",
+            "yes_scenario": "FIFA, prioritizing its relationship with Trump and the symbolism of U.S. World Cup hosting, chooses to award Trump the inaugural Peace Prize, either as sole recipient or as one among several. The decision is framed as recognition of his role in securing the 2026 World Cup for North America and/or for his (contested) claims to peace-making in global conflicts. The event is stage-managed to maximize political spectacle and symbolic value.",
+            "final_reasoning": "The evidence points to a highly unusual situation driven by personal relationships, instrumental politics, and a lack of institutional checks. The newness of the prize and absence of established legitimacy make it more susceptible to manipulation. The constructivist lens highlights how the meaning and legitimacy of the Peace Prize are still in flux, and that Infantino and Trump are actively shaping its identity for mutual benefit. However, the risk of backlash\u2014domestically and internationally\u2014for such a nakedly political act is real, and FIFA, despite its history of scandal, has shown some sensitivity to reputational costs in recent years. The possibility of a shared award provides a potential face-saving path. Balancing these factors, and giving significant weight to the extraordinary context (Trump's personal influence over the venue, Infantino's repeated public praise, the Nobel snub, and the lack of process transparency), I judge the probability to be much higher than the base rate for a major institution giving a new global 'peace' award to a sitting or former head of state, but not so high as to ignore the real institutional and reputational risks. The result is a bold, but not extreme, forecast.",
+            "final_probability": 68
+        },
+        "International Relations (Normative International Theory)": {
+            "time_to_resolution": "8 days (until December 5, 2025)",
+            "perspective_relevance": "As an expert in Normative International Theory, I am attuned to the symbolic functions of international prizes as instruments of soft power, legitimacy-conferral, and norm-setting. This perspective allows for a nuanced reading of institutionally ambiguous, politically motivated, or normatively controversial awards, such as the FIFA Peace Prize. I can assess both the base rates of similar awards and the ways in which international actors co-opt or subvert the language of peace to serve particularist interests.",
+            "status_quo": "FIFA has never awarded a Peace Prize before. In most analogous situations, inaugural awards of this type tend to go to prominent figures with global recognition, but not to those who are highly polarizing or overtly political. Traditionally, FIFA\u2019s awards (e.g., FIFA Fair Play, Presidential Award) have steered clear of direct political controversy.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Personal Relationship between Trump and Infantino",
+                    "effect": "Strongly increases probability. The close friendship, public praise, and joint hosting of events (including Infantino opening a FIFA office in Trump Tower) suggest Infantino has strong motivation to reward Trump."
+                },
+                {
+                    "factor": "Political Utility and Symbolic Flattery",
+                    "effect": "Increases probability. FIFA may see benefit in currying favor with the host US administration, especially given the scale of the 2026 World Cup and the Kennedy Center\u2019s board overhaul by Trump."
+                },
+                {
+                    "factor": "Backlash and Reputational Risk to FIFA",
+                    "effect": "Decreases probability. The move is already drawing significant controversy, Senate scrutiny, and criticism in global media as 'shameful' and 'bribery.' FIFA is sensitive to accusations of corruption and politicization, which could sway decision-makers away from such a blatant gesture."
+                },
+                {
+                    "factor": "Precedent from Nobel Peace Prize and Other Awards",
+                    "effect": "Decreases probability. The Nobel Committee recently passed over Trump, and historically, even politically motivated international prizes avoid overtly rewarding divisive heads of state while they are in office."
+                },
+                {
+                    "factor": "Ambiguity in Selection Process and Criteria",
+                    "effect": "Increases probability modestly. The lack of transparency and the fact that this is an inaugural prize with no set selection committee or publicized process gives Infantino and his allies wide latitude to select whomever they wish\u2014potentially overriding normal reputational constraints."
+                },
+                {
+                    "factor": "Timing and Media Speculation",
+                    "effect": "Increases probability. The event is in Washington, D.C., with Trump as chairman of the Kennedy Center and a scheduled attendee. Multiple sources and even FIFA insiders are fueling speculation of a Trump win, increasing the likelihood that this is a planned gesture."
+                },
+                {
+                    "factor": "Normative Legitimacy and Soft Power Considerations",
+                    "effect": "Decreases probability. For the Peace Prize to become prestigious, its first winner must have at least a minimally plausible claim to 'extraordinary actions for peace.' Trump is globally polarizing and associated with controversial policies, making the prize vulnerable to ridicule if awarded to him."
+                }
+            ],
+            "no_scenario": "FIFA, after weighing the reputational risk and political backlash\u2014including Senate investigation, negative press, and global ridicule\u2014opts to give the inaugural Peace Prize either to a less divisive figure (such as a footballer or a humanitarian with a football connection) or to a non-American, in order to underscore the international and nonpartisan character of the award. Infantino may still flatter Trump with ceremonial roles but avoids making him the recipient.",
+            "yes_scenario": "FIFA, driven by Infantino\u2019s personal affinity for Trump and the unique opportunity to use the prize as a symbolic gesture to the US administration, disregards reputational concerns and awards the first Peace Prize to Trump. The lack of clear selection criteria and the politicized context enable Infantino to make a unilateral or highly influenced decision. The award is justified by vague references to Trump\u2019s role in the 2026 World Cup bid, or ostensible peace efforts.",
+            "final_reasoning": "The probability that Donald Trump wins the inaugural FIFA Peace Prize is unusually high for such a normatively loaded and prestigious-sounding award, given the extraordinary confluence of factors: Infantino\u2019s open friendship and political alliance with Trump, the draw\u2019s location and context, Trump\u2019s chairmanship of the Kennedy Center, and the apparent lack of a transparent selection process. Multiple credible media outlets report strong internal speculation that the prize is being created as a consolation for Trump\u2019s Nobel snub, and Infantino has made public statements supporting this narrative. However, there is still significant risk to FIFA\u2019s legitimacy and a real chance that, facing mounting criticism and political scrutiny, the organization pivots to a less controversial recipient. Based on base rates (rare for international awards to be given to sitting heads of state in controversial circumstances, but the process here is unusually opaque and personalized), and weighing all factors, I assess the probability as notably above 50%, but not extremely high due to the real possibility of last-minute recalibration. Therefore, my final probability is:",
+            "final_probability": 65
+        },
+        "Sociology (Elite Theory)": {
+            "time_to_resolution": "8 days (until December 5, 2025)",
+            "perspective_relevance": "As an expert in Sociology (Elite Theory), I focus on how elite networks, reciprocal favor exchanges, and the concentration of power and symbolic capital influence institutional decisions. The FIFA Peace Prize, its sudden creation, and speculation about Trump as a recipient are best understood through the lens of elite theory: this is a case where high-status actors (FIFA leadership, Trump) leverage institutional mechanisms to reinforce mutual interests, prestige, and legitimacy.",
+            "status_quo": "Historically, FIFA has not awarded a 'Peace Prize', nor have they given prominent awards to sitting (or recent) heads of state outside the football world. The default expectation for inaugural, high-profile awards is that they are given to figures with strong, broad legitimacy or to non-controversial, consensus candidates.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Infantino-Trump Personal Relationship",
+                    "effect": "Strongly increases probability. Multiple reports confirm a close, public relationship between FIFA President Gianni Infantino and Donald Trump, including mutual visits, public praise, and FIFA opening an office in Trump Tower. Such elite ties suggest reciprocal favor-trading, making it plausible that FIFA would award Trump as a symbolic gesture, especially after his Nobel snub."
+                },
+                {
+                    "factor": "Award Ceremony Venue and Context",
+                    "effect": "Moderately increases probability. The draw is held at the Kennedy Center in Washington, D.C., with Trump as chairman. Trump reportedly secured this venue for FIFA and is scheduled to attend. This aligns with elite theory: venue selection and event chairmanship signal orchestration for mutual benefit and image-building."
+                },
+                {
+                    "factor": "Senate Scrutiny and Public Backlash",
+                    "effect": "Slightly decreases probability. U.S. Senate investigations into the Kennedy Center's arrangements with FIFA and accusations of cronyism and political favoritism create reputational risk. If FIFA or Infantino perceive the backlash as potentially damaging, they may reconsider."
+                },
+                {
+                    "factor": "FIFA's Organizational Precedents and Reputation Management",
+                    "effect": "Moderately decreases probability. FIFA is highly sensitive to allegations of corruption and political favoritism, especially post-Blatter scandals. Awarding Trump\u2014a highly polarizing figure\u2014could backfire and undermine the 'Peace Prize's' legitimacy, especially if perceived as a consolation for the Nobel snub."
+                },
+                {
+                    "factor": "Symbolic Politics and Elite Status Compensation",
+                    "effect": "Moderately increases probability. The timing of the award, immediately after Trump's Nobel snub, and Infantino's public statements about Trump deserving global recognition, suggest the prize may be designed as elite status compensation\u2014a classic elite theory move to reinforce the status of network members excluded from other elite clubs (e.g., Nobel Committee)."
+                },
+                {
+                    "factor": "Lack of Transparent Selection Process or Announced Alternatives",
+                    "effect": "Moderately increases probability. No other prominent candidates have been floated; the process is opaque and controlled by Infantino\u2019s circle. This increases the likelihood of a pre-selected, politically motivated outcome, typical of elite-managed symbolic awards."
+                }
+            ],
+            "no_scenario": "Facing heightened public and political backlash (especially from the U.S. Senate investigation and international media), FIFA leadership\u2014concerned about legitimacy, protest, or sponsor pressure\u2014decides to award the Peace Prize to a less controversial figure, such as a global humanitarian or football-related peacemaker. Alternatively, the prize is awarded to a group (e.g., 'frontline footballers'), or the announcement is deferred to avoid controversy.",
+            "yes_scenario": "Infantino, prioritizing his personal alliance with Trump and seeking to strengthen FIFA's ties with U.S. political elites (and perhaps in return for U.S. support in other FIFA ventures), orchestrates the award to Trump. The ceremony is framed as a symbolic gesture of global unity and recognition for Trump's claimed peacemaking efforts. FIFA may attempt to mitigate backlash with carefully scripted messaging or by naming multiple winners, but Trump is specifically named among them.",
+            "final_reasoning": "The convergence of elite interests, personal relationships, and symbolic compensation makes the awarding of the inaugural FIFA Peace Prize to Donald Trump highly plausible\u2014especially given the lack of transparency, the event\u2019s context, and Infantino\u2019s repeated public praise of Trump. The risks (public backlash, Senate investigation, sponsor discomfort) are real and slightly temper the probability, but elite theory suggests such concerns are often secondary to the priorities and reciprocal obligations of dominant actors, especially in insulated transnational organizations like FIFA. The creation of the prize itself, the timing, and the orchestrated context all point toward a pre-arranged outcome. While not a certainty, the probability is substantially higher than base rates for such awards to political leaders, given these unique elite dynamics.",
+            "final_probability": 80
+        },
+        "Sociology (Reputation Management Models)": {
+            "time_to_resolution": "8 days (the winner will be announced on December 5, 2025)",
+            "perspective_relevance": "As an expert in sociology with a focus on reputation management models, my perspective is highly relevant. FIFA\u2019s choice of Peace Prize recipient is not just about actual peacemaking, but about symbolic capital, organizational legitimacy, and the management of FIFA and Trump\u2019s reputations on the global stage. Understanding how institutions use awards to curry favor, respond to criticism, and signal alliances is central to this analysis.",
+            "status_quo": "If nothing changed, the most likely outcome is that FIFA awards the Peace Prize to a recipient with either broad international acclaim or symbolic alignment with FIFA\u2019s interests, possibly Donald Trump, given the location, timing, and relationship dynamics, but not necessarily so. Historically, inaugural awards of this type either go to a universally respected figure or are used for strategic signaling.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "FIFA-Trump Relationship and Instrumental Reputation Management",
+                    "effect": "Increases probability. The close personal and organizational ties between FIFA President Infantino and Trump, including public praise, Trump\u2019s role in securing the World Cup for the U.S., and recent collaboration at high-profile events, all suggest that awarding Trump would serve as a reputational reward for their alliance and shared interests."
+                },
+                {
+                    "factor": "Backlash and Reputational Risk to FIFA",
+                    "effect": "Decreases probability. Multiple news articles document criticism, Senate probes, and accusations of 'fake peace prize' cronyism. Awarding Trump may further damage FIFA\u2019s already fragile global legitimacy, especially given its history of corruption scandals and need to maintain international credibility."
+                },
+                {
+                    "factor": "Symbolic Utility of the Peace Prize",
+                    "effect": "Increases probability. With Trump denied the Nobel and seeking symbolic validation, FIFA can use this new, less-prestigious award to curry favor, signal thanks, and potentially receive reciprocal benefits (e.g. regulatory leniency, hosting privileges, access). This is classic reputation management: granting symbolic capital to a valuable ally."
+                },
+                {
+                    "factor": "Lack of Transparency and Selection Criteria",
+                    "effect": "Increases probability. The prize\u2019s ambiguous criteria, absence of a formal process, and Infantino\u2019s evasive comments (\u201cOn the 5th of December, you will see\u201d) suggest the outcome may be pre-determined or discretionary, favoring a politically expedient choice like Trump."
+                },
+                {
+                    "factor": "Potential for Last-Minute Strategic Adjustment",
+                    "effect": "Decreases probability. Given the ongoing Senate investigation and negative press, FIFA might pull back at the last moment to avoid scandal, choosing a less controversial or more globally popular figure instead."
+                }
+            ],
+            "no_scenario": "Despite speculation, FIFA ultimately decides the reputational and political costs of awarding Trump are too great. Under pressure from global football stakeholders, sponsors, or as a concession to public criticism and the U.S. Senate investigation, Infantino and the selection committee opt for a less controversial recipient\u2014possibly a footballer with a charitable record, or a political figure with broader international appeal. Trump attends the event but is not named the Peace Prize winner.",
+            "yes_scenario": "FIFA, prioritizing its alliance with Trump and the U.S. (the primary host of the 2026 World Cup), ignores or accepts the backlash and names Donald Trump as the inaugural FIFA Peace Prize winner. The award is presented as a gesture recognizing his role in 'uniting the world through football' or in facilitating peace negotiations (e.g. Middle East, Israel-Hamas ceasefire). The move is widely condemned but serves FIFA\u2019s short-term strategic interests.",
+            "final_reasoning": "There is an unusually high level of circumstantial evidence pointing toward Trump as the likely recipient: the prize\u2019s creation coincides with his denied Nobel bid, the location and event are deeply intertwined with Trump\u2019s sphere of influence, and the public statements by Infantino and the lack of transparent selection criteria all point to an orchestrated outcome. The reputational risks are significant, as documented by critical press and a Senate probe, but FIFA has a long history of controversial decisions when the organization\u2019s leadership perceives a net benefit. The fact that the award is new, undefined, and not yet prestigious makes it easier to use as a political tool. While backlash could still cause a last-minute reversal, the balance of evidence\u2014especially the alignment of interests and the pattern of recent FIFA-Trump interactions\u2014suggests Trump is more likely than not to win. I would anchor the base rate of inaugural, politically tinged awards going to powerful allies at roughly 60%, but adjust slightly downward (to 55%) to account for the real, nontrivial risk of reputational blowback causing a late change.",
+            "final_probability": 55
+        }
+    },
+    "deliberation_probability": [
+        70,
+        80,
+        75,
+        75,
+        72,
+        72,
+        78,
+        68,
+        65,
+        80,
+        55
+    ],
+    "deliberation_mean_probability": 71.81818181818181,
+    "deliberation_sd": 7.345994579608426,
+    "deliberation_probability_result": 72
+}
