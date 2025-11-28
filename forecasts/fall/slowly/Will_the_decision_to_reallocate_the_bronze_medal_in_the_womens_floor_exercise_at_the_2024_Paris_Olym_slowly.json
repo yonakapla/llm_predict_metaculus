@@ -1,0 +1,261 @@
+{
+    "deliberation_results": {
+        "Olympic Sports Administration (IOC Dispute Resolution Procedures)": {
+            "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Olympic Sports Administration and specifically IOC Dispute Resolution Procedures, I understand the structure, legal basis, and historical outcomes of appeals against CAS decisions in Olympic medal cases, as well as the operational realities of the Swiss Federal Tribunal and the boundaries of sport jurisdiction. This provides unique insight into the likelihood and mechanisms by which such a high-profile, post-competition medal reallocation might be reversed within the time frame.",
+            "status_quo": "The CAS decision stands: the IOC has reallocated the bronze medal from Jordan Chiles (USA) to Ana Barbosu (Romania). Appeals by USA Gymnastics and Chiles to the Swiss Federal Tribunal are still pending, but the medal remains with Barbosu unless and until the CAS decision is overturned.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Historical base rate of successful appeals against CAS awards",
+                    "effect": "Strongly decreases probability. The 2011 CAS Bulletin and recent data indicate a success rate of 0.3%-1% for appeals to the Swiss Federal Tribunal. CAS decisions are rarely overturned except for egregious procedural errors."
+                },
+                {
+                    "factor": "Nature of the dispute (procedural timing, not substantive rule violation)",
+                    "effect": "Decreases probability. Swiss courts are even less likely to intervene in sporting 'field of play' decisions or technicalities, unless there is clear evidence of denial of justice or bias."
+                },
+                {
+                    "factor": "Allegations of procedural irregularity and new video evidence",
+                    "effect": "Slightly increases probability. The U.S. side claims that the inquiry was filed on time and that the CAS panel chair had a conflict of interest, and that video evidence was not properly considered. If the Tribunal finds serious procedural irregularities (e.g., right to be heard violated), it may order CAS to re-examine the case."
+                },
+                {
+                    "factor": "Ongoing high-profile attention and political pressure",
+                    "effect": "Slightly increases probability. The international attention and allegations (including of racism and bias) may encourage extra scrutiny, though Swiss courts tend to resist outside pressure."
+                },
+                {
+                    "factor": "Lack of new public developments or leaks suggesting imminent overturn",
+                    "effect": "Decreases probability. As of late November 2025, there are no credible reports or rumors suggesting the Swiss Tribunal is leaning toward overturning the CAS decision."
+                },
+                {
+                    "factor": "Precedent: IOC and FIG deference to CAS/SFT rulings",
+                    "effect": "Decreases probability. The IOC and international federations treat CAS and SFT as final arbiters; reversal of medal reallocations post-award is vanishingly rare."
+                },
+                {
+                    "factor": "Time pressure (resolution window closes in 13 months)",
+                    "effect": "Slightly decreases probability. The Swiss Federal Tribunal can be slow, and even if it orders a rehearing, the process might not be complete before the deadline."
+                }
+            ],
+            "no_scenario": "The Swiss Federal Tribunal either rejects the appeal outright (the most likely scenario, based on historical precedent), or finds no significant procedural violation by CAS. The CAS decision stands, the IOC does not re-reallocate the medal, and credible sources report no overturn before January 1, 2026.",
+            "yes_scenario": "The Swiss Federal Tribunal finds a severe procedural irregularity (e.g., denial of justice, bias, or improper exclusion of crucial video evidence) and annuls the CAS award, ordering CAS to rehear the case. CAS, upon rehearing, rules in favor of Chiles/USA, and the IOC re-reallocates the bronze medal to Jordan Chiles before the end of 2025, with credible sources reporting the overturn.",
+            "final_reasoning": "The base rate of successful appeals against CAS awards is extremely low (well below 1%), especially for disputes hinging on technical procedural matters such as filing deadlines. The Swiss Federal Tribunal is highly deferential to CAS and only intervenes in the rarest cases of procedural injustice. Although there is some increased scrutiny due to the high-profile nature of this case (racial bias allegations, media attention, and new video evidence), these factors do not outweigh the overwhelming historical inertia and legal conservatism of the Swiss Tribunal. The lack of any credible reporting of a likely overturn, the elapsed time, and the tight deadline further reduce the probability. While it is not impossible (especially if a procedural irregularity is clearly proven), the chances remain extremely slim.",
+            "final_probability": 2
+        },
+        "Legal Arbitration (CAS Appeals and Arbitration Process)": {
+            "time_to_resolution": "Just over 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Legal Arbitration, particularly with the Court of Arbitration for Sport (CAS) and Swiss Federal Tribunal processes, I understand the legal standards for overturning CAS awards, the extremely high bar for success at the Swiss Federal Tribunal, and the procedural hurdles that must be met. My expertise allows me to interpret base rates, procedural posture, and new evidence claims with nuance that general geopolitical forecasters may lack.",
+            "status_quo": "CAS has ruled to vacate Jordan Chiles' bronze medal, awarding it to Ana B\u01cerbosu (Romania). The medal has been officially reallocated. USA Gymnastics has appealed to the Swiss Federal Tribunal, but the overwhelming majority of such appeals are unsuccessful.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base rate of Swiss Federal Tribunal overturning CAS awards",
+                    "effect": "Drastically decreases probability. The historical success rate is about 1% for appeals, and only about 0.3% of all CAS awards have ever been overturned since 1984."
+                },
+                {
+                    "factor": "Nature of the appeal (procedural\u2014not substantive merits)",
+                    "effect": "Decreases probability. The Federal Tribunal only considers appeals on narrow procedural grounds (e.g., denial of due process, lack of impartiality, ultra vires actions), not on the merits of the underlying sports dispute, making it unlikely that video evidence or new factual arguments will be persuasive."
+                },
+                {
+                    "factor": "Public and political pressure / Media attention",
+                    "effect": "Slightly increases probability. High-profile, racially charged, and widely covered cases may face greater scrutiny, but Swiss legal tradition is highly insulated from public pressure. Still, the case's notoriety may increase careful review of the proceedings."
+                },
+                {
+                    "factor": "Allegations of procedural irregularity (conflict of interest, denial of fair hearing, ignored evidence)",
+                    "effect": "Slightly increases probability. If there is credible evidence of a conflict of interest or serious due process violations (e.g., CAS panel chair ties to Romania, ignored material evidence), this could be grounds for the Tribunal to at least remand the case back to CAS, though historical precedent suggests the bar is very high."
+                },
+                {
+                    "factor": "CAS's refusal to revisit the case; finality of sports awards",
+                    "effect": "Decreases probability. CAS is the final arbiter in most sports disputes, and the Swiss Tribunal is reluctant to disturb the finality of sports results, especially when the issue is a technical timing dispute."
+                },
+                {
+                    "factor": "Time remaining and lack of movement",
+                    "effect": "Decreases probability. As of late November 2025, no indication that the Swiss Tribunal intends to act swiftly or issue a decision in favor of Chiles. Historically, the absence of public signals or leaks of a likely reversal this late in the process is a negative indicator."
+                }
+            ],
+            "no_scenario": "The Swiss Federal Tribunal either rejects the appeal outright or upholds the CAS decision, finding that the alleged procedural flaws do not rise to the required legal standard, and the medal remains with Ana B\u01cerbosu (Romania) through January 1, 2026.",
+            "yes_scenario": "The Swiss Federal Tribunal finds that the CAS panel was improperly constituted (e.g., due to a conflict of interest), or that Chiles was denied a fair hearing (e.g., exculpatory video evidence was ignored), and either overturns the result directly or remands to CAS, resulting in credible sources reporting that the medal is returned to Chiles prior to January 1, 2026.",
+            "final_reasoning": "The overwhelming base rate is strongly against overturning any CAS award at the Swiss Federal Tribunal; only a handful of cases have ever succeeded, and almost all recent attempts (especially in Olympic disputes) have failed. The legal bar is not mere error, but a violation of fundamental procedural guarantees or jurisdictional overreach, which is rarely proven. While the Chiles case has unique factors, such as claims of racial bias, alleged conflict of interest, and video evidence, these are unlikely to meet the Swiss court's stringent criteria unless there is clear, documented denial of due process or explicit bias by the arbitrators. The lack of new movement or reporting on a breakthrough by late November 2025 further reduces the chance of reversal before the deadline. Taking all factors into account, I assess the probability as extremely low\u2014modestly above zero only because of the high-profile nature and some procedural allegations.",
+            "final_probability": 2
+        },
+        "European Sports Regulation (European Court of Human Rights in Sports Disputes)": {
+            "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in European Sports Regulation, especially familiar with the precedents and mechanisms of the European Court of Human Rights (ECHR) and the Court of Arbitration for Sport (CAS), I can assess the likelihood of successful appeals in high-profile sports disputes, the procedural norms in Swiss legal review of CAS decisions, and the interplay between sports governing bodies, their internal rules, and broader principles such as procedural fairness and anti-discrimination.",
+            "status_quo": "The bronze medal in question has been officially reallocated by the IOC to Romania's Ana B\u01cerbosu following the CAS decision upholding Romania's protest. USA Gymnastics and Jordan Chiles have appealed to the Swiss Federal Supreme Court, but no decision has yet been announced. CAS has stated it cannot revisit the case. The medal remains with Barbosu unless the Swiss court overturns the CAS award.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Swiss Federal Tribunal's historical deference to CAS awards",
+                    "effect": "Substantially decreases probability. The base rate for successful appeals of CAS awards at the Swiss Federal Tribunal is extremely low (<1%), per the CAS Bulletin and historical data."
+                },
+                {
+                    "factor": "Strict procedural limits for Swiss Tribunal intervention",
+                    "effect": "Decreases probability. The Tribunal generally intervenes only for egregious breaches like lack of jurisdiction, denial of right to be heard, or public policy violations\u2014not for substantive review of sporting rules or factual evidence."
+                },
+                {
+                    "factor": "Allegations of procedural unfairness and new video evidence",
+                    "effect": "Marginally increases probability. If the Tribunal finds credible evidence that Chiles did not receive a fair hearing or that significant evidence was ignored, they could annul the CAS award and remand for a new hearing, though this is rare."
+                },
+                {
+                    "factor": "Public and political pressure, including discrimination claims",
+                    "effect": "Slightly increases probability. While the Swiss court is insulated from public pressure, high-profile accusations of racial bias and international scrutiny could increase judicial caution, but are unlikely to override strict legal standards."
+                },
+                {
+                    "factor": "Status quo bias and finality in Olympic medal allocations",
+                    "effect": "Decreases probability. Historically, medals are rarely re-reallocated after CAS and IOC decisions, reinforcing the inertia of the current outcome."
+                },
+                {
+                    "factor": "Potential for ECHR application if Swiss courts reject appeal",
+                    "effect": "Negligible effect within time frame. Even if Chiles appeals to the ECHR, it is unlikely a decision would come before January 1, 2026."
+                }
+            ],
+            "no_scenario": "The Swiss Federal Tribunal either rejects the appeal outright as lacking grounds or, after review, finds no breach of due process or public policy. The CAS decision stands, and Romania retains the bronze medal. No higher court issues a ruling overturning the reallocation before January 1, 2026.",
+            "yes_scenario": "The Swiss Federal Tribunal finds that Jordan Chiles and USA Gymnastics were denied a fair hearing\u2014perhaps due to ignored video evidence or a conflict of interest on the CAS panel. The court annuls the CAS award and remands the case for a new hearing, or (less likely) overturns the CAS decision outright, resulting in credible reports that the bronze medal is restored to Chiles before January 1, 2026.",
+            "final_reasoning": "The base rate for successful Swiss Federal Tribunal appeals of CAS awards is extremely low (<1%), and the Tribunal only intervenes on narrow procedural grounds. Despite the presence of new video evidence and allegations of procedural unfairness, these rarely meet the high threshold required for annulment. Public pressure and discrimination claims may color the narrative but are unlikely to sway the Tribunal absent clear evidence of a due process breach, and the Tribunal does not revisit sporting facts or rules. The IOC and CAS have both signaled there is no procedural avenue for further review at the CAS level. Given the elapsed time, lack of precedent for medal reallocation reversals at this stage, and the rigid legal environment, the probability of a successful overturn before January 2026 is extremely low, though not absolutely zero due to the ongoing Swiss Tribunal case.",
+            "final_probability": 2
+        },
+        "Sports Law (Court of Arbitration for Sport Jurisprudence)": {
+            "time_to_resolution": "Approximately 13 months (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Sports Law with a specialization in Court of Arbitration for Sport (CAS) jurisprudence, I bring a nuanced understanding of the finality of CAS awards, the narrow grounds for appeal before the Swiss Federal Tribunal, and the extremely low historical success rate of such appeals. I can analyze the procedural, substantive, and institutional standards applied in such high-profile Olympic disputes and the likelihood of overturning CAS decisions based on established legal precedent.",
+            "status_quo": "The CAS decision stands: the bronze medal in the women's floor exercise at Paris 2024 has been reallocated from Jordan Chiles (USA) to Ana B\u01cerbosu (Romania), and the IOC has implemented this reallocation. Currently, Chiles and USA Gymnastics have appealed to the Swiss Federal Tribunal, which is pending.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rate of CAS Decisions Overturned by Swiss Federal Tribunal",
+                    "effect": "Strongly decreases probability. Historically, only about 1% of appeals against CAS decisions to the Swiss Federal Tribunal are successful, and less than 0.5% of all CAS awards have ever been overturned."
+                },
+                {
+                    "factor": "Grounds for Appeal to Swiss Federal Tribunal",
+                    "effect": "Decreases probability. The Swiss Federal Tribunal only reviews very limited grounds (jurisdiction, procedural irregularities, public policy violations, right to be heard). Substantive errors or mere misapplication of sports rules are not sufficient."
+                },
+                {
+                    "factor": "Procedural Issues Raised by Chiles/USA Gymnastics",
+                    "effect": "Slightly increases probability. Allegations that Chiles was denied a fair hearing, that video evidence was not properly considered, and that a CAS panelist had a conflict of interest could\u2014if proven egregious\u2014meet the threshold for a successful appeal, but only if procedural rights were clearly, fundamentally violated."
+                },
+                {
+                    "factor": "Public and Political Pressure",
+                    "effect": "Negligible effect. While there is significant public attention and allegations of racism, the Swiss Federal Tribunal is known for its insulation from external pressure and strict adherence to legal criteria."
+                },
+                {
+                    "factor": "Time Remaining",
+                    "effect": "Slightly decreases probability. With just over a year left and no decision yet, the window for a reversal is closing, especially given the slow pace of the Swiss legal process."
+                },
+                {
+                    "factor": "Precedent in Olympic Medal Reallocations",
+                    "effect": "Decreases probability. In Olympic history, medal reallocations following CAS decisions are rarely, if ever, reversed at the judicial level barring egregious procedural violations."
+                }
+            ],
+            "no_scenario": "The Swiss Federal Tribunal either rejects the appeal outright or, after review, finds no sufficient procedural violation or public policy breach. The CAS decision stands, the medal remains with Romania, and no further avenue of appeal exists before January 1, 2026.",
+            "yes_scenario": "The Swiss Federal Tribunal finds a significant procedural defect\u2014such as a denied right to be heard, failure to consider crucial evidence, or an undisclosed conflict of interest\u2014quashes the CAS award, and remands the case to CAS for rehearing. CAS, on rehearing (or the Tribunal itself in rare cases), reverses the original decision, leading to credible reports that the bronze medal is reallocated back to the US before January 1, 2026.",
+            "final_reasoning": "The historical and structural base rates are extremely unfavorable to a reversal: less than 1% of CAS awards appealed to the Swiss Federal Tribunal are overturned, and the only permissible grounds are narrow procedural or jurisdictional defects, not errors of fact or law. The available news confirms that Chiles/USA Gymnastics have appealed on procedural grounds (timeliness of inquiry, right to be heard, possible conflict of interest), but there is no indication to date that these claims have met the high bar required by the Tribunal. There is also no indication of new evidence or extraordinary developments since the appeal was filed. Public and political controversy, or even allegations of bias, have little legal bearing given the Tribunal's precedent. With roughly a year left and no sign of imminent or extraordinary developments, the likelihood remains very low, though not zero as procedural irregularities are alleged and could, in theory, be proven. A probability materially above the historical base rate is not justified. Therefore, the chance of the CAS decision being overturned before January 1, 2026, is extremely low\u2014about 2%.",
+            "final_probability": 2
+        },
+        "Sports Law (Olympic Charter Provisions)": {
+            "time_to_resolution": "Just over 1 month (question resolves January 1, 2026; today is November 28, 2025)",
+            "perspective_relevance": "As an expert in Sports Law, specifically Olympic Charter provisions and the jurisprudence of the Court of Arbitration for Sport (CAS) and the Swiss Federal Tribunal, I have a thorough understanding of appeal mechanisms, the legal standards required to overturn arbitral awards, and the historical base rates for such reversals. This enables a clear assessment of the procedural hurdles and the likelihood of legal success for appeals in this highly regulated area.",
+            "status_quo": "The CAS ruling stood, vacating Chiles' inquiry, and the IOC reallocated the bronze medal to Romania\u2019s Ana B\u01cerbosu. The US appeal to CAS for reconsideration was denied. The only remaining avenue is the appeal to the Swiss Federal Tribunal, which is pending.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base rate for overturning CAS awards at the Swiss Federal Tribunal",
+                    "effect": "Strongly decreases probability. Only 0.3%-1% of CAS awards have ever been overturned by the Swiss Federal Tribunal."
+                },
+                {
+                    "factor": "Nature of the alleged procedural error (timing of the inquiry/submission of new evidence)",
+                    "effect": "Slightly increases probability, but not substantially. The Swiss Federal Tribunal generally does not re-examine facts or admit new evidence unless there is a fundamental procedural violation. The Tribunal is not a 'third instance' on the merits."
+                },
+                {
+                    "factor": "Alleged conflict of interest/denial of a fair hearing",
+                    "effect": "Could slightly increase probability if proven to be egregious (e.g., panel member with direct ties or bias), but in practice the Swiss Tribunal sets a very high bar for recusal and procedural fairness violations."
+                },
+                {
+                    "factor": "Political and reputational pressure on IOC/CAS",
+                    "effect": "Minimal effect. CAS and the Swiss Tribunal are insulated from political/reputational pressure, and precedent shows no pattern of yielding to such factors in medal reallocations."
+                },
+                {
+                    "factor": "Public/media attention and claims of discrimination",
+                    "effect": "Minimal legal impact. While these issues may prompt review of procedures in the future, the legal standard for overturning an arbitral award remains unchanged and highly restrictive."
+                },
+                {
+                    "factor": "Time remaining before resolution",
+                    "effect": "Decreases probability. With only about a month left, any decision to overturn must be rendered extremely soon, and there is no public indication of imminent action from the Swiss Tribunal."
+                }
+            ],
+            "no_scenario": "The Swiss Federal Tribunal either rejects the appeal outright or issues a decision upholding the CAS ruling, finding no violation of procedural fairness or jurisdictional error. The medal remains with Romania, and no further appeal is possible.",
+            "yes_scenario": "The Swiss Federal Tribunal finds a substantial procedural violation\u2014such as a proven conflict of interest or denial of a fair hearing so egregious that it annuls the CAS decision\u2014remanding the case for new consideration, or directly overturns the CAS ruling, restoring the medal to the US.",
+            "final_reasoning": "The historical base rate for successful appeals of CAS awards at the Swiss Federal Tribunal is extremely low (0.3%-1%). The Tribunal only intervenes in cases of grave procedural irregularity or breaches of public policy, not on the substance of sports disputes or factual reconsideration. The US side alleges late submission was wrongly decided and claims video evidence plus potential conflict of interest, but these arguments rarely meet the Tribunal's strict standards. There is no indication of a fast-tracked or imminent decision, and time is exceedingly short before the 2026 deadline. Although the case has drawn public attention and emotional appeals, the legal and procedural framework makes an overturn highly unlikely. Therefore, the probability that the decision to reallocate the bronze medal will be overturned before 2026 is extremely low.",
+            "final_probability": 2
+        },
+        "International Sports Governance (International Gymnastics Federation Rules)": {
+            "time_to_resolution": "Just over 13 months (question resolves January 1, 2026; today is November 28, 2025)",
+            "perspective_relevance": "As an expert in International Sports Governance and the International Gymnastics Federation (FIG) Rules, I have deep familiarity with the procedural norms for inquiries, appeals, and the rare circumstances under which Olympic medal allocations are changed or reversed. This includes knowledge of the CAS appeal process, Swiss legal review, and the historical reluctance of sports governing bodies to overturn finalized results except in cases of clear procedural or doping violations.",
+            "status_quo": "The CAS decision stands; the bronze medal remains with Romania (Ana Barbosu), and Jordan Chiles\u2019/USA Gymnastics\u2019 appeal is still pending before the Swiss Federal Supreme Court. Historically, such CAS decisions are almost never overturned.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "CAS Finality & Appeal Success Rate",
+                    "effect": "Strongly decreases the probability. The base rate of successful Swiss Supreme Court appeals of CAS decisions is extremely low: 0.3-1% over decades, and even then, a win only sends the case back to CAS for a procedural re-hearing, not a guaranteed reversal."
+                },
+                {
+                    "factor": "Nature of the Dispute (Procedural Technicality vs. Substantive Error)",
+                    "effect": "Slightly increases the probability; the core dispute is whether the US appeal was filed within the strict one-minute deadline. Chiles/USA Gymnastics claim video evidence proves timely submission, and allege a conflict of interest. Swiss Supreme Court can overturn for denial of due process, not for sporting judgment. This is a borderline case; if the Court finds procedural injustice, it could remand."
+                },
+                {
+                    "factor": "International Pressure and Political Climate",
+                    "effect": "Marginally increases probability. The case has drawn high-profile attention, allegations of racism, and US institutional support. However, Swiss courts are typically insulated from such pressures."
+                },
+                {
+                    "factor": "Precedent and FIG/IOC Reluctance to Re-reverse Results",
+                    "effect": "Strongly decreases probability. The IOC and FIG strongly prefer finality in results, especially after medals are awarded, returned, and reallocated. Only clear, exceptional process violations prompt reversals."
+                },
+                {
+                    "factor": "Media and Legal Advocacy (New Evidence, Public Campaigns)",
+                    "effect": "Slightly increases probability, as Chiles\u2019 legal team has submitted video evidence from Netflix\u2019s 'Rising' docuseries and claimed conflict of interest on the CAS panel. While this increases scrutiny, Swiss courts are extremely conservative about overturning CAS on evidentiary grounds."
+                }
+            ],
+            "no_scenario": "The Swiss Federal Tribunal either dismisses the appeal as lacking merit, or finds no significant procedural violation, or finds that even if there was a minor error, it doesn\u2019t rise to the level justifying overturning an arbitral award. The CAS ruling stands, the medal stays with Barbosu, and all appeals are exhausted before Jan 1, 2026.",
+            "yes_scenario": "The Swiss Federal Tribunal determines that Chiles/USA Gymnastics were denied a fair hearing due to procedural irregularities (e.g., credible conflict of interest, failure to consider critical video evidence, or improper notification), annuls the CAS award, and remands the case to CAS for reconsideration. In an expedited process, CAS then reverses itself, or the IOC/FIG respond to mounting evidence and international pressure to restore the bronze to Chiles before Jan 1, 2026.",
+            "final_reasoning": "Base rates are overwhelmingly against any reversal: fewer than 1% of CAS awards are overturned by the Swiss Federal Supreme Court, and even fewer result in a final reversal of a medal allocation. The current dispute centers on a technical filing deadline, with USA Gymnastics presenting video evidence and alleging procedural bias. However, the Swiss court\u2019s remit is strictly limited to procedural violations, not to re-litigating the merits. There is no evidence as of today that the Tribunal is poised to act differently than in past cases, and the latest news (as of late November 2025) is that the decision is still pending, with no indication of imminent reversal. International sports governing bodies' preference for finality and the precedent of upholding CAS decisions are strong downward pressures. While the high-profile nature of the case, media advocacy, and allegations of racism introduce slightly more uncertainty, the best estimate\u2014using both base rates and the particulars of this case\u2014is that the probability of reversal before Jan 1, 2026, remains extremely low.",
+            "final_probability": 2
+        },
+        "International Sports Governance (World Anti Doping Code)": {
+            "time_to_resolution": "Just over 1 year (until January 1, 2026)",
+            "perspective_relevance": "As an expert in international sports governance and the World Anti-Doping Code, I am deeply familiar with the structure, authority, and historical decision patterns of the Court of Arbitration for Sport (CAS), as well as the procedural and legal limitations of appeals within the Olympic movement. This allows me to critically assess the likelihood of the CAS decision being overturned by the Swiss Federal Tribunal, including consideration of procedural grounds, conflict of interest claims, and the extremely low historical success rate of such appeals.",
+            "status_quo": "The status quo is that the bronze medal in the women's floor exercise at the 2024 Paris Olympics has been reallocated from the US's Jordan Chiles to Romania's Ana B\u01cerbosu, following a CAS decision which upheld a protest about the timing of the US inquiry. USA Gymnastics has appealed the CAS decision to the Swiss Federal Tribunal, which has not yet issued a decision.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Historical Base Rate of CAS Award Reversals",
+                    "effect": "Decreases probability. The rate of successful appeals to the Swiss Federal Tribunal overturning CAS awards is extremely low (0.3% of all CAS awards; about 1% of appeals succeed). This sets a strong baseline against reversal."
+                },
+                {
+                    "factor": "Nature of the Chiles Appeal (Procedural vs. Merits)",
+                    "effect": "Decreases probability. The Swiss Federal Tribunal only considers appeals on procedural grounds (e.g., lack of due process, arbitrator bias, jurisdictional issues), not on the merits of the sporting decision. Even if video evidence now exists, the Tribunal is generally not empowered to re-examine evidence or facts."
+                },
+                {
+                    "factor": "Allegations of Procedural Irregularity and Conflict of Interest",
+                    "effect": "Slightly increases probability. There are credible claims (per news reports) of a CAS arbitrator's conflict of interest and that Chiles was denied a fair hearing or that new evidence was not properly considered. These are among the few grounds that could prompt the Swiss Tribunal to annul a CAS decision. However, such claims must be extremely clear and egregious to succeed."
+                },
+                {
+                    "factor": "Public and Political Pressure / Media Attention",
+                    "effect": "Marginally increases probability. The case has received significant media attention (including claims of racism, international diplomatic involvement, and widespread debate in the gymnastics community). While the Swiss Tribunal is independent, public scrutiny can sometimes lead to greater care in examining procedural fairness, but historically it does not sway outcomes unless legal requirements are clearly unmet."
+                },
+                {
+                    "factor": "Current Timeline and Lack of Movement",
+                    "effect": "Decreases probability. Over a year has passed since the Olympics, and the Swiss Federal Tribunal has not yet ruled, suggesting either complexity or lack of urgency. As time passes, the chances of a dramatic reversal decrease, especially with the Olympics' interest shifting forward (e.g., LA 2028). There is also no evidence of interim decisions or signals favoring USAG in the news flow."
+                },
+                {
+                    "factor": "Precedent of Finality in Olympic Medal Reallocations",
+                    "effect": "Decreases probability. CAS and IOC decisions on medal reallocations are rarely reversed, except in clear-cut anti-doping cases with new evidence. This case is a technical procedural dispute over the timing of an inquiry, not a new doping revelation."
+                }
+            ],
+            "no_scenario": "The Swiss Federal Tribunal reviews the appeal from Jordan Chiles and USA Gymnastics, finds no sufficiently grave procedural error, conflict of interest, or violation of due process, and declines to overturn the CAS award. The medal remains with Ana B\u01cerbosu of Romania. The Tribunal may acknowledge public controversy but rules that the established procedures were followed according to Swiss law and CAS statutes. No further appeal is available, and the result stands past January 1, 2026.",
+            "yes_scenario": "The Swiss Federal Tribunal finds that the CAS decision was tainted by a significant procedural error (such as a proven conflict of interest on the panel or a clear refusal to consider material new evidence that would have changed the outcome), and annuls the CAS award. In this scenario, the case is remanded to CAS for reconsideration, which could (though not necessarily would) ultimately lead to restoring the bronze medal to Jordan Chiles. For the question to resolve Yes, the medal must be credibly reported as reallocated back to the US prior to January 1, 2026.",
+            "final_reasoning": "The baseline statistical probability of a successful appeal against a CAS award at the Swiss Federal Tribunal is extremely low (0.3\u20131%). The Chiles case, while garnering significant media and political attention and raising legitimate questions of procedural fairness and potential conflict of interest, presents no public evidence of such gross violations that would almost certainly trigger an annulment. The Tribunal\u2019s jurisdiction is narrow, and the passage of time without any indication of a favorable ruling further reduces the likelihood of a reversal before 2026. While the allegations are serious and public pressure is high, Swiss judicial precedent and the autonomy of sports arbitration suggest that overturning this decision is highly improbable absent overwhelming procedural misconduct. Given these factors, my well-calibrated probability is slightly above the absolute base rate, but still very low.",
+            "final_probability": 2
+        }
+    },
+    "deliberation_probability": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+    ],
+    "deliberation_mean_probability": 2.0,
+    "deliberation_sd": 0.0,
+    "deliberation_probability_result": 2
+}
