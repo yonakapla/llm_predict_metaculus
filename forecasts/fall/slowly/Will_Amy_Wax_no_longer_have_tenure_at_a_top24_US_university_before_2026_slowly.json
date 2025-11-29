@@ -1,0 +1,289 @@
+{
+    "deliberation_results": {
+        "UniversityAdministration (FacultyDisciplinaryProcedures)": {
+            "time_to_resolution": "Just over one month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in university administration and faculty disciplinary procedures, I have deep knowledge of how tenure revocation works at elite US universities, the legal and procedural protections for tenured faculty, and the recent political and cultural context surrounding high-profile academic freedom cases. I can interpret both the public reporting and the underlying administrative signals to assess the likelihood of Wax's tenure being fully revoked (i.e., not merely suspended or sanctioned) on the short timeline remaining.",
+            "status_quo": "Amy Wax remains tenured at the University of Pennsylvania Law School, although suspended from teaching and subject to significant sanctions (salary reduction, loss of named chair, etc.) as of late 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Sanctions already imposed but tenure not revoked",
+                    "effect": "Decreases the probability. The university has imposed severe penalties within the boundaries short of full tenure revocation, which suggests reluctance or inability to cross this final threshold absent new or escalated conduct."
+                },
+                {
+                    "factor": "Procedural and legal protections for tenured faculty at elite institutions",
+                    "effect": "Decreases the probability. Tenure removal at a top-24 university is extremely rare and generally reserved for egregious misconduct beyond controversial speech, requiring elaborate due process and faculty committee endorsements."
+                },
+                {
+                    "factor": "Timing and recent legal developments",
+                    "effect": "Decreases the probability. With only about a month left, Wax is suspended and fighting sanctions in court, but there is no public sign of an active process to remove tenure. Lawsuits and appeals are ongoing, but federal and state courts have not sided with Wax or triggered any reconsideration of university sanctions."
+                },
+                {
+                    "factor": "National political climate and similar cases",
+                    "effect": "Slightly increases the probability. There is intensified national scrutiny and activism around faculty speech, with some high-profile firings at less elite universities, and rare cases like Princeton's firing of Joshua Katz. However, Wax's case is more analogous to others who were severely sanctioned but not stripped of tenure."
+                },
+                {
+                    "factor": "University appetite for escalation",
+                    "effect": "Decreases the probability. Penn has settled for a high-profile suspension and salary cut, and appears to be managing risk by avoiding the precedent and backlash that tenure revocation would create, especially given legal uncertainties and the risk of setting a 'martyr' narrative."
+                }
+            ],
+            "no_scenario": "Amy Wax remains a tenured professor at Penn, but is suspended from teaching and receives reduced pay. She continues legal battles over the sanctions, but no additional disciplinary action is initiated or concluded before January 1, 2026. Her status is effectively frozen, with no movement toward full revocation of tenure or emeritus status.",
+            "yes_scenario": "UPenn, possibly in response to new revelations or external pressure, accelerates the process to revoke Wax's tenure. A faculty senate hearing is convened, procedures are completed, and the university announces the removal of her tenure before January 1, 2026. Alternatively, Wax resigns or is forced into retirement, loses emeritus status, or is dismissed for cause as a result of a new, extraordinary development.",
+            "final_reasoning": "The overwhelming base rate is that tenured faculty at top-24 US universities, even those under severe sanction for controversial or offensive speech, are almost never stripped of tenure except for criminal or extraordinary non-speech misconduct. The most recent news confirms that Wax is suspended, on reduced pay, and fighting the university in court over procedural and academic freedom claims. There is no evidence of a new or active process to revoke her tenure, and the university has already imposed the harshest penalties short of that. Given the short time remaining (barely a month), the complexity and slowness of such proceedings, and the lack of new allegations or procedural moves, the probability of tenure revocation before 2026 is extremely low\u2014likely far below 5%. I am setting the probability at 2%, accounting for a very small chance of a surprise escalation or resignation scenario.",
+            "final_probability": 2
+        },
+        "UniversityAdministration (AcademicPolicyCompliance)": {
+            "time_to_resolution": "About 1 month (question resolves January 1, 2026; today is November 29, 2025)",
+            "perspective_relevance": "As an expert in University Administration (Academic Policy Compliance), I am deeply familiar with the procedural and legal safeguards around tenure at elite universities, the standards required for revocation, the influence of external political pressures, and the recent climate in higher education around academic freedom and controversial speech. I also bring insight into the specific processes for faculty discipline and removal, and the precedent set by similar cases at peer institutions.",
+            "status_quo": "Amy Wax remains a tenured professor at the University of Pennsylvania Law School, though she is suspended for the 2025-26 academic year and has a permanent salary reduction. Her tenure has not been revoked.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "University of Pennsylvania's existing sanctions",
+                    "effect": "Decreases probability; the university imposed a one-year suspension, salary reduction, and removal from named chair, but stopped short of tenure revocation, suggesting reluctance for full removal."
+                },
+                {
+                    "factor": "Legal proceedings and Wax's lawsuits",
+                    "effect": "Decreases probability; Wax has lost her federal suit and is now pursuing a state-level contract/academic freedom case. These actions slow down university processes and make further action before January 1, 2026 unlikely."
+                },
+                {
+                    "factor": "University procedural requirements for tenure revocation",
+                    "effect": "Decreases probability; elite universities have lengthy, rigorous, and legally entangled processes for revoking tenure, including multiple hearings, faculty panels, and often board approval."
+                },
+                {
+                    "factor": "Recent precedents (e.g., Joshua Katz at Princeton)",
+                    "effect": "Slightly increases probability; Katz\u2019s firing shows revocation is possible for tenured faculty, especially if there is a finding of misconduct beyond controversial speech, but Wax\u2019s situation has thus far resulted in less severe sanctions."
+                },
+                {
+                    "factor": "Political and reputational pressure",
+                    "effect": "Slightly increases probability; ongoing criticism of Penn for being too lenient or too harsh may influence decisions, but recent news suggests the university is facing more legal and procedural pushback than pressure to escalate."
+                },
+                {
+                    "factor": "Time remaining before resolution (1 month)",
+                    "effect": "Strongly decreases probability; with only weeks left, and with Wax currently suspended and in litigation, it is logistically and procedurally improbable that new proceedings to fully revoke tenure could be completed in time."
+                }
+            ],
+            "no_scenario": "UPenn maintains its current sanctions (suspension, salary reduction, loss of named chair). Wax remains technically tenured but suspended, with her lawsuits ongoing. The university does not initiate or complete new proceedings for tenure revocation before January 2026, given the procedural and legal complexity and the cooling of public controversy. Wax is not offered emeritus status, nor does she voluntarily resign or accept a settlement that includes relinquishing tenure.",
+            "yes_scenario": "UPenn, under renewed internal or external pressure, accelerates proceedings and the Board of Trustees votes to revoke Wax's tenure. Alternatively, Wax settles litigation with Penn in a manner that includes relinquishing tenure, or is found to have committed additional, actionable misconduct triggering expedited dismissal. A board or court ruling, or a voluntary resignation (without emeritus status at a top-24 university), is announced publicly before January 1, 2026.",
+            "final_reasoning": "The base rate for tenured faculty removal at elite institutions is extremely low, especially for controversial speech rather than proven criminal or professional misconduct. In Amy Wax\u2019s case, the university has already imposed substantial sanctions short of revocation, and her federal lawsuit has been dismissed while her state-level litigation (procedural fairness and contract claims) is ongoing. The university will be legally cautious about further action until litigation is resolved or a clear-cut, egregious new violation occurs. The news as of late November 2025 confirms Wax\u2019s suspension and salary reduction, not tenure removal. The process for revoking tenure is complex and time-consuming; with only a month remaining, it is virtually impossible for Penn to complete all due process steps required to revoke tenure. No new information indicates imminent board action or settlement that would vacate her tenure. Therefore, the probability that Amy Wax will no longer have tenure at a top-24 US university before 2026 is extremely low, just above zero, accounting for remote possibilities such as a surprise settlement or resignation.",
+            "final_probability": 2
+        },
+        "USLegalPractice (EmploymentLawStandards)": {
+            "time_to_resolution": "Approximately 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in USLegalPractice (EmploymentLawStandards), I bring a detailed understanding of the legal and procedural barriers to revoking tenure at a major US university, the standards of academic freedom, due process requirements, university governance, and recent legal precedents. This expertise is particularly relevant for assessing Amy Wax's ongoing employment status amid disciplinary actions and litigation.",
+            "status_quo": "Amy Wax continues to hold tenure (though suspended and with reduced pay) at the University of Pennsylvania Law School, a top-24 US university, as of November 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Procedural and Legal Barriers to Revoking Tenure",
+                    "effect": "Decreases probability. Removing tenure, especially at elite institutions, requires exhaustive internal procedures, a high evidentiary standard, and is subject to legal challenge. Recent events indicate Penn has imposed lesser sanctions (suspension, pay reduction) rather than full revocation."
+                },
+                {
+                    "factor": "Recent Sanctions and Litigation Outcomes",
+                    "effect": "Decreases probability. The latest sanctions against Wax are severe (one-year suspension, permanent salary reduction, removal of named chair), but stop short of tenure revocation. Her federal discrimination lawsuit was dismissed, and her current state lawsuit targets procedural fairness and contract breach, not outright reinstatement or tenure defense."
+                },
+                {
+                    "factor": "University and Public Pressure",
+                    "effect": "Marginally increases probability. There has been sustained, high-profile pressure (from faculty, students, and external groups) to remove Wax, but this has not yet translated into a successful tenure revocation. Recent precedent (e.g., Joshua Katz at Princeton) shows that such actions are possible under extreme circumstances, but typically involve additional misconduct (e.g., sexual harassment)."
+                },
+                {
+                    "factor": "Academic Freedom and First Amendment Considerations",
+                    "effect": "Decreases probability. Even in a climate of increased scrutiny of faculty speech, academic freedom protections at elite universities remain robust, especially for tenured faculty. The current sanctions, while harsh, suggest the university is wary of overstepping and triggering further legal or reputational blowback."
+                },
+                {
+                    "factor": "Timing and Process Constraints",
+                    "effect": "Strongly decreases probability. With little more than a month remaining before the resolution date, and with ongoing/appealed litigation and no reports of new major disciplinary proceedings, it is procedurally unlikely that full tenure revocation and all appeals would be completed in time."
+                }
+            ],
+            "no_scenario": "Wax remains suspended from teaching and receives half her salary, but retains her tenured position at Penn Law through at least January 1, 2026. Her lawsuits continue without immediate impact on her status, and no new disciplinary process for tenure revocation is initiated or completed before the resolution date.",
+            "yes_scenario": "Penn initiates and completes an expedited process resulting in Wax's tenure being revoked and her removal as a tenured or emeritus professor before January 1, 2026, with all necessary approvals and appeals exhausted (or no appeal taken), or she resigns/accepts a settlement that includes relinquishing tenure at any top-24 US university.",
+            "final_reasoning": "The weight of evidence, including the most recent news, indicates that Penn has opted for severe but non-terminal sanctions: a one-year suspension, permanent pay reduction, and removal of her named chair. Wax remains a tenured faculty member as of late November 2025. Her legal challenges to these sanctions (on procedural and contractual grounds) are ongoing but have not produced a court order restoring her privileges or voiding the sanctions, nor has any new lawsuit or disciplinary process been announced that targets her tenure per se. The time remaining before January 1, 2026, is very short for the university to launch and complete a new, more severe disciplinary process, especially given the due process and legal appeal requirements for tenured faculty. While political and campus pressures are real and recent precedents (Katz at Princeton) show that tenure revocation is not impossible, these cases either involved additional forms of misconduct or took much longer to resolve. Given the procedural realities, recent legal setbacks for Wax, and the university's apparent choice to stop short of tenure revocation, the base rate for successful tenure revocation under these circumstances is extremely low, especially with less than five weeks remaining.",
+            "final_probability": 3
+        },
+        "Law (AcademicFreedomDoctrine)": {
+            "time_to_resolution": "Approximately 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in the law of academic freedom and tenure, I bring a deep understanding of the unique legal, contractual, and institutional protections afforded to tenured faculty at elite US universities. I am attuned to the evolving landscape of academic freedom, the intersection of procedural requirements, and the political and social pressures influencing university disciplinary actions.",
+            "status_quo": "Amy Wax remains a tenured professor at the University of Pennsylvania Law School, a top-24 US university, albeit currently suspended for the 2025\u201326 academic year and with a significant salary reduction. She has not been stripped of tenure or emeritus status.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Precedent and procedural protections for tenure removal",
+                    "effect": "Decreases probability. Removing tenure from a tenured professor at a top-tier university is extremely rare and requires a lengthy, multi-level process with robust procedural protections. Recent disciplinary actions have resulted in suspensions, pay reductions, or removal from specific teaching duties, but outright revocation of tenure remains exceptional."
+                },
+                {
+                    "factor": "Current disciplinary sanctions and legal proceedings",
+                    "effect": "Decreases probability. Amy Wax has already been sanctioned by a lengthy process, resulting in a suspension and pay cut. Recent news indicates ongoing legal battles, but not imminent tenure revocation. Her lawsuits against Penn focus on breach of contract and academic freedom, while her previous federal discrimination claim was dismissed. The university appears to have imposed what it considers the maximum defensible punishment short of tenure removal."
+                },
+                {
+                    "factor": "Institutional and reputational risk calculus",
+                    "effect": "Decreases probability. Penn has already weathered significant negative publicity and legal risk from Wax\u2019s case. Revoking her tenure outright risks protracted legal battles, further negative attention, and possible defeat in court, especially given the academic freedom and contract issues."
+                },
+                {
+                    "factor": "National climate on academic freedom and tenure",
+                    "effect": "Slightly increases probability. There is growing political pressure on universities to act against controversial speech, as seen in other recent high-profile tenure terminations (e.g., Joshua Katz at Princeton, Tom Alter at Texas State). However, these cases often involve additional factors (e.g., alleged misconduct beyond speech), and Penn\u2019s faculty panel already found a \u201cmajor infraction\u201d and imposed lesser\u2014but still substantial\u2014penalties."
+                },
+                {
+                    "factor": "Time left for resolution",
+                    "effect": "Decreases probability. With only about one month left, it is highly unlikely that Penn would initiate, conduct, and finalize the highly complex and procedurally demanding process to revoke tenure within this window\u2014especially while Wax\u2019s contractual and disciplinary appeals are ongoing in court."
+                },
+                {
+                    "factor": "Wax\u2019s current legal and procedural posture",
+                    "effect": "Decreases probability. Wax is actively litigating to challenge sanctions; this legal posture generally slows or forestalls further discipline until appeals are resolved, unless new, egregious conduct emerges."
+                }
+            ],
+            "no_scenario": "Amy Wax remains formally tenured at Penn as of January 1, 2026, possibly still suspended and on reduced pay, with ongoing litigation between her and the university. No public statement is made that she has lost tenure or emeritus status.",
+            "yes_scenario": "Penn, in response to new pressure or new conduct, accelerates a removal process, and the university\u2019s trustees formally revoke Amy Wax\u2019s tenure (and/or deny her emeritus status) before January 1, 2026, with public documentation to that effect. Alternatively, Wax voluntarily resigns or accepts a settlement that includes relinquishing tenure during this period.",
+            "final_reasoning": "The available evidence and recent reporting indicate that Amy Wax is currently suspended, has had her pay cut, and has lost her named chair, but crucially, retains tenure at Penn. The university has already imposed major sanctions following extensive procedures and a faculty panel finding but stopped short of tenure revocation. Despite ongoing national debates about academic freedom and recent terminations elsewhere, the procedural and legal barriers to removing tenure remain formidable, especially at elite private universities, and there is no sign in the news or legal filings that such a process is underway or imminent for Wax. With roughly 1 month left before the January 1, 2026 deadline and Wax\u2019s own legal challenges ongoing, the probability of tenure revocation before this date is very low. Therefore, the status quo is likely to persist through the resolution period.",
+            "final_probability": 2
+        },
+        "Law (DueProcessPrinciple)": {
+            "time_to_resolution": "Approximately 1 month (resolves January 1, 2026; today is November 29, 2025)",
+            "perspective_relevance": "As an expert in Law, specifically the Due Process Principle, I am uniquely positioned to analyze the procedural and substantive legal barriers to removing tenure from a university professor at a top institution. Tenure is designed to protect academic freedom and requires rigorous procedural safeguards for removal, including clear evidence of misconduct, adherence to university policies, and often the exhaustion of extensive appeals and litigation.",
+            "status_quo": "Amy Wax retains tenure at the University of Pennsylvania Law School (a top-24 US university). She is currently suspended for the 2025-26 academic year and has had her salary reduced and her named chair revoked, but she remains a tenured professor.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Procedural protections of tenure and due process",
+                    "effect": "Strongly decreases probability; removal of tenure is a lengthy, multi-layered process with significant legal and contractual barriers, often involving appeals, litigation, and faculty review. Wax is actively litigating sanctions rather than facing imminent termination."
+                },
+                {
+                    "factor": "Precedent and base rates for tenured faculty dismissal at elite universities",
+                    "effect": "Decreases probability; dismissals are rare and typically involve egregious, well-documented misconduct (often criminal or involving severe harassment), not controversial or offensive speech alone. Recent high-profile cases (e.g., Joshua Katz at Princeton) still required years of process and additional findings beyond speech."
+                },
+                {
+                    "factor": "Current status of Wax's legal battles and university actions",
+                    "effect": "Decreases probability; recent news confirms Wax has been suspended and sanctioned, but not stripped of tenure. Her federal lawsuit was dismissed, but she has already filed a new state-level suit, indicating ongoing litigation and procedural delay. She is still receiving (partial) salary, and there is no report of final tenure revocation."
+                },
+                {
+                    "factor": "Political and reputational climate regarding academic freedom and controversial speech",
+                    "effect": "Slightly increases probability; there is heightened willingness among some university administrations to pursue harsh sanctions for controversial speech, especially around race and diversity. However, backlash and fear of lawsuits, along with procedural norms, tend to slow or soften ultimate penalties."
+                },
+                {
+                    "factor": "Timeline constraints",
+                    "effect": "Strongly decreases probability; with only about a month left, the likelihood that all university processes, appeals, and any pending litigation resolve in time to officially remove tenure is extremely low."
+                }
+            ],
+            "no_scenario": "Wax remains a suspended tenured professor at Penn. She does not teach during her suspension, continues to litigate, and the university does not complete the process of revoking her tenure or shifting her to emeritus status before January 1, 2026. Legal and procedural delays, plus her ongoing lawsuits, ensure she retains her tenured status at resolution.",
+            "yes_scenario": "Penn accelerates the tenure revocation process, perhaps in response to new findings, public pressure, or a settlement. The university's internal appeals conclude, and the Board of Trustees votes to terminate her tenure and does not grant emeritus status, all before January 1, 2026. Wax either loses a final appeal or withdraws, and the decision is publicized or otherwise confirmed.",
+            "final_reasoning": "The base rate for termination of tenure at elite universities, especially on the basis of speech, is extremely low and involves protracted due process. The most recent and relevant news confirms that Wax is suspended and sanctioned, but not terminated or stripped of tenure. She is actively pursuing further litigation, which by its nature delays any ultimate employment action. The university has already imposed the maximal sanctions short of revoking tenure, but appears to have stopped short of full dismissal, likely due to legal and reputational risk. With less than a month remaining and no public indication that a final tenure review or Board vote is imminent, it is overwhelmingly likely that Wax will retain her tenure at Penn through the resolution date. The only plausible Yes scenario would be an unexpected, rapid administrative or legal development, but the procedural history and timelines make this extremely improbable.",
+            "final_probability": 2
+        },
+        "HigherEducationStudies (TenureReviewProcess)": {
+            "time_to_resolution": "Just over one month (question closes January 1, 2026; today is November 29, 2025)",
+            "perspective_relevance": "As an expert in Higher Education Studies, particularly the tenure review process, I can analyze Amy Wax's situation with an understanding of academic employment law, the mechanics and politics of tenure revocation at elite institutions, the academic freedom landscape, and the precedents and risks involved for universities when disciplining or terminating tenured faculty. This perspective is crucial for distinguishing between punitive actions short of tenure revocation and the much rarer, more extreme outcome of actual tenure loss.",
+            "status_quo": "Amy Wax remains a tenured professor at the University of Pennsylvania Law School, albeit suspended and with reduced pay and prestige. She has faced multiple disciplinary actions but retains tenure.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Historical Rarity of Tenure Revocation at Top-24 Universities",
+                    "effect": "Strongly decreases probability. Revoking tenure is extremely rare in elite US academia, especially for speech-related cases, due to strong norms, legal risks, and academic freedom principles."
+                },
+                {
+                    "factor": "Severity and Publicity of Amy Wax's Conduct",
+                    "effect": "Somewhat increases probability. Wax's repeated controversial statements and the public spotlight increase institutional pressure, but do not by themselves typically result in tenure removal."
+                },
+                {
+                    "factor": "University of Pennsylvania's Disciplinary Actions to Date",
+                    "effect": "Decreases probability. UPenn has imposed major sanctions\u2014suspension, pay cut, chair removal\u2014but has stopped short of tenure revocation, suggesting a preference for non-terminal discipline."
+                },
+                {
+                    "factor": "Legal Challenges and Faculty Due Process",
+                    "effect": "Decreases probability. Wax is actively litigating against Penn, and courts have so far dismissed her lawsuits but have not required the university to escalate to tenure revocation. The due process involved makes tenure revocation slow and risky."
+                },
+                {
+                    "factor": "External Political Pressures/Climate",
+                    "effect": "Mixed effect. While the current climate has seen more attacks on academic freedom (especially in public universities and red states), Ivy League/private institutions have tended to resist full tenure revocation, especially under scrutiny."
+                },
+                {
+                    "factor": "Recent Precedents (e.g., Joshua Katz at Princeton)",
+                    "effect": "Slightly increases probability. Katz's firing shows that even elite schools may remove tenured faculty, but only with non-speech-related justifications (e.g., prior misconduct). Wax's case is different, as her alleged 'infractions' are largely speech-based."
+                },
+                {
+                    "factor": "Time Remaining",
+                    "effect": "Decreases probability. With about one month left, the window for Penn to complete a tenure revocation process is extremely small, given necessary faculty reviews, appeals, and possible legal delays."
+                },
+                {
+                    "factor": "Current Status and Recent Lawsuits",
+                    "effect": "Decreases probability. As of November 2025, Wax is already suspended and has filed a new lawsuit over procedural issues. No evidence suggests a pending or imminent tenure revocation trial; the university's chosen sanctions appear to be final for now."
+                }
+            ],
+            "no_scenario": "UPenn maintains Amy Wax's suspension and salary reduction as ongoing sanctions. Her lawsuits continue, but no further action is taken before January 1, 2026. She remains technically tenured\u2014albeit marginalized and barred from teaching.",
+            "yes_scenario": "A new, rapid disciplinary process is launched and completed before January 1, 2026, resulting in Wax's formal loss of tenure and/or emeritus status, either through a new infraction or as a result of a court ruling or faculty vote. Alternatively, Wax resigns or retires under pressure and is not granted emeritus status, but this would require a highly accelerated process.",
+            "final_reasoning": "The base rate for tenure revocation at top-24 US universities, especially for cases centered on controversial speech, is extremely low. The Wax case has seen escalating sanctions, but all recent news points to ongoing legal back-and-forth and no imminent tenure revocation. Her lawsuits focus on contractual and procedural claims, not on reinstatement or loss of tenure, and the university has chosen strong but non-terminal discipline. The time window is now extremely tight, and no news indicates a pending tenure trial or vote. Precedent (Katz at Princeton) was grounded in non-speech-related misconduct, which is not paralleled here. In summary, with just over a month left and current information indicating suspension but not tenure loss, the probability of Wax losing tenure before January 1, 2026, is very low\u2014barring an extraordinary, unprecedented acceleration of the process.",
+            "final_probability": 3
+        },
+        "HigherEducationStudies (SharedGovernanceModel)": {
+            "time_to_resolution": "Just over one month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Higher Education Studies and the Shared Governance Model, my expertise is directly relevant to the question of whether Amy Wax will lose tenure at a top-24 US university. I have a deep understanding of how tenure processes work, the rarity of tenured dismissals, procedural protections, and the current climate around academic freedom and controversial speech. I am able to analyze not only the legal and procedural hurdles but also the broader institutional and political factors that impact tenure revocation at elite universities.",
+            "status_quo": "Amy Wax, as of late November 2025, remains a tenured professor at the University of Pennsylvania Law School (a top-24 US university), though she is currently suspended for the 2025\u201326 academic year and on half pay. She has been sanctioned but not stripped of tenure or her position.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Procedural and Legal Barriers to Revoking Tenure",
+                    "effect": "Strongly decreases probability. Revocation of tenure at elite institutions is extremely rare and requires a lengthy, careful process with multiple opportunities for appeal, due process, and faculty involvement. Even in high-profile, controversial cases, outright firing is exceptional."
+                },
+                {
+                    "factor": "Recent Sanctions and Lawsuits",
+                    "effect": "Decreases probability. Latest news shows Wax has been sanctioned (suspension, salary cut, loss of chair) but not fired. Her lawsuits challenging these sanctions have thus far failed, and none of the university's actions have included or signaled intent to revoke tenure before January 1, 2026."
+                },
+                {
+                    "factor": "Political and Public Pressure",
+                    "effect": "Slightly increases probability. While there is public and internal pressure both to remove and to protect Wax, the current environment is one of heightened scrutiny toward academic freedom, but with significant pushback against outright dismissals for controversial speech after high-profile cases (e.g., Joshua Katz at Princeton)."
+                },
+                {
+                    "factor": "Shared Governance and Faculty Involvement",
+                    "effect": "Decreases probability. The shared governance model means that any move to revoke tenure would require substantial faculty involvement and consensus, which is difficult to achieve, especially on free speech grounds. Past cases show faculties are often reluctant to set a precedent for firing over speech alone."
+                },
+                {
+                    "factor": "Timing and Administrative Momentum",
+                    "effect": "Strongly decreases probability. With just over a month remaining, and no indication of a new, escalated process to strip tenure (beyond existing sanctions), it is highly unlikely Penn could initiate and complete the necessary steps before January 1, 2026."
+                }
+            ],
+            "no_scenario": "Amy Wax remains suspended, under sanction, and continues to litigate against Penn. The university does not initiate or finalize a new process to revoke her tenure before January 1, 2026, either due to procedural delays, faculty resistance, or risk aversion. She remains a tenured professor, albeit with reduced duties and pay.",
+            "yes_scenario": "A rapid escalation occurs: Penn initiates an emergency process to strip Wax of tenure, perhaps in response to a new, egregious incident, and faculty panels, administrators, and trustees all act with unprecedented speed to complete the process before the deadline. Alternatively, Wax could resign under pressure (not currently indicated), or a legal or contractual technicality results in her losing tenure status.",
+            "final_reasoning": "Given the extremely short time frame remaining, the procedural and legal barriers to stripping tenure, and the current status of Wax's case (sanctions but not termination), it is highly improbable that Amy Wax will lose tenure at Penn or any other top-24 US university before January 1, 2026. The university's actions have stopped short of firing her, even after years of controversy, and recent lawsuits have focused on sanctions, not termination. The climate around academic freedom, the shared governance model with strong faculty involvement, and the slow pace of such proceedings all point to the status quo holding through the resolution date. There is no evidence of a new or imminent tenure revocation process underway, and the only plausible 'Yes' scenario would require an unprecedented, highly accelerated administrative process, which is not supported by the news or historical base rates. Therefore, the probability that Amy Wax will no longer have tenure at a top-24 US university before 2026 is extremely low.",
+            "final_probability": 3
+        },
+        "OrganizationalBehavior (InstitutionalIsomorphism)": {
+            "time_to_resolution": "Approximately 1 month (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Organizational Behavior, particularly institutional isomorphism, I bring a perspective grounded in how elite universities mimic each other's structures and responses to reputational threats, especially regarding controversial faculty. This lens helps assess the likelihood of a university terminating tenure for a high-profile, polarizing professor like Amy Wax, given broader sectoral dynamics and the inertia or mimicry in policy action among top-tier institutions.",
+            "status_quo": "Amy Wax remains a tenured professor at the University of Pennsylvania Law School (a top-24 US university), albeit suspended for the 2025\u201326 academic year, with salary reduction and loss of her named chair. No evidence suggests termination of tenure or emeritus status as of now.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Institutional Isomorphism and Precedent",
+                    "effect": "Decreases probability. Elite universities tend to follow peer institutions\u2019 norms on academic freedom and tenure protections, especially after the backlash to the Princeton/Katz and other high-profile free speech/tenure cases. There have been strong sectoral signals against outright dismissal for protected speech, even when controversial."
+                },
+                {
+                    "factor": "Procedural Safeguards and Litigation",
+                    "effect": "Decreases probability. Wax has demonstrated aggressive legal recourse, and the university has shown caution, imposing major sanctions short of tenure revocation. Recent court dismissals of her discrimination suit and her new contractual claim illustrate a slow, litigation-heavy process unlikely to resolve with tenure loss in the next month."
+                },
+                {
+                    "factor": "Recent Sanctions and Current Status",
+                    "effect": "Decreases probability. The university already imposed a year-long suspension, salary reduction, and revocation of her named chair, representing severe but not terminal sanctions. No evidence from the news suggests further escalation to tenure revocation is imminent, and such escalation would require another lengthy process."
+                },
+                {
+                    "factor": "Sectoral Backlash to Tenure Revocations",
+                    "effect": "Decreases probability. Recent firings elsewhere (Texas State, Millsaps) led to significant backlash from faculty, national organizations, and donors, generating risk aversion among university leaders at elite institutions concerned about reputation, donor relations, and academic freedom optics."
+                },
+                {
+                    "factor": "UPenn's Organizational Incentives",
+                    "effect": "Decreases probability. UPenn faces external pressure but also balance-sheet and reputational incentives to avoid a precedent-setting, high-profile firing, especially given attention from both conservative and academic freedom groups."
+                },
+                {
+                    "factor": "Political and Social Pressure",
+                    "effect": "Slightly increases probability. There is nontrivial pressure from students, faculty, and external activists to escalate sanctions, but this is balanced by countervailing legal risk and sectoral norms."
+                }
+            ],
+            "no_scenario": "Amy Wax remains suspended for the 2025\u201326 academic year, receives half pay, and is not teaching, but retains her tenured status at UPenn (or is not granted emeritus status if she retires). Ongoing lawsuits continue into 2026, and no formal action is initiated or completed to revoke her tenure within the resolution window.",
+            "yes_scenario": "UPenn initiates and completes a formal process to revoke Wax\u2019s tenure and/or denies her emeritus status before January 1, 2026 (e.g., through an accelerated disciplinary or trustee action), and this action is publicly confirmed. This would likely require a sudden, decisive move, possibly in response to new, highly damaging revelations or an institutional crisis.",
+            "final_reasoning": "Applying the lens of institutional isomorphism, elite universities like UPenn generally avoid setting new, controversial precedents on tenure revocation unless forced by extreme circumstances, especially after observing backlash in similar cases (e.g., Katz at Princeton, recent firings for political speech). The most recent news confirms Wax is suspended and suing over procedural/process issues, but there is no sign that UPenn has moved to strip her of tenure. The process for such an action is slow, legally fraught, and would likely extend well beyond the one-month window remaining before the resolution date. The university has already imposed the maximum punishment short of tenure loss, and with the courts dismissing her federal claim and the new state lawsuit just filed, the status quo is likely to hold. No news indicates imminent action that would remove her tenure, and sectoral trends suggest further caution. Base rates for involuntary tenure revocation at top-24 universities for protected speech remain extremely low. Thus, the probability of a Yes outcome before January 1, 2026, is very low.",
+            "final_probability": 3
+        }
+    },
+    "deliberation_probability": [
+        2,
+        2,
+        3,
+        2,
+        2,
+        3,
+        3,
+        3
+    ],
+    "deliberation_mean_probability": 2.5,
+    "deliberation_sd": 0.5345224838248488,
+    "deliberation_probability_result": 2
+}
