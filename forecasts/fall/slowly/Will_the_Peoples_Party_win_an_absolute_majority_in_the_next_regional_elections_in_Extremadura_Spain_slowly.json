@@ -1,0 +1,281 @@
+{
+    "deliberation_results": {
+        "Election Forecasting (Polling Aggregation Models)": {
+            "time_to_resolution": "20 days until December 21, 2025",
+            "perspective_relevance": "As an expert in election forecasting with a focus on polling aggregation models, my perspective is highly relevant here. My expertise allows me to systematically evaluate polling data, historical election trends, seat allocation mechanics, uncertainty margins, and base rates to assess the likelihood of the PP winning an absolute majority (33/65 seats) in Extremadura. I can also factor in polling error, vote-to-seat translation, and the impact of undecided voters, all of which are crucial in a multi-party proportional representation system like Spain\u2019s.",
+            "status_quo": "In the 2023 Extremadura elections, the PP won 28 seats, tied with the PSOE. The PP governed with Vox support, but the coalition later collapsed. Historically, no party has recently secured an outright majority; coalitions have been necessary.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Polling Aggregates",
+                    "effect": "Strongly decreases probability. All major polls (CIS, SyM, Electoman\u00eda) project the PP at 25\u201330 seats, consistently below the 33-seat threshold for an absolute majority, even at the top end of ranges."
+                },
+                {
+                    "factor": "Seat Allocation Mechanics & Thresholds",
+                    "effect": "Decreases probability. The PR system in Extremadura makes it difficult for a single party to win a majority without a vote share well above 40\u201342%, especially in a fragmented environment with at least four parties likely to enter the Assembly."
+                },
+                {
+                    "factor": "Undecided Voters and Late Swings",
+                    "effect": "Slightly increases probability. With roughly 16% of voters undecided (per CIS), there\u2019s some room for late movement. However, historical patterns show such movement rarely delivers the 3\u20135 seat swing the PP would need."
+                },
+                {
+                    "factor": "Historical Base Rate",
+                    "effect": "Strongly decreases probability. In the past two decades, neither major party has achieved an outright majority in Extremadura; coalitions or minority governments have been the norm."
+                },
+                {
+                    "factor": "Current Political Dynamics",
+                    "effect": "Slightly increases probability. The PSOE is weakened by scandal and leadership issues, which could theoretically boost PP turnout or prompt tactical voting. However, Vox is also rising, likely splitting the right-wing vote and limiting PP's ceiling."
+                },
+                {
+                    "factor": "Pollster Performance and Bias",
+                    "effect": "Slightly increases uncertainty, but overall decreases probability. CIS slightly underestimated PP in 2023 (forecast 26, actual 28), but even correcting for this, the projected range does not approach 33. SyM and Electoman\u00eda are in line with this assessment."
+                },
+                {
+                    "factor": "Vote-to-Seat Conversion Volatility",
+                    "effect": "Marginally increases uncertainty. Overperformance in certain provinces could deliver an extra seat or two, but for the PP to reach 33, it would need an unusual, concentrated overperformance in both Badajoz and C\u00e1ceres, not supported by available polling."
+                }
+            ],
+            "no_scenario": "Polling holds, and even if the PP slightly overperforms, it ends up with 29\u201331 seats. Vox and Unidas por Extremadura maintain their projected gains, essentially capping the PP\u2019s seat count. The PP will need Vox or PSOE abstention to govern, but does not achieve an outright majority.",
+            "yes_scenario": "There is a significant late swing among undecided voters, concentrated almost entirely in favor of the PP, perhaps due to a last-minute scandal or major campaign event. Small parties underperform and fail to clear thresholds in one province, allowing the PP to pick up extra seats due to vote wastage. The PP thus ekes out 33 or more seats, an outcome not currently indicated by polling.",
+            "final_reasoning": "All reliable polling models forecast the PP well short of the 33-seat absolute majority, with both public and private polls converging around 29\u201330 seats as a maximum. The distribution of undecided voters and the dynamics of seat allocation in a fragmented proportional system make a late surge to 33 seats highly improbable. The base rate for outright majorities is close to zero in recent Extremadura history. While the PSOE is unusually weak and the electorate is somewhat volatile, the simultaneous rise of Vox limits the PP\u2019s ability to consolidate the right-wing vote. Factoring in polling error margins and a small possibility of significant late movement, a very small probability for an upset is warranted, but the outcome remains overwhelmingly likely to be 'No.' Therefore, the probability that the PP wins an absolute majority is extremely low\u2014well below 5%.",
+            "final_probability": 2
+        },
+        "Election Forecasting (Fundamentals based Models)": {
+            "time_to_resolution": "Approximately 20 days until the scheduled election on December 21, 2025.",
+            "perspective_relevance": "As an expert in fundamentals-based election forecasting, my approach emphasizes structural factors\u2014such as historical seat distributions, the electoral system, party organization, demographic trends, and national political context\u2014over short-term polling fluctuations. This perspective is especially relevant in Spanish regional elections, where polling can be noisy and coalition dynamics often matter. I use base rates to anchor expectations and adjust probabilities only when fundamentals or high-quality, consistent polling data suggest a break from the status quo.",
+            "status_quo": "In the 2023 Extremadura elections, the PP won 28 seats, tied with the PSOE, and required Vox's support to form a government. No party has held an absolute majority in recent decades; coalition or minority governments are typical. The status quo is thus a PP lead, but no single-party majority.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base rate of absolute majorities for PP in Extremadura",
+                    "effect": "Decreases probability. The PP has never achieved an absolute majority in Extremadura, and such outcomes are rare in other Spanish regions with proportional representation and multiparty competition."
+                },
+                {
+                    "factor": "Recent polling seat projections",
+                    "effect": "Decreases probability. All reputable polls (CIS, SyM, Electoman\u00eda) project the PP at 25\u201330 seats, well short of the 33-seat majority, even with high vote shares (41\u201342%)."
+                },
+                {
+                    "factor": "Electoral system (D'Hondt, 65 seats, two provinces)",
+                    "effect": "Decreases probability. The proportional system with two constituencies makes it difficult for a single party to dominate unless there is a landslide; vote fragmentation and barriers benefit mid-sized parties like Vox and Unidas por Extremadura."
+                },
+                {
+                    "factor": "Collapse of PP-Vox coalition and right-wing fragmentation",
+                    "effect": "Decreases probability. The breakdown of the previous coalition and a stronger Vox (projected to double seats) splits the right-wing vote and limits PP's seat gains."
+                },
+                {
+                    "factor": "PSOE candidate's legal troubles",
+                    "effect": "Slightly increases probability. Scandal and legal investigation into Gallardo may suppress PSOE turnout or shift some voters to the PP, but not at a scale to produce a landslide."
+                },
+                {
+                    "factor": "National political climate and government fatigue",
+                    "effect": "Marginal. While the national PSOE government faces headwinds, and there is appetite for change, regional dynamics and party identification remain strong, limiting the swing."
+                },
+                {
+                    "factor": "Undecided voters (16% in latest CIS poll)",
+                    "effect": "Marginally increases uncertainty, but historical undecided behavior in Spain typically breaks along existing partisan lines rather than massively toward one party."
+                },
+                {
+                    "factor": "Polling error and late swing possibilities",
+                    "effect": "Slightly increases probability. Polls in 2023 underestimated the PP by 2 seats. A similar or larger polling miss, or a late rally, could theoretically push the PP close to 33, but would require an unprecedented swing."
+                }
+            ],
+            "no_scenario": "PP wins plurality with 29\u201331 seats but falls short of 33; Vox secures 8\u201312 seats, PSOE declines but remains competitive, Unidas por Extremadura holds or modestly improves. Guardiola must negotiate with Vox (or others) for investiture, and PP governs with external support or coalition.",
+            "yes_scenario": "Polling error underestimates PP support; late shift from undecided or moderate PSOE voters occurs due to PSOE scandal or effective PP campaign. Vox loses momentum, failing to gain as many seats as projected, allowing PP to capture additional seats in both provinces\u2014reaching or just exceeding 33 seats for an outright majority.",
+            "final_reasoning": "All structural and polling indicators suggest the PP will increase its seat share but remain several seats short of an absolute majority. Polls are remarkably consistent, with none projecting even the upper bound (30) close to the required 33. The D'Hondt system and the rise of Vox ensure vote fragmentation, and the base rate for absolute majorities in Extremadura under PR is near zero. While there is some room for polling error, the magnitude required for a PP majority would be historically unprecedented. The only plausible path to a Yes outcome is a last-minute collapse of Vox (not indicated in current data) and an unusually large late swing to the PP. Given these fundamentals, the probability of a PP absolute majority is very low, though not zero, as late dynamics and polling error always introduce some uncertainty.",
+            "final_probability": 3
+        },
+        "Statistical Analysis (Time Series Electoral Modeling)": {
+            "time_to_resolution": "20 days",
+            "perspective_relevance": "As an expert in statistical analysis and time series electoral modeling, I bring a data-driven, probabilistic approach anchored in historical electoral patterns, poll aggregation, and turnout modeling. My expertise allows for rigorous assessment of polling error, vote-seat translation in the D'Hondt system, and the impact of campaign volatility and undecided voters. I can also contextualize Extremadura-specific trends within wider Spanish regional election cycles and base rates for absolute majorities.",
+            "status_quo": "In the 2023 Extremadura elections, the People's Party (PP) won 28 seats out of 65, tied with PSOE, and formed a government with Vox's support. The absolute majority threshold (33 seats) was not reached by any party.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent Pre-Election Polls",
+                    "effect": "Strongly decreases probability. All major polls (CIS, SyM, Electoman\u00eda) put the PP at 25-30 seats, well short of the 33-seat majority. No poll shows a plausible path to 33+ seats for the PP."
+                },
+                {
+                    "factor": "Undecided Voters and Late Swing",
+                    "effect": "Slightly increases uncertainty. With 16% of voters undecided (CIS), late swings could occur, but historically in Spain, such swings rarely exceed 2-3 seat shifts at the regional level barring major events."
+                },
+                {
+                    "factor": "Polling Error and Systematic Bias",
+                    "effect": "Marginally increases probability. CIS historically underestimated the PP by 1-2 seats in 2023. Aggregating polling error distributions, the upper bound for PP is likely 31-32 seats, still below 33."
+                },
+                {
+                    "factor": "Vote-Seat Translation (D'Hondt Law)",
+                    "effect": "Slightly decreases probability. The D'Hondt method in Extremadura's districts tends to favor larger parties, but with Vox and Unidas gaining, vote fragmentation reduces the seat bonus to the PP."
+                },
+                {
+                    "factor": "PSOE Weakness (Candidate under investigation)",
+                    "effect": "Slightly increases probability. PSOE's candidate legal troubles may depress their vote, but not enough\u2014per polls\u2014to shift 3-4 extra seats to PP."
+                },
+                {
+                    "factor": "Historical Base Rate for Absolute Majorities",
+                    "effect": "Strongly decreases probability. In recent cycles, no party has reached an absolute majority in Extremadura; coalitions or minority governments have been the norm."
+                },
+                {
+                    "factor": "Campaign Dynamics and Local Events",
+                    "effect": "Neutral to slightly decreasing. No evidence yet of seismic campaign events that could produce a late surge."
+                }
+            ],
+            "no_scenario": "The PP improves on its 2023 result, winning 28-30 seats, but falls short of the 33 needed. Vox and Unidas por Extremadura increase their representation, and the PSOE declines but does not collapse completely. The PP remains the largest party but requires Vox's support or abstention from others to govern, failing to secure an absolute majority.",
+            "yes_scenario": "A dramatic late swing occurs: the undecided vote breaks overwhelmingly for the PP due to a last-minute scandal for the PSOE, or a polling miss of unprecedented scale occurs (3+ seat underestimation of PP). PSOE voters abstain at historically high rates, and Vox's vote collapses or shifts tactically to PP, allowing PP to reach 33+ seats.",
+            "final_reasoning": "All available polling, including the official CIS, private SyM, and Electoman\u00eda, consistently places the PP in the 25-30 seat range, with the absolute majority threshold of 33 well out of reach. Even accounting for polling error, the historical pattern in Extremadura and similar Spanish regions shows that late campaign swings or polling misses very rarely produce surprises of the 3-5 seat magnitude needed, especially given the proportional system and the current fragmentation of the right (with Vox rising). While the legal troubles of the PSOE candidate and some undecided voters introduce a sliver of uncertainty, the structural and statistical evidence overwhelmingly points to a No. My time series modeling, based on both local and national Spanish electoral history, places the chance of an absolute majority for PP as vanishingly small\u2014well below typical polling error. The base rate for such a scenario is close to 0% in modern Extremadura. Barring an extreme, currently undetected event, the PP will fall short and require Vox (or others) to govern.",
+            "final_probability": 2
+        },
+        "Political Science (Political Cleavages Theory)": {
+            "time_to_resolution": "20 days",
+            "perspective_relevance": "As an expert in Political Cleavages Theory, my perspective is particularly relevant in analyzing voting behavior, party system dynamics, and the interaction between socioeconomic and cultural cleavages in regional Spanish politics. Extremadura's electorate is shaped by long-standing left-right divides, rural-urban splits, and recent realignments\u2014especially the rise of the far right (Vox) and the fragmentation of the left. Understanding the durability of these cleavages, the potential for electoral realignment, and the impact of incumbent performance and coalition breakdowns is critical to accurately forecasting whether the PP can break through the historic barrier to an absolute majority.",
+            "status_quo": "The PP holds 28 seats, tied with the PSOE from the 2023 election, and has governed with Vox support, which collapsed in 2024. No party has had an absolute majority in recent cycles; coalitions or support agreements have been necessary. Polls and past results indicate the region is competitive, with no single party dominating.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent polling consensus",
+                    "effect": "Strongly decreases probability. All reputable polls (CIS, SyM, Electomania) consistently show the PP winning 25-30 seats\u2014well short of the 33-seat majority. Even optimistic private polls only reach 29-30 seats."
+                },
+                {
+                    "factor": "Voter volatility and undecided rate",
+                    "effect": "Slightly increases probability, as 16% of voters remain undecided and late swings are possible; however, Spanish regional elections rarely produce large, last-minute surges that would deliver 3-5 extra seats to a party already leading."
+                },
+                {
+                    "factor": "Collapse of PP-Vox coalition and political polarization",
+                    "effect": "Decreases probability. The recent split signals right-wing fragmentation and may deter some moderate or tactical voters, while also mobilizing the left and left-leaning parties to prevent a single-party right-wing majority."
+                },
+                {
+                    "factor": "PSOE candidate weakness and corruption allegations",
+                    "effect": "Slightly increases probability. The legal troubles facing Gallardo (PSOE) could depress left turnout or push swing voters to PP, but this appears insufficient to close a 3-8 seat gap needed for an absolute majority."
+                },
+                {
+                    "factor": "Structural party system and electoral system",
+                    "effect": "Strongly decreases probability. Extremadura uses a proportional system (D'Hondt), which structurally makes absolute majorities rare except in landslides. The presence of four parties with significant vote shares splits the vote further, reducing the likelihood of any party crossing the majority threshold."
+                },
+                {
+                    "factor": "Historical base rates for absolute majorities in Extremadura",
+                    "effect": "Strongly decreases probability. In the last 20 years, no party has achieved an absolute majority; coalitions or minority governments have been the norm."
+                }
+            ],
+            "no_scenario": "The most likely scenario: The PP wins the most seats (25-30), PSOE comes second (19-26), Vox increases its share (7-12), and Unidas por Extremadura holds a small but relevant presence (2-7). The PP falls short of the 33-seat threshold and must negotiate either Vox support or PSOE abstention to govern, as in previous cycles.",
+            "yes_scenario": "A far less likely scenario: The undecided voters break overwhelmingly for the PP, motivated by anti-PSOE sentiment, the desire for 'stability,' and/or disillusionment with left alternatives. The PP picks up votes at the expense of a collapsing PSOE or from Vox voters opting for a strategic vote, boosting the PP to 33+ seats. This would require a polling error or late swing of extraordinary magnitude, which is unprecedented in recent Extremaduran regional elections.",
+            "final_reasoning": "All available polling, historical precedent, and structural features of the party system and electoral rules point strongly against the PP winning an absolute majority in Extremadura. The party consistently polls 3-8 seats short of the threshold, and while the PSOE is weaker than usual, the left and far-right remain viable and will likely prevent a landslide. The fragmentation of the right after the PP-Vox coalition break, combined with proportional representation, makes a single-party majority highly implausible. While a late swing or polling error is always possible, the base rate for such dramatic reversals in Spanish regional elections is very low. Given all factors, the probability of the PP winning an absolute majority is very low, but not strictly zero.",
+            "final_probability": 3
+        },
+        "Political Science (Median Voter Theorem)": {
+            "time_to_resolution": "Approximately 20 days until the December 21, 2025 election date.",
+            "perspective_relevance": "As an expert in Political Science with specialization in the Median Voter Theorem (MVT), my perspective is uniquely valuable in forecasting electoral outcomes in proportional representation systems like Extremadura's. The MVT predicts that, under several conditions, parties will converge toward the position of the median voter to maximize votes. However, multi-party proportional systems and recent political polarization can moderate these effects. Analyzing how far the PP can reach the median voter versus being constrained by Vox on the right and PSOE on the left is essential for evaluating the probability of an absolute majority.",
+            "status_quo": "The PP currently governs with 28 seats (tied with PSOE) but lacks an absolute majority. The government collapsed after Vox withdrew support; new elections were called with the explicit aim of breaking the deadlock and attempting to win a solo majority.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Polling Data",
+                    "effect": "Strongly decreases probability. All reputable polls (CIS, SyM, Electoman\u00eda) project the PP winning between 25 and 30 seats, well short of the 33 needed. Even at the upper margin of error, the PP does not reach an absolute majority."
+                },
+                {
+                    "factor": "Base Rates and Recent History",
+                    "effect": "Decreases probability. In Extremadura, no party has recently achieved an outright majority under the current party system. The last PP government required Vox's support and collapsed; fragmentation has increased."
+                },
+                {
+                    "factor": "Electoral System and District Distribution",
+                    "effect": "Slightly decreases probability. The proportional system (with two districts) tends to distribute seats among multiple parties, making outright majorities rare except in landslides."
+                },
+                {
+                    "factor": "Median Voter Theorem and Party Positioning",
+                    "effect": "Neutral to slightly decreases probability. PP has attempted to appeal to moderates but is constrained by pressure from Vox and its recent coalition fallout. The presence of Vox on the right and PSOE on the left makes it difficult for the PP to monopolize the center. Additionally, a portion of centrist/PSOE voters may be demobilized by Gallardo's legal troubles, but not in sufficient numbers for a landslide."
+                },
+                {
+                    "factor": "Undecided Voters (16% per CIS)",
+                    "effect": "Slightly increases probability. If these undecideds were to break heavily for the PP (e.g., in response to last-minute campaign events or further PSOE scandals), there is a theoretical path to 33 seats, but the magnitude required is large."
+                },
+                {
+                    "factor": "Collapse or Surge of Minor Parties",
+                    "effect": "Slightly increases probability. If Unidas por Extremadura or Vox dramatically underperform, the seat bonus from disproportionality could help the PP. However, current polls do not forecast such a collapse."
+                }
+            ],
+            "no_scenario": "The PP wins 28\u201330 seats (perhaps even up to 31 with strong turnout), but falls short of an absolute majority. Vox secures 10\u201312 seats, PSOE is weakened but remains above 20, and Unidas por Extremadura increases slightly. PP must negotiate with Vox or seek PSOE abstention to govern.",
+            "yes_scenario": "A significant late-campaign swing among undecided voters toward the PP occurs, possibly triggered by a major PSOE scandal or campaign blunder. Minor parties (Vox, Unidas) underperform relative to polls, and the PP maximizes its seat conversion in both provinces, reaching or narrowly surpassing 33 seats.",
+            "final_reasoning": "All public polling, both state (CIS) and private, converges on a projection of 25\u201330 seats for the PP\u2014well below the 33 needed for an absolute majority. Polling error, regional volatility, and the late-campaign dynamics could theoretically allow a seat surge, but the size of the gap is substantial. The structure of the party system, the recent history of coalition governance, and the proportional representation system all decrease the likelihood of an outright majority. The Median Voter Theorem suggests the PP cannot monopolize the center with Vox on the right and PSOE on the left. While Gallardo\u2019s legal troubles may suppress PSOE turnout, the evidence from polling does not show a collapse sufficient to allow a PP landslide. Even factoring in undecided voters, the probability of the PP surpassing 33 seats is low. Base rate considerations reinforce this: absolute majorities are rare in modern Extremadura. Therefore, the most likely scenario is the PP wins, but not with an outright majority.",
+            "final_probability": 5
+        },
+        "Sociology (Social Identity Theory)": {
+            "time_to_resolution": "20 days until December 21, 2025",
+            "perspective_relevance": "As an expert in Social Identity Theory, my perspective focuses on how group identities (political parties, ideological coalitions, regional vs national identities) shape voter behavior, candidate appeal, and party loyalty. In the context of Spanish regional elections, where voter identities are often stable and party allegiances strong, understanding the dynamics of in-group/out-group perceptions, party switching, and the impact of party fragmentation (e.g., PP, Vox, PSOE, Unidas) is crucial for forecasting outcomes, especially in close contests where coalition-building and negative partisanship can sway the result.",
+            "status_quo": "PP is the largest party in Extremadura, governing with Vox's support after the 2023 elections, but lacks an outright majority (PP and PSOE each have 28 seats, Vox 5, Podemos 4). The most recent polls project PP as the largest party but well short of the absolute majority threshold (33/65 seats), consistently showing them in the 25-30 seat range.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Historical voting patterns and party loyalty",
+                    "effect": "Decreases probability: Extremadura has traditionally favored PSOE, with only a recent swing to PP due to national-level dissatisfaction. Party identities in the region are relatively stable, limiting the likelihood of a sudden surge to absolute majority for PP."
+                },
+                {
+                    "factor": "Fragmentation of the right (PP vs Vox)",
+                    "effect": "Decreases probability: The presence and strength of Vox means that right-leaning voters are split, making it structurally difficult for the PP to consolidate enough support for an outright majority, especially as Vox is projected to double its seats."
+                },
+                {
+                    "factor": "Collapse of PP-Vox coalition and negative partisanship",
+                    "effect": "Decreases probability: The breakdown of the coalition, and Guardiola\u2019s prior resistance to Vox, may reduce willingness of some Vox supporters to tactically switch to PP, while also possibly alienating centrist voters wary of further right alliances."
+                },
+                {
+                    "factor": "PSOE candidate scandal and left-wing vote fragmentation",
+                    "effect": "Slightly increases probability: The legal troubles of the PSOE candidate could suppress left turnout or cause defections, but with Unidas por Extremadura projected to gain seats, the left-wing vote is fragmented, not necessarily transferring to PP."
+                },
+                {
+                    "factor": "Undecided voters and campaign effects",
+                    "effect": "Neutral to slightly increases probability: With 16% undecided and most voters in Spain deciding well in advance (as per CIS data), late swings are possible but historical precedent suggests they rarely deliver double-digit seat swings. However, extreme events close to election day could still produce outlier outcomes."
+                },
+                {
+                    "factor": "Status quo bias in voter behavior",
+                    "effect": "Decreases probability: Social Identity Theory suggests that, absent a major disruptive event, voters tend to stick with their in-group, making large, last-minute shifts to PP less likely."
+                }
+            ],
+            "no_scenario": "The PP wins the most seats (e.g., 28-30), but falls short of 33. Vox increases its seats, and Unidas por Extremadura also improves, while PSOE underperforms due to leader scandal. PP is forced to negotiate with Vox or seek PSOE abstention to govern, as in 2023. The result reflects stable partisan identities and persistent party fragmentation on both left and right.",
+            "yes_scenario": "A late-campaign collapse in left-wing turnout, perhaps due to new revelations about the PSOE candidate, combines with a strong mobilization of center-right voters\u2014some of whom tactically abandon Vox fearing instability\u2014to deliver a surge for PP, allowing them to win 33 or more seats outright. This would require a strong last-minute shift in both votes and seat distribution, beyond current poll projections.",
+            "final_reasoning": "Polls from multiple reputable sources (CIS, SyM, Electoman\u00eda) consistently show PP well short of the 33-seat threshold, generally in the 25\u201330 seat range. No poll in the last month projects an outright PP majority; even the most optimistic estimates cap PP at 30 seats. The fragmentation of the right (with Vox surging) structurally limits PP's ability to consolidate the center-right vote. The collapse of the previous PP-Vox coalition and mutual distrust further diminishes tactical voting potential. While the PSOE's troubles and left-wing fragmentation might help PP, Unidas por Extremadura is absorbing some of the PSOE's losses, not PP. Social Identity Theory suggests most voters' party loyalties are stable, and Spanish regional elections rarely see sudden, massive shifts in the final days without a major disruptive trigger. With 16% undecided, a small late swing is possible, but the base rate for a single party jumping from 28 to 33+ seats in such a context is very low. The most likely outcome is PP wins but remains short of an absolute majority, needing Vox or PSOE abstention to govern. There is a small (but not zero) tail risk of a late surge, so the probability is not at the absolute minimum.",
+            "final_probability": 5
+        },
+        "Iberian Studies (Spanish Regional Politics Tradition)": {
+            "time_to_resolution": "Approximately 3 weeks until December 21, 2025",
+            "perspective_relevance": "As an expert in Iberian Studies with a focus on Spanish regional political traditions, I bring a deep understanding of Extremadura\u2019s political culture, party system, electoral behaviors, and historical voting patterns. This perspective allows for granular analysis of regional party dynamics, coalition behavior, and the impact of national politics on regional outcomes. Additionally, knowledge of the local electorate\u2019s aversion to polarized politics and prior coalition instability is crucial for accurate forecasting.",
+            "status_quo": "The PP currently governs in Extremadura, having won 28 seats in 2023 and formed a short-lived coalition with Vox. The current status quo is a fragmented right, with PP ahead but dependent on Vox and no clear path to a solo absolute majority.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Polling Consensus and Seat Projections",
+                    "effect": "Strongly decreases probability. Every reputable poll (CIS, private, Electoman\u00eda, SyM) projects the PP winning 25\u201330 seats, consistently short of the 33 required for an absolute majority."
+                },
+                {
+                    "factor": "Historical Base Rates of Absolute Majorities",
+                    "effect": "Decreases probability. Absolute majorities for a single party in Extremadura are historically rare and have declined further since the rise of Vox and Unidas Podemos, making multiparty parliaments the norm."
+                },
+                {
+                    "factor": "Strategic Voting and Undecided Voters",
+                    "effect": "Slightly increases probability. 16% undecided (per CIS) could break disproportionately for the likely winner, but Spanish electoral tradition and regional trends suggest late deciders rarely swing results enough to yield a large seat surplus."
+                },
+                {
+                    "factor": "Collapse of the PP\u2013Vox Coalition",
+                    "effect": "Decreases probability. The recent breakdown of the coalition and high-profile disputes (e.g., over migration and social policy) may demobilize some right-wing voters or fragment the vote, making a surge in PP seats less likely."
+                },
+                {
+                    "factor": "PSOE Scandals and Candidate Weakness",
+                    "effect": "Slightly increases probability. PSOE\u2019s candidate facing legal trouble could drive tactical anti-PSOE voting, but poll data suggest this mainly benefits Vox and PP only marginally."
+                },
+                {
+                    "factor": "Guardiola\u2019s Personal Popularity",
+                    "effect": "Slightly increases probability. Her approval ratings are the highest among candidates, but given the seat arithmetic, this alone is unlikely to bridge the gap to 33 seats."
+                },
+                {
+                    "factor": "Regional Political Tradition and Electoral System",
+                    "effect": "Decreases probability. The D'Hondt system and two-province structure tend to reward mid-sized parties and make absolute majorities harder unless there is a landslide, which is not indicated by current polling."
+                }
+            ],
+            "no_scenario": "The PP wins the most seats (e.g., 28\u201330), but falls short of 33. Vox gains 10\u201312 seats, and Unidas por Extremadura picks up 6\u20137. PSOE declines to 19\u201326 seats. The PP is the clear winner but remains dependent on Vox for investiture and governance, as has been the case in recent cycles.",
+            "yes_scenario": "A late-breaking wave of undecided voters coalesces behind the PP, possibly due to a final scandal affecting PSOE or an effective campaign by Guardiola. Vox\u2019s vote collapses or is squeezed by strategic voting, allowing the PP to convert a small polling lead into an overperformance in the seat count, barely reaching or surpassing 33 seats.",
+            "final_reasoning": "All available polling and recent historical precedent point to the PP leading but not reaching an absolute majority. The polling range is consistent and there is no recent evidence of late surges for the PP of the magnitude required (a 3\u20135 seat overperformance). The fragmentation of the right, the persistence of Vox, and the D'Hondt method make it structurally difficult for the PP to clear 33 seats. While undecided voters and PSOE\u2019s scandals could marginally help the PP, such effects are typically too modest to create a landslide. An absolute majority would require a major polling error or a dramatic last-minute shift, neither of which is supported by the data or by historical voting behavior in the region. The status quo is robust, and the scenario for a PP majority is possible but highly improbable.",
+            "final_probability": 5
+        }
+    },
+    "deliberation_probability": [
+        2,
+        3,
+        2,
+        3,
+        5,
+        5,
+        5
+    ],
+    "deliberation_mean_probability": 3.5714285714285716,
+    "deliberation_sd": 1.3972762620115438,
+    "deliberation_probability_result": 4
+}
