@@ -1,0 +1,385 @@
+{
+    "deliberation_results": {
+        "Corporate Governance (Board Oversight Best Practices)": {
+            "time_to_resolution": "Approximately 13 months (until end of 2026).",
+            "perspective_relevance": "As an expert in corporate governance and board oversight best practices, my perspective is critical for this question because a material change to a mission statement is fundamentally a governance event. Such changes are typically driven by shifts in board composition, corporate restructuring, investor pressure, or strategic pivots\u2014areas I am trained to analyze. Understanding how boards weigh fiduciary duty, stakeholder expectations, regulatory scrutiny, and risk management is essential to forecasting whether OpenAI's mission statement will change.",
+            "status_quo": "The status quo is that OpenAI's official mission statement, as reported on its IRS Form 990, remains focused on building general-purpose AI that benefits humanity, unconstrained by financial return, with an emphasis on responsible deployment and broad distribution of benefits. Historically, organizations are slow to materially alter such statements, especially when they are part of a public benefit or nonprofit structure.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent corporate restructuring to a Public Benefit Corporation (PBC)",
+                    "effect": "Increases probability. The shift from a non-profit to a PBC and then to a more commercial, investor-accessible structure often precipitates a review and possible update of foundational documents, including the mission statement, to reflect new stakeholder realities and fiduciary duties."
+                },
+                {
+                    "factor": "Board composition and governance pressure",
+                    "effect": "Increases probability. The board now includes several members with deep commercial, legal, and government backgrounds, and Microsoft as a key stakeholder. This increases the likelihood of aligning the mission with commercial realities and expectations of major investors."
+                },
+                {
+                    "factor": "Pressure from investors and partners (e.g., Microsoft, SoftBank, Foxconn)",
+                    "effect": "Increases probability. The need to secure and deploy trillions in capital, plus the potential for future IPO, places pressure on governance to clarify or update the mission in a way that facilitates capital attraction and reduces perceived mission-incompatibility risks."
+                },
+                {
+                    "factor": "Regulatory and public scrutiny (especially from CA and DE Attorneys General)",
+                    "effect": "Decreases probability. Regulatory approval for the restructuring was contingent on assurances that the original mission would be preserved, and sudden or material changes could trigger additional scrutiny, lawsuits (e.g., from Musk), or even risk reversal of the restructuring."
+                },
+                {
+                    "factor": "Recent evidence of a shorter, more commercial mission statement in public filings",
+                    "effect": "Strongly increases probability. News reports (e.g., \u51e4\u51f0\u7f51, Nov 2025) mention that the public mission statement has already been materially shortened to 'ensuring AGI benefits all of humanity,' omitting the explicit rejection of financial return and detailed safety language. If this change is reflected in the official mission statement (e.g., IRS 990 or equivalent filings), that would satisfy resolution criteria for a 'Yes.'"
+                },
+                {
+                    "factor": "Organizational inertia and reputational risk",
+                    "effect": "Decreases probability. Changing a mission statement\u2014especially in a way construed as abandoning safety or public benefit\u2014can provoke backlash from employees, regulators, and the public, as well as legal actions (as with Musk's lawsuit). This may make the board cautious, especially within 12-18 months of a major restructuring."
+                }
+            ],
+            "no_scenario": "Despite growing commercial pressures and evolving business model, OpenAI's board decides not to materially change the official mission statement before 2026. The company continues to reference the detailed, safety- and public-benefit-focused language in official filings, perhaps making only cosmetic updates or rewordings that do not remove key commitments. Regulatory oversight and concerns over reputational risk outweigh pressures for change, and any internal or external moves to update the mission are deferred until after 2026.",
+            "yes_scenario": "OpenAI finalizes its transition to a PBC and, in doing so, officially updates its mission statement in public filings (e.g., IRS, state corporate registries) to a materially revised version that is shorter and more commercially focused\u2014such as 'ensuring AGI benefits all of humanity'\u2014removing explicit language about being unconstrained by financial return or about responsible deployment and safety. This change is reported by credible sources and is recognized as a material change under the resolution criteria.",
+            "final_reasoning": "The base rate for mission statement changes of this magnitude in non-profits/PBCs is low, but the situation here is not typical. Multiple news articles from late 2025 confirm a massive governance and structural overhaul at OpenAI, including a move toward a PBC, heavy commercial investment, and explicit pressure to update foundational documents. Most crucially, credible reports indicate that the public mission statement has already been materially shortened, omitting key phrases. If this revision is reflected in official documentation, it would qualify as a 'Yes' per the resolution criteria. That said, the official mission statement may lag behind website/press materials, and regulatory caution may delay or soften the change. We are also just over a year from the close date, so there's a short window for the change to be formally adopted and reported. Weighing these factors, and given that a material change appears to have already begun (with strong signals it will be formalized), I judge the probability to be high, though not certain due to possible regulatory or reputational drag.",
+            "final_probability": 85
+        },
+        "Corporate Governance (Change Management Standards)": {
+            "time_to_resolution": "About 13 months (until the end of 2026)",
+            "perspective_relevance": "As an expert in Corporate Governance and Change Management Standards, I analyze how mission statements are used as governance tools, how organizational change is managed, and how external and internal pressures (like ownership, regulatory, and market forces) drive formal changes to core mission statements. My perspective focuses on when and why organizations make material changes to foundational documents, especially during major restructuring events, leadership transitions, and in the face of mounting stakeholder scrutiny.",
+            "status_quo": "OpenAI Inc. maintains its current mission statement, which emphasizes building general-purpose AI to benefit humanity, unconstrained by financial return, with commitments to safety and broad benefit. This mission, or a materially similar one, remains officially filed and unchanged through 2026.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent and substantial restructuring (2023\u20132025)",
+                    "effect": "Increases probability. Major governance and ownership changes are strong triggers for revisiting the mission statement, as organizations align foundational documents with new structures and strategic realities. OpenAI\u2019s transition to a PBC and recapitalization with large external investors (Microsoft, SoftBank) create strong incentives to update the mission statement, potentially in a material way."
+                },
+                {
+                    "factor": "Pressure to balance public benefit and commercial imperatives",
+                    "effect": "Increases probability. The tension between OpenAI\u2019s original nonprofit mission and its current commercial strategy is acute, as evidenced by the for-profit transition, large-scale capital raises, and the need to reassure both public stakeholders and investors. This could prompt a material change to the mission statement to clarify priorities, especially around profit, control, and societal benefit."
+                },
+                {
+                    "factor": "Board and leadership stability post-crisis",
+                    "effect": "Mixed. After Altman\u2019s reinstatement and the influx of new board members, stability may decrease the urgency to change the mission further in the short term, as the leadership seeks to project continuity. However, if the board feels the official mission is out of sync with operational reality, they may seek to realign it."
+                },
+                {
+                    "factor": "Regulatory and legal scrutiny",
+                    "effect": "Increases probability. The restructuring required approval from California and Delaware AGs, who may have pushed for clearer articulation of mission in light of the new structure. Ongoing lawsuits (e.g., with Musk) and public scrutiny could also drive a more explicit, potentially materially different mission statement."
+                },
+                {
+                    "factor": "Corporate inertia and reputational risk of overt mission change",
+                    "effect": "Decreases probability. Large organizations, especially those under the microscope, are often loathe to make rapid, conspicuous changes to mission statements unless absolutely necessary, due to backlash risk and the potential to alienate key stakeholders (employees, partners, regulators)."
+                },
+                {
+                    "factor": "Recent indications of mission statement simplification",
+                    "effect": "Increases probability. News reports from November 2025 note that OpenAI has already significantly shortened its public mission statement (e.g., to 'ensuring AGI benefits all of humanity'), suggesting a willingness to materially revise the official statement."
+                }
+            ],
+            "no_scenario": "Despite the restructuring, OpenAI chooses to leave its official mission statement largely intact, perhaps making only minor, non-material rewording for clarity. The desire to avoid regulatory scrutiny, preserve reputational capital, and maintain alignment with public benefit commitments outweighs any internal pressure for change. Official filings through the end of 2026 continue to reflect the 2021 mission statement or a substantively equivalent version.",
+            "yes_scenario": "OpenAI\u2019s board and leadership, under pressure from investors (Microsoft, SoftBank, others) and in response to the new public benefit corporation structure, formally amend the mission statement to reflect a more commercially-minded or pragmatic direction. Key language about being unconstrained by financial return is removed or softened, or the focus shifts from broad benefit to more specific goals. This change is reported by a credible source and is reflected in official filings before the end of 2026.",
+            "final_reasoning": "OpenAI has undergone dramatic structural and governance changes within the last two years, including recapitalization, a shift to a PBC, and large-scale investments from profit-focused entities. The for-profit transition and the need to clarify fiduciary duties increase the likelihood of a material mission statement change. Multiple news articles indicate a drift away from the original, anti-profit language, and even mention a shortened, simplified official mission statement as of late 2025. The fact that attorneys general reviewed and approved the restructuring may have required some updates, but also could have locked in certain public benefit language, tempering extreme changes. While there is significant reputational risk in materially altering a mission statement, the convergence of powerful commercial and legal incentives makes a change more likely than not. However, the timing is tight\u2014if a material change is not fully formalized and reported by the end of 2026, the question will resolve 'No.' Given the recent reporting on mission simplification, I assess it is likely (but not certain) that a material change will be made and credibly reported before the deadline.",
+            "final_probability": 68
+        },
+        "Public Relations (Corporate Communications Strategy)": {
+            "time_to_resolution": "Approximately 13 months (until December 31, 2026)",
+            "perspective_relevance": "As an expert in Public Relations (Corporate Communications Strategy), I focus on how mission statements are used as both internal alignment tools and external signals, especially during periods of high scrutiny, governance change, and reputational risk. I bring a nuanced understanding of how and why organizations, especially those at the intersection of technology and public trust, alter their mission statements. This perspective is particularly relevant for OpenAI given its tumultuous governance, high public scrutiny, stakeholder complexity, and recent strategic pivots.",
+            "status_quo": "If nothing changed, OpenAI Inc.'s official mission statement would remain as it was in its 2021 IRS Form 990: focusing on building general-purpose AI that benefits humanity, unconstrained by the need to generate financial return, and emphasizing responsible deployment and equitable distribution of AI benefits.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Corporate restructuring and transition to Public Benefit Corporation (PBC)/for-profit model",
+                    "effect": "Increases probability. Such structural changes often prompt mission statement revisions to align with new legal, governance, and investor realities, especially when moving from non-profit to a hybrid/for-profit structure."
+                },
+                {
+                    "factor": "Investor and stakeholder pressure, especially from Microsoft and SoftBank",
+                    "effect": "Increases probability. Major investors may demand clarity and alignment between the company's official mission and its commercial objectives, especially as the company seeks even larger capital infusions."
+                },
+                {
+                    "factor": "Board/leadership changes and public controversies (e.g., Sam Altman\u2019s ouster and reinstatement, board turnover)",
+                    "effect": "Increases probability. Mission statements are often revisited after leadership shakeups as part of setting a new tone or signaling stability and strategic intent to external audiences."
+                },
+                {
+                    "factor": "Reputational risk and increased scrutiny (public criticism, lawsuits from Elon Musk, Karen Hao\u2019s investigations, societal concerns about AI)",
+                    "effect": "Increases probability. Organizations under sustained scrutiny may update mission statements to clarify, reinforce, or recalibrate their values and commitments."
+                },
+                {
+                    "factor": "Historical base rates for large tech companies changing mission statements after major governance/commercial pivots",
+                    "effect": "Increases probability. There is precedent for mission statement changes in the wake of structural or strategic transformations (e.g., Google\u2019s transition to Alphabet, Facebook\u2019s rebranding to Meta), especially when moving toward commercial priorities."
+                },
+                {
+                    "factor": "PR/Communications risk of appearing to abandon original altruistic principles",
+                    "effect": "Decreases probability. OpenAI may be motivated to maintain language that at least nominally preserves continuity with its original mission to avoid backlash, even if practices change. Superficial or non-material tweaks are more likely than explicit abandonment."
+                },
+                {
+                    "factor": "Recent evidence of wording changes (e.g., 2024 tax documents show a shortened, less specific mission statement)",
+                    "effect": "Increases probability. This is a direct signal that a material change may already be in process or has occurred."
+                }
+            ],
+            "no_scenario": "OpenAI, despite its restructuring and commercial pivot, retains an official mission statement that\u2014while perhaps streamlined or modernized\u2014continues to include explicit commitments to the broad benefit of humanity, responsible deployment, and minimization of financial motivation. Any changes are minor and do not meet the materiality threshold for a 'Yes' resolution (i.e., the core altruistic and safety-focused language remains intact, even if the company\u2019s actions diverge in practice).",
+            "yes_scenario": "OpenAI formally updates its official mission statement (e.g., in IRS filings, governance documents, or a board-approved public statement) to remove or materially alter key elements such as the commitment to being unconstrained by financial return, the emphasis on responsible deployment and safety, or the focus on widespread, equitable benefit. The new mission statement either explicitly prioritizes commercial success, omits references to safety/altruism, or otherwise reflects a shift away from its original non-profit ethos.",
+            "final_reasoning": "The status quo is being rapidly disrupted: OpenAI has undergone a major restructuring from a non-profit to a Public Benefit Corporation with a complex hybrid structure, massive new capital requirements, and increasing dominance of commercial interests (e.g., Microsoft, SoftBank). Multiple news items confirm that the board, governance, and ownership have changed dramatically in 2025, and that OpenAI has already made notable changes to its public mission statement language (see the November 2025 report about the IRS filing, which describes a shift from the previous expansive mission to the simplified 'ensuring AGI benefits all of humanity'). While there is a PR incentive to maintain the appearance of altruism, the pattern in large tech companies is to update mission statements after such pivotal changes\u2014often in ways that are subtle but still material (especially if key phrases about being 'unconstrained by financial return' or 'responsible deployment' are dropped). The fine print for this forecast emphasizes that only material changes count; minor rewording is not sufficient. However, the evidence from tax filings and public statements suggests a real, material shift is underway, likely to be formalized in the next IRS filing or official board documentation within the next 13 months. Given all these factors, base rates, and the direct evidence of change, the probability of a material change to OpenAI Inc.'s official mission statement before the end of 2026 is high.",
+            "final_probability": 85
+        },
+        "North American Tech Sector (Silicon Valley Corporate Culture)": {
+            "time_to_resolution": "Approximately 1 year (until December 31, 2026)",
+            "perspective_relevance": "As an expert in North American Tech Sector and Silicon Valley corporate culture, I bring a deep understanding of how mission statements in high-profile tech firms are used strategically, how they evolve under investor and regulatory pressure, and how shifts in governance or market positioning often precede or accompany changes to foundational documents such as mission statements. I am also attuned to the performative versus substantive function of mission statements in this environment, especially as companies transition from nonprofit to for-profit models and as they face public scrutiny and regulatory oversight.",
+            "status_quo": "As of the latest available reporting, OpenAI Inc.'s official mission statement (as included in IRS filings and echoed in recent public communications) remains focused on developing AGI that benefits humanity, unconstrained by a need to generate financial return, with an emphasis on responsible and safe deployment. No material change to this official statement has been credibly reported as of December 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent Restructuring and Corporate Transition",
+                    "effect": "Increases probability. OpenAI's transition from a non-profit to a Public Benefit Corporation (PBC), with a for-profit operational arm and changes in board composition, increases the likelihood that the official mission statement could change to reflect the new structure, investor expectations, and the hybrid mission-profit orientation."
+                },
+                {
+                    "factor": "Investor and Stakeholder Pressure",
+                    "effect": "Increases probability. Large-scale investment from Microsoft, SoftBank, and others, plus rumors of a future IPO, create pressure for clarity around fiduciary responsibility and corporate purpose, which may drive a revision to the mission statement to better balance public benefit and commercial imperatives."
+                },
+                {
+                    "factor": "Historical Inertia and Public Scrutiny",
+                    "effect": "Decreases probability. Despite major strategic and governance changes, OpenAI has consistently leveraged its 'benefit humanity' mission as a reputational asset, and there are strong incentives to maintain the appearance of continuity to avoid regulatory backlash, appease skeptical partners, and fend off lawsuits like Musk's."
+                },
+                {
+                    "factor": "Material Wording Changes Already Detected in Public-Facing Statements",
+                    "effect": "Increases probability. Reports indicate OpenAI has shortened or shifted elements of its public messaging (e.g., from 'building general artificial intelligence that safely benefits humanity, unconstrained by financial returns' to 'ensuring AGI benefits all of humanity'), suggesting possible groundwork for a more substantive official change. However, the question is about the official mission statement, not website copy."
+                },
+                {
+                    "factor": "Regulatory and Legal Oversight of Mission Drift",
+                    "effect": "Decreases probability. The restructuring was scrutinized and approved by the Attorneys General of California and Delaware, who likely required explicit commitments to maintain the public benefit mission at least on paper, making a rapid or radical official mission statement change less probable in the short term."
+                },
+                {
+                    "factor": "Silicon Valley Corporate Culture and Performative Ethics",
+                    "effect": "Decreases probability. Valley firms often preserve lofty mission statements for branding and public relations even when internal priorities shift, treating the mission statement as a strategic narrative device rather than a precise operational guide."
+                }
+            ],
+            "no_scenario": "OpenAI, now structured as a PBC with significant for-profit operations, continues to face public, regulatory, and legal scrutiny (including Musk's ongoing lawsuit and the need to maintain philanthropic legitimacy). The company opts to retain its official mission statement\u2014perhaps making only minor, non-material tweaks to language\u2014so as to signal continuity with its founding ethos and avoid triggering further controversy or legal complications. Public-facing messaging may continue to evolve, but the official mission statement filed with regulators remains fundamentally unchanged through 2026.",
+            "yes_scenario": "In response to mounting investor pressure, a need to clarify fiduciary responsibilities, and a desire to align the official corporate narrative with the for-profit reality, OpenAI's board approves a material change to the mission statement, removing or significantly altering language about being 'unconstrained by a need to generate financial return,' or shifting the emphasis from 'benefiting humanity' to a more commercially compatible formulation. This change is reported in a credible outlet, perhaps as part of a major fundraising round, IPO preparation, or a new governance milestone.",
+            "final_reasoning": "The probability of a material change in OpenAI Inc.'s official mission statement before the end of 2026 is elevated compared to historical base rates for nonprofit-origin tech firms, primarily due to OpenAI's recent and ongoing transformation into a for-profit PBC, large capital inflows, and explicit tension between original mission language and commercial imperatives. Several news sources note that public-facing mission language has already become more concise and less specific about non-profit constraints, hinting at possible future changes. However, the status quo bias is strong: OpenAI's board and legal advisors are acutely aware of the reputational, legal, and regulatory risks of abandoning the foundational 'benefit humanity' language too quickly. The recent restructuring required explicit legal approval, which likely included conditions around maintaining the public benefit mission, at least nominally. Given the Silicon Valley norm of maintaining aspirational mission statements for optics even as internal priorities shift, there is a significant chance that OpenAI will avoid a material change to its official mission statement before 2026, even if its actual operations become ever more profit-driven. Weighing these factors, I assess the probability of a material, officially reported change to OpenAI Inc.'s mission statement before 2026 at 28%.",
+            "final_probability": 28
+        },
+        "Business Administration (Corporate Mission Evolution Theory)": {
+            "time_to_resolution": "Approximately 13 months (from December 2, 2025 to December 31, 2026).",
+            "perspective_relevance": "As an expert in Business Administration focusing on Corporate Mission Evolution Theory, I bring a unique perspective on how mission statements evolve in response to internal governance changes, market pressures, resource dependencies, and the strategic repositioning of organizations as they transition through growth phases. These frameworks help assess the likelihood of OpenAI materially changing its mission statement amid its rapid commercialization, governance reorganization, and public scrutiny.",
+            "status_quo": "OpenAI Inc.'s official mission statement, as of the latest IRS Form 990 (2021), remains focused on developing general-purpose AI that benefits humanity and is unconstrained by the need to generate financial return. Historically, mission statements\u2014especially for entities with public-benefit or nonprofit roots\u2014tend to remain stable unless there is a major governance or ownership upheaval.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Governance Restructuring and Ownership Shifts",
+                    "effect": "Increases probability. The 2025 transition to a Public Benefit Corporation (PBC), changes in board composition, and dilution of nonprofit control tend to create opportunities and incentives for mission statement updates, especially to reflect new organizational realities and stakeholder priorities."
+                },
+                {
+                    "factor": "Commercialization and Investor Pressure",
+                    "effect": "Increases probability. The shift toward commercial success, massive fundraising (e.g., $15 trillion ambition), and a diversified investor base (Microsoft, SoftBank, employees) often catalyze a re-articulation of mission to better align with for-profit imperatives and capital market expectations."
+                },
+                {
+                    "factor": "Public and Regulatory Scrutiny",
+                    "effect": "Ambiguous, but slightly increases probability. High-profile critiques (e.g., by Karen Hao, Elon Musk's lawsuit) and regulatory reviews by California and Delaware AGs can either entrench the original mission (to signal continuity) or provoke formal updates to clarify commitments and preempt criticism."
+                },
+                {
+                    "factor": "Brand and Market Positioning",
+                    "effect": "Decreases probability. OpenAI\u2019s public narrative and competitive differentiation still rely heavily on the 'benefit to humanity' motif. A radically commercial mission could undermine its unique positioning against rivals such as Google DeepMind and xAI."
+                },
+                {
+                    "factor": "Corporate Inertia and Legal Complexity",
+                    "effect": "Decreases probability. Changing the official mission statement of a still partly nonprofit-controlled, PBC-structured company is nontrivial, requiring legal, board, and perhaps regulatory approval. Inertia and the risks of negative PR or stakeholder backlash generally slow down such changes."
+                },
+                {
+                    "factor": "Recent Evidence of Mission Statement Shortening",
+                    "effect": "Increases probability. According to a November 2025 article (\u51e4\u51f0\u7f51), OpenAI\u2019s public mission statement was 'significantly shortened' in 2024, moving from a detailed, safety-focused statement to the simplified 'ensuring AGI benefits all of humanity.' If this change is reflected in official filings or adopted as the new nonprofit mission, it could constitute a material change."
+                },
+                {
+                    "factor": "Resolution Criteria Specificity",
+                    "effect": "Decreases probability. Minor rewordings or updates that do not materially shift the core intent (benefit to humanity, unconstrained by profit) do not qualify. The bar for 'material change' is relatively high."
+                }
+            ],
+            "no_scenario": "OpenAI continues to use language emphasizing AI for the benefit of humanity in all official filings and communications. Despite internal and external pressures, the nonprofit foundation and new PBC structure agree to retain the core mission, perhaps updating language for clarity but not materially altering the focus on safety, non-financial motivation, and broad benefit. Any public-facing simplifications are not reflected in official nonprofit documentation or IRS filings, or are judged immaterial per Metaculus/faq criteria.",
+            "yes_scenario": "OpenAI, in response to its new PBC structure, major commercial expansion, or regulatory/legal requirements, files an updated official mission statement that removes or significantly reframes key elements such as the commitment to being unconstrained by financial return, downplays safety and responsible deployment, or pivots toward explicit commercial or government priorities. The simplified 2024 mission language ('ensuring AGI benefits all of humanity') becomes the official nonprofit mission, and the change is reported by a credible source and deemed material per resolution criteria.",
+            "final_reasoning": "Base rates suggest that nonprofit-origin tech companies rarely make rapid, material changes to their official mission statements, even after restructuring. However, OpenAI\u2019s pace of transformation is extraordinary: a shift to PBC status, major capital raises, and a reoriented board within a year. Recent reporting indicates that OpenAI has already shortened its public mission statement, and there is credible evidence of internal debate over mission drift. Still, resolution depends on whether such changes are adopted in official nonprofit filings and are judged material. Given the magnitude of ownership, governance, and market shifts, and evidence of at least one significant mission statement revision, I judge the chance of a material change before the end of 2026 to be moderately high\u2014but not overwhelming, due to legal inertia, reputational risk, and the high bar for materiality.",
+            "final_probability": 60
+        },
+        "Business Administration (Strategic Management Theory)": {
+            "time_to_resolution": "Approximately 13 months (resolves by end of 2026, today is December 2, 2025)",
+            "perspective_relevance": "As an expert in Business Administration (Strategic Management Theory), I bring insight into how mission statements function as strategic tools for legitimacy, signaling, and stakeholder alignment\u2014especially during major structural transitions. I also understand how mission drift, stakeholder pressures, and corporate governance shifts influence whether organizations update or materially change their stated missions. This is especially germane to OpenAI, which has transitioned from a pure nonprofit to a hybrid (now for-profit PBC) structure amid intense external scrutiny and shifting priorities.",
+            "status_quo": "If nothing changed, OpenAI would retain its original mission statement focused on building AGI that benefits humanity, unconstrained by financial returns, and with a strong emphasis on safety and broad benefit.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Recent Corporate Restructuring",
+                    "effect": "Increases probability. The transition to a Public Benefit Corporation (PBC) and the recapitalization to allow significant external investment (Microsoft, SoftBank, etc.) create strong incentives to revisit and potentially revise mission statements to reflect new strategic realities, appease investors, and align with public benefit language."
+                },
+                {
+                    "factor": "Stakeholder Pressure and Legitimacy Needs",
+                    "effect": "Increases probability. As OpenAI faces mounting pressure from investors, governments, and critics about its profit motives and social responsibilities, updating the mission statement can serve as a symbolic and practical act to restore or recalibrate legitimacy."
+                },
+                {
+                    "factor": "Mission Drift and Commercialization",
+                    "effect": "Increases probability. The shift towards commercialization (hardware launches, massive revenue needs, IPO speculation) often correlates with substantive or at least material changes in mission statements to reflect a more commercial or hybrid orientation."
+                },
+                {
+                    "factor": "Governance Complexity and Board Composition",
+                    "effect": "Increases probability. The current board is more commercially oriented, with key figures from business, technology, and government. Such boards often seek clearer, more market-aligned mission statements."
+                },
+                {
+                    "factor": "Regulatory and Legal Constraints",
+                    "effect": "Decreases probability. Legal agreements with California and Delaware AGs may include covenants to preserve certain mission elements for public benefit, which could slow, constrain, or complicate material mission statement revisions."
+                },
+                {
+                    "factor": "Public Relations and Brand Risk",
+                    "effect": "Decreases probability. Given the already critical narrative around OpenAI's 'mission drift,' leadership may avoid formally changing the mission to limit reputational fallout\u2014even if the de facto corporate strategy has changed."
+                },
+                {
+                    "factor": "Recent Evidence of Mission Statement Change",
+                    "effect": "Significantly increases probability. News articles report that OpenAI has already shortened its public mission statement from emphasizing 'unconstrained by financial return' and 'responsible deployment' to simply 'ensuring AGI benefits all of humanity' in 2024. If this alteration is reflected in the official IRS filing or other formal documentation, it could qualify as a material change under the resolution criteria."
+                }
+            ],
+            "no_scenario": "Despite commercial and governance changes, OpenAI retains the core elements of its original mission statement in formal documentation (IRS Form 990, PBC charter, etc.), continuing to emphasize non-financial motivations, safety, and broad benefit. Any public-facing changes are superficial or immaterial, not meeting the resolution's materiality threshold.",
+            "yes_scenario": "OpenAI files an IRS Form 990 or posts an official statement (e.g., in its PBC charter) that materially revises its mission\u2014e.g., dropping or downplaying 'unconstrained by financial return,' removing strong language about safe/responsible deployment, or shifting emphasis primarily to commercial or government interests. A credible source (e.g., ProPublica, reputable media) reports and confirms this as a material mission change.",
+            "final_reasoning": "Base rates for mission statement changes are low for stable, non-profit organizations, but increase markedly after major structural transitions\u2014especially when moving to for-profit or hybrid status, as with OpenAI. The evidence from the news (notably the reported shortening/simplification of the mission statement in 2024) suggests that a material change may have already occurred or is imminent. The ongoing restructuring, increased investor and commercial pressure, and evolving stakeholder mix all further raise the likelihood. However, legal constraints and reputational concerns may slow or limit further changes. On balance, considering the explicit shortening of the mission in public documents and the strategic incentives for alignment with the new PBC structure, I judge a material change before the end of 2026 as more likely than not, but not a certainty\u2014pending confirmation that the change meets the resolution's materiality test (i.e., as reflected in IRS filings or other official statements, not just website copy). I therefore assign a probability slightly above 70%, reflecting both strong directional evidence and some residual uncertainty about the formal/legal status of the mission statement and the precise materiality threshold.",
+            "final_probability": 72
+        },
+        "Organizational Behavior (Institutional Isomorphism)": {
+            "time_to_resolution": "Approximately 13 months (question resolves at the end of 2026; today is December 2, 2025)",
+            "perspective_relevance": "As an expert in Organizational Behavior with a focus on Institutional Isomorphism, I analyze how organizations tend to converge on similar structures, practices, and statements under pressure from regulatory, normative, and mimetic forces. The evolution of OpenAI\u2019s mission statement can be understood through the lens of isomorphic pressures as it navigates the demands of legitimacy, resource acquisition, and alignment with peers and regulators within the rapidly commercializing AI sector.",
+            "status_quo": "The status quo is that OpenAI Inc.'s mission statement\u2014emphasizing the development of general-purpose AI for humanity\u2019s benefit, unconstrained by financial return, and prioritizing responsible and safe deployment\u2014remains materially unchanged from the 2021 Form 990.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Commercialization and Competitive Pressures",
+                    "effect": "Increases probability. As OpenAI transitions to a Public Benefit Corporation and pursues vast capital for ambitious projects, isomorphic pressures to resemble peers (Google DeepMind, Anthropic) and attract investors may push for more commercially-aligned mission statements."
+                },
+                {
+                    "factor": "Regulatory and Public Scrutiny",
+                    "effect": "Decreases probability. Heightened regulatory oversight (noted through involvement of California and Delaware Attorneys General) and public criticism over mission drift may create countervailing pressure to maintain or at least not materially alter the original 'for humanity' and 'safety' language for legitimacy."
+                },
+                {
+                    "factor": "Internal Governance and Board Dynamics",
+                    "effect": "Increases probability. The 2023 board crisis and subsequent restructuring have centralized power with commercial leadership (Altman, Microsoft), reducing the influence of mission-driven or safety-focused members and increasing the odds of a more business-oriented mission statement."
+                },
+                {
+                    "factor": "Mimetic Isomorphism in the AI Sector",
+                    "effect": "Increases probability. As AI firms chase similar funding models and public benefit corporation status, there is a tendency to harmonize mission statements with industry peers who have already shifted toward more commercially palatable language."
+                },
+                {
+                    "factor": "Stakeholder and Elite Influence",
+                    "effect": "Increases probability. With Microsoft, SoftBank, and other investors holding major stakes, there is pressure to craft a mission statement that better aligns with the interests and expectations of powerful stakeholders over altruistic ideals."
+                },
+                {
+                    "factor": "Path Dependency and Organizational Inertia",
+                    "effect": "Decreases probability. Large organizations, particularly those with high public visibility and prior ethical commitments, often demonstrate inertia and incrementalism, making abrupt or radical mission changes less likely in the short term."
+                },
+                {
+                    "factor": "Recent Evidence of Language Change",
+                    "effect": "Increases probability. News reports indicate that OpenAI\u2019s public mission statement was shortened in 2024 to 'ensuring AGI benefits all of humanity,' omitting prior explicit references to 'unconstrained by financial return' and 'responsible deployment.' If this simplification is reflected in the official IRS Form 990 or other official statements, it may meet the resolution criteria for a material change."
+                }
+            ],
+            "no_scenario": "OpenAI maintains a mission statement in formal and regulatory filings that, despite any evolving external communications or website content, continues to emphasize developing general-purpose AI for the benefit of humanity, unconstrained by financial return, and with a strong commitment to safety and broad benefit. Any changes made are limited to minor wording updates for clarity, without materially altering the core commitments.",
+            "yes_scenario": "OpenAI updates its official, legal mission statement (e.g., in IRS filings or PBC charter) to remove or materially weaken key elements such as the commitment to being 'unconstrained by a need to generate financial return' or the emphasis on 'responsible deployment and safety,' or pivots to language that foregrounds commercial growth, shareholder value, or specific stakeholder interests (e.g., Microsoft's role), thus constituting a material change as per the question\u2019s criteria.",
+            "final_reasoning": "Institutional isomorphism predicts that OpenAI will face mounting pressure to align its mission statement with the realities of its new status as a Public Benefit Corporation, its need for substantial private capital, and the dominant norms in the AI sector (now almost entirely commercialized). The evidence shows OpenAI has already truncated its public mission language, and the trend toward commercialization is accelerating: major investors (Microsoft, SoftBank), ambitious infrastructure projects, and a $500 billion+ valuation all point to a shift away from the original anti-commercial, safety-first ethos. The restructuring approved by regulators, the board\u2019s composition, and the departure of prominent mission-driven founders (Sutskever, Musk) further reduce internal resistance to change. However, regulatory scrutiny and the need to maintain legitimacy among critics and the public may temper the extremity of any changes, potentially leading to incremental rather than radical alterations. Crucially, the shortening of the public mission statement to 'ensuring AGI benefits all humanity'\u2014if mirrored in official documents\u2014would likely qualify as a material change under the resolution criteria, as key phrases about financial constraint and responsible deployment have been dropped. Given the convergence of mimetic, normative, and coercive isomorphic forces\u2014and recent evidence of public language change\u2014I assess the probability of OpenAI materially changing its mission statement before 2026 as significantly above the base rate for large nonprofits, but not a certainty, as organizational inertia and legitimacy concerns still exert a moderating influence.",
+            "final_probability": 73
+        },
+        "Organizational Behavior (Organizational Change Theory)": {
+            "time_to_resolution": "Approximately 13 months (resolves by end of 2026, current date is December 2, 2025)",
+            "perspective_relevance": "As an expert in Organizational Change Theory within Organizational Behavior, I analyze how mission statements evolve in response to structural, leadership, and environmental pressures. Mission statements are often lagging indicators of deep organizational change, but restructuring, leadership turnover, and shifting stakeholder priorities can precipitate updates, especially in organizations under intense public scrutiny and rapid market evolution like OpenAI.",
+            "status_quo": "OpenAI\u2019s official mission statement, as filed in its 2021 IRS Form 990, remains focused on building general-purpose AI for humanity's benefit, unconstrained by financial return, with emphasis on safety and equitable distribution of benefits.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Corporate Restructuring and Governance Change",
+                    "effect": "Increases probability. OpenAI\u2019s 2025 transformation into a Public Benefit Corporation (PBC) and recapitalization signal a dramatic shift in structure, which often compels formal updates to mission statements to reflect new legal and operational realities."
+                },
+                {
+                    "factor": "Shift Toward Commercialization and Profit Motive",
+                    "effect": "Increases probability. The transition from nonprofit to PBC, alongside growing reliance on investor capital (Microsoft, SoftBank), and strategic commercial partnerships increases the likelihood of a mission statement realignment to more explicitly accommodate financial imperatives."
+                },
+                {
+                    "factor": "Retention of Altruistic Language for Legitimacy",
+                    "effect": "Decreases probability. Despite internal shifts, OpenAI\u2019s leadership (notably Sam Altman) and new governance structures retain the rhetorical commitment to AI for the benefit of humanity, which serves as a legitimizing anchor in the face of regulatory and public scrutiny."
+                },
+                {
+                    "factor": "Regulatory and Public Scrutiny",
+                    "effect": "Neutral to slightly increases probability. Approval by attorneys general in California and Delaware required explicit commitments to the public benefit mission. However, heightened scrutiny may force either an update for transparency or entrenchment of current language for stability."
+                },
+                {
+                    "factor": "Organizational Inertia and Path Dependence",
+                    "effect": "Decreases probability. Mission statements are often sticky, changing only when absolutely necessary due to the reputational risks and internal resistance associated with perceived abandonment of founding ideals."
+                },
+                {
+                    "factor": "Recent Evidence of Informal Mission Statement Shortening",
+                    "effect": "Increases probability. News reports indicate that OpenAI has already shortened its public mission statement in some venues (e.g., from 'developing and responsibly deploying safe AI...' to 'ensuring AGI benefits all of humanity'), suggesting a drift that could soon be formalized in official documentation."
+                }
+            ],
+            "no_scenario": "Despite commercial and structural changes, OpenAI\u2019s board and leadership opt to maintain the original mission statement language in official filings (e.g., IRS forms) through 2026, either to preserve legitimacy, minimize stakeholder backlash, or because internal consensus cannot be reached on new wording. Any public-facing simplification or rebranding remains distinct from the official nonprofit mission statement, and no credible report of a material change emerges before the end of 2026.",
+            "yes_scenario": "OpenAI, in the course of continued restructuring, fundraising, or in response to legal, financial, or reputational pressures, formally updates the official mission statement of OpenAI Inc. in public filings or board resolutions before the end of 2026. The new statement materially shifts away from the language in the 2021 IRS Form 990, downplaying the 'unconstrained by a need to generate financial return' clause or otherwise altering the emphasis on broad benefit and safety, and this is reported by a credible source.",
+            "final_reasoning": "OpenAI\u2019s 2025 transformation into a PBC, recapitalization, and shifting power balance between commercial and nonprofit interests create strong organizational and legal incentives for a mission statement update. The presence of influential investors, the abandonment of the pure nonprofit structure, and evidence that public-facing language has already been materially shortened all point to an evolving identity\u2014organizational change theory predicts that formal artifacts like mission statements eventually catch up to underlying reality, especially after major reorganization. However, the company\u2019s need to retain legitimacy with regulators, employees, and the public, plus explicit commitments made during regulatory approval, may delay or temper such change. Historically, mission statement changes often lag behind real-world pivots, but in cases of such substantial transformation, the lag is usually measured in months, not years. Given that news coverage suggests informal changes have already occurred, and there are still 13 months left in the window (including the next IRS filing cycle), the probability that OpenAI will officially and materially change its mission statement before the end of 2026 is significantly elevated, though not yet an overwhelming certainty due to inertia and legitimacy concerns.",
+            "final_probability": 72
+        },
+        "Technology Policy (Innovation Governance)": {
+            "time_to_resolution": "Approximately 13 months (resolves by end of 2026)",
+            "perspective_relevance": "As an expert in technology policy and innovation governance, I bring insight into how corporate structure, investor pressures, regulatory environments, and mission drift affect the likelihood of a tech organization's formal mission statement changing. I am attuned to how for-profit transitions, public scrutiny, and internal governance dynamics influence the codification (or erosion) of altruistic goals in mission statements\u2014especially in rapidly scaling, high-stakes fields like AI.",
+            "status_quo": "OpenAI Inc. has not materially changed its official mission statement since the 2021 IRS 990 filing, which emphasizes building general-purpose AI that benefits humanity, unconstrained by financial return, and prioritizes safety and broad benefit.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Corporate Restructuring and For-Profit Orientation",
+                    "effect": "Increases probability. The recent shift from capped-profit subsidiary to Public Benefit Corporation, major recapitalization, and explicit drive for commercial success put pressure to revise the mission statement to reflect investor interests and a more commercial posture."
+                },
+                {
+                    "factor": "Regulatory and Legal Scrutiny",
+                    "effect": "Decreases probability. Approval by CA and DE attorneys general of the new structure came with public commitments to preserve the original mission, and any overt shift could prompt new legal or regulatory scrutiny, especially if seen as diverging from the nonprofit\u2019s legacy mandate."
+                },
+                {
+                    "factor": "Board Composition and Governance",
+                    "effect": "Increases probability. The 2023-2025 board reconstitution replaced some original, mission-first directors with figures from more commercial backgrounds (e.g., Microsoft, investors, ex-military/industry leaders), reducing the internal conservatism around mission change."
+                },
+                {
+                    "factor": "Public and Employee Perception Management",
+                    "effect": "Decreases probability. OpenAI is under heavy public, academic, and employee scrutiny for mission drift; a material change could trigger backlash and reputational risk, incentivizing leadership to maintain the current statement or only make subtle, non-material edits."
+                },
+                {
+                    "factor": "Precedent and Base Rate",
+                    "effect": "Decreases probability. Historically, mission statements of high-profile tech organizations tend to lag behind actual business model shifts, with formal changes often coming only after major IPOs or regulatory inflection points. OpenAI has maintained mission language despite dramatic operational changes."
+                },
+                {
+                    "factor": "Signals of Mission Statement Revision",
+                    "effect": "Increases probability. News reports (e.g., from \u51e4\u51f0\u7f51) note that the public-facing mission was already significantly shortened in 2024, and that internal documents may be diverging from the IRS 990 language\u2014indicating willingness to update publicly codified missions."
+                }
+            ],
+            "no_scenario": "OpenAI continues to operate aggressively as a commercial entity, expanding product lines and partnerships, but maintains the official mission statement's language in IRS filings, on its website, and in legal documents\u2014perhaps with minor rewording or additions that do not materially shift away from 'safe AI for humanity.' The board and leadership decide that the reputational and legal risks of a material change outweigh the benefits, at least until a major IPO or regulatory inflection point post-2026.",
+            "yes_scenario": "OpenAI, under pressure from investors (especially Microsoft and SoftBank), as well as internal strategic realignment, formally updates the mission statement by the end of 2026. The change is material: it either drops explicit rejection of financial return as a constraint, shifts primary language from 'for humanity' to 'for customers and stakeholders,' or removes commitments to safety and broad benefit. This is reported by a credible source (e.g., major press, IRS filings, or OpenAI\u2019s official communications), and the new statement is clearly divergent from the 2021 version.",
+            "final_reasoning": "OpenAI\u2019s transition to a Public Benefit Corporation, massive new investments, and significant board changes all point toward a business increasingly driven by commercial imperatives. News coverage indicates that the public version of the mission has already been significantly shortened and simplified, suggesting a willingness to reframe the mission for a new era. However, formal, material changes to the mission statement\u2014especially those filed on IRS forms and used in legal charters\u2014are typically conservative and often lag operational reality. Regulatory approval of the new structure involved explicit commitments to mission continuity, and OpenAI faces substantial reputational risk if it moves too quickly on this front, especially with lawsuits (e.g., Musk\u2019s) and public scrutiny ongoing. Still, the combination of significant internal and external pressures for alignment between mission and practice, and signals that a revision process is underway, make a material change within 13 months plausible. My estimate balances the high base rate for status quo retention with strong evidence of drift and pressure for change.",
+            "final_probability": 63
+        },
+        "Technology Policy (Stakeholder Theory)": {
+            "time_to_resolution": "Approximately 13 months (from December 2, 2025 to January 1, 2027)",
+            "perspective_relevance": "As an expert in Technology Policy with a focus on Stakeholder Theory, I analyze how OpenAI's mission statement and its changes reflect the evolving power dynamics, stakeholder influences, and legitimacy pressures from investors, regulators, the public, and internal actors. Mission statements are key artifacts in technology governance, signaling organizational priorities, ethical commitments, and accountability to different stakeholder groups. My perspective emphasizes how shifts in OpenAI's governance, capitalization, and external scrutiny impact the likelihood of materially changing its core mission.",
+            "status_quo": "OpenAI Inc.'s mission statement, as of the latest IRS Form 990 (2021), is: 'to build general-purpose artificial intelligence that benefits humanity, unconstrained by a need to generate financial return.' Despite major governance and structural changes, no official, materially different mission statement has been adopted or communicated as of December 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Corporate Restructuring and Commercialization",
+                    "effect": "Increases probability. OpenAI has transitioned from a non-profit to a for-profit PBC, dramatically increasing external investor and commercial pressures (Microsoft, SoftBank, etc.). This creates incentives to formally align the mission statement with profit-driven or market-competitive imperatives, especially if required for further fundraising, IPO preparations, or regulatory compliance."
+                },
+                {
+                    "factor": "Stakeholder Legitimacy and Public Scrutiny",
+                    "effect": "Decreases probability. OpenAI faces intense scrutiny from governments, academics, NGOs, and AI safety advocates. Maintaining a mission statement rooted in broad, humanistic benefit helps preserve legitimacy and regulatory goodwill even as the company pursues profit. Materially altering the mission risks backlash, reputational damage, and loss of trust among key partners."
+                },
+                {
+                    "factor": "Internal Governance Dynamics",
+                    "effect": "Slightly increases probability. The board and leadership have changed significantly since the 2023 crisis. The new board is more commercially experienced and less ideologically mission-bound. However, the nonprofit OpenAI Foundation still holds a blocking minority and legal control, so any mission change must pass stringent internal review."
+                },
+                {
+                    "factor": "Regulatory and Legal Constraints",
+                    "effect": "Decreases probability. The restructuring required sign-off from the California and Delaware attorneys general, with explicit assurances that the original public-benefit mission would be preserved. Any abrupt mission change before 2026 would likely trigger legal and regulatory review, slowing or deterring such action."
+                },
+                {
+                    "factor": "Market Timing and IPO Considerations",
+                    "effect": "Increases probability. If OpenAI plans a public offering or major new capital raise, alignment of its mission statement with investor expectations could become a strategic priority\u2014especially if the new PBC structure is finalized and legal/PR risks are managed."
+                },
+                {
+                    "factor": "Recent Precedent and Signaling",
+                    "effect": "Slightly increases probability. Reports indicate that OpenAI has already shortened or simplified its public mission language in some venues (e.g., changing to 'ensuring AGI benefits all humanity'). If this signals a trend toward formalizing a less restrictive, profit-compatible mission, a material change to the official statement is more plausible."
+                }
+            ],
+            "no_scenario": "Despite commercial and structural changes, OpenAI's leadership and board judge that materially altering the mission statement would provoke unacceptable backlash from regulators, the public, and employees. The official mission statement remains largely unchanged, perhaps with minor non-material tweaks, preserving key language about human benefit and non-financial priorities until at least January 1, 2026.",
+            "yes_scenario": "OpenAI, seeking to signal alignment with its new for-profit status, investor demands, or a forthcoming IPO, revises its official mission statement before 2026. The new statement either removes the 'unconstrained by a need to generate financial return' clause, downplays the primacy of 'benefiting humanity,' or otherwise shifts away from the original nonprofit ethos\u2014constituting a material change under the question's criteria.",
+            "final_reasoning": "The base rate for major technology companies formally changing their mission statements within a year of significant governance restructuring is moderate, especially when large capital infusions and IPO speculation are present. However, OpenAI occupies a unique position: it is under exceptional scrutiny from both pro-safety and pro-market stakeholders, and its public legitimacy depends on retaining a mission that signals broad benefit. The legal constraints imposed by the restructuring and the recent approval by state attorneys general further slow the pace of such symbolic yet consequential changes. Evidence from news articles suggests incremental mission drift in practice (commercial focus, shortened public language), but not yet an official, material change as defined (e.g., removal of core nonprofit language). Given the delicate balance of stakeholder interests\u2014particularly the need to retain regulatory trust and the risk of negative public reaction\u2014I judge that a material change to the official mission statement before 2026 is unlikely, though not impossible, especially if OpenAI accelerates toward IPO or faces a major financial inflection point. The most likely scenario is continued incremental 'drift' without a formal, material change until after 2026. I therefore assign a probability of 22%.",
+            "final_probability": 22
+        }
+    },
+    "deliberation_probability": [
+        85,
+        68,
+        85,
+        28,
+        60,
+        72,
+        73,
+        72,
+        63,
+        22
+    ],
+    "deliberation_mean_probability": 62.8,
+    "deliberation_sd": 21.52414664717022,
+    "deliberation_probability_result": 63
+}

@@ -1,0 +1,501 @@
+{
+    "deliberation_results": {
+        "Climate Policy Analysis (UNFCCC Negotiation Processes)": {
+            "time_to_resolution": "Just under 1 month (question resolves at midnight GMT, January 1, 2026; today is December 2, 2025).",
+            "perspective_relevance": "As an expert in Climate Policy Analysis and UNFCCC negotiation processes, I am attuned to the dynamics of international climate agreements, the barriers to multilateral treaty formation, and the political economy of controversial mitigation technologies like solar geoengineering. My expertise allows me to interpret both the formal negotiation tracks and informal diplomatic initiatives that could lead to a binding anti-geoengineering pact, as well as to weigh the influence of powerful fossil fuel states and technology-laggard countries.",
+            "status_quo": "No stringent anti-solar-geoengineering pact with 35+ signatories exists as of now. Previous efforts (e.g., the International Non-Use Agreement campaign) have only garnered informal support or statements, not binding treaty commitments meeting the full criteria listed. The Convention on Biological Diversity moratorium remains in force, but is not a full ban meeting these criteria.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Stringency and Scope of Required Commitments",
+                    "effect": "Decreases probability. The resolution criteria require a treaty that bans not just deployment and patents, but also research, funding, and diplomatic support for solar geoengineering. This is far more comprehensive than any existing agreement, making broad adoption within a month very unlikely."
+                },
+                {
+                    "factor": "Recent Multilateral Negotiation Track Record (COP30 and UNFCCC)",
+                    "effect": "Decreases probability. COP30 just concluded with weak, non-binding outcomes, and even ambitious coalitions failed to secure binding fossil fuel phaseouts. The climate regime is in a period of fragmentation and compromise rather than sweeping new treaties."
+                },
+                {
+                    "factor": "Geopolitical Polarization and Domestic Priorities",
+                    "effect": "Decreases probability. Major emitters (US, China, Russia, India, OPEC+ states) are not aligned on radical climate interventions and are unlikely to cede sovereignty over controversial future technologies. The emergence of private ventures (e.g., Stardust) shows that some actors are moving ahead with geoengineering, not away from it."
+                },
+                {
+                    "factor": "Base Rate of Similar Treaty Formation",
+                    "effect": "Decreases probability. Historically, it has taken years to negotiate and ratify treaties with complex scientific and economic implications (e.g., the Paris Agreement, Montreal Protocol, CTBT). Achieving 35+ signatories to such a stringent and specific ban in a matter of weeks is unprecedented."
+                },
+                {
+                    "factor": "Grassroots and Scientific Opposition to Geoengineering",
+                    "effect": "Slightly increases probability. There is broad concern among scientists, some governments, and civil society about geoengineering risks, as evidenced by the moratorium under the Convention on Biological Diversity and periodic public campaigns. However, these have not translated into binding multilateral treaties."
+                },
+                {
+                    "factor": "Recent News on Stardust and Commercialization Efforts",
+                    "effect": "Decreases probability. The announcement of funding and plans for solar geoengineering by a well-connected commercial entity (Stardust) may galvanize opposition, but also signals that the window for an enforceable ban is closing, and key states may resist limiting commercial or military options."
+                }
+            ],
+            "no_scenario": "Despite public concern and ongoing moratoria, no new treaty emerges that meets all five stringent criteria. Some countries may issue statements or join voluntary non-use initiatives, but either the treaty is not binding, does not reach 35 signatories, or contains reservations/loopholes that fall short of the resolution bar. Major emitters and OPEC+ members either abstain or actively oppose. Private actors proceed with research, and the multilateral system remains deadlocked.",
+            "yes_scenario": "In a last-minute shift, a group of countries, perhaps led by the EU, Pacific Island states, and Latin American nations, coordinates an emergency diplomatic campaign, securing rapid ratification of a new treaty that fully bans solar geoengineering research, deployment, funding, patents, and support in international forums\u2014reaching 35+ signatories. This would require an unprecedented diplomatic sprint and a high level of political crisis or scandal (e.g., a geoengineering test gone wrong), none of which is evident in the news.",
+            "final_reasoning": "The probability that more than 34 countries will have committed to a stringent anti-solar-geoengineering pact before 2026 is extremely low. The required treaty is much more comprehensive than any existing or recently-negotiated agreement. COP30 and the broader climate regime are mired in fragmented, lowest-common-denominator outcomes, not ambitious new bans. The emergence of commercial geoengineering ventures suggests a growing, not shrinking, interest among some state and non-state actors. Base rates of similar treaty processes (e.g., CTBT, Paris Agreement) indicate multi-year timelines. There is no evidence of an imminent breakthrough or diplomatic push that would change this status quo within the next month. While there is opposition to geoengineering, it has not coalesced into the kind of binding, globally-supported legal instrument needed for a 'Yes' resolution. Therefore, the status quo will almost certainly persist.",
+            "final_probability": 1
+        },
+        "Climate Policy Analysis (Geoengineering Governance)": {
+            "time_to_resolution": "Approximately 1 month (resolves January 1, 2026; today is December 2, 2025)",
+            "perspective_relevance": "As an expert in Climate Policy Analysis with a focus on Geoengineering Governance, my perspective is highly relevant. I have a nuanced understanding of the international policy landscape, the technical, ethical, and political risks of solar geoengineering, and the historical success rates of securing multilateral climate pacts\u2014particularly those imposing stringent research, deployment, and funding bans. I am also attentive to the influence of emerging private actors, international research moratoria, and the evolving role of major economies in climate governance.",
+            "status_quo": "As of now, no stringent anti-solar-geoengineering pact with over 34 country signatories exists. The only international moratorium is under the Convention on Biological Diversity (CBD), reaffirmed in 2024, but it is neither universal nor as stringent as the criteria specified in the question.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Stringency of Required Provisions",
+                    "effect": "Strongly decreases probability. The question requires signatories to a treaty banning research, deployment, funding, and patents, and mandating active international opposition\u2014this is a much higher bar than previous climate agreements, which typically allow research carve-outs, national discretion, or opt-outs."
+                },
+                {
+                    "factor": "Recent International Climate Negotiations",
+                    "effect": "Decreases probability. COP30 failed to achieve even a binding fossil fuel phase-out, despite support from 80+ nations. The climate negotiation environment is highly fragmented, with consensus on less controversial issues proving elusive."
+                },
+                {
+                    "factor": "Emergence of Private Geoengineering Ventures",
+                    "effect": "Decreases probability. The rise of companies like Stardust, with defense and intelligence ties and plans for atmospheric experiments, creates incentives for some states to retain policy flexibility, and may prompt others to block or delay a ban."
+                },
+                {
+                    "factor": "Existing Moratoria and Advocacy Efforts",
+                    "effect": "Slightly increases probability. The CBD moratorium and ongoing calls for a Non-Use Agreement show ongoing advocacy and some willingness among states to restrict geoengineering. But these efforts have not yet led to a universal or treaty-level ban."
+                },
+                {
+                    "factor": "Geopolitical Fragmentation and Great Power Competition",
+                    "effect": "Strongly decreases probability. The current climate regime is fractured by geopolitical tensions, as seen in COP30 coverage. Major states (US, China, Russia, India) are not aligned on geoengineering, and some see potential military or technological benefits."
+                },
+                {
+                    "factor": "Base Rate for Stringent Multilateral Environmental Treaties",
+                    "effect": "Decreases probability. Historically, very few treaties with blanket bans and strict research/deployment prohibitions have reached 35+ signatories in a short period, especially on emerging technologies."
+                },
+                {
+                    "factor": "Short Timeframe Remaining",
+                    "effect": "Strongly decreases probability. With less than a month until resolution, there is no public evidence of such a treaty being finalized, signed, or in the advanced pipeline; ratification and coordination at this scale would be visible in news coverage."
+                }
+            ],
+            "no_scenario": "No stringent anti-solar-geoengineering pact is signed or entered into force by 35 or more countries before January 1, 2026. Perhaps a handful of countries support a weak statement or a non-binding declaration, or some renew support for the CBD moratorium, but nothing meeting the strict five-point criteria and signature threshold materializes. Private experimentation proceeds, and major powers remain divided.",
+            "yes_scenario": "A rapid diplomatic breakthrough leads to at least 35 countries signing and committing to a new, stringent anti-solar-geoengineering treaty before the deadline. This would likely require a major political trigger\u2014such as a rogue state or company announcing imminent deployment\u2014prompting a coalition of states (perhaps EU members, some Latin American and African nations) to urgently push through a binding pact at the UN or another international forum, with all five criteria fully met.",
+            "final_reasoning": "The probability that more than 34 countries will have signed a stringent anti-solar-geoengineering pact before 2026 is extremely low. COP30 and related diplomatic efforts have not produced binding agreements even on less controversial climate measures, and the global climate governance environment is fractured. The resolution criteria are exceptionally strict, requiring a ban on research, deployment, funding, patents, and active international opposition\u2014going well beyond existing moratoria. No such treaty is currently known to be in negotiation or near adoption, and with less than a month left, the time required for negotiation, signature, and ratification by 35+ countries is prohibitive. The emergence of private geoengineering actors and strategic interests among major powers further disincentivize binding prohibition at this stage. While there is ongoing advocacy, the base rate for rapid, large-scale, stringent environmental treaty adoption on controversial emerging technologies is near zero. The status quo is likely to persist.",
+            "final_probability": 1
+        },
+        "International Law (Customary International Law)": {
+            "time_to_resolution": "Approximately 1 month (until December 31, 2025)",
+            "perspective_relevance": "As an expert in International (Customary) Law, I bring a nuanced understanding of treaty-making dynamics, the role of soft law versus hard law, and the legal/structural barriers to achieving rapid multilateral consensus on emerging technologies like solar geoengineering. My expertise informs both the likelihood of stringent treaty adoption and the importance of base rates in environmental treaty formation.",
+            "status_quo": "No such stringent anti-solar-geoengineering pact with 35 or more signatories exists. The only international legal measure is a non-binding moratorium under the UN Convention on Biological Diversity (CBD), reaffirmed in 2024, but not a binding treaty with the five stringent provisions as described.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rates of New Multilateral Environmental Agreements",
+                    "effect": "Decreases probability. Historically, new 'hard law' environmental treaties with high stringency and rapid, widespread adoption are rare. Most take years to negotiate and gain the required number of signatories, especially on controversial technologies."
+                },
+                {
+                    "factor": "Geopolitical Fragmentation at COP30 and Climate Forums",
+                    "effect": "Decreases probability. Recent climate summits (COP30) failed to achieve strong consensus even on fossil fuel phase-out. Deep divides between blocs (EU/Global South vs. major petrostates/China/India) suggest even less consensus on a new, highly restrictive technology ban."
+                },
+                {
+                    "factor": "National and Commercial Interest in Geoengineering R&D",
+                    "effect": "Decreases probability. The emergence of companies like Stardust and interest from major powers in retaining 'technological sovereignty' make sweeping bans unattractive\u2014especially for states with advanced R&D or potential military interests."
+                },
+                {
+                    "factor": "Existing International Moratoria and Precedents",
+                    "effect": "Slightly increases probability. The CBD moratorium signals precedent for caution, and some states (esp. in the Global South) advocate for precautionary bans. But CBD is not a binding treaty with the required stringency."
+                },
+                {
+                    "factor": "Climate Emergency and Rising Temperatures",
+                    "effect": "Slightly increases probability. Surpassing 1.5\u00b0C and record heat years increase climate urgency, which can drive interest in both risk aversion (bans) and, paradoxically, in geoengineering R&D. However, this urgency more often fuels calls for research, not strict bans."
+                },
+                {
+                    "factor": "Legal Complexity and Reservations in Treaty Practice",
+                    "effect": "Decreases probability. States often sign environmental treaties with significant reservations or opt-outs, especially on patents, R&D funding, or extraterritorial commitments; the resolution criteria require 'no substantive reservations', further reducing probability."
+                },
+                {
+                    "factor": "Recent News on International Lawmaking (No New Precedents)",
+                    "effect": "Decreases probability. The news shows movement on other climate pacts (migration, nuclear test bans), but not on geoengineering, and where rapid progress did occur (e.g. the Migration Pact), it was years in the making and less stringent."
+                }
+            ],
+            "no_scenario": "COP31 and other climate meetings in late 2025/early 2026 focus on adaptation finance, fossil fuel phase-out roadmaps, and incremental climate targets. Some countries or blocs endorse 'non-use' principles or soft-law declarations, but no binding treaty with all five stringent provisions attracts 35 signatories. Key countries (US, China, Russia, India, EU) do not agree to a sweeping ban, and major research nations (e.g., Israel, as per Stardust) resist R&D prohibitions. The CBD moratorium remains the only multilateral measure.",
+            "yes_scenario": "A climate emergency, such as a dramatic and widely attributed geoengineering mishap or a major political realignment at COP31, galvanizes a bloc of 35+ nations\u2014perhaps led by the EU and vulnerable Global South states\u2014to sign a stringent anti-geoengineering treaty. The US, China, and other major players either join or do not block the process. The treaty strictly prohibits research, deployment, funding, patents, and international advocacy for solar geoengineering, with no substantive reservations.",
+            "final_reasoning": "Despite heightened climate urgency and the existence of a soft-law moratorium, the base rate for rapid, high-stringency environmental treaties is extremely low, especially for emerging and controversial technologies. All recent evidence (COP30 outcomes, news of rising private R&D, continued geopolitical splits) points to a lack of consensus for such a sweeping ban. The presence of vested national and commercial interests further undercuts the likelihood of securing 35 signatories with no substantive reservations. While some Global South states and parts of the EU may favor a ban, key R&D nations and major emitters have strong incentives to retain flexibility. The resolution's strict criteria\u2014requiring bans on R&D funding, patents, deployment, and advocacy, all in one instrument\u2014makes a 'Yes' outcome even less likely. There is no sign in the news or diplomatic reporting of such a treaty being near conclusion. Therefore, the probability is extremely low, close to the base rate for such treaties emerging in a one-month window.",
+            "final_probability": 2
+        },
+        "International Law (Treaty Law and Ratification)": {
+            "time_to_resolution": "29 days (until December 31, 2025, GMT)",
+            "perspective_relevance": "As an expert in international law, treaty law, and ratification, my perspective is essential for evaluating the likelihood of states reaching, committing to, and ratifying a stringent multilateral agreement with highly restrictive provisions. I understand the pace and incentives for international treaty adoption, the base rates for climate-related agreements, and the geopolitical pressures influencing climate and technology policy.",
+            "status_quo": "No stringent anti-solar-geoengineering pact with more than 34 country parties exists as of early December 2025. The most significant relevant action is the UN CBD moratorium (non-binding, soft law with exceptions), and the recent COP30 failed to deliver binding new climate agreements.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Stringency of Resolution Criteria",
+                    "effect": "Decreases probability. The question requires a treaty or binding agreement meeting all five strict criteria, with no substantive reservations, which is rare and difficult to achieve even for less controversial topics."
+                },
+                {
+                    "factor": "Recent International Climate Negotiation Trends (COP30 outcomes)",
+                    "effect": "Decreases probability. COP30 failed to secure ambitious or binding language on climate or even fossil fuels. Consensus is harder to achieve, and the climate regime is struggling with even moderate commitments."
+                },
+                {
+                    "factor": "Geopolitical Fragmentation and Major Power Divergence",
+                    "effect": "Decreases probability. Fragmentation (e.g., US absence at COP30, China, Russia, India, Saudi Arabia opposition) makes broad, ambitious multilateral agreement formation especially unlikely on controversial issues like geoengineering."
+                },
+                {
+                    "factor": "Commercial and Technological Momentum in Solar Geoengineering",
+                    "effect": "Decreases probability. The launch and funding of projects like Stardust, with backing from influential defense and technology actors, suggests movement toward experimentation rather than preemptive prohibition, and some states have clear incentives to keep options open."
+                },
+                {
+                    "factor": "Base Rate of New Stringent Multilateral Climate Treaties in Recent Decades",
+                    "effect": "Decreases probability. Since the Paris Agreement (2015), no major climate treaty with high stringency and broad, rapid uptake beyond 30 parties has succeeded. Even Paris took years to reach critical mass, and it was much more flexible."
+                },
+                {
+                    "factor": "Precedent: UN CBD Moratorium and International Advocacy",
+                    "effect": "Slightly increases probability. There is a soft-law moratorium and a vocal advocacy network for a non-use agreement. Some countries, especially small island states and the EU, are sympathetic, but this is not enough to outweigh the above constraints."
+                },
+                {
+                    "factor": "Time Remaining Until Deadline",
+                    "effect": "Decreases probability. Less than one month remains, and there is no indication in the news or public record of a pending treaty with sufficient signatories."
+                }
+            ],
+            "no_scenario": "Despite ongoing advocacy for a non-use agreement and mounting concern about geoengineering risks, the year ends without any binding international treaty or agreement, let alone one with 35 or more country parties meeting all five criteria. Some countries make rhetorical commitments, or sign non-binding declarations, but nothing rises to the level, scope, or stringency required for resolution.",
+            "yes_scenario": "A sudden, unexpected breakthrough occurs\u2014perhaps triggered by a dramatic geoengineering incident, a major bloc (e.g., the EU) driving a rapid treaty process, and swift alignment of more than 34 countries, all agreeing to a prohibition matching the strict criteria, and entering into treaty-level commitments without substantive reservations.",
+            "final_reasoning": "The base rate for new, highly stringent multilateral environmental treaties with 35+ parties in under a year is exceedingly low. News covering COP30 and climate diplomacy shows mounting fragmentation and caution, not rapid new prohibitions. The most relevant recent precedent\u2014the CBD moratorium\u2014is not a binding treaty and has many exceptions. No reporting suggests a pending or recently concluded formal treaty with this level of stringency and uptake. The commercial/technological momentum behind geoengineering, including well-funded startups with defense ties, makes preemptive prohibition less likely. With only 29 days left, and absent any signals of imminent ratification or signing, the probability that 35+ countries will have committed at treaty-level (not just rhetorical or non-binding) to all five anti-geoengineering restrictions before 2026 is extremely low. The status quo strongly favors a 'No' outcome, and the only plausible 'Yes' scenario would be a dramatic, unprecedented event\u2014there is no evidence to support this. Thus, the probability should be close to the extreme (0%), but not absolute zero to account for very remote black swan possibilities.",
+            "final_probability": 1
+        },
+        "European Policy Studies (European Union Environmental Policy)": {
+            "time_to_resolution": "Approximately 1 month (until December 31, 2025)",
+            "perspective_relevance": "As an expert in European Policy Studies with a focus on EU environmental policy, I have deep familiarity with the EU\u2019s climate diplomacy, multilateral treaty-making processes, and the global trajectory of environmental governance. This perspective is particularly relevant given the EU\u2019s historic leadership in climate initiatives and its role as a bellwether for coalition-building on restrictive environmental agreements. Furthermore, I am attuned to the political, scientific, and industry dynamics shaping attitudes toward geoengineering both within Europe and globally.",
+            "status_quo": "No stringent anti-solar-geoengineering treaty with commitments by more than 34 countries exists as of early December 2025. A global moratorium exists under the UN Convention on Biological Diversity, but it is non-binding and not a treaty with the specific and strict provisions described in this question. No movement has been reported indicating imminent crossing of the 35-country threshold under such a comprehensive agreement.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Stringency of Treaty Criteria",
+                    "effect": "Decreases probability: The resolution criteria require a treaty banning experiments, deployment, funding, and patents, plus international opposition\u2014far more comprehensive than most existing environmental treaties. Even the Paris Agreement is less prescriptive. Reaching agreement on all five points is extremely challenging."
+                },
+                {
+                    "factor": "Recent Multilateral Climate Negotiation Outcomes (COP30)",
+                    "effect": "Decreases probability: The most recent COP30 fell short on major binding commitments, with the final agreement watered down to maintain unity. Strong fossil fuel phase-out language and ambitious roadmaps were blocked by petrostates and major emitters. If countries cannot agree on fossil fuel phase-out, a more controversial and less urgent subject like solar geoengineering is even less likely to yield a stringent, widely supported treaty."
+                },
+                {
+                    "factor": "Emergence of Commercial Actors and Geopolitical Tensions",
+                    "effect": "Decreases probability: The rise of companies like Stardust, backed by defense-linked investors, signals that some states and private actors see geoengineering as a strategic or economic opportunity. This creates incentives for hedging or ambiguity, rather than strict prohibition. The military dimension raises the risk that some countries will resist strict bans for security or deterrence reasons."
+                },
+                {
+                    "factor": "Fragmented Global Governance and Multipolarity",
+                    "effect": "Decreases probability: The global order is increasingly multipolar, as evidenced by COP30 dynamics and broader geopolitical fragmentation. Consensus-driven regimes are harder to achieve. Major players like the US, China, India, Russia, and oil-rich states have divergent interests and are unlikely to accept blanket prohibitions on emerging technologies, especially those with theoretical security or climate utility."
+                },
+                {
+                    "factor": "EU and Like-Minded Climate Diplomacy",
+                    "effect": "Increases probability (modestly): The EU and a coalition of climate-vulnerable states have historically led on restricting geoengineering, evidenced by their support for the Non-Use Agreement initiative and strong positions in climate fora. There is some possibility for a bloc agreement, but expanding this to 35+ countries and covering all strict criteria remains highly unlikely."
+                },
+                {
+                    "factor": "Base Rate of Similar Stringent Environmental Treaties",
+                    "effect": "Decreases probability: Historically, treaties with this level of stringency and speed of adoption (in under 2 years) are rare, especially in a controversial and technologically emergent domain. The moratorium under the CBD is non-binding and not universally respected."
+                },
+                {
+                    "factor": "Recent Political Will and Public Salience",
+                    "effect": "Decreases probability: Despite 2024 being the hottest year on record and growing climate urgency, solar geoengineering remains a niche, low-salience issue compared to mitigation and adaptation. Political capital is being spent elsewhere. Moreover, the increasing salience of adaptation and resilience financing at COP30 shows the priority is not on restrictive geoengineering bans."
+                }
+            ],
+            "no_scenario": "A 'No' outcome is realized if, by December 31, 2025, no treaty or diplomatic agreement exists with 35 or more full state parties (with no substantial reservations) that meets all five criteria for stringent prohibition. The status quo persists: Some nations may reiterate their support for the CBD moratorium or express intent to avoid geoengineering, but without a formal, binding, and wide-reaching treaty with the required provisions and number of signatories.",
+            "yes_scenario": "A 'Yes' outcome would require an extraordinary diplomatic breakthrough\u2014for example, if the EU, plus most of its allies, climate-vulnerable states (e.g., small island nations), and a swath of Latin American and African countries, rapidly negotiate and sign a new anti-geoengineering treaty in response to a sudden, catalyzing event (such as a rogue geoengineering experiment or a major climate disaster blamed on geoengineering risk). The agreement would need to be finalized and fully committed to by at least 35 countries with no major reservations by the end of 2025.",
+            "final_reasoning": "Given the status quo, the extreme stringency of the required treaty, and the lack of evidence of such a diplomatic process nearing fruition, the probability of more than 34 countries committing to a stringent anti-solar-geoengineering pact before 2026 is exceedingly low. Recent climate diplomacy (COP30) demonstrates deep fragmentation and prioritization of less controversial, more broadly supported issues. The emergence of commercial geoengineering ventures, defense interests, and multipolarity further complicate consensus. The only paths to a 'Yes' require either a major, galvanizing event or a sudden, coordinated push by a large bloc\u2014neither of which is evident in current news. The base rate for binding, prescriptive environmental treaties with rapid, wide adoption is close to zero for such contentious, emergent technologies. Therefore, the most defensible forecast is a highly confident 'No.'",
+            "final_probability": 2
+        },
+        "European Policy Studies (Paris Agreement Implementation)": {
+            "time_to_resolution": "Approximately 1 month (until December 31, 2025)",
+            "perspective_relevance": "As an expert in European Policy Studies with a focus on Paris Agreement implementation, I track the intersection of international climate policy, treaty formation, and multilateral cooperation, with special attention to how ambitious climate governance (especially in the EU) interacts with global divides, technological innovation, and the geopolitics of climate interventions like solar geoengineering.",
+            "status_quo": "No stringent anti-solar-geoengineering pact with 35+ countries has been signed as of early December 2025. There is an ongoing moratorium on geoengineering experiments under the Convention on Biological Diversity, but not a binding, broad, multi-country treaty with the five strict criteria outlined.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "COP30 and recent climate diplomacy outcomes",
+                    "effect": "Decreases probability. COP30 failed to secure even a binding fossil fuel phase-out or major new treaties; progress came in the form of voluntary roadmaps and symbolic agreements. This signals the difficulty of achieving any new, ambitious, and binding multilateral pact on a controversial topic in the current fractured climate landscape."
+                },
+                {
+                    "factor": "Geopolitical fragmentation and major power opposition",
+                    "effect": "Decreases probability. Large fossil-fuel-dependent and/or geoengineering-interested states (Russia, Saudi Arabia, India, China, USA under Trump) have resisted strong climate action and are unlikely to join or permit a broad anti-geoengineering treaty. Their opposition would deter many states from joining and make consensus impossible."
+                },
+                {
+                    "factor": "Existing moratoria and soft-law instruments",
+                    "effect": "Slightly increases probability. The UN CBD moratorium, and growing academic/civil society calls for precaution on solar geoengineering, show some international appetite for restrictions\u2014but these mechanisms are non-binding and limited in scope, and have not translated into hard law."
+                },
+                {
+                    "factor": "Emergence of commercial and military geoengineering ventures",
+                    "effect": "Decreases probability. The launch of Stardust and similar ventures, along with rising interest from military and security stakeholders, highlights both the growing real-world relevance of geoengineering and the difficulty of achieving consensus on a comprehensive ban\u2014especially one that includes patents, funding, and international opposition."
+                },
+                {
+                    "factor": "EU and climate-ambitious state leadership",
+                    "effect": "Slightly increases probability. The EU and a handful of ambitious states (e.g., Colombia, some Nordics) are pushing for greater climate action and may champion an anti-geoengineering pact, but even among these, internal divisions exist and recent COPs show limited capacity to drive major new treaties."
+                },
+                {
+                    "factor": "Base rates of treaty formation and ratification",
+                    "effect": "Decreases probability. Base rates for new, stringent, multilateral environmental treaties (with 35+ signatories, all five restrictive criteria, and no major opt-outs) being negotiated and entering into force in less than two years are extremely low\u2014especially on divisive, emerging technologies."
+                }
+            ],
+            "no_scenario": "COP30-style gridlock continues; major emitters and fossil fuel states (Russia, Saudi Arabia, India, China, US) block or refuse to join any anti-solar-geoengineering treaty. The EU and a few climate-progressive countries might issue statements or join a soft-law coalition, but this falls short of a formal, binding, 35+ country treaty with all five criteria. Ongoing moratoria and voluntary measures persist, but no new stringent pact is achieved by the deadline.",
+            "yes_scenario": "A diplomatic breakthrough occurs\u2014perhaps triggered by a high-profile geoengineering experiment or climate disaster\u2014galvanizing the EU, climate-vulnerable states, and a coalition of Latin American, African, and Pacific countries to rapidly negotiate and ratify a stringent anti-geoengineering treaty. This coalition manages to attract 35+ signatories, possibly by leveraging existing climate alliances and framing the pact as an extension of the Paris Agreement\u2019s precautionary principle.",
+            "final_reasoning": "Given the news, recent COP30 outcomes, and the state of global climate governance, the probability that more than 34 countries will commit to a stringent anti-solar-geoengineering pact (as defined in the question) before 2026 is extremely low. The status quo is gridlock and incrementalism, not rapid treaty-making; COP30 demonstrated how even widely supported measures struggle to become binding. Geoengineering remains a divisive and emerging technology, with powerful states and industrial interests either ambivalent or actively interested in retaining flexibility. While there is a vocal civil society and some governmental support for restrictions, the leap from soft moratoria to a binding, wide-reaching, and highly restrictive treaty is immense. No evidence in the news suggests imminent negotiations or a tipping point toward such a treaty. The most plausible outcome is continued inaction or soft law, not a new hard-law pact.",
+            "final_probability": 1
+        },
+        "International Relations (Regime Complex Theory)": {
+            "time_to_resolution": "Approximately 1 month (until December 31, 2025)",
+            "perspective_relevance": "As an expert in International Relations with a focus on Regime Complex Theory, I understand how overlapping, fragmented, and sometimes competing international regimes shape issue areas like climate change and geoengineering. This perspective is crucial for assessing the likelihood of coordinated, stringent multilateral agreements\u2014especially in domains where scientific uncertainty, state interests, and power asymmetries lead to fragmented governance, soft law, and slow norm diffusion.",
+            "status_quo": "As of now, there is no stringent, binding anti-solar-geoengineering pact with 35 or more countries fully committed to all the specified provisions. The international regime governing solar geoengineering remains fragmented, with a moratorium under the Convention on Biological Diversity (CBD) but no dedicated, comprehensive treaty or broad-based, stringent agreement of this nature.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regime Complexity and Fragmentation",
+                    "effect": "Decreases probability. The solar geoengineering governance space is highly fragmented, with overlapping but non-binding or partial agreements (e.g., CBD moratorium) and no central authority. States are reluctant to cede sovereignty or make binding commitments on emerging, controversial technologies."
+                },
+                {
+                    "factor": "Geopolitical Polarization and Major Power Resistance",
+                    "effect": "Decreases probability. Major emitters and key states (e.g., US, China, Russia, India, Saudi Arabia) have resisted stringent climate governance, as seen at COP30. These actors have strategic, technological, or economic reasons to keep solar geoengineering options open or to avoid binding constraints."
+                },
+                {
+                    "factor": "Lack of Precedent and Base Rates",
+                    "effect": "Decreases probability. Historically, even on more mature issues (e.g., nuclear non-proliferation, chemical weapons, climate mitigation), assembling 35+ signatories to a new, highly stringent treaty within a short timeframe is rare, especially when the issue is nascent and controversial."
+                },
+                {
+                    "factor": "Recent Developments in Solar Geoengineering and Private Initiatives",
+                    "effect": "Decreases probability. The rise of private actors like Stardust, which openly plan to conduct experiments and pursue commercialization despite CBD moratoria, signals a lack of robust, enforceable international opposition. This creates demand for more governance, but also demonstrates the difficulty of securing consensus."
+                },
+                {
+                    "factor": "Civil Society and Norm Entrepreneurship",
+                    "effect": "Slightly increases probability. There are active campaigns for a non-use agreement and advocacy among small states and civil society, particularly in the Global South and among climate-vulnerable countries. However, norm diffusion is slow and often opposed by powerful incumbents."
+                },
+                {
+                    "factor": "Recent International Climate Negotiation Outcomes",
+                    "effect": "Decreases probability. COP30 and other recent climate summits failed to produce strong, binding agreements on even more established issues (e.g., fossil fuel phaseout). The climate regime complex is under strain, showing consensus is hard to achieve even on less controversial matters."
+                }
+            ],
+            "no_scenario": "Major powers (US, China, Russia, India, Saudi Arabia) and key regional actors refuse to sign or actively block a stringent anti-solar-geoengineering treaty, citing the need for research, strategic ambiguity, or economic interests. Fragmented opposition means no treaty meeting all five criteria is concluded with 35+ signatories before the deadline. Advocacy continues, but only soft law, voluntary statements, or moratoria exist.",
+            "yes_scenario": "A coalition of climate-vulnerable states, EU members, and a few others\u2014motivated by severe climate impacts and public concern\u2014fast-track a stringent anti-solar-geoengineering pact, perhaps under UN auspices or a standalone process. Major emitters abstain but do not block. Through diplomatic campaigning, the threshold of 35 is met, likely including many small or developing states, even if major powers remain outside.",
+            "final_reasoning": "The base rate for such a stringent, rapid multilateral agreement on a controversial, emerging technology is extremely low\u2014especially when the agreement requires not just a research or deployment ban but also patent restrictions, funding prohibitions, and active diplomatic opposition. Recent climate negotiations show growing fragmentation and softening of ambition, not new, strict consensus. Major power resistance is especially salient; even with active civil society and some state advocacy, there is no sign of a diplomatic breakthrough on this issue. The continued existence of private ventures like Stardust, and the lack of strong progress at COP30, reinforce the view that the stringent threshold is unlikely to be met in the next month. Therefore, the probability of more than 34 countries committing to a stringent anti-solar-geoengineering pact before 2026 is extremely low, possibly just above 0 if one allows for a last-minute symbolic coalition, but in practice, there is no evidence of such momentum.",
+            "final_probability": 2
+        },
+        "International Relations (Constructivism IR)": {
+            "time_to_resolution": "Approximately 1 month (question resolves at the end of December 2025, today is December 2, 2025)",
+            "perspective_relevance": "As a constructivist in International Relations, I focus on how norms, ideas, and identity shape state behavior. Solar geoengineering is not just a technical issue but a deeply contested normative and political topic, where the emergence of new global norms (such as a non-use agreement) depends on collective meaning-making, epistemic community consensus, and legitimacy among both scientific and political actors. This perspective is crucial because the stringent anti-geoengineering pact is primarily about norm-building and global socialization, not just material interests.",
+            "status_quo": "No stringent anti-solar-geoengineering pact with more than 34 signatory countries exists. The closest is a moratorium under the Convention on Biological Diversity, but it is not a comprehensive, stringently binding diplomatic pact as per the resolution criteria.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Norm Emergence and Diffusion",
+                    "effect": "Decreases probability. While there is some epistemic community (scientific) consensus on risks of geoengineering, the norm of stringent prohibition is not yet globally established. Powerful states and many developing countries are still debating the appropriateness of geoengineering as a climate emergency option."
+                },
+                {
+                    "factor": "Great Power Politics and Multipolarity",
+                    "effect": "Decreases probability. COP30 demonstrated increased fragmentation and multipolarity in global climate governance, with major players (e.g., US, China, Russia, India) diverging on core climate issues and resisting binding commitments. This makes the emergence of a new stringent global pact particularly hard."
+                },
+                {
+                    "factor": "Material Interests of Major Emitters and Fossil Producers",
+                    "effect": "Decreases probability. OPEC+ and major fossil fuel producers have shown at COP30 and elsewhere that they prioritize energy sovereignty and are unlikely to support a ban on research or deployment of geoengineering, which they may see as a future tool for climate risk management."
+                },
+                {
+                    "factor": "Civil Society and Vulnerable States Pressure",
+                    "effect": "Slightly increases probability. There is significant advocacy from vulnerable island nations and some progressive states for precautionary bans, and a history of coalition-building on precautionary climate measures, but not enough to overcome resistance from major actors in a short timeframe."
+                },
+                {
+                    "factor": "Private Sector and Technological Momentum",
+                    "effect": "Decreases probability. The rise of companies like Stardust, with defense and intelligence backing, and plans for atmospheric experiments, indicates technological momentum and the interests of powerful actors in keeping the 'option space' open, decreasing the likelihood of a ban."
+                },
+                {
+                    "factor": "Precedent of Other Non-Use or Ban Agreements",
+                    "effect": "Decreases probability. Stringent, comprehensive bans (nuclear, chemical weapons) required major power buy-in and years of negotiation. Most climate-related agreements (even Paris) are voluntary and non-binding, and the recent record (COP30, CTBT) shows slow progress on new stringent bans."
+                },
+                {
+                    "factor": "Constructivist Identity and Framing",
+                    "effect": "Slightly increases probability. There is an emerging identity among some states (EU, small island states, Latin American environmentalists) as 'guardians' against risky climate interventions. However, these actors lack material leverage to drive a globally stringent agreement quickly."
+                }
+            ],
+            "no_scenario": "Despite mounting concern about solar geoengineering, the world remains divided. A coalition of 10\u201320 (possibly up to 30) mostly small and/or progressive countries issues a statement or voluntary agreement calling for restrictions, but this falls short of a stringent, binding pact covering all five criteria and more than 34 countries. Major emitters and fossil fuel producers either abstain or actively oppose, arguing for 'keeping all options on the table.' Private companies proceed with research, citing regulatory gaps. The status quo\u2014fragmented, non-binding moratoria and rhetorical opposition\u2014persists.",
+            "yes_scenario": "A major climate shock (e.g., catastrophic extreme weather) in late 2025 triggers a rapid surge in global concern, and a 'high ambition' coalition (EU, Latin America, Africa, Pacific states) builds on existing non-use advocacy to fast-track a stringent anti-geoengineering treaty. Through exceptional diplomatic effort, they persuade several fence-sitters to join, reaching the 35-country threshold. The pact explicitly binds signatories to all five criteria, setting a new global norm. However, this would require an unprecedented alignment of interests and a rapid negotiation, which is historically rare.",
+            "final_reasoning": "Base rates for new, stringent global environmental treaties\u2014especially those with binding prohibitions and broad membership\u2014are low, especially on contentious, technically complex issues like geoengineering. The news indicates recent climate summits (COP30) have struggled even to maintain symbolic progress on much less controversial issues, with consensus hard to reach and major emitters resisting binding language. The rise of private geoengineering ventures, and persistent interest from powerful states in maintaining technological options, signals continued contestation and norm resistance. Constructivist factors (norm entrepreneurship, identity) are present but not yet decisive. No news in the past year suggests a breakthrough in broad, stringent anti-geoengineering diplomacy; if anything, fragmentation and technological momentum are increasing. While a small coalition might pursue a weaker agreement, the stringent bar set here (all five criteria, more than 34 countries, binding) is unlikely to be met in less than a month.",
+            "final_probability": 3
+        },
+        "International Relations (Neoliberal Institutionalism)": {
+            "time_to_resolution": "Just under 1 month until December 31, 2025",
+            "perspective_relevance": "As an expert in International Relations (Neoliberal Institutionalism), my approach emphasizes the role of international institutions, regimes, and cooperation driven by absolute gains and mutual interests. I focus on how global governance structures, norms, and path dependencies affect the likelihood of stringent multilateral agreements, especially in emerging or controversial policy areas like solar geoengineering. This perspective is particularly relevant given the multitude of global climate governance challenges, the slow movement of international treaty-making, and the incentives/disincentives for countries to coordinate on risk-averse climate technologies.",
+            "status_quo": "No stringent anti-solar-geoengineering pact currently exists with commitments from more than 34 countries. The only existing international restriction is the (non-binding in many respects) moratorium under the Convention on Biological Diversity, reaffirmed in 2024, and limited soft-law statements. There has been no recent breakthrough for a legally binding, comprehensive anti-geoengineering treaty.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Stringency and Scope of Resolution Criteria",
+                    "effect": "Decreases probability. The requirement for a binding, comprehensive ban (all five criteria) is significantly more ambitious than softer political declarations, and there is no precedent for this level of multilateral commitment in solar geoengineering."
+                },
+                {
+                    "factor": "Recent International Climate Cooperation Dynamics",
+                    "effect": "Decreases probability. COP30 fell short on binding new agreements, with divisions among major powers (US, China, India, Russia, Saudi Arabia) and only moderate progress on adaptation and finance. Fractured global climate governance makes it unlikely that a new, ambitious anti-geoengineering treaty could be fast-tracked."
+                },
+                {
+                    "factor": "Emergence of Commercial and State Interest in Solar Geoengineering",
+                    "effect": "Decreases probability. News of Stardust's well-funded plans, and the slow but visible normalization of geoengineering research, suggest growing interest, not consensus for a ban. Some states may view geoengineering as a strategic or last-resort option and thus be reluctant to foreclose it."
+                },
+                {
+                    "factor": "Existing International Regulatory Pathways",
+                    "effect": "Slightly increases probability. The 2024 reaffirmed CBD moratorium, and active advocacy for an International Non-Use Agreement shows some momentum. However, these efforts have not yet translated into a binding, wide-reaching treaty."
+                },
+                {
+                    "factor": "Global North-South and Major Power Divisions",
+                    "effect": "Decreases probability. As seen at COP30, major fossil fuel producers and some emerging economies resist binding restrictions, especially in areas with perceived strategic or adaptive value. The consensus needed for a large treaty is elusive."
+                },
+                {
+                    "factor": "Time Constraints and Treaty-Making Pace",
+                    "effect": "Decreases probability. With less than a month left, there is no public record of negotiations for such a treaty, and international agreements typically take years to negotiate and ratify. No sign of a last-minute breakthrough."
+                }
+            ],
+            "no_scenario": "Despite mounting concerns about solar geoengineering risks, efforts to secure a stringent anti-geoengineering pact falter. Major players (e.g., China, India, US, Russia, oil states) block consensus due to strategic interests, desire to retain future options, or disagreement over verification and enforcement. Civil society campaigns and global South advocacy raise visibility, but only a handful of countries join voluntary soft-law initiatives, and the CBD moratorium remains the main reference. No new comprehensive, binding treaty with 35+ signatories materializes before 2026.",
+            "yes_scenario": "A rapid surge in anti-geoengineering sentiment\u2014perhaps triggered by a high-profile, controversial private experiment or a climate catastrophe attributed to geoengineering risks\u2014galvanizes a coalition of EU, Latin American, African, and small island states. Leveraging existing CBD language, these states rapidly negotiate and sign a stringent, legally binding treaty, possibly at an emergency climate summit, achieving 35+ ratifications before the end of 2025. Major powers acquiesce or abstain to avoid reputational costs.",
+            "final_reasoning": "The base rate for the formation and entry-into-force of new, stringent multilateral environmental treaties\u2014especially on emerging technologies\u2014is extremely low, even over multi-year periods. The resolution criteria are exceptionally strict: not only must more than 34 countries sign, but the treaty must comprehensively ban research, deployment, funding, patents, and mandate active diplomatic opposition, with virtually no reservations. The recent news from COP30, the lack of a clear negotiating process or breakthrough, persistent divisions among key emitters and powers, and the emergence of commercial actors like Stardust all point to a world where states are hedging their bets, not foreclosing technological options. While a soft-law or limited anti-geoengineering pact involving a small coalition is plausible (and might resolve YES for the related 'ten countries' question), there is no evidence to support imminent, sweeping treaty action on this scale. The neoliberal institutionalist perspective further cautions that states are unlikely to surrender discretion on future strategic technologies absent overwhelming mutual gains or risks, neither of which are present here. Therefore, the status quo holds; the probability of a YES resolution is extremely low.",
+            "final_probability": 2
+        },
+        "Environmental Policy (Multilateral Environmental Agreements)": {
+            "time_to_resolution": "Just under 1 month (resolution by December 31, 2025; today is December 2, 2025)",
+            "perspective_relevance": "As an expert in environmental policy and multilateral environmental agreements, my perspective is relevant because I can assess the historic pace and likelihood of new, stringent MEAs emerging on controversial topics like solar geoengineering. I am trained to parse the difference between non-binding declarations, moratoria, and legally binding treaties; to evaluate the geopolitical climate around novel climate interventions; and to recognize the hurdles\u2014technical, political, and institutional\u2014that shape rapid treaty formation and adoption.",
+            "status_quo": "No anti-solar-geoengineering treaty with the required stringency and 35+ signatories exists. Most countries operate under a de facto moratorium in the Convention on Biological Diversity (CBD), but this is not a treaty prohibiting all forms of research, funding, patents, deployment, and diplomatic opposition as required here.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Pace of Multilateral Environmental Agreement Formation",
+                    "effect": "Decreases probability. Most MEAs\u2014even on less controversial topics\u2014require years from concept to negotiation to signature to ratification. The stringency and scope required here (bans on research, funding, patents, diplomatic support) are unprecedented and far-reaching. There is no evidence of such a treaty being even in advanced negotiation."
+                },
+                {
+                    "factor": "Geopolitical and Scientific Controversy over Solar Geoengineering",
+                    "effect": "Decreases probability. While there is widespread concern about geoengineering, there is also significant scientific and geopolitical disagreement. Major powers (e.g., US, China, Russia, India) have not signaled willingness to bind themselves to such bans, and some have strategic interest in keeping options open. Recent news highlights increased commercial and military interest (e.g., Stardust's venture), suggesting further polarization rather than consensus."
+                },
+                {
+                    "factor": "CBD Moratorium and Existing Norms",
+                    "effect": "Slightly increases probability, but only at the margin. The CBD moratorium demonstrates broad, if non-binding, wariness of geoengineering. Some Global South countries and EU members have supported anti-geoengineering statements. However, the CBD is not a binding treaty on all the specified points, and the US is not a party."
+                },
+                {
+                    "factor": "Recent International Climate Negotiations (COP30 and beyond)",
+                    "effect": "Decreases probability. The most recent COP30 failed to secure binding commitments even on mainstream issues like fossil fuel phase-out. The climate regime is under strain, with fragmentation and major emitters blocking ambitious language. If consensus is not possible on fossil fuels, it is unlikely on a divisive new topic like solar geoengineering."
+                },
+                {
+                    "factor": "Interest of Powerful States and Commercial Actors",
+                    "effect": "Decreases probability. The emergence of private ventures (e.g., Stardust) and potential military interest in geoengineering make a rapid, sweeping ban less likely. Powerful states are unlikely to self-constrain or bar future research options unilaterally or multilaterally."
+                },
+                {
+                    "factor": "Base Rate of Similar Treaty Adoptions",
+                    "effect": "Decreases probability. Treaties with sweeping technology bans and significant numbers of signatories (e.g., nuclear test ban, landmines, cluster munitions) took years if not decades to negotiate and ratify. None came together in under a year, and all had far more diplomatic momentum and groundwork than is evident here."
+                }
+            ],
+            "no_scenario": "The year ends with no new treaty or pact meeting all five stringent criteria, or fewer than 35 countries sign/ratify. There may be political statements, voluntary declarations, or continuation of the CBD moratorium, but no legally binding instrument with the required scope and number of parties. Major powers and/or key developing countries (e.g., US, China, India, Russia, Brazil) remain outside any such pact, and/or the treaty process is still in negotiation or signature phase without reaching the 35-country threshold.",
+            "yes_scenario": "A major breakthrough occurs: a binding treaty or protocol is rapidly negotiated, signed, and ratified by at least 35 countries before January 1, 2026, meeting all five criteria. This would most likely come from a coalition of Global South and EU countries, perhaps spurred by a high-profile geoengineering controversy or emergency. Unlikely, unless a major event (e.g., unauthorized geoengineering deployment) catalyzes a rapid diplomatic response and a significant number of countries commit without reservations.",
+            "final_reasoning": "Given the extreme stringency of the criteria (banning all research, deployment, funding, patents, and diplomatic support), the lack of any such treaty currently in place or even in advanced negotiation, and the historic slowness of MEA formation, the probability is extremely low. The CBD moratorium, while influential, is not a treaty and does not meet the question's bar. The most recent climate negotiations indicate a fragmented and slow-moving multilateral process, with no sign of consensus even on core issues, let alone controversial new technologies. The emergence of private, well-funded ventures (e.g., Stardust) and ongoing interest from some states in keeping geoengineering options open further reduce the likelihood of a sweeping ban being agreed upon and entering into force within the next month. The only plausible yes scenario would require an unprecedented diplomatic shock\u2014something for which there is no evidence. Thus, the base rate and current trajectory strongly support a 'No' outcome.",
+            "final_probability": 1
+        },
+        "Environmental Policy (International Environmental Regimes)": {
+            "time_to_resolution": "Approximately 1 month (until December 31, 2025)",
+            "perspective_relevance": "As an expert in International Environmental Regimes, I bring a deep understanding of how multilateral environmental agreements are negotiated, adopted, and ratified. This perspective is crucial for evaluating the likelihood of a stringent, multilateral anti-solar-geoengineering pact exceeding 34 signatories within a very short remaining window. My expertise allows for nuanced analysis of international norm formation, the obstacles to rapid treaty adoption, and the role of scientific, political, and commercial developments in catalyzing or impeding collective action.",
+            "status_quo": "No such stringent anti-solar-geoengineering pact exists with more than 34 committed countries. The most prominent international stance is a research moratorium under the Convention on Biological Diversity (CBD), which is not as far-reaching or specific as the question requires.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Stringency and comprehensiveness of required pact provisions",
+                    "effect": "Decreases probability. The question's criteria require full bans on experimentation, deployment, funding, patents, and active opposition at international institutions. Historically, such comprehensive agreements are rare, especially for controversial technologies where scientific uncertainty and geopolitical interests are high."
+                },
+                {
+                    "factor": "Precedent and base rate of rapid, wide treaty adoption in environmental governance",
+                    "effect": "Decreases probability. Few environmental treaties have attracted more than 34 signatories in under a year from inception, particularly on emerging technologies. The CBD moratorium was adopted over years and is far less stringent."
+                },
+                {
+                    "factor": "Current state of international climate negotiations (COP30 outcomes)",
+                    "effect": "Decreases probability. COP30 failed to reach consensus on even more widely supported measures (e.g., fossil fuel phase-out). The climate regime is in a period of fragmentation and lowest-common-denominator consensus, not ambitious new treaties."
+                },
+                {
+                    "factor": "Emergence of commercial/technological interest in geoengineering (e.g., Stardust project)",
+                    "effect": "Decreases probability. The rise of private actors and some governments expressing interest in solar geoengineering increases polarization and makes consensus on a stringent ban less likely, as some states may see strategic or commercial advantage in retaining the option."
+                },
+                {
+                    "factor": "Recent reaffirmation of the CBD geoengineering moratorium",
+                    "effect": "Slightly increases probability. There is demonstrated multilateral concern and some willingness to restrict solar geoengineering, but this has not crystalized into a treaty matching the strict resolution criteria."
+                },
+                {
+                    "factor": "Domestic politics and geopolitics (e.g., U.S. climate skepticism, petrostates, China, India)",
+                    "effect": "Decreases probability. Key powers are either skeptical of strong climate action (U.S. under Trump), economically interested in fossil fuels (Saudi Arabia, Russia, India), or hedging on new technologies (China). These actors are unlikely to join, and their non-participation makes it harder for others to act."
+                },
+                {
+                    "factor": "Normative momentum and advocacy (e.g., International Non-Use Agreement campaign)",
+                    "effect": "Marginally increases probability. There is some advocacy and coalition-building, but no evidence of a breakthrough leading to a binding, detailed treaty with widespread uptake."
+                }
+            ],
+            "no_scenario": "Despite advocacy by environmental NGOs and a handful of states, negotiations remain stalled due to scientific uncertainty, commercial interest (e.g., Stardust and other ventures), and geopolitical divisions. Some countries may support voluntary statements or weak moratoria, but no binding, stringent treaty reaches more than 34 signatories by December 31, 2025. The status quo of the CBD moratorium (non-binding, research-focused, and lacking the breadth of the required bans) persists.",
+            "yes_scenario": "A major, high-profile solar geoengineering experiment (e.g., by Stardust or a government) triggers a global outcry and catalyzes a diplomatic crisis. In response, a bloc of countries led by the EU, some Latin American, African, and Pacific states, and a few Asian nations rapidly negotiate and sign a stringent anti-geoengineering treaty, reaching at least 35 signatories by the end of 2025. This requires exceptional mobilization, diplomatic leadership, and a strong sense of urgency\u2014likely driven by a near-term perceived threat.",
+            "final_reasoning": "Given the extremely stringent criteria (full bans on research, deployment, funding, patents, and active opposition in international forums), the short time frame (less than one month), and the current international context (COP30's inability to deliver binding measures, climate regime fragmentation, rising commercial interest in solar geoengineering, and lack of crisis-driven urgency), the probability of more than 34 countries fully committing to such a pact by December 31, 2025, is exceedingly low. The base rate for rapid, wide adoption of such stringent treaties is near zero, especially on a technology where some major powers and commercial actors are hedging or actively pursuing research. No news in the provided articles suggests a breakthrough, and the only relevant international regime (CBD moratorium) is not nearly as comprehensive or widely adopted in a legally binding form as the question requires. While a global crisis or high-profile experiment could theoretically catalyze such a response, there is no evidence this has occurred or will occur imminently. Therefore, the probability is extremely close to zero.",
+            "final_probability": 1
+        },
+        "Political Science (Punctuated Equilibrium Theory)": {
+            "time_to_resolution": "Approximately 1 month (until December 31, 2025)",
+            "perspective_relevance": "As an expert in Political Science with a focus on Punctuated Equilibrium Theory (PET), my perspective emphasizes the tendency of policy systems to remain stable for long periods, interrupted only by rare, abrupt changes ('punctuations'). This lens is crucial for evaluating the probability of a stringent anti-solar-geoengineering pact, as climate policy has historically evolved incrementally, with only occasional rapid shifts usually triggered by major focusing events, shifting public sentiment, or strong institutional entrepreneurship.",
+            "status_quo": "As of early December 2025, no such stringent anti-solar-geoengineering treaty exists with more than 34 signatories. The current international regime is characterized by a patchwork of moratoria (e.g., under the CBD), voluntary statements, and general climate diplomacy, but not a comprehensive, binding anti-geoengineering pact with the strict criteria listed.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Stringency and comprehensiveness of required pact",
+                    "effect": "Decreases probability. The resolution criteria require an unusually stringent and encompassing agreement, barring not just deployment, but also research, funding, patents, and international advocacy. Historically, such comprehensive multilateral treaties are rare, especially on emerging technologies."
+                },
+                {
+                    "factor": "Recent international climate negotiations (COP30 and beyond)",
+                    "effect": "Decreases probability. COP30 ended with symbolic and diluted agreements, with no binding phase-out of fossil fuels, and even traditional climate policy is struggling to achieve ambitious consensus. Solar geoengineering is even more controversial and less mature in policy discourse."
+                },
+                {
+                    "factor": "Geopolitical fragmentation and great power rivalry",
+                    "effect": "Decreases probability. The news highlights increased division\u2014US absence at COP30, EU facing internal splits, and major emitters like China, India, and Russia opposing ambitious collective action. This fragmentation makes large, fast, binding agreements on contentious issues highly unlikely."
+                },
+                {
+                    "factor": "Emergence of private actors and potential race for geoengineering",
+                    "effect": "Decreases probability. The Stardust case shows actors are moving toward commercial solar geoengineering, likely increasing the salience of the technology but also making a preemptive ban harder, given the interests already forming around possible deployment."
+                },
+                {
+                    "factor": "Base rate of comparable international treaties",
+                    "effect": "Decreases probability. Historically, treaties banning entire classes of emerging technology (e.g., nuclear, chemical, or biological weapons conventions) took years to decades to negotiate, often only after widespread alarm or use. There is no equivalent 'focusing event' for solar geoengineering yet."
+                },
+                {
+                    "factor": "Existence of an active 'International Non-Use Agreement' campaign",
+                    "effect": "Slightly increases probability. There is a coordinated civil society and scientific push for a non-use treaty, which could, in theory, catalyze action by climate-vulnerable states and some EU countries. However, this is insufficient to overcome the structural obstacles described above."
+                }
+            ],
+            "no_scenario": "Despite mounting concern over climate change and isolated calls for a moratorium, the international community does not reach consensus on a stringent, binding anti-solar-geoengineering pact by end of 2025. Some countries may issue joint statements or sign non-binding declarations, but the comprehensive treaty with all five criteria and 35+ signatories fails to materialize due to opposition from major powers, ongoing geopolitical fragmentation, and lack of a triggering event.",
+            "yes_scenario": "A rapid, punctuated shift occurs: a major, highly publicized geoengineering experiment (perhaps by Stardust or another actor) triggers a global backlash, leading to a swift diplomatic campaign spearheaded by the EU, Small Island Developing States, and climate-vulnerable nations. Sufficient momentum is generated to convene an emergency treaty negotiation, and\u2014through a combination of moral suasion, public pressure, and institutional entrepreneurship\u201435+ countries commit to a stringent ban before the end of 2025. This would require a focusing event and unusually effective international mobilization.",
+            "final_reasoning": "Applying Punctuated Equilibrium Theory, the most likely outcome is policy stasis or very incremental change. The stringent criteria for the pact, combined with the absence of a focusing event, lack of binding outcomes even in core climate negotiations (COP30), and deepening geopolitical splits, all point toward a low probability of a comprehensive anti-solar-geoengineering treaty with 35+ signatories by the end of 2025. While there is some grassroots and scientific advocacy for a ban, the emergence of commercial actors and the increasing salience of geoengineering as a 'last resort' for climate change mitigation make consensus even harder. Historically, only overwhelming threat perception or catastrophic events have catalyzed rapid, large-scale treaty formation\u2014neither of which appears present in the news or recent climate diplomacy. The base rate for such treaties in a two-year window is extremely low. Absent a dramatic focusing event, the status quo will persist.",
+            "final_probability": 2
+        },
+        "Political Science (Advocacy Coalition Framework)": {
+            "time_to_resolution": "Approximately 1 month (until December 31, 2025)",
+            "perspective_relevance": "As an expert in Political Science, specifically the Advocacy Coalition Framework (ACF), my perspective is highly relevant for evaluating the prospects of a stringent anti-solar-geoengineering pact. The ACF emphasizes the roles of coalitions of actors (states, NGOs, scientists, industries) with shared belief systems, policy learning, and external events in shaping policy change. Understanding advocacy coalitions, their resources, and how policy subsystems evolve provides insight into the likelihood of collective action on complex, controversial issues like geoengineering.",
+            "status_quo": "No such stringent anti-solar-geoengineering pact exists with commitments from more than 34 countries. Existing international agreements (e.g., CBD moratorium) are not as stringent or as widely committed under treaty obligations meeting all the criteria listed.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Stringency and comprehensiveness of the required pact",
+                    "effect": "Decreases probability. The resolution criteria require an exceptionally strong and comprehensive set of commitments (ban on experiments, deployment, funding, patents, and opposition in international fora), which is rare in multilateral environmental diplomacy, especially on emerging technologies."
+                },
+                {
+                    "factor": "Advocacy Coalition Fragmentation",
+                    "effect": "Decreases probability. The ACF suggests that policy change is difficult when the policy subsystem is fragmented and powerful advocacy coalitions (e.g., fossil-fuel states, emerging economies, pro-technology groups) oppose stringent restrictions. News from COP30 and other climate processes reveals division among key players and lack of consensus on even less controversial climate measures."
+                },
+                {
+                    "factor": "Geopolitical context and competing priorities",
+                    "effect": "Decreases probability. Current geopolitical fragmentation (e.g., U.S. withdrawal/disengagement, Russia-China bloc, divisions at COP30) makes new, ambitious multilateral treaties unlikely. States are prioritizing energy security and economic competitiveness, as seen by OPEC+ and pipeline deals."
+                },
+                {
+                    "factor": "Recent climate urgency and public opinion",
+                    "effect": "Slightly increases probability. The record heat and climate disasters, combined with growing youth and civil society mobilization, increase calls for more radical climate action, which could push some states to support a moratorium. However, this is more likely to result in voluntary pledges or less stringent agreements."
+                },
+                {
+                    "factor": "Private sector and state interest in geoengineering",
+                    "effect": "Decreases probability. The emergence of companies like Stardust, with backing from powerful defense and tech sectors, creates vested interests in keeping geoengineering research possible. Some states may want to retain the option, making them reluctant to sign such a restrictive pact."
+                },
+                {
+                    "factor": "Historical base rates for rapid, large-scale treaty adoption",
+                    "effect": "Decreases probability. Historically, it is very rare for 35+ countries to sign and ratify a stringent new agreement on an emerging technology within a short time frame, especially when major powers are divided."
+                }
+            ],
+            "no_scenario": "Despite mounting climate risks and some states calling for a solar geoengineering moratorium, major emitters (e.g., U.S., China, India, Russia, Saudi Arabia) and many middle-income states refuse to commit to a stringent ban. Some may support voluntary guidelines or less restrictive frameworks, but not the full list of prohibitions. The advocacy coalition for a moratorium is strong among some EU, small island, and Latin American states, but not large or unified enough. Private companies and some governments continue research, and proposed treaties stall in negotiations or attract only a handful of signatories.",
+            "yes_scenario": "A sudden exogenous shock\u2014such as a high-profile geoengineering experiment causing international outrage\u2014galvanizes a broad coalition of states into rapid treaty negotiation. The EU, many small island states, some Latin American and African countries, and a few Asian nations join forces, and global public opinion creates immense pressure. In a rare diplomatic breakthrough, 35+ countries sign and ratify a treaty meeting all five criteria before the end of 2025, marginalizing opposition from major powers.",
+            "final_reasoning": "The base rate for rapid adoption of such stringent, comprehensive international treaties on emerging technologies is extremely low. The news from COP30 and ongoing climate diplomacy highlights deep divisions and an inability to reach consensus even on less controversial measures. The Advocacy Coalition Framework reinforces the expectation that, absent a major focusing event, policy subsystems remain resistant to abrupt change, especially when powerful coalitions with opposing interests exist. The emergence of private sector interest, and major states' reluctance to tie their hands on potential climate 'Plan B' technologies, further reduces the probability. While climate urgency and some advocacy for a moratorium exist, these are insufficient to overcome the formidable barriers posed by geopolitics, policy fragmentation, and vested interests. Thus, the probability of more than 34 countries committing to such a stringent anti-solar-geoengineering pact before 2026 is extremely low.",
+            "final_probability": 2
+        }
+    },
+    "deliberation_probability": [
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        3,
+        2,
+        1,
+        1,
+        2,
+        2
+    ],
+    "deliberation_mean_probability": 1.6153846153846154,
+    "deliberation_sd": 0.6504436355879909,
+    "deliberation_probability_result": 2
+}
