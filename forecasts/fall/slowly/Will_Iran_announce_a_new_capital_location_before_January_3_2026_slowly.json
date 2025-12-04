@@ -1,0 +1,317 @@
+{
+    "deliberation_results": {
+        "Public Administration (Government Policy Announcement Process)": {
+            "time_to_resolution": "Approximately 13 months (from December 4, 2025, to January 3, 2026)",
+            "perspective_relevance": "As an expert in public administration, particularly in the government policy announcement process, I bring an understanding of how major policy decisions\u2014especially those with immense logistical, political, and financial consequences like capital relocation\u2014are debated, prepared, and announced. In systems like Iran's, where high-level policy changes must be coordinated between the presidency, parliament, and the Supreme Leader's office, public pronouncements may be used to signal intent, test public reaction, or shift blame, but official, resolutive announcements with specifics are rare and typically require elite consensus and a clear implementation path. Recognizing the difference between rhetorical signaling and official, actionable announcements is crucial for this forecast.",
+            "status_quo": "Despite severe ecological crises and periodic proposals, Iran has not officially announced a new capital location in recent decades. Previous discussions have not advanced to a formal, specific announcement naming a new capital city, and actual implementation has never begun.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Severity and Visibility of the Water Crisis",
+                    "effect": "Increases probability. The unprecedented severity of the current water crisis, with Tehran facing possible 'evacuation' and irreversible ecological damage, has pushed the issue to the top of the political agenda. This generates strong incentives for the government to demonstrate decisive action, potentially including an official announcement."
+                },
+                {
+                    "factor": "Political Incentives and Blame Shifting",
+                    "effect": "Increases probability. The government is under intense pressure to show responsiveness and shift blame from mismanagement to structural and ecological factors. Announcing a new capital location could be an attractive way to signal both action and inevitability\u2014especially as the crisis becomes harder to manage."
+                },
+                {
+                    "factor": "Elite Consensus and Implementation Barriers",
+                    "effect": "Decreases probability. Iranian policy on major strategic issues (like capital relocation) requires elite consensus, especially from the Supreme Leader and powerful institutions like the IRGC. The financial, logistical, and political barriers are enormous\u2014even for an announcement, as naming a specific new location creates expectations and opposition, and binds the regime to a costly course."
+                },
+                {
+                    "factor": "Historical Precedent and Base Rate",
+                    "effect": "Decreases probability. Despite repeated crises and debates, actual official announcements of capital relocation in Iran (naming a new site) are extremely rare. Base rates for such announcements globally, outside revolutionary or regime-collapse contexts, are low. Previous Iranian proposals (e.g., Rouhani era, prior urban crises) have not led to formal, site-specific announcements."
+                },
+                {
+                    "factor": "Recent Escalation and Public Statements",
+                    "effect": "Increases probability. President Pezeshkian has publicly stated the move is 'no longer optional,' and several credible sources report senior officials are seriously considering the Makran coast or Hormozgan as a new capital site. Some reports even claim Pezeshkian has named Makran or Hormozgan as the proposed new location, but ambiguity remains about whether this constitutes an official, site-specific government announcement per the question's fine print."
+                },
+                {
+                    "factor": "Administrative Norms: Rhetoric vs. Formal Resolutions",
+                    "effect": "Decreases probability. Iranian leaders often make strong rhetorical statements or propose general solutions under pressure, but formal, actionable announcements\u2014especially naming a specific county or city as a new capital\u2014usually require additional process: cabinet resolutions, parliamentary debate, and Supreme Leader endorsement. Without these, statements remain at the level of proposal or intent."
+                }
+            ],
+            "no_scenario": "Despite escalating crisis rhetoric, the Iranian government continues to issue warnings, propose studies, and discuss options for capital relocation, but stops short of formally announcing a new capital location at the specific county or city level. Administrative inertia, cost, elite division, and the hope for rain or temporary mitigation measures (rationing, cloud seeding, water transfers) lead to continued status quo, with only general language about 'relocation' or 'the necessity of moving' but no binding, site-specific announcement.",
+            "yes_scenario": "The government, under mounting public, political, and ecological pressure, decides to make a formal announcement naming a specific new location (such as Makran or Hormozgan) as Iran's future capital, possibly in an effort to project leadership, shift blame, or pre-empt unrest. This could take the form of a cabinet decision, an official presidential statement, or a joint communique with the Supreme Leader's office, clearly identifying the new capital at least at the county level. The announcement would be made irrespective of whether any physical relocation or implementation immediately follows.",
+            "final_reasoning": "The situation is highly dynamic, with severe ecological stress and political pressure driving the debate to an unprecedented level of urgency. President Pezeshkian has been unusually explicit, and some news sources cite statements naming the Makran region or Hormozgan province as a proposed site. However, from a public administration perspective, the leap from rhetoric and general proposals to a formal, site-specific government announcement is substantial. Iranian governance norms, the need for elite consensus, and the immense costs and risks attached to naming a new capital location make such an announcement less likely than the rhetoric suggests. Historically, even under extreme crisis, governments are reluctant to commit to irreversible decisions without clear implementation plans and consensus. The base rate for such announcements globally is low, and past Iranian experience suggests inertia and continued crisis management without formal action is more likely. Nonetheless, the crisis is severe and the regime may see value in making a dramatic announcement to signal action, even if wholly symbolic. Weighing these factors, I assign a moderately elevated but not extreme probability, reflecting both the unprecedented crisis and the high institutional threshold for formal announcements.",
+            "final_probability": 35
+        },
+        "Urban Planning (National Urban Development Strategies)": {
+            "time_to_resolution": "Approximately 1 month (question closes January 3, 2026)",
+            "perspective_relevance": "As an expert in Urban Planning and National Urban Development Strategies, my perspective is highly relevant because capital relocation is a rare, highly disruptive, and complex urban policy decision, typically requiring years of planning and coordination. Understanding the interplay of political, economic, infrastructural, and ecological factors is critical. I can assess the likelihood of an announcement based on international precedents, regime incentives, crisis response patterns, and the unique Iranian context.",
+            "status_quo": "Iran has not announced a new capital location; Tehran remains the capital, despite years of discussion about its ecological unsustainability. Past proposals stalled due to cost, logistics, and political inertia.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Severity and Immediacy of Water Crisis",
+                    "effect": "Increases probability. The crisis is now existential for Tehran, with warnings of 'Day Zero' and possible evacuation. This creates unprecedented political pressure for decisive action, including symbolic announcements."
+                },
+                {
+                    "factor": "Historical Precedent and Regime Incentives",
+                    "effect": "Increases probability. Iran has moved its capital multiple times historically. The regime may want to project responsiveness and forward-thinking, especially amid public discontent and international scrutiny."
+                },
+                {
+                    "factor": "Financial and Logistical Constraints",
+                    "effect": "Decreases probability. Moving a capital is extraordinarily expensive (estimates >$77-100B) and logistically daunting. Iran is under severe economic constraints, sanctions, and internal unrest, making actual implementation improbable in the short term, but the question only requires an announcement, not enactment."
+                },
+                {
+                    "factor": "Political Risks and Elite Preferences",
+                    "effect": "Decreases probability. Tehran is home to the political, economic, and clerical elite, who may resist a move that undermines their access to power and resources. Supreme Leader Khamenei\u2019s support would be necessary for a credible announcement."
+                },
+                {
+                    "factor": "Symbolic Politics vs. Real Change",
+                    "effect": "Increases probability. The regime has a history of making dramatic announcements as a pressure valve or distraction from deeper reforms. An announcement naming a new capital\u2014especially in a vague or aspirational way\u2014fits this pattern."
+                },
+                {
+                    "factor": "Recent Official Statements and Media Framing",
+                    "effect": "Increases probability. In the last two weeks, President Pezeshkian has repeatedly stated the move is 'inevitable' and specifically referenced the southern Makran region and Hormozgan province as possible sites. Some sources claim the president has already 'announced' the Makran coast as the new capital, though ambiguity remains as to the official status of such statements."
+                },
+                {
+                    "factor": "Base Rate of Capital Relocation Announcements",
+                    "effect": "Decreases probability. Globally, actual capital relocation announcements are very rare, especially on short timelines, even in crisis. Previous Iranian governments have considered but not formally announced a new capital."
+                }
+            ],
+            "no_scenario": "Despite escalating crisis rhetoric, the government stops short of officially naming a new capital location. They continue to discuss relocation as inevitable, launch studies, or suggest possible regions (e.g., Makran, Hormozgan) but do not make a definitive, formal announcement specifying a county or city. Opposition from powerful elites or budgetary realities lead to further delays, or the government instead pursues severe rationing, water imports, and other crisis management strategies.",
+            "yes_scenario": "In response to acute water shortages and political pressure, President Pezeshkian (with or without Supreme Leader Khamenei\u2019s blessing) publicly and unambiguously announces that the capital will be moved to a specific location, likely naming either the Makran coast, Hormozgan province, or a specific city/county therein. The announcement is made to show decisive leadership, attract investment, and signal a break from past inaction, regardless of whether practical steps follow.",
+            "final_reasoning": "The unprecedented severity of Tehran\u2019s water crisis has created maximal political pressure for action. The president has repeatedly stated relocation is 'no longer optional' and has named the Makran coast/Hormozgan as the likely destination. Several news reports frame these statements as an announcement, but on close reading, most are either paraphrasing, quoting proposals, or reflect internal government discussions, not a formal, official declaration naming a specific new capital location (at least at the county level, per the fine print). However, the regime is under immense pressure to project control and responsiveness; a symbolic announcement is a classic autocratic crisis management tool. The main limiting factors are entrenched political interests, the need for Supreme Leader\u2019s approval, and the logistical/financial impossibility of true follow-through. While the base rate for actual capital relocation announcements is very low, the current crisis is exceptional, and recent statements have come close to meeting the resolution criteria. Given all factors, I judge the probability that Iran will announce a new capital location before January 3, 2026, to be moderately high but not extreme.",
+            "final_probability": 65
+        },
+        "Political Science (Political Decision Making Models)": {
+            "time_to_resolution": "About 1 month (January 3, 2026 is the deadline; today is December 4, 2025)",
+            "perspective_relevance": "As an expert in Political Decision Making Models, I am equipped to analyze the interplay between crisis-driven urgency, institutional inertia, elite consensus, and the political economy of capital relocation. My approach synthesizes rational actor models, organizational process models, and the role of political bargaining under acute environmental stress. This enables an in-depth assessment of the likelihood of an official announcement, considering not only technical feasibility but also elite incentives, bureaucratic capacity, and historical precedent.",
+            "status_quo": "No announcement of a new capital location; previous proposals to relocate Tehran have not resulted in a concrete, specific commitment to a new site.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Crisis Severity and Perceived Necessity",
+                    "effect": "Increases probability. The unprecedented water crisis, described as 'bankruptcy,' has created a heightened sense of urgency, with President Pezeshkian repeatedly emphasizing that relocation is 'no longer optional.' Such acute crises can catalyze decision-making that would otherwise stall."
+                },
+                {
+                    "factor": "Elite Consensus and Political Incentives",
+                    "effect": "Increases probability. The president has raised the issue with the Supreme Leader, indicating regime-level buy-in is being sought. When core regime interests and survival are threatened, elite consensus can coalesce rapidly\u2014especially if the regime wants to demonstrate responsiveness or shift blame to environmental factors."
+                },
+                {
+                    "factor": "Historical Precedent and Institutional Inertia",
+                    "effect": "Decreases probability. Despite historical relocations, in the modern era, previous plans (e.g., under Rouhani) have stalled due to the scale, cost, and institutional inertia. Iranian bureaucracy and competing interests (e.g., the IRGC, entrenched interests in Tehran) are substantial obstacles to decisive action within a short timeframe."
+                },
+                {
+                    "factor": "Feasibility and Resource Constraints",
+                    "effect": "Decreases probability. The estimated costs ($77-100B), logistical challenges, and questionable suitability of proposed sites (Makran/Hormozgan) raise doubts about the credibility of an imminent, specific announcement, even if the regime feels pressured to act."
+                },
+                {
+                    "factor": "Symbolic Politics and Blame-Shifting",
+                    "effect": "Increases probability. Announcing a new capital location\u2014even without practical follow-through\u2014can serve as a symbolic gesture to demonstrate action, deflect blame from mismanagement to 'ecological catastrophe,' and rally support. The fine print allows for a simple announcement, not full implementation."
+                },
+                {
+                    "factor": "Imminence of Social Unrest",
+                    "effect": "Increases probability slightly. The risk of unrest in Tehran due to water shortages may drive authorities to announce a relocation to signal decisive action and preempt criticism or unrest."
+                },
+                {
+                    "factor": "Base Rate of Capital Relocation Announcements",
+                    "effect": "Decreases probability. Globally, announcements of new capitals under crisis conditions are rare, even in severe cases (e.g., Jakarta, Cairo). While Iran has historical precedent, the modern base rate is low."
+                }
+            ],
+            "no_scenario": "Despite escalating rhetoric and dire warnings, the Iranian government fails to announce a specific new capital location before January 3, 2026. Deliberations continue behind closed doors, but internal disagreements, logistical complexities, and the absence of elite consensus delay any public, specific commitment. The regime instead focuses on emergency rationing, technical fixes, and symbolic measures (e.g., public prayers for rain, cloud seeding), while maintaining the status quo.",
+            "yes_scenario": "Amid mounting water shortages, with reservoirs at critical lows and growing public anxiety, President Pezeshkian\u2014backed by the Supreme Leader\u2014makes an official announcement designating Makran (or Hormozgan) as the future capital, at least at the county level, to demonstrate decisive action. The announcement is framed as necessary for national survival, with details on the location but without a concrete timetable or implementation plan. The move is largely symbolic, meant to buy time and signal control.",
+            "final_reasoning": "The current crisis is unprecedented in modern Iranian history. President Pezeshkian has repeatedly and publicly stated that relocation is 'inevitable' and 'no longer optional,' and has floated specific regions (Makran, Hormozgan). The regime faces acute risk from social unrest if Tehran becomes uninhabitable. The fine print requires only an announcement, not actual relocation, and such a move could be advantageous for the regime to shift blame, demonstrate leadership, and preempt unrest. However, substantial obstacles remain: Iran's bureaucracy is slow, elite consensus is required, and the base rate for such announcements is low even under severe crisis. Given the acute urgency, repeated hints at the Makran/Hormozgan region, and the regime's need for symbolic action, I assess that the probability of an official announcement specifying a new capital location before January 3, 2026 is considerably elevated but not overwhelming. My estimate integrates the extreme crisis context (which pushes probability up), the bureaucratic and political hurdles (which push down), and the fact that the announcement can be largely symbolic (which pushes up).",
+            "final_probability": 62
+        },
+        "Political Science (Regime Stability Theory)": {
+            "time_to_resolution": "Approximately 1 month (until January 3, 2026)",
+            "perspective_relevance": "As a political scientist specializing in regime stability, I focus on how ecological crises interact with authoritarian regime incentives, institutional inertia, elite interests, and crisis-triggered policy changes. My expertise is relevant because regime survival calculations, elite bargaining, and the risk calculus of public unrest or delegitimization shape Iran\u2019s willingness to make and announce a drastic decision like relocating the capital. I also bring attention to the historical inertia of capital relocations, the role of symbolic acts versus genuine implementation, and the use of public announcements to manage legitimacy during acute crises.",
+            "status_quo": "Despite years of discussion and repeated ecological warnings, Iran has not officially announced a specific new capital location. Past proposals have not led to formal announcements at the required specificity.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Acute ecological crisis and existential threat to Tehran's viability",
+                    "effect": "Strongly increases probability\u2014an unprecedented, immediate crisis can break institutional inertia and create regime incentives for bold, symbolic announcements to project control and responsiveness."
+                },
+                {
+                    "factor": "High regime centralization and authoritarian decision-making",
+                    "effect": "Increases probability somewhat\u2014centralized regimes can take decisive top-down actions, especially in the face of existential threats, and can announce plans without waiting for full bureaucratic consensus or implementation capacity."
+                },
+                {
+                    "factor": "Elite interests and regime stability calculus",
+                    "effect": "Ambiguous\u2014elites may resist actual relocation due to sunk investments and power concentration in Tehran, but may support an announcement as a measure to quell unrest, shift blame, or buy time. If regime survival appears threatened by unrest or delegitimization, the announcement's probability rises."
+                },
+                {
+                    "factor": "Institutional inertia and logistical/financial obstacles",
+                    "effect": "Decreases probability\u2014historically, capital relocations are rare, slow, and face massive bureaucratic, financial, and logistical obstacles. Even in crisis, regimes often prefer incremental responses over irreversible symbolic shifts."
+                },
+                {
+                    "factor": "Precedent and signaling value of announcement (vs. implementation)",
+                    "effect": "Increases probability somewhat\u2014since the question resolves on announcement alone (not implementation), the regime could make a specific declaration as a symbolic act to signal decisiveness, even if practical follow-through is uncertain."
+                },
+                {
+                    "factor": "Recent statements and patterns in the newsfeed",
+                    "effect": "Moderately increases probability\u2014multiple credible sources report recent, explicit presidential statements about the inevitability of relocation, naming the Makran coast or southern coastal regions as proposed sites."
+                },
+                {
+                    "factor": "Base rate of similar capital relocation announcements globally and in Iran",
+                    "effect": "Decreases probability\u2014globally, actual capital relocations or even announcements at specific location level are rare (Jakarta's move is a rare exception), suggesting a low base rate. Iran itself has debated moving the capital for decades without a formal, specific-location announcement."
+                }
+            ],
+            "no_scenario": "Despite the severity of Tehran\u2019s crisis and strong presidential rhetoric, the Iranian regime continues to rely on incremental measures (rationing, emergency holidays, public conservation campaigns, cloud seeding) and avoids making a formal, specific-location announcement due to elite resistance, logistical impossibility, or regime unwillingness to commit to an irreversible, high-cost symbolic act. Instead, announcements remain vague, referencing relocation as a necessity or possibility, but not naming a specific new capital at the county level. The regime may also fear the destabilizing effects of a formal announcement, both domestically and in terms of international perception of regime weakness.",
+            "yes_scenario": "The regime, facing a truly existential crisis in Tehran, calculates that a specific announcement is necessary to maintain legitimacy, project control, and preempt unrest or elite fragmentation. President Pezeshkian, with Supreme Leader approval, holds a press conference or issues a formal decree announcing that the capital will be moved to a specifically named location (e.g., the Makran region, Hormozgan province) at least at the county level, possibly as a symbolic act to buy time and shift blame for ongoing failures. The announcement is made before January 3, 2026, even if concrete implementation steps are absent.",
+            "final_reasoning": "The acute water crisis in Tehran is unprecedented, with multiple news outlets reporting imminent or ongoing catastrophic shortages, and the president making the most explicit statements yet about the necessity of relocation, including naming Makran or Hormozgan as candidate regions. The regime\u2019s authoritarian structure allows for rapid, top-down symbolic action, especially under existential threat. The question resolves on announcement alone, not implementation, lowering the bar for a 'Yes.' However, strong institutional inertia, elite interests rooted in Tehran, and the historically low base rate of such announcements (both globally and in Iran) temper the probability. The fact that previous presidents have made similar threats without specificity, and that even now most statements are in the form of proposals or inevitability rather than firm declarations, is a key drag. However, the recent press coverage, including reports that Pezeshkian has officially proposed Makran or Hormozgan, and explicit statements that 'we no longer have a choice,' increase the probability above historical base rates. I judge that the risk calculus for the regime is shifting toward a specific announcement, but true official specificity (naming a county-level new capital) is still not guaranteed, given Iran\u2019s history of rhetorical but nonbinding crisis management.",
+            "final_probability": 38
+        },
+        "Urban Studies (Urban Relocation Policy Analysis)": {
+            "time_to_resolution": "Approximately 1 month (until January 3, 2026)",
+            "perspective_relevance": "As an expert in Urban Studies (Urban Relocation Policy Analysis), my lens focuses on how states historically approach capital relocation under environmental stress, the political, administrative, and economic barriers to such moves, and the real-world timeline from crisis rhetoric to actionable, specific government announcements. I can contextualize recent political statements and ecological urgency within the base rates and structural limitations of state-driven urban relocation.",
+            "status_quo": "Despite years of talk about Tehran's unsustainability, Iran has not formally announced a new capital location. Past relocation discussions have remained proposals without specifying a destination. The capital remains in Tehran.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Severity and Urgency of Water Crisis",
+                    "effect": "Increases probability. The crisis is widely recognized as existential, with 'Day Zero' rhetoric, and credible media reporting taps already running dry, making extraordinary governmental action more plausible."
+                },
+                {
+                    "factor": "Political Leadership and Rhetoric",
+                    "effect": "Increases probability. President Pezeshkian has escalated rhetoric from 'proposal' to 'necessity,' and publicly described relocation as unavoidable, even naming the Makran region as a potential site."
+                },
+                {
+                    "factor": "Historical Precedent and Base Rate for Capital Relocation",
+                    "effect": "Decreases probability. Actual capital relocations, especially those that specify a new city in the face of a crisis, are rare and typically require years of study, consensus, and planning. Announcements with specific locations are infrequent, even under dire ecological threat."
+                },
+                {
+                    "factor": "Administrative, Financial, and Logistical Barriers",
+                    "effect": "Strongly decreases probability. Announcing a new capital location, even without implementation, is a politically and administratively heavy move, especially when costs are estimated at $77\u2013100 billion and the alternative sites (Makran, Hormozgan) have their own ecological and infrastructural challenges."
+                },
+                {
+                    "factor": "Domestic Political Fragmentation and Institutional Inertia",
+                    "effect": "Decreases probability. Iran\u2019s internal politics are factional, and major decisions\u2014especially those with enormous symbolic and practical implications\u2014require buy-in from various power centers, including the Supreme Leader and IRGC. Past relocation proposals have failed due to lack of consensus."
+                },
+                {
+                    "factor": "Recent Explicitness of the Relocation Proposal",
+                    "effect": "Increases probability. News coverage in late November and early December 2025 states that Pezeshkian named the Makran region as a proposed new capital and described the move as 'unavoidable.' This marks a qualitative shift from vague rhetoric to mentioning a specific region."
+                }
+            ],
+            "no_scenario": "Despite escalating crisis and rhetoric, the government continues to discuss relocation in general terms, calling for studies or task forces but does not officially announce a specific new capital location before January 3, 2026. Emergency measures (rationing, possible temporary evacuations, water transfers) are prioritized instead. Political and administrative obstacles delay a formal announcement.",
+            "yes_scenario": "The government, under mounting ecological, political, and social pressure, makes an official announcement specifying Makran (or another county/region) as the future capital, perhaps framing it as a long-term solution or as part of a national recovery plan. The announcement is made despite logistical uncertainties, to project decisive leadership and quell unrest.",
+            "final_reasoning": "The unprecedented severity of Tehran's water crisis, combined with President Pezeshkian's increasingly explicit public statements and repeated references to the Makran region, make a near-term announcement more plausible than in previous years. Several articles from late November and December 2025 cite Pezeshkian as stating that relocation is 'unavoidable' and naming Makran as the proposed site, suggesting movement toward a formal declaration. However, the lack of a clear, unequivocal official statement (per the fine print: must specify location) as of early December, the immense logistical and political obstacles, and the historical rarity of such announcements under crisis still weigh heavily against a pre-January 3, 2026 resolution. The base rate for countries announcing a new capital location on short notice is extremely low, even in the face of disaster, and Iran\u2019s history of floating relocation ideas without follow-through is notable. Yet, the possibility that the government will issue a symbolic, long-term announcement to manage unrest and demonstrate action cannot be dismissed, especially since the announcement alone\u2014regardless of implementation\u2014is sufficient for a 'Yes.' Balancing these factors, I judge the probability as significantly elevated from the base rate, but not above 50%, given the lack of a formal, location-specific announcement to date and the short time window remaining.",
+            "final_probability": 35
+        },
+        "Urban Studies (Capital City Relocation Case Studies)": {
+            "time_to_resolution": "Approximately 1 month (Question closes January 3, 2026; today is December 4, 2025).",
+            "perspective_relevance": "As an expert in Urban Studies with a focus on capital city relocation case studies, I bring an understanding of the historical, political, and logistical precedents for capital relocations globally, including the difference between rhetorical proposals and actionable, specific policy announcements. I also analyze implementation speed and government incentives in crisis-driven versus planned relocations.",
+            "status_quo": "Despite years of discussion and escalating environmental crisis, Iran has not officially announced a new capital location; the capital remains in Tehran, and past proposals have not advanced to a formal declaration with a specified alternative site.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Severity and Urgency of the Water Crisis",
+                    "effect": "Increases probability. The crisis has reached a critical, perhaps unprecedented, level, with the president and multiple officials framing relocation as a necessity, not a choice."
+                },
+                {
+                    "factor": "Political Will and Precedent",
+                    "effect": "Increases probability. President Pezeshkian has repeatedly stated relocation is unavoidable and has referenced specific regions (Makran, Hormozgan) as potential destinations, suggesting movement toward a concrete announcement."
+                },
+                {
+                    "factor": "Logistical and Financial Hurdles",
+                    "effect": "Decreases probability. Even with urgency, the cost estimates ($77\u2013$100+ billion), lack of infrastructure in proposed regions, and the scale of population/government movement make rapid decision-making challenging."
+                },
+                {
+                    "factor": "Base Rate of Capital Relocation Announcements",
+                    "effect": "Decreases probability. Globally, formal announcements specifying a new capital location are rare, especially under crisis conditions; most cases involve protracted deliberations."
+                },
+                {
+                    "factor": "Regime Incentives and Political Risk",
+                    "effect": "Ambiguous. The government may see an announcement as a way to deflect blame for the crisis (shifting from mismanagement to 'act of God'), but may also fear backlash from elites and the public, or see an announcement as premature if feasibility studies are incomplete."
+                },
+                {
+                    "factor": "Signals of Imminence in Media and Official Discourse",
+                    "effect": "Increases probability. Recent news includes several claims that Pezeshkian has 'announced' the move, naming the Makran coast, though there is ambiguity as to whether this constitutes an official, formal designation per the resolution criteria."
+                },
+                {
+                    "factor": "Definition of 'Announcement' per Resolution Criteria",
+                    "effect": "Neutral to slightly increases probability. The question only requires an official statement naming a new location (at least county level); actual implementation or even a detailed plan isn't necessary."
+                }
+            ],
+            "no_scenario": "Despite mounting crisis and presidential rhetoric, the Iranian government continues to debate and study the relocation without issuing an official statement naming a specific new capital location. Internal opposition, logistical doubts, and the desire to avoid committing to a costly and disruptive move before further studies are complete lead to continued ambiguity and delay, with only general references to moving the capital but no formal designation.",
+            "yes_scenario": "Faced with intensifying public pressure, water shortages, and a rapidly deteriorating situation in Tehran, the government, led by President Pezeshkian, decides that a bold announcement is necessary for political, symbolic, and crisis-management reasons. The administration officially declares that the capital will move to the Makran region (or another specific area, e.g., Hormozgan), satisfying the resolution requirement of naming a specific new location before January 3, 2026, regardless of actual implementation.",
+            "final_reasoning": "The base rate for countries formally announcing a new capital location (with specificity) is low, even when crisis-driven. However, Iran's water crisis has reached a historic extreme, with repeated warnings of imminent disaster and Pezeshkian stating publicly that relocation is 'no longer optional.' Multiple media sources cite officials naming the Makran coast or Hormozgan as the proposed destination, with some describing these as historic or official announcements. Yet, ambiguity remains as to whether these statements meet the letter of the resolution criteria\u2014i.e., a formal government announcement specifying the new capital's location at least to the county level. The urgency, repeated references to specific regions, and the president's clear statements all raise the probability above the status quo, but uncertainty persists over whether the announcement has been or will be made in the formal, criterion-satisfying sense within the next month. Given the unprecedented pressure, the government's need for a dramatic response, and the relatively low bar for resolution (announcement only, not implementation), I assess the probability as significantly elevated but still not a lock\u2014reflecting historical inertia, logistical obstacles, and the regime's risk calculus.",
+            "final_probability": 57
+        },
+        "Middle East Studies (Iranian Domestic Politics)": {
+            "time_to_resolution": "Approximately 1 month (until January 3, 2026)",
+            "perspective_relevance": "As an expert in Iranian domestic politics, I have deep familiarity with the Iranian regime's decision-making patterns, the interplay between technocratic and political factions, historical precedents for capital relocation, and the mechanisms by which crisis-driven rhetoric is (or is not) translated into formal policy. I can assess the likelihood that an existential environmental crisis will overcome Iran's chronic bureaucratic stasis, vested interests, and the regime's preference for symbolic rather than substantive action. Furthermore, I am attuned to the roles of the Supreme Leader, the IRGC, and the broader political elite in sanctioning such a move, as well as the historical frequency of such announcements in Iran and comparable regimes.",
+            "status_quo": "Despite years of water crisis rhetoric, no Iranian government has made a formal, specific announcement of relocating the capital to a new, named location. Talk of relocation has recurred during prior droughts but has not resulted in actionable, location-specific commitments. The status quo is continued crisis management and blame-shifting, but not a formal, clear capital relocation decree.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Severity of the Water Crisis and Immediacy",
+                    "effect": "Increases probability. The current water crisis is described as unprecedented and existential, with key dams at 8-11% capacity, possible 'Day Zero' imminent, and the president warning of forced evacuation if rain does not come. This is much more acute than previous crises."
+                },
+                {
+                    "factor": "Escalation of Political Rhetoric and Specificity of Proposals",
+                    "effect": "Increases probability. President Pezeshkian has stated repeatedly in public, and in explicit terms, that relocation is 'not optional,' referencing specific alternative regions (e.g., Makran, Hormozgan). This is a higher level of commitment than past vague statements."
+                },
+                {
+                    "factor": "Elite Consensus and Supreme Leader Buy-in",
+                    "effect": "Decreases probability. While Pezeshkian has raised the issue with Khamenei, there is so far no public evidence that the Supreme Leader or the IRGC have given their blessing to a formal, actionable announcement. Large changes usually require elite consensus in Iran."
+                },
+                {
+                    "factor": "Bureaucratic and Financial Feasibility",
+                    "effect": "Decreases probability. The move is estimated to cost $77-100 billion; Iran faces budget shortfalls, sanctions, and competing priorities. Even under existential threat, the bureaucracy may default to incrementalism, studies, and delay."
+                },
+                {
+                    "factor": "Historical Precedent and Base Rates",
+                    "effect": "Decreases probability. While Iran has moved its capital several times in its history, in the past century, no major country has formally and specifically announced a new capital due to ecological crisis on such short notice. Recent precedent (Indonesia, Egypt) shows years of study and gradual decision-making before formal announcements."
+                },
+                {
+                    "factor": "Political Incentive for Symbolic Action",
+                    "effect": "Increases probability (slightly). The regime may see a formal announcement as a way to deflect blame, demonstrate 'action', and pre-empt social unrest even if implementation is years away. The low practical cost of an announcement (vs. actual relocation) makes this a tempting option."
+                }
+            ],
+            "no_scenario": "Despite mounting crisis and rhetorical escalation, the government stops short of naming a new capital before January 3, 2026. Instead, they announce new studies, commissions, potential regions, or further consultations, citing the need for more planning, budget constraints, or waiting for Supreme Leader approval. They may implement water rationing, emergency measures, or even symbolic 'decentralization,' but without the formal specificity required for question resolution.",
+            "yes_scenario": "Facing imminent water catastrophe and public panic, the government makes a high-profile official announcement\u2014possibly in a cabinet meeting, press conference, or presidential decree\u2014naming a specific county or region (e.g., Makran, Hormozgan) as the future location of Iran\u2019s capital. The announcement is justified as a necessary step to save the country and maintain stability, with implementation details left vague or deferred. The regime emphasizes the move as historic and urgent, even if practicalities are unresolved.",
+            "final_reasoning": "The water crisis in Tehran is now described as immediate and existential, with severe shortages, reservoir depletion, and the president issuing stark warnings. Unlike previous episodes, Pezeshkian has explicitly and repeatedly stated that relocation is now 'unavoidable,' directly naming potential regions like Makran and Hormozgan. This rhetorical escalation is notable and suggests that a formal announcement is actively under consideration at the highest levels. However, there is still no concrete evidence of Supreme Leader or IRGC buy-in, and the regime's history is to prioritize stability and avoid irreversible announcements without elite consensus. Bureaucratic inertia, immense financial cost, and the lack of a clear, unified plan are strong headwinds. On the other hand, the cost to the regime of making an announcement (as opposed to implementation) is low, and the symbolic/political incentives are high given the scale of crisis and desire to project control. Base rates for major capital relocation announcements on such short timelines are extremely low, but the situation is more acute than most historical precedents. On balance, the risk of a formal, specific announcement is meaningfully elevated compared to the historical norm, but remains less likely than not.",
+            "final_probability": 38
+        },
+        "Middle East Studies (Regional Geopolitics)": {
+            "time_to_resolution": "Just under 13 months (until January 3, 2026)",
+            "perspective_relevance": "As a Middle East geopolitics specialist, I bring expertise in Iran\u2019s political decision-making structures, the influence of environmental crises on regime stability, and the historical/structural inertia of the Iranian state. I can contextualize the difference between public rhetoric, formal policy announcements, and actual implementation in Iran's authoritarian, centralized system, and assess the likelihood of bold moves given current crisis dynamics and institutional constraints.",
+            "status_quo": "Iran has debated moving its capital for decades, especially since the 1990s, but has never officially designated a new location. Previous ecological and political crises have not resulted in a formal announcement specifying a new capital. The default/base-rate outcome is that despite crisis rhetoric, the government does not announce a new capital location within a given year.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Severity and immediacy of water/ecological crisis",
+                    "effect": "Increases probability. The unprecedented water crisis and warnings of imminent uninhabitability in Tehran have pushed the issue from abstract debate to existential necessity, increasing pressure for a decisive announcement."
+                },
+                {
+                    "factor": "Historical and bureaucratic inertia",
+                    "effect": "Decreases probability. Iranian governance is characterized by slow, cautious decision-making on major issues, especially those requiring immense resources and coordination. Previous proposals to move the capital have stalled for decades."
+                },
+                {
+                    "factor": "Political signaling and regime legitimacy",
+                    "effect": "Increases probability. In times of acute crisis, the regime may favor a dramatic policy announcement to show responsiveness and strategic vision, especially as a distraction from mismanagement and to rally elite and public support."
+                },
+                {
+                    "factor": "Resource constraints and feasibility doubts",
+                    "effect": "Decreases probability. The cost estimates ($77\u2013100 billion), lack of clear alternative locations with sufficient water, and likely resistance from entrenched interests (especially in Tehran\u2019s bureaucracy and the IRGC) make a concrete announcement risky and potentially embarrassing if not followed up."
+                },
+                {
+                    "factor": "Precedent in Iranian and regional history",
+                    "effect": "Slightly increases probability. Iran has historically shifted capitals in response to crises, though rarely on short timelines. The precedent provides some political-cultural cover for taking such a step."
+                },
+                {
+                    "factor": "Recent escalation of official rhetoric and specificity",
+                    "effect": "Increases probability. President Pezeshkian has not only revived the relocation debate but has repeatedly named the Makran or Hormozgan region as a proposed destination, raising the likelihood of a location-specific announcement."
+                },
+                {
+                    "factor": "Role of Supreme Leader and elite consensus",
+                    "effect": "Decreases probability. Major decisions of this scale usually require Supreme Leader Khamenei's explicit blessing and substantial elite buy-in; while Pezeshkian has reportedly raised the issue with Khamenei, there is no clear sign of elite consensus."
+                }
+            ],
+            "no_scenario": "Despite the worsening crisis, the Iranian government continues to issue warnings, implement rationing, and float the idea of relocation, but does not make a formal, public announcement specifying a new capital location at the county or city level by January 3, 2026. The bureaucracy, cost, and political risk of making such a commitment stall the process. Instead, ad hoc measures and emergency management dominate.",
+            "yes_scenario": "Facing mounting evidence of imminent collapse in Tehran and the need to project authority and resolve, President Pezeshkian (with at least tacit support from the Supreme Leader) makes a formal announcement before January 3, 2026, designating the Makran coast (likely in Hormozgan province) as the new capital location, at least at the county or regional level. The announcement is made to preempt unrest, attract international attention, and signal a national pivot, even if implementation is left vague.",
+            "final_reasoning": "The water crisis in Tehran has reached an unprecedented level, with multiple credible reports indicating that the city is weeks or months away from losing its potable water supply. The regime faces immense pressure to demonstrate action. President Pezeshkian has repeatedly stated that relocating the capital is no longer optional, specifically referencing the Makran region and Hormozgan as potential destinations. Several news articles assert that he has 'announced' or 'proposed' relocation to these areas, though it is not yet clear that the government has made a formal, binding announcement specifying a new capital location. Historically, the Iranian state is slow to make such consequential, irreversible announcements without elite consensus, but the existential nature of the current crisis and the political utility of such a move make a formal announcement more likely than ever before. That said, bureaucratic inertia, elite resistance, and the immense practical challenges still weigh heavily. The base rate for such announcements is very low, but the extreme, acute crisis and the specificity of recent government rhetoric justify a substantial upward revision from baseline. On balance, I assess the probability that Iran will formally announce a specific new capital location before January 3, 2026 at 40%. This is much higher than the historical base rate but reflects significant remaining obstacles.",
+            "final_probability": 40
+        }
+    },
+    "deliberation_probability": [
+        35,
+        65,
+        62,
+        38,
+        35,
+        57,
+        38,
+        40
+    ],
+    "deliberation_mean_probability": 46.25,
+    "deliberation_sd": 12.781124475457661,
+    "deliberation_probability_result": 46
+}
