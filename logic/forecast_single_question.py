@@ -61,6 +61,7 @@ async def forecast_single_question(
     final_json = {
         "question_details": question_details,
         "cp_history": question_details.get("cp_history", []),
+        "aggregations": question_details.get("aggregations"),
         "date": forecast_date, "news": news,
         "forecasters": expert_names,
         "results": results,
