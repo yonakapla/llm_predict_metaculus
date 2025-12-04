@@ -205,18 +205,16 @@ def get_open_question_ids_from_tournament() -> list[tuple[int, int]]:
             # single question post
             post_dict[post["id"]] = [question]
 
-    open_question_id_post_cp = []
     open_question_id_post_id = []  # [(question_id, post_id)]
     for post_id, questions in post_dict.items():
         for question in questions:
-            if question.get("status") == "closed":
+            if question.get("status") == "open":
                 print(
                     f"ID: {question['id']}\nQ: {question['title']}\nCloses: "
                     f"{question['scheduled_close_time']}"
                 )
                 open_question_id_post_id.append((question["id"], post_id))
-                open_question_id_post_cp.append((post_id, question["aggregations"]["unweighted"]["latest"]))
-    return open_question_id_post_id, open_question_id_post_cp
+    return open_question_id_post_id
 
 
 def get_post_details(post_id: int) -> dict:
@@ -405,8 +403,7 @@ if __name__ == "__main__":
     if USE_EXAMPLE_QUESTIONS:
         open_question_id_post_id = EXAMPLE_QUESTIONS
     else:
-        open_question_id_post_id, open_question_id_post_cp = get_open_question_ids_from_tournament()
-    adg = open_question_id_post_cp
+        open_question_id_post_id = get_open_question_ids_from_tournament()
     now = datetime.datetime.now()
     asyncio.run(
         forecast_questions(
