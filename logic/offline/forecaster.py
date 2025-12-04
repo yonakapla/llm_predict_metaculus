@@ -113,7 +113,7 @@ async def dispassion(
     final_answer = probabilities["revision_probability_result"]
 
     filename = strip_title_to_filename(title) + EXP_NAME_DISPASSION
-    await build_and_write_json(filename, probabilities, is_woc, subdirectory="dispassion")
+    await build_and_write_json(filename, probabilities, is_woc, aggregations, subdirectory="dispassion")
 
     return final_answer, summarization
 
@@ -144,7 +144,7 @@ async def slowly(
     final_answer = probabilities["deliberation_probability_result"]
 
     filename = strip_title_to_filename(title) + EXP_NAME_SLOWLY
-    await build_and_write_json(filename, probabilities, is_woc, subdirectory="slowly")
+    await build_and_write_json(filename, probabilities, is_woc,aggregations, subdirectory="slowly")
 
     return final_answer, summarization
 
@@ -197,7 +197,7 @@ async def main_pipeline(
     final_answer = probabilities["revision_probability_result"]
 
     filename = strip_title_to_filename(title) + "recreated"
-    await build_and_write_json(filename, probabilities, is_woc, subdirectory="recreation")
+    await build_and_write_json(filename, probabilities, is_woc, aggregations, subdirectory="recreation")
 
     return final_answer, summarization
 
