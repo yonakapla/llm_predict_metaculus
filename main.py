@@ -3,6 +3,7 @@ import datetime
 import json
 import logging
 import os
+import time
 
 import dotenv
 
@@ -163,6 +164,75 @@ def ensure_probability_in_range(proba: float) -> float:
     return proba
 
 
+
+def list_posts_with_pagination(tournament_id: int, status="closed", limit=50):
+    """
+    פונקציית עזר שמושכת את *כל* הפוסטים עבור טורניר ספציפי וסטטוס ספציפי
+    על ידי ביצוע לולאה על כל הדפים (Pagination).
+    """
+    all_posts = []
+    offset = 0
+
+    print(f"--- Fetching {status} posts for Tournament ID: {tournament_id} ---")
+
+    while True:
+        url_qparams = {
+            "limit": limit,
+            "offset": offset,
+            "order_by": "-hotness",
+            # "tournaments": [tournament_id],
+            "statuses": status,
+            "include_description": "true",
+            "forecast_type": "binary,multiple_choice,numeric",
+            "with_cp": True,
+            "include_cp_history": True
+        }
+
+        try:
+            response = requests.get(f"{API_BASE_URL}/posts/", **AUTH_HEADERS, params=url_qparams)
+
+            if not response.ok:
+                print(f"Error fetching data: {response.text}")
+                break
+
+            data = json.loads(response.content)
+            results = data.get("results", [])
+
+            if not results:
+                break  # אין עוד תוצאות, יוצאים מהלולאה
+
+            all_posts.extend(results)
+            print(f"   Fetched {len(results)} posts (Total so far: {len(all_posts)})")
+
+            # בדיקה האם יש דף הבא
+            if not data.get("next"):
+                break
+
+            # קידום ה-offset לפעם הבאה
+            offset += limit
+
+            # השהייה קצרה למניעת חסימה (Rate Limiting)
+            time.sleep(0.5)
+
+        except Exception as e:
+            print(f"Exception occurred: {e}")
+            break
+    return all_posts
+
+def fetch_all_closed_posts(tournament_ids: list[int]):
+    """
+    הפונקציה הראשית: מקבלת רשימת ID, ועוברת עליהם אחד אחד.
+    """
+    aggregated_posts = []
+
+    # for t_id in tournament_ids:
+    tournament_posts = list_posts_with_pagination(1111, status="closed")
+    aggregated_posts.extend(tournament_posts)
+    # print(f"Done with Tournament {t_id}. Found {len(tournament_posts)} posts.\n")
+
+    print(f"=== FINAL TOTAL: Fetched {len(aggregated_posts)} closed posts from {len(tournament_ids)} tournaments. ===")
+    return aggregated_posts
+
 def list_posts_from_tournament(
         tournament_id: int = TOURNAMENT_ID, offset: int = 0, count: int = 50
 ) -> list[dict]:
@@ -194,6 +264,28 @@ def list_posts_from_tournament(
         raise Exception(response.text)
     data = json.loads(response.content)
     return data
+
+
+def get_closed_question_ids_from_tournament() -> list[tuple[int, int]]:
+    posts = fetch_all_closed_posts([])
+
+    post_dict = dict()
+    for post in posts:
+        if question := post.get("question"):
+            # single question post
+            post_dict[post["id"]] = [question]
+
+    closed_question_id_post_id = []  # [(question_id, post_id)]
+    for post_id, questions in post_dict.items():
+        for question in questions:
+            if question.get("status") == "closed":
+                print(
+                    f"ID: {question['id']}\nQ: {question['title']}\nCloses: "
+                    f"{question['scheduled_close_time']}"
+                )
+                closed_question_id_post_id.append((question["id"], post_id))
+    return closed_question_id_post_id
+
 
 
 def get_open_question_ids_from_tournament() -> list[tuple[int, int]]:
@@ -403,7 +495,17 @@ if __name__ == "__main__":
     if USE_EXAMPLE_QUESTIONS:
         open_question_id_post_id = EXAMPLE_QUESTIONS
     else:
+        MY_TOURNAMENTS = [
+            Q4_2024_AI_BENCHMARKING_ID,
+            Q1_2025_AI_BENCHMARKING_ID,
+            Q2_2025_AI_BENCHMARKING_ID,
+            Q4_2024_QUARTERLY_CUP_ID,
+            Q1_2025_QUARTERLY_CUP_ID,
+            AXC_2025_TOURNAMENT_ID,
+        ]
+
         open_question_id_post_id = get_open_question_ids_from_tournament()
+        closed_question_id_post_id = get_closed_question_ids_from_tournament()
     now = datetime.datetime.now()
     asyncio.run(
         forecast_questions(
