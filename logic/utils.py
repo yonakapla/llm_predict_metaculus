@@ -19,13 +19,13 @@ from utils.utils import normalize_and_average
 EXPERTS_PATH = "experts.json"
 
 
-def extract_question_details(question_details: dict) -> Tuple[str, str, str, str, str, str]:
+def extract_question_details(question_details: dict) -> Tuple[str, str, str, str, str, {}]:
     title = question_details.get("title", "")
     description = question_details.get("description", "")
     fine_print = question_details.get("fine_print", "")
     resolution_criteria = question_details.get("resolution_criteria", "")
     forecast_date = datetime.datetime.now().isoformat()
-    aggregations = question_details.get("aggregations", "")
+    aggregations = question_details.get("aggregations", {})
     return title, description, fine_print, resolution_criteria, forecast_date, aggregations
 
 
