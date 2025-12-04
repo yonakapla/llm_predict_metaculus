@@ -93,7 +93,7 @@ def asknews_query_builder(question_details: Dict[str, str]) -> str:
     """
     Build a query for AskNews based on the question details.
     """
-    title, description, _, _, _ = extract_question_details(question_details)
+    title, description, _, _, _, _= extract_question_details(question_details)
     query = f"{title} {description}"
     return query
 
@@ -101,7 +101,7 @@ def asknews_query_builder(question_details: Dict[str, str]) -> str:
 
 async def hyde(question_details: Dict[str, str]) -> str:
     model_client = OpenAIChatCompletionClient(model="gpt-4.1", temperature=1)
-    title, description, fine_print, resolution_criteria, forecast_date = extract_question_details(question_details)
+    title, description, fine_print, resolution_criteria, forecast_date, aggregations = extract_question_details(question_details)
     full_prompt = (
         f"##Forecast Date: {forecast_date}\n\n##Question:\n{title}\n\n##Description:\n{description}\n\n##Fine Print:\n"
         f"{fine_print}\n\n##Resolution Criteria:\n{resolution_criteria}")

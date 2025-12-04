@@ -173,6 +173,7 @@ def list_posts_from_tournament(
         "limit": count,
         "offset": offset,
         "order_by": "-hotness",
+        # "order_by": "-publish_time",
         "forecast_type": ",".join(
             [
                 "binary",
@@ -182,9 +183,12 @@ def list_posts_from_tournament(
         ),
         "tournaments": [tournament_id],
         "statuses": "open",
-        "include_description": "true",
+        "include_description": True,
+        "with_cp": True,
+        "include_cp_history": True
     }
     url = f"{API_BASE_URL}/posts/"
+    # url = f"{API_BASE_URL}/v3/questions/"
     response = requests.get(url, **AUTH_HEADERS, params=url_qparams)  # type: ignore
     if not response.ok:
         raise Exception(response.text)
@@ -210,7 +214,6 @@ def get_open_question_ids_from_tournament() -> list[tuple[int, int]]:
                     f"{question['scheduled_close_time']}"
                 )
                 open_question_id_post_id.append((question["id"], post_id))
-
     return open_question_id_post_id
 
 
