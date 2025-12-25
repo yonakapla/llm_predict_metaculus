@@ -1,0 +1,333 @@
+{
+    "deliberation_results": {
+        "Diplomacy (ConflictResolutionPractices)": {
+            "time_to_resolution": "Approximately 26 days (until December 31, 2025).",
+            "perspective_relevance": "As an expert in Diplomacy and Conflict Resolution Practices, I bring an understanding of the incentives, constraints, and typical escalation/de-escalation patterns that drive states to bring contentious cases before the ICJ. My expertise allows for an assessment of procedural hurdles (like jurisdictional consent), the impact of international legitimacy, and the strategic calculus of states in the current multipolar order.",
+            "status_quo": "As of December 4, 2025, five contentious cases have already been introduced at the ICJ in 2025. In most recent years, the annual number of new contentious cases has ranged between 2 and 6, with 5 being at the high end. The status quo outcome, if nothing changed, would be that no sixth case is opened, especially given the proximity to year-end and the procedural delays often involved.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rate of ICJ Contentious Cases per Year",
+                    "effect": "Decreases probability. Historically, the ICJ opens between 2 and 6 contentious cases per year, with 5 being on the high side. The probability of an additional case being filed in the last weeks of the year is lower based on historical patterns."
+                },
+                {
+                    "factor": "Current Pipeline of Conflicts and Diplomatic Tensions",
+                    "effect": "Slightly increases probability. There are several ongoing disputes (e.g., Mali-Algeria), but jurisdictional consent and procedural hurdles remain high. No clear signals in the news of imminent filings."
+                },
+                {
+                    "factor": "Procedural and Consent Hurdles",
+                    "effect": "Strongly decreases probability. ICJ cases require mutual consent or at least a plausible path to jurisdiction. The Mali-Algeria drone case is stalled, with Algeria refusing jurisdiction, exemplifying such procedural obstacles."
+                },
+                {
+                    "factor": "Recent Trends in State Use of International Legal Mechanisms",
+                    "effect": "Slightly increases probability. The weakening of Security Council effectiveness and rise of multipolarity have driven some states to seek alternative mechanisms for dispute resolution, including the ICJ, but this shift has not dramatically increased the frequency of case filings."
+                },
+                {
+                    "factor": "Timing and End-of-Year Filing Patterns",
+                    "effect": "Moderately decreases probability. There is little precedent for states filing contentious cases in the final weeks of the year, as such moves are often timed for maximum diplomatic effect or after significant preparatory work."
+                },
+                {
+                    "factor": "News Signals \u2013 No Announced Imminent Filings",
+                    "effect": "Decreases probability. None of the provided news articles indicate an imminent contentious case filing in December 2025."
+                }
+            ],
+            "no_scenario": "No additional state files a contentious case at the ICJ before the end of December 2025, either because active disputes (such as Mali-Algeria) remain blocked by jurisdictional refusal or because other states choose alternative diplomatic or legal forums, or simply delay action into 2026.",
+            "yes_scenario": "A state, possibly amid a sudden diplomatic crisis or as a symbolic move, files a new contentious case at the ICJ in late December 2025\u2014either a new dispute not yet covered in current reporting or a breakthrough in existing deadlocked cases (such as Mali-Algeria, if Algeria were to unexpectedly accept jurisdiction or if Mali files a revised or symbolic application).",
+            "final_reasoning": "The base rate for six or more contentious cases in a single year is quite low, and there is a clear procedural barrier in the only potential new case in the pipeline (Mali-Algeria), with Algeria refusing jurisdiction and no news of imminent breakthrough. Most recent news focuses on the ICC, not the ICJ, and broader diplomatic trends point to states using a mix of legal and political strategies, not a surge in ICJ cases. The status quo thus strongly favors no new case, with only a very small probability that an unforeseen crisis or a symbolic filing occurs at the very end of December. Factoring in all considerations, the probability of a sixth contentious case being opened at the ICJ in 2025 is low, though not zero.",
+            "final_probability": 8
+        },
+        "Diplomacy (TreatyNegotiationProcess)": {
+            "time_to_resolution": "Approximately 26 days (question resolves at the end of December 2025; today is December 25, 2025).",
+            "perspective_relevance": "As an expert in Diplomacy and Treaty Negotiation Processes, I bring a nuanced understanding of how states decide to escalate disputes to the ICJ, the procedural and political barriers to doing so, and the patterns that characterize contentious case filings. My expertise enables a careful analysis of incentives, state behavior, and the broader international legal and diplomatic climate, all of which are critical to forecasting the likelihood of a sixth contentious case being opened at the ICJ in December 2025.",
+            "status_quo": "Through December 24, 2025, five contentious cases have been opened at the ICJ this year. In recent years, the monthly rate of new cases has fluctuated between 4 and 8 per year, with the timing of filings often clustered in response to acute crises or diplomatic breakdowns.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rate of ICJ Contentious Cases",
+                    "effect": "Decreases probability somewhat: Historically, the ICJ averages 3-6 new contentious cases per year, with higher numbers in years with major conflicts. Five cases already opened in 2025 is at the upper end of the typical range, suggesting the base rate for a sixth is low, especially this late in the year."
+                },
+                {
+                    "factor": "Current International Crisis Environment",
+                    "effect": "Slightly increases probability: Ongoing crises (e.g., Gaza, Sudan, Ukraine, Mali-Algeria tensions) keep the possibility of urgent legal escalation alive. However, most major disputes are either already before the ICJ or stalled by a lack of consent (as with Mali-Algeria)."
+                },
+                {
+                    "factor": "Procedural and Consent Barriers",
+                    "effect": "Strongly decreases probability: The ICJ can only open a contentious case when the respondent state consents to jurisdiction. Recent reporting on the Mali-Algeria drone case, for instance, confirms Algeria\u2019s refusal, stalling proceedings. This is emblematic of a broader trend where many disputes fail to reach the ICJ due to lack of consent."
+                },
+                {
+                    "factor": "Late-December Filing Patterns",
+                    "effect": "Decreases probability: Historically, December has rarely seen new case filings, likely due to end-of-year slowdowns in government/legal activity and the length of the preparatory process for ICJ submissions."
+                },
+                {
+                    "factor": "Political Incentives for Using the ICJ",
+                    "effect": "Slightly increases probability: The shift toward multipolarity, frustration with Security Council paralysis, and the desire for symbolic victories or international legitimacy may motivate states to file even weak or symbolic cases. However, these incentives are dampened by the aforementioned procedural obstacles."
+                },
+                {
+                    "factor": "Recent Developments Not Yet Public",
+                    "effect": "Neutral: While it is possible a state could file a case in late December and the ICJ website has yet to reflect it, the question\u2019s resolution criteria rely on the ICJ website, and there is no news of imminent filings."
+                }
+            ],
+            "no_scenario": "No further contentious case is opened before December 31, 2025. The Mali-Algeria dispute remains blocked by Algeria\u2019s refusal to consent. Other major crises either have cases already pending (Ukraine-Russia, Gaza, Sudan) or lack mutual consent/jurisdictional basis. The year ends with five new cases opened.",
+            "yes_scenario": "A state files a contentious case at the ICJ in the last days of December 2025, and the respondent either consents or is already under the ICJ\u2019s compulsory jurisdiction. This could be a surprise escalation from an under-the-radar dispute or a sudden breakthrough in a current standoff (e.g., Algeria unexpectedly consents, or another state files and the respondent is bound by treaty or prior declaration).",
+            "final_reasoning": "While this year has seen a high level of international conflict and dissatisfaction with other forums (especially the Security Council), the procedural realities of ICJ litigation\u2014especially the requirement for respondent consent\u2014mean that most high-profile disputes are either already before the court or blocked from advancing. The Mali-Algeria case, the only plausible near-term candidate, is explicitly stalled. December is historically a quiet month for new filings. While there is always some possibility of a late, unexpected case (especially given the current global instability), all current evidence points to a low base rate for surprise December cases, and no news indicates an imminent filing. Given these diplomatic, legal, and statistical considerations, the probability of a sixth contentious case being opened at the ICJ in December 2025 is low but not zero, as black swan diplomatic escalations can occur.",
+            "final_probability": 8
+        },
+        "International Arbitration (StateDisputeResolutionProcedures)": {
+            "time_to_resolution": "6 days (until December 31, 2025)",
+            "perspective_relevance": "As an expert in International Arbitration (State Dispute Resolution Procedures), I bring deep familiarity with the procedural requirements, strategic motivations, and typical timelines that states consider when deciding to file contentious cases with the International Court of Justice (ICJ). I also understand the constraints imposed by the ICJ's jurisdictional requirements, notably the need for state consent, and the impact of broader geopolitical and legal trends on states\u2019 willingness to litigate at the ICJ.",
+            "status_quo": "Historically, the ICJ sees 2-5 new contentious cases per year, with the pace fluctuating based on global conflict trends and major international incidents. In 2025, five contentious cases have already been opened. The status quo outcome is that no further case will be opened in the final week of the year, as new cases are relatively rare, the threshold for filing is high, and the holiday period typically sees a lull in international legal activity.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rate of Case Openings",
+                    "effect": "Decreases probability. Historically, the ICJ rarely sees more than 5-6 new contentious cases in a single year. With five already opened in 2025, the base rate suggests a low likelihood of a sixth in the final week."
+                },
+                {
+                    "factor": "Procedural and Jurisdictional Hurdles",
+                    "effect": "Decreases probability. The requirement that both parties consent to ICJ jurisdiction (except in rare compulsory circumstances) means many disputes remain unresolved or are delayed indefinitely, as illustrated by the ongoing Mali-Algeria case, which is stalled for lack of Algerian consent."
+                },
+                {
+                    "factor": "Recent Filing and Escalation Patterns",
+                    "effect": "Neutral to slightly increases probability. 2025 has been unusually active, with five cases already filed. Major conflicts (Ukraine, Israel/Palestine, Sudan) and geopolitical volatility increase the pool of potential disputes, but most such moves are predictable and often announced or telegraphed in advance."
+                },
+                {
+                    "factor": "Holiday/End-of-Year Slowdown",
+                    "effect": "Decreases probability. The ICJ, like most international bodies, sees a marked slowdown in administrative and legal filings during the final week of December due to holidays and year-end closures."
+                },
+                {
+                    "factor": "Potential for Surprise Crisis or Political Move",
+                    "effect": "Increases probability slightly. Unexpected escalations (e.g., sudden military actions, sanctions, or political crises) could prompt a state to file a case in the final days of the year, but such moves are rare and typically foreshadowed in diplomatic or media channels."
+                },
+                {
+                    "factor": "Current News Flow and Known Disputes",
+                    "effect": "Decreases probability. The recent disputes in the news (e.g., Mali-Algeria) are not progressing due to lack of consent and no other major cases appear to be at the point of imminent filing. No credible reporting points to a new application in the pipeline for December's final days."
+                }
+            ],
+            "no_scenario": "December 2025 concludes without any state submitting a new application to the ICJ, consistent with historical trends and the absence of credible signals of an impending filing. The Mali-Algeria dispute remains unresolved due to Algeria\u2019s refusal to recognize jurisdiction, and no other known disputes escalate to the point of an immediate ICJ application.",
+            "yes_scenario": "A state, possibly motivated by a sudden diplomatic crisis, political calculation, or as a symbolic gesture, files a new contentious application with the ICJ in the final week of December 2025. This could arise from a rapid escalation in an unresolved dispute (e.g., a border incident, sanctions, or military confrontation), or a state seeking to pressure an adversary or register a protest in the international legal arena.",
+            "final_reasoning": "The base rate for contentious cases filed at the ICJ is low, even in years of heightened international tension. With five cases already filed in 2025, the likelihood of a sixth in the final week is historically and procedurally small. Most known disputes (such as Mali-Algeria) are currently stalled due to lack of consent, a common outcome in state-to-state arbitration. The ICJ\u2019s strict jurisdictional requirements, plus the holiday slowdown, further reduce the probability. While the international environment remains turbulent and theoretically conducive to new filings, there is no current evidence in the news or legal reporting of a case poised for immediate submission. The probability is not zero\u2014states can and sometimes do file unexpectedly\u2014but the combination of base rates, procedural hurdles, timing, and lack of signals makes a new case before year-end very unlikely.",
+            "final_probability": 6
+        },
+        "International Law (ContentiousCaseProceduresICJ)": {
+            "time_to_resolution": "6 days (forecast date: Dec 25, 2025; resolves Dec 31, 2025)",
+            "perspective_relevance": "As an expert in International Law with a specialization in contentious case procedures at the ICJ, I bring an understanding of the technical, procedural, and political preconditions for the opening of new cases, and can assess the likelihood of a sixth case being filed in 2025 against historical patterns, current geopolitical tensions, and the status of known potential disputes.",
+            "status_quo": "As of December 25, 2025, five contentious cases have been brought before the ICJ in 2025 (Sudan, Iran, France, Lithuania, Russia). In a typical year this number is close to the long-term annual average, and, historically, filings slow in December.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rate of Late-Year ICJ Filings",
+                    "effect": "Decreases probability. Historically, very few contentious cases are filed in the final week of December. Most cases are filed earlier in the year, as states prefer to avoid procedural or logistical complications associated with holidays and the end-of-year period."
+                },
+                {
+                    "factor": "Known Pending Disputes (Mali v. Algeria)",
+                    "effect": "Neutral to slightly increases probability. Mali filed a case against Algeria in mid-September, but Algeria has refused to accept the Court\u2019s jurisdiction, so this cannot yet proceed as a contentious case. Unless Algeria unexpectedly consents before the end of the year, this will not count."
+                },
+                {
+                    "factor": "Geopolitical Tensions and Incentives to Litigate",
+                    "effect": "Slightly increases probability. The international context is tense (e.g., Gaza, Ukraine, Sudan, asset freezes); high-profile disputes sometimes prompt late filings (for publicity or political leverage), but this is rare and would require rapid, coordinated government action."
+                },
+                {
+                    "factor": "Procedural Hurdles and State Consent Requirement",
+                    "effect": "Decreases probability. The ICJ can only hear cases where both parties accept its jurisdiction\u2014either generally or ad hoc. This is a significant barrier to new cases, especially in the absence of advance diplomatic groundwork."
+                },
+                {
+                    "factor": "Lack of Press Reports or Official Announcements Imminent",
+                    "effect": "Decreases probability. There are no credible reports in the news sample or on the ICJ docket of an imminent sixth filing; such cases are usually foreshadowed by diplomatic statements, leaks, or media coverage."
+                }
+            ],
+            "no_scenario": "No further contentious case is filed by December 31, 2025; the Mali v. Algeria dispute remains blocked by lack of Algerian consent, and no other state initiates a new case on short notice due to logistical, procedural, or political reasons.",
+            "yes_scenario": "A state files a contentious case in the last week of December 2025, perhaps as a result of a sudden escalation in a dispute (e.g., over frozen assets, maritime boundaries, or alleged acts of aggression), or if Algeria unexpectedly consents to ICJ jurisdiction vis-\u00e0-vis Mali, allowing that pending case to open.",
+            "final_reasoning": "The base rate for new ICJ contentious cases in late December is extremely low\u2014historically, most filings occur earlier in the year. As of Christmas, there are already five cases in 2025, which is near the annual average. The only clearly pending potential case (Mali v. Algeria) is stalled over jurisdiction and shows no sign of rapid resolution. No other disputes are visibly on the cusp of ICJ litigation, and the news sample contains no leaks or official statements indicating imminent new filings. The procedural requirement of mutual consent is a high barrier. While geopolitical tensions are high, and theoretically a late-year filing is possible, all available evidence points to the status quo holding through December 31. Therefore, the probability is low, but not zero, given the always-present possibility of a surprise\u2014such as a sudden consent by Algeria or an unannounced new dispute.",
+            "final_probability": 3
+        },
+        "International Law (StateSovereigntyDoctrine)": {
+            "time_to_resolution": "Approximately 26 days (until December 31, 2025)",
+            "perspective_relevance": "As an expert in International Law with a specialization in the doctrine of State Sovereignty, my perspective is particularly relevant because the ICJ's contentious jurisdiction is fundamentally premised upon state consent. Understanding how sovereignty, consent, and political context interact allows me to assess the likelihood of new cases being brought, and whether states will overcome the normative and political hurdles that often block recourse to the Court. My expertise enables me to evaluate both the legal and geopolitical incentives/disincentives for states to initiate contentious proceedings at the ICJ, particularly when sovereignty claims, jurisdictional objections, and power politics are in play.",
+            "status_quo": "The status quo is that five contentious cases have already been brought before the ICJ in 2025. In recent years, the number of new ICJ contentious cases per year has ranged from 2-6, with 2025 being on the high end. In the absence of new developments, the ICJ would close the year with five cases.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Historical Base Rate and Year-End Slowdown",
+                    "effect": "Decreases probability. The average annual rate of new contentious cases is around 3-5, with a tendency for fewer cases to be filed in late December due to the holiday period and administrative slowdowns at both national governments and the ICJ Registry."
+                },
+                {
+                    "factor": "State Consent and Sovereignty Concerns",
+                    "effect": "Decreases probability. Recent news (e.g., Mali-Algeria drone dispute) demonstrates that even in the presence of disputes, states often refuse to accept the Court's jurisdiction, stalling potential cases."
+                },
+                {
+                    "factor": "Geopolitical Tension and Incentives to Use Legal Forums",
+                    "effect": "Increases probability. The ongoing crisis of the rules-based order, increasing recourse to international law by states unable to resolve issues diplomatically or via the UN Security Council (e.g., South Africa's case against Israel, Mali's attempt against Algeria), and the ICJ\u2019s symbolic value as a forum for legitimacy, all support the possibility that a state might rush to file a new case before year-end."
+                },
+                {
+                    "factor": "Recent Precedent of Filing Despite Jurisdictional Uncertainty",
+                    "effect": "Increases probability. Mali filed a case against Algeria despite knowing Algeria would likely reject jurisdiction, suggesting more states may use the ICJ for political signaling even if the chance of full proceedings is low. The ICJ counts a case as 'brought' on filing, regardless of whether it is later dismissed for lack of jurisdiction."
+                },
+                {
+                    "factor": "Administrative/Procedural Timing",
+                    "effect": "Decreases probability. The ICJ\u2019s own administrative machinery and states\u2019 diplomatic apparatuses tend to slow down in late December, making last-minute filings less likely, though not impossible."
+                }
+            ],
+            "no_scenario": "No further contentious cases are filed before the ICJ in the final weeks of 2025. This could result from a lack of new crises, states preferring other dispute resolution forums (arbitration, regional courts), or the inertia of year-end administrative slowdowns. States with potential disputes (e.g., Mali, Algeria, Russia, EU over sanctions) either fail to file in December or delay until 2026.",
+            "yes_scenario": "A state facing a high-profile diplomatic row (e.g., Mali, Russia, or another actor in the Global South or Global North) files a contentious case at the ICJ before December 31, 2025, perhaps as a symbolic gesture or to internationalize a dispute. The filing may occur even if the respondent state is likely to reject jurisdiction, as seen in the Mali-Algeria case, or as a means to pressure parties in ongoing disputes (e.g., over Gaza, sanctions, climate obligations, or asset seizures).",
+            "final_reasoning": "The base rate of ICJ contentious cases per year is historically about 3-5, with 2025 already at the high end (five cases). There is a well-documented slowdown in filings during late December due to administrative and holiday factors. The doctrine of state sovereignty, and the requirement for state consent, remains a substantial barrier to new cases\u2014recent news (Mali-Algeria) illustrates how disputes can stall if one party refuses jurisdiction. However, 2025 has seen a marked uptick in states using international legal forums for political signaling, especially amid Security Council paralysis and a crisis of legitimacy in the rules-based order. The Mali-Algeria filing, despite jurisdictional deadlock, shows states are willing to use the ICJ for strategic purposes, with the Court registering a case upon filing. Given the highly charged geopolitical environment (asset seizures, Gaza, Sudan, and others), it is plausible\u2014though not likely\u2014that another state will file a contentious case in the last weeks of December. Balancing the base rate, late-year procedural inertia, and increased incentives to 'lawfare,' I judge the probability to be somewhat above the base rate for a late-December filing, but still less likely than not.",
+            "final_probability": 32
+        },
+        "Political Science (InternationalRelationsTheory)": {
+            "time_to_resolution": "Approximately 3 weeks (question resolves at the end of December 2025; today is December 25, 2025).",
+            "perspective_relevance": "As an expert in International Relations Theory, my analysis emphasizes the structural incentives and constraints of the international system, the role of state interests and sovereignty, the legal-institutional context of the ICJ, and the historical base rates of contentious case filings. I incorporate the ways in which systemic change and power asymmetries shape states' recourse to international adjudication, especially during periods of multipolarity, contestation of the rules-based order, and institutional malaise at the United Nations.",
+            "status_quo": "The status quo is that, as of December 25, 2025, five contentious cases have been opened at the ICJ in 2025. Historically, the ICJ averages about two to four new contentious cases per year. The threshold for a sixth case in 2025 is high relative to this baseline.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rate of ICJ Contentious Cases",
+                    "effect": "Decreases probability, as the historical mean is below six cases per year, and five cases by December is already above average. Late December filings are rare."
+                },
+                {
+                    "factor": "Recent Uptick in Contentiousness and Multipolarity",
+                    "effect": "Increases probability, as the decline in Security Council efficacy and rise in state-level disputes (e.g., South Africa v. Israel, Mali v. Algeria) incentivize alternative legal strategies, including ICJ filings."
+                },
+                {
+                    "factor": "Procedural Constraints and Consent Requirement",
+                    "effect": "Decreases probability, since ICJ jurisdiction depends on respondent consent, often leading to stalled or incomplete cases (as with Mali v. Algeria). States may threaten to file but not complete the process."
+                },
+                {
+                    "factor": "Current Pipeline of Potential Cases",
+                    "effect": "Increases probability, since Mali has attempted to file against Algeria, and the news repeatedly references ongoing or brewing disputes (e.g., over Russian assets, Gaza, Sudan). A last-minute year-end filing is plausible."
+                },
+                {
+                    "factor": "Holiday and End-of-Year Filing Patterns",
+                    "effect": "Slightly decreases probability: December is typically a slow period for new international litigation, and administrative processing at the ICJ slows down."
+                },
+                {
+                    "factor": "Recent Precedents and Political Incentives",
+                    "effect": "Increases probability: South Africa's high-profile ICJ filing against Israel and similar moves by Global South actors demonstrate growing appetite for 'lawfare' and symbolic legal action, even if jurisdiction is denied."
+                }
+            ],
+            "no_scenario": "No additional contentious case is filed in December 2025. Ongoing disputes either remain unresolved, are referred to other forums (e.g., ICC, regional courts, arbitration), or stall due to lack of respondent consent (as with the Mali-Algeria case). The existing five cases remain the only new contentious cases for the year, and the ICJ website does not list a sixth 2025 filing by year-end.",
+            "yes_scenario": "A sixth contentious case is filed and registered by the ICJ in December 2025, likely as a result of a brewing international dispute (potentially Mali-Algeria if Algeria unexpectedly consents, or a new filing related to current crises such as Sudan, Russian asset confiscation, or Israel-Gaza). The ICJ's official webpage lists this sixth case as received/introduced in December 2025.",
+            "final_reasoning": "Base rates suggest that five contentious cases in one calendar year is already well above the ICJ\u2019s historical mean, making a sixth case in December rare. However, 2025 has been extraordinary: the UN Security Council is paralyzed, major state-to-state disputes are proliferating, and the ICJ is increasingly used for high-profile, symbolic, or strategic litigation by Global South states and others seeking to internationalize disputes. Several disputes (Mali-Algeria, state asset seizures, Sudan atrocities, ongoing Gaza/Israel litigation) could plausibly trigger a last-minute filing. Still, the ICJ\u2019s procedural hurdle\u2014requiring respondent consent\u2014remains a powerful brake, and news coverage indicates that some key potential cases (Mali-Algeria) are stalled for lack of consent. December is also a slow month for new filings due to administrative cycles. Weighing the unusual context of 2025, the surge in legal activism, and the barriers to formal case opening, I assess a probability modestly above the base rate but not extreme. My forecast is 28%.",
+            "final_probability": 28
+        },
+        "Political Science (LiberalInstitutionalism)": {
+            "time_to_resolution": "Approximately 3 weeks (until December 31, 2025)",
+            "perspective_relevance": "As a Political Science expert specializing in Liberal Institutionalism, my perspective emphasizes the role of international institutions (like the ICJ), the importance of legal frameworks, and the incentives states face in both using and respecting such mechanisms. I pay special attention to how the structure of the international system, consent requirements, and shifting patterns of multilateral engagement affect the likelihood of contentious case filings.",
+            "status_quo": "Five contentious cases have already been opened at the ICJ in 2025. Historically, the annual number of new contentious cases is low (usually between 2-5 per year), with the status quo being that no additional cases are opened in the very final weeks of the calendar year.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rate of ICJ Contentious Cases Opened in December",
+                    "effect": "Decreases probability. Historically, the majority of ICJ cases are filed earlier in the year, with December being a relatively dormant period."
+                },
+                {
+                    "factor": "Recent Surge in Contentious Cases (Already 5 in 2025)",
+                    "effect": "Decreases probability. A higher-than-average number of cases have already been opened this year, possibly exhausting 'pent-up demand.'"
+                },
+                {
+                    "factor": "Procedural Barriers and Consent Requirement",
+                    "effect": "Decreases probability. As shown by the Mali-Algeria drone dispute, even high-profile incidents frequently fail to result in a registered contentious case due to lack of respondent consent."
+                },
+                {
+                    "factor": "Escalating Global Tensions and Legalization of Disputes",
+                    "effect": "Slightly increases probability. The articles highlight a growing willingness of states, especially from the Global South (e.g., Mali, South Africa), to seek legal remedies amid perceived Security Council paralysis."
+                },
+                {
+                    "factor": "Late-Year Incentive to File Before Year-End",
+                    "effect": "Marginally increases probability. States may wish to file cases to make a political statement or for procedural/tactical reasons before the calendar year closes."
+                },
+                {
+                    "factor": "Institutional Legitimacy and Political Utility",
+                    "effect": "Slightly increases probability. The ICJ's symbolic value may incentivize states to file cases for political signaling, especially in a period of visible Security Council dysfunction and shifting diplomatic alignments."
+                }
+            ],
+            "no_scenario": "Despite ongoing disputes (e.g., Mali-Algeria), no new state submits a properly constituted contentious application to the ICJ before December 31, or any application submitted fails to meet the threshold for registration as a new contentious case due to lack of respondent consent or procedural completeness.",
+            "yes_scenario": "A state (potentially Mali or another actor involved in an ongoing dispute) files and the ICJ registers a new contentious case before the end of December 2025. This could result from a sudden escalation, an urgent desire for international legal recognition, or a calculated move to pressure the respondent. Alternatively, a less-publicized dispute could reach the filing stage if procedural hurdles are swiftly cleared.",
+            "final_reasoning": "The base rate for new ICJ contentious cases in December is very low, and five filings already this year are above average. Recent news shows increased willingness to pursue legal avenues, but the Mali-Algeria case demonstrates the high procedural and consent hurdles that block many would-be cases from being formally opened. Liberal Institutionalism suggests that, while institutions provide avenues for dispute resolution, they are constrained by state sovereignty and voluntary participation. The end-of-year period is rarely active for new case filings. Overall, the probability is modestly above zero due to heightened global tensions and increased legal activism, but strong status quo and procedural inertia keep the probability low.",
+            "final_probability": 13
+        },
+        "Political Science (RealistTheory)": {
+            "time_to_resolution": "Approximately 3 weeks (resolves at end of December 2025, today is December 5, 2025)",
+            "perspective_relevance": "As a Realist international relations theorist, my forecast emphasizes state interests, power politics, and the enduring importance of state sovereignty and non-interference as guiding principles in international behavior. Realists view international institutions like the ICJ as arenas where powerful states pursue their interests rather than neutral arbiters with true coercive authority. States are cautious about surrendering sovereignty or exposing themselves to binding judgments in contentious cases, especially when major powers or their allies are involved.",
+            "status_quo": "On average, the ICJ opens 2-4 contentious cases per year in recent decades, but five cases have already been opened in 2025, which is above the base rate. As of December 5, no new case has been opened in December, and the Mali v. Algeria case is stalled due to Algeria's non-consent. The status quo is that no sixth case is opened in 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base Rate of ICJ Contentious Cases",
+                    "effect": "Decreases the probability slightly; historically, 2-4 cases per year are typical. Five is already above average, suggesting a sixth is less likely absent a major international shock."
+                },
+                {
+                    "factor": "Recent Surge in 2025 Filings",
+                    "effect": "Increases the probability; five cases already filed may indicate heightened global tensions and willingness to use ICJ as a diplomatic tool, especially amid multipolarity and UNSC paralysis."
+                },
+                {
+                    "factor": "Jurisdictional Obstacles and State Consent",
+                    "effect": "Decreases the probability; as seen in the Mali-Algeria dispute, states frequently refuse to consent to ICJ jurisdiction, especially in politically sensitive or sovereignty-related matters, stalling or preventing new cases."
+                },
+                {
+                    "factor": "Multipolarity and Decline of Unipolar Order",
+                    "effect": "Marginally increases the probability; as the Security Council is paralyzed by vetoes and power competition intensifies, weaker/mid-sized states may turn to the ICJ for symbolic or legal victories, even if enforcement is weak."
+                },
+                {
+                    "factor": "Time Remaining in 2025",
+                    "effect": "Significantly decreases the probability; with only about three weeks left, the window for a new case to be filed and acknowledged by the ICJ in December is narrow."
+                },
+                {
+                    "factor": "Ongoing Crises (Sudan, Gaza, Ukraine, Libya, Mali-Algeria, etc.)",
+                    "effect": "Slightly increases the probability; multiple unresolved or intensifying conflicts present potential for states to seek international legal remedies, especially as public pressure mounts."
+                },
+                {
+                    "factor": "Status and Speed of Current Dockets",
+                    "effect": "Decreases the probability; ICJ may be constrained in capacity to accept and process new cases quickly, and high-profile attention may delay new filings being processed before the end of the year."
+                }
+            ],
+            "no_scenario": "No additional state files a contentious case with the ICJ in December 2025, or if a case is filed, it is not acknowledged/registered by the Court before January 1, 2026. Ongoing high-profile disputes (such as Mali-Algeria or Sudan) either do not progress to the point of a formal ICJ case, or jurisdictional obstacles prevent their registration within the time frame.",
+            "yes_scenario": "A new international crisis (e.g., an escalation in Sudan, the Sahel, or between other regional actors) prompts a state to file a contentious case that is acknowledged by the ICJ before the end of December 2025. Alternatively, one of the ongoing disputes (such as Mali-Algeria) overcomes jurisdictional hurdles and is formally accepted by the Court, or an unexpected legal dispute emerges and is rapidly processed.",
+            "final_reasoning": "The base rate for new ICJ contentious cases is 2-4 per year, but 2025 has already seen five, which is unusually high and suggests there's less 'room' for another before year-end. Realist theory emphasizes that states are highly sensitive to sovereignty and reluctant to expose themselves to adverse judgments, especially when domestic or geopolitical stakes are high. The Mali-Algeria case illustrates the typical pattern: without mutual consent, the ICJ cannot proceed, and the process stalls. While multipolarity and UNSC paralysis make legal avenues more attractive for weaker states, the practical obstacles to registering a new ICJ case in the last three weeks of the year are significant. Current news does not indicate imminent new filings, and most ongoing crises are either already before the Court, before the ICC (which is separate), or mired in procedural delay. While a late-December surprise is possible, it would require both a new state dispute and rapid procedural action, which is rare. Therefore, while the probability is not zero, it is distinctly below even odds.",
+            "final_probability": 22
+        },
+        "Area Studies (ComparativeInternationalLegalCulture)": {
+            "time_to_resolution": "Approximately 26 days (until December 31, 2025)",
+            "perspective_relevance": "As an expert in Area Studies with a focus on Comparative International Legal Culture, I bring a nuanced understanding of how different legal traditions, state behaviors, and geopolitical pressures influence the likelihood of contentious cases being brought before the ICJ. This perspective allows me to assess not only the formal legal mechanisms but also the informal political, cultural, and historical factors that shape state decisions to litigate at the ICJ.",
+            "status_quo": "On average, the ICJ hears 2-4 new contentious cases per year, though this varies. As of December 2025, five contentious cases have already been opened. December is historically a slow month for new filings, but last-minute filings are possible, especially as states sometimes use the end of the calendar year for symbolic or strategic legal actions.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Base rate of ICJ contentious case filings in December",
+                    "effect": "Decreases probability. ICJ database shows that December is among the slowest months for new case registrations, with most cases filed earlier in the year unless tied to urgent crises."
+                },
+                {
+                    "factor": "Recent surge in ICJ/ICC activity and global legal contestation",
+                    "effect": "Increases probability. 2025 has seen a record number of filings, reflecting heightened geopolitical tensions and a turn to legal forums by states unable to secure outcomes via diplomacy or the UNSC."
+                },
+                {
+                    "factor": "Ongoing high-profile disputes (Sudan, Gaza, Ukraine, Mali-Algeria)",
+                    "effect": "Increases probability. Several unresolved disputes could prompt last-minute filings, especially if states seek to internationalize their positions for strategic or domestic reasons."
+                },
+                {
+                    "factor": "Jurisdictional consent requirement",
+                    "effect": "Decreases probability. Many cases stall because the respondent state refuses ICJ jurisdiction (as in Mali v. Algeria), reducing the pool of viable new cases."
+                },
+                {
+                    "factor": "End-of-year bureaucratic slowdown",
+                    "effect": "Decreases probability. International organizations, including the ICJ, often see reduced activity in late December due to holidays and administrative cycles."
+                },
+                {
+                    "factor": "Rising Global South legal activism and multipolarity",
+                    "effect": "Slightly increases probability. With the decline of unipolar U.S. dominance and increased activism from Global South states (South Africa's ICJ case against Israel, for example), there is more willingness to use legal mechanisms."
+                },
+                {
+                    "factor": "Precedent of stalled or failed cases due to lack of consent",
+                    "effect": "Decreases probability. The Mali-Algeria drone dispute is illustrative: case filed, but stalled due to lack of Algerian consent\u2014a pattern repeated in the ICJ\u2019s history."
+                }
+            ],
+            "no_scenario": "No sixth contentious case is filed at the ICJ in December 2025, either because no new urgent disputes arise, potential claimants cannot secure jurisdictional consent, or states opt for other forums (regional courts, arbitration, or political mediation). The end-of-year administrative slowdown further dampens the likelihood of new filings.",
+            "yes_scenario": "A state facing an acute crisis (e.g., arising from the Sudan conflict, a new escalation in Gaza, or another high-profile dispute) decides to file a contentious case in the final weeks of December, either as a symbolic gesture or in response to new developments. Alternatively, a dormant dispute (such as Mali-Algeria) unexpectedly advances if consent is secured, or another state files over a pressing issue (such as asset seizures, border incidents, or humanitarian crises).",
+            "final_reasoning": "The base rate and historical patterns strongly favor a 'No' outcome: December is rarely a month for new ICJ cases, and the jurisdictional hurdle (state consent) is significant, as demonstrated by the Mali-Algeria case and many others. While 2025 has been unusually active, with five cases already filed and considerable international legal ferment, the remaining weeks of the year coincide with a global slowdown in diplomatic and legal activity. Additionally, most ongoing disputes lack the immediate procedural conditions (notably mutual consent) necessary for a fresh contentious filing. However, increased Global South activism, the politicization of international law, and the symbolic value of legal action in an era of Security Council paralysis marginally increase the odds above the absolute minimum. On balance, the probability of a sixth contentious ICJ case being opened in December 2025 remains low but not negligible.",
+            "final_probability": 12
+        }
+    },
+    "deliberation_probability": [
+        8,
+        8,
+        6,
+        3,
+        32,
+        28,
+        13,
+        22,
+        12
+    ],
+    "deliberation_mean_probability": 14.666666666666666,
+    "deliberation_sd": 10.259142264341596,
+    "deliberation_probability_result": 15
+}

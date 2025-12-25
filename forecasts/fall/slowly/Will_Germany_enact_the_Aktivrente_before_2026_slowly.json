@@ -1,0 +1,289 @@
+{
+    "deliberation_results": {
+        "Social Policy Analysis (Comparative Pension Reform)": {
+            "time_to_resolution": "Approximately 9 days (until January 3, 2026)",
+            "perspective_relevance": "As an expert in Social Policy Analysis with a specialization in Comparative Pension Reform, I bring a deep understanding of the political, fiscal, and generational dynamics that influence pension legislation, especially in OECD welfare states such as Germany. My perspective allows me to parse not only the technical content of the reform but also the political economy constraints, coalition dynamics, and international comparators that affect the likelihood of passage for measures like the Aktivrente.",
+            "status_quo": "The Aktivrente has been approved by the Federal Cabinet and is part of a major pension reform bill. It has not yet been enacted by the Bundestag and Bundesrat. Historically, pension reforms in Germany have only rarely failed at this late stage, but the current coalition\u2019s slim majority and internal dissent introduce significant uncertainty.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Coalition Majority and Internal Discipline",
+                    "effect": "Increases probability. Despite internal dissent (mainly from the Young Union), the coalition commands 328 seats, more than enough for a simple majority, especially given Die Linke's abstention. Leadership has made clear the existential stakes and has offered procedural and symbolic concessions to dissenters."
+                },
+                {
+                    "factor": "Die Linke Abstention",
+                    "effect": "Significantly increases probability. The announced abstention by the entire Left Party lowers the majority threshold and gives the coalition a comfortable buffer, making passage mathematically plausible even with notable defections."
+                },
+                {
+                    "factor": "Political Stakes and No Plan B",
+                    "effect": "Increases probability. Both the government and opposition have stressed that failure would trigger a government crisis, with no alternative ready. This high-stakes context typically disciplines party members to avoid government collapse, especially with open (roll-call) voting."
+                },
+                {
+                    "factor": "Open Roll-call Vote",
+                    "effect": "Increases probability. MPs are required to publicly state their vote, increasing party discipline and the likelihood that dissenters will fall in line or abstain rather than vote 'no.'"
+                },
+                {
+                    "factor": "Concessions to Young Union",
+                    "effect": "Increases probability. The promise of an early pension commission, discussion of indexation to inflation instead of wages, and future consideration of retirement age appear to have mollified enough of the dissent to avoid outright rebellion, even if some 'no' votes remain."
+                },
+                {
+                    "factor": "Bundesrat Approval",
+                    "effect": "Neutral to slightly increases probability. The Bundesrat is expected to approve the package, as there is no indication of a blocking majority, and the issue is primarily about Bundestag passage."
+                },
+                {
+                    "factor": "Historical Precedent/Base Rate",
+                    "effect": "Increases probability. Major pension reforms in Germany, once through the cabinet and with coalition support, almost always pass. Last-minute collapses are rare unless the government itself falls."
+                },
+                {
+                    "factor": "Potential for Unforeseen External Shocks",
+                    "effect": "Minor decrease. While always possible, there is currently no specific crisis (e.g., major scandal, economic shock, coalition collapse) in evidence that would derail the process in the final week."
+                }
+            ],
+            "no_scenario": "Despite the coalition\u2019s buffer, a larger-than-expected rebellion materializes within the Union (CDU/CSU), with more than 44 MPs defecting or abstaining, perhaps joined by surprise opposition from the SPD left flank or illness/absence among key supporters. The bill fails in the Bundestag vote, triggering a coalition crisis and potentially new elections or a government collapse.",
+            "yes_scenario": "The coalition, aided by the Left Party\u2019s abstention and the open vote pressure, passes the pension reform package including the Aktivrente in the Bundestag, with enough dissenters either abstaining or voting for the bill out of party loyalty or fear of government collapse. The Bundesrat subsequently approves the measure, and it is officially enacted before January 3, 2026.",
+            "final_reasoning": "The combination of a substantial formal majority (328 seats), the Left Party\u2019s confirmed abstention (lowering the majority threshold), and the existential political stakes for the coalition make passage of the pension reform package\u2014including the Aktivrente\u2014highly probable. Open roll-call voting, visible leadership pressure, and recent concessions to the Young Union have further contained the rebellion risk. Historically, German pension reforms at this stage do not fail absent a total government collapse, which is not currently anticipated. The few remaining sources of uncertainty (last-minute defections, illness, or an unforeseen political shock) are real but unlikely to tip the balance given the 44-vote buffer. Therefore, the probability of the Aktivrente being enacted before 2026 is very high.",
+            "final_probability": 97
+        },
+        "Legislative Affairs (German Parliamentary Process)": {
+            "time_to_resolution": "Approximately 8 days (until January 3, 2026)",
+            "perspective_relevance": "As an expert in German Parliamentary Process, I bring an in-depth understanding of the legislative mechanics, coalition dynamics, Bundestag and Bundesrat procedures, party discipline, and the negotiation strategies that drive the passage of major social policy legislation. This expertise is directly relevant given the narrow majority, internal party dissent, and the complex nature of the Aktivrente as part of a multi-component reform package.",
+            "status_quo": "The Aktivrente has been approved by the Federal Cabinet and is scheduled for a final vote in the Bundestag, with the Bundesrat expected to follow. The coalition (CDU/CSU and SPD) holds a narrow majority of 328 out of 630 seats, but faces internal dissent. However, with the Left Party abstaining, the required majority is reduced from 316 to 284, giving the coalition a substantial buffer if party discipline holds.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Cabinet Approval and Coalition Agreement",
+                    "effect": "Strongly increases probability. The bill's approval by the Federal Cabinet signals government-level commitment and increases pressure for passage, especially as the leadership has staked coalition stability on the vote."
+                },
+                {
+                    "factor": "Left Party Abstention",
+                    "effect": "Strongly increases probability. With 64 Left MPs abstaining, the majority threshold drops, making passage much easier even with significant CDU/CSU defections."
+                },
+                {
+                    "factor": "Party Discipline and Public Roll-Call Vote",
+                    "effect": "Moderately increases probability. Open voting and the existential stakes for the coalition (potential collapse if the bill fails) put immense pressure on potential dissenters to fall in line or at least abstain rather than vote against."
+                },
+                {
+                    "factor": "Junge Union (CDU/CSU Youth Wing) Opposition",
+                    "effect": "Moderately decreases probability. Their open resistance and the coalition's slim working majority create genuine risk, but evidence of internal negotiation, concessions, and public statements by some JU members indicate not all will vote 'no.'"
+                },
+                {
+                    "factor": "Bundesrat Approval",
+                    "effect": "Slightly increases probability. No significant Bundesrat obstacles are reported; most attention is on the Bundestag. Bundesrat approval is considered likely if the Bundestag passes the bill, given coalition dominance in the states."
+                },
+                {
+                    "factor": "Political Stakes and Absence of Plan B",
+                    "effect": "Increases probability. Leadership has repeatedly stated the coalition's survival depends on passage, and no alternative plan is publicly discussed, making abstention or defection high-risk for individual MPs."
+                },
+                {
+                    "factor": "Public and Party Pressure",
+                    "effect": "Slightly increases probability. The public roll-call, as well as pressure from party leadership regarding future career prospects, further deters outright rebellion."
+                },
+                {
+                    "factor": "Base Rates for Large Social Policy Reforms",
+                    "effect": "Slightly increases probability. German grand coalitions, when close to crisis, almost always manage to pass flagship legislation by securing enough last-minute support."
+                }
+            ],
+            "no_scenario": "Despite leadership pressure and the Left's abstention, internal CDU/CSU dissent is so strong that more than 44 coalition MPs either vote 'no' or abstain, causing the package to fall short of the simple majority needed (e.g., due to a last-minute youth-wing rebellion, strategic absences, or breakdown in party discipline). The coalition then faces an existential crisis, possibly triggering government collapse or early elections.",
+            "yes_scenario": "The coalition successfully keeps enough dissenters in line\u2014either by convincing most to abstain instead of voting 'no', or by offering credible concessions (such as the pension commission and future reform promises). With the SPD voting unanimously and a manageable number of CDU/CSU defections, the coalition secures a comfortable majority (over 284), and the Bundesrat subsequently approves the bill. The Aktivrente is enacted before January 3, 2026.",
+            "final_reasoning": "The key hurdles\u2014Left Party abstention, public roll-call, and existential political stakes\u2014combine to make passage of the Aktivrente extremely likely. Even with up to 20 CDU/CSU dissenters, the coalition retains a buffer of over 44 votes. Leadership has made targeted concessions (e.g., pension commission, policy review post-2031), and several previously critical JU members have indicated willingness to back the package or at least not block it outright. The lack of a secret ballot and the threat of coalition collapse (with no Plan B) further incentivize party discipline. Additionally, German legislative history shows that major social policy packages almost always pass when the government is on the brink and no alternative exists. The only plausible 'No' outcome would require an unprecedented mass rebellion or coordinated abstention from coalition MPs, which is not supported by public statements or the reported mood post-concessions. Therefore, the probability of enactment is extremely high.",
+            "final_probability": 98
+        },
+        "Political Science (Coalition Theory)": {
+            "time_to_resolution": "About 1 week (final Bundestag vote scheduled for early December 2025; question resolves immediately upon enactment, but must occur before Jan 3, 2026)",
+            "perspective_relevance": "As an expert in coalition theory, I analyze legislative passage through formal/informal coalition dynamics, party discipline, and the management of intra-coalition dissent. The German system\u2019s history of grand coalitions, party list proportional representation, and roll-call voting shape the likelihood of government bills passing, especially in the face of narrow majorities and visible dissent.",
+            "status_quo": "If nothing changed, the Aktivrente\u2014having received cabinet approval and broad coalition leadership backing\u2014would pass with the coalition's 328-seat majority, barring a major rebellion.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Coalition Size and Party Discipline",
+                    "effect": "Increases probability. Even with a narrow majority (12 seats), grand coalitions in Germany have a strong record of internal discipline and passing government bills, especially on major policy initiatives."
+                },
+                {
+                    "factor": "Intra-party Dissent (Young Union/Youth Wing)",
+                    "effect": "Decreases probability. The 18-member Young Union has threatened to vote against the bill, and test votes suggest up to 20 internal dissenters. However, leadership has secured some public pledges of support and has leveraged future party list positions as informal discipline."
+                },
+                {
+                    "factor": "Public Roll-call Voting",
+                    "effect": "Increases probability. Open voting increases pressure on MPs to support the government line, given the high political costs of being seen as causing a coalition crisis."
+                },
+                {
+                    "factor": "Opposition Abstention (Left Party)",
+                    "effect": "Increases probability. With the entire Left (Die Linke) abstaining, the required majority threshold is reduced to 284, giving the coalition a buffer even if some MPs defect or abstain."
+                },
+                {
+                    "factor": "Leadership Commitment and No Plan B",
+                    "effect": "Increases probability. Party leadership has staked government survival on this package, and no alternative is being prepared\u2014intensifying pressure on wavering MPs."
+                },
+                {
+                    "factor": "Bundesrat Approval Requirement",
+                    "effect": "Neutral/minor decrease. The Bundesrat is expected to approve the law on December 19, but this is largely a formality given state-level CDU/CSU/SPD dominance."
+                },
+                {
+                    "factor": "Coalition Theory Base Rate",
+                    "effect": "Increases probability. Historically, grand coalitions in Germany rarely fall at the final hurdle on cornerstone legislation; party rebels are often accommodated or pressured into line."
+                }
+            ],
+            "no_scenario": "Despite leadership pressure, more than 44 coalition MPs (or some combination of coalition defectors and unexpected opposition votes) vote against, abstain, or are absent, causing the bill to fail in the Bundestag. This could trigger a coalition crisis, but such an outcome would likely require a coordinated and public rebellion, which seems unlikely given the signals of discipline and the political stakes.",
+            "yes_scenario": "The bill passes the Bundestag with a comfortable majority due to unified SPD support, partial Young Union acquiescence (with some dissenters but not enough to block), and the Left\u2019s abstention lowering the bar. The Bundesrat approves the law as expected, and the Aktivrente is officially enacted before January 3, 2026.",
+            "final_reasoning": "Base rates for grand coalition governments in Germany passing cabinet-approved, high-salience legislation are very high, even amid internal dissent. The coalition's majority is narrow, but the Left\u2019s abstention reduces the required threshold and adds a substantial buffer. The public nature of the vote, strong leadership pressure, and the existential framing of the vote (no Plan B, high reputational cost for rebels) all favor passage. While the Young Union\u2019s dissent is real, only one or two have publicly committed to a 'no' vote, and some have signaled they will ultimately support the package to preserve government stability. There is no sign of a coordinated rebellion sufficient to block the bill. Thus, while there is non-zero risk due to the narrow majority and visible dissent, the probability of a Yes outcome (the Aktivrente being enacted before 2026) is extremely high.",
+            "final_probability": 97
+        },
+        "Political Science (Punctuated Equilibrium)": {
+            "time_to_resolution": "Approximately 9 days until the deadline (January 3, 2026).",
+            "perspective_relevance": "As a political scientist specializing in Punctuated Equilibrium Theory (PET), I focus on how long periods of policy stability are occasionally interrupted by brief, intense moments of change, often triggered by external shocks, shifts in public opinion, or internal coalition crises. PET also emphasizes the role of institutional friction and the difficulty of overcoming status quo bias, especially in areas like pension reform that are highly salient and institutionally complex. This lens allows me to weigh the inertia of the German policymaking system, the risk of coalition breakdowns, and the triggers for sudden legislative breakthroughs.",
+            "status_quo": "Germany does not currently have a tax-free allowance on employment income for pensioners above the statutory age (Aktivrente). Unless the Bundestag and Bundesrat enact the proposed law, the status quo persists.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Coalition Cohesion and Internal Dissent",
+                    "effect": "Decreases probability. The governing coalition has a razor-thin majority, and up to 18 Young Union members are threatening to defect due to long-term cost concerns. Internal party discipline is being tested, and the vote is public, raising the risk of dissent. This historically makes major reforms difficult unless rebels are brought on board."
+                },
+                {
+                    "factor": "Left Party Abstention",
+                    "effect": "Increases probability. The Left's announced abstention lowers the effective majority threshold, giving the government a significant buffer (44 votes) even if there is some internal dissent. This sharply increases the probability the coalition can pass the bill without needing to win over every single dissenter."
+                },
+                {
+                    "factor": "Public Roll-Call Vote",
+                    "effect": "Increases probability. The open nature of the vote makes it harder for rebels to break party discipline without facing reputational or career consequences, especially with party leadership applying pressure and offering future influence (e.g., through the pension commission)."
+                },
+                {
+                    "factor": "Bundesrat Approval and Timing",
+                    "effect": "Slightly decreases probability. While the Bundesrat is expected to approve the law on December 19, a last-minute rebellion or procedural snag could theoretically delay passage, but there is no indication of Bundesrat resistance in the articles."
+                },
+                {
+                    "factor": "Existential Stakes for Coalition",
+                    "effect": "Increases probability. Failure to pass the package could trigger a government crisis or collapse. Party leaders (Merz, Spahn, Klingbeil) are framing this as a do-or-die moment, raising the cost of defection for coalition MPs. PET suggests such high-stakes framing often catalyzes brief policy breakthroughs."
+                },
+                {
+                    "factor": "Base Rates for Major Pension Reform",
+                    "effect": "Slightly decreases probability. Historically, major pension reforms in Germany (and other advanced democracies) often stall or get watered down at the last minute because of institutional friction and coalition management challenges. However, the current package is already a negotiated compromise."
+                }
+            ],
+            "no_scenario": "On the day of the vote, more Young Union members or other CDU/CSU dissidents defect or abstain than anticipated, causing the coalition to fall below the required majority (even with the reduced threshold from the Left's abstention). The SPD votes in favor, but CDU/CSU internal rifts prove unmanageable, and the bill fails in the Bundestag or is delayed, with no time for resubmission before the January 3 deadline. Alternatively, an unexpected procedural issue in the Bundesrat delays or blocks enactment.",
+            "yes_scenario": "The coalition successfully leverages the lowered majority threshold thanks to the Left\u2019s abstention. Despite visible dissent within the CDU/CSU, enough MPs fall in line due to public pressure, leadership lobbying, and the existential threat to the government. The bill passes the Bundestag, is promptly approved by the Bundesrat, and is officially enacted before the January 3 deadline.",
+            "final_reasoning": "The current news cycle shows a classic PET pattern: a long period of pension policy stability followed by a burst of legislative activity triggered by coalition fragility and demographic pressure. The existential crisis rhetoric, public roll-call vote, and the Left\u2019s abstention all point to a high likelihood of passage\u2014coalition leaders are throwing all their weight behind this, and the lowered majority threshold provides a substantial buffer. Internal dissent is real but is being actively managed through concessions (e.g., the pension commission), pressure, and the open vote format. The coalition knows failure could collapse the government, a risk most MPs will avoid. The only real off-ramps for a 'No' are an unexpectedly large rebellion or a late procedural snafu. Historically, German coalitions with a clear procedural path and existential pressure usually get such packages through, even if with gritted teeth. Taking all factors into account, and erring on the side of base rate caution, I assess the probability of Germany enacting the Aktivrente before 2026 at 93%.",
+            "final_probability": 93
+        },
+        "Public Policy (Multiple Streams)": {
+            "time_to_resolution": "Less than one month (question closes January 3, 2026; today is December 25, 2025)",
+            "perspective_relevance": "As an expert in Public Policy (Multiple Streams), I am attuned to how policy windows, actor alignments, problem framing, and political stream dynamics shape legislative outcomes. The German pension reform, and specifically the Aktivrente, is a classic case of a policy package facing a critical policy window, with streams of problem (demographic pressures, labor shortages), politics (fragile coalition, intra-party dissent, Left abstention), and policy (multiple, bundled reforms) converging. My approach focuses on the likelihood that the policy window remains open and that the coalition can marshal the necessary votes against status quo inertia.",
+            "status_quo": "The pension reform package, including the Aktivrente, has passed the Cabinet but has not yet been enacted by the Bundestag and Bundesrat. Without further action, the Aktivrente will not be enacted before 2026.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Coalition Majority and Left Abstention",
+                    "effect": "Significantly increases probability. The SPD-CDU/CSU coalition holds 328 of 630 seats. With the Left Party (Die Linke) abstaining (64 seats), the majority required drops to 284, giving the coalition a 44-vote buffer even if 15-20 coalition MPs defect. This dramatically reduces the risk of an accidental No outcome unless there is an unprecedented rebellion."
+                },
+                {
+                    "factor": "Intra-Party Dissent (CDU/CSU Young Wing)",
+                    "effect": "Moderately decreases probability but not fatally. The Junge Union's 18 MPs remain critical, but only some are likely to vote No, and several have publicly pledged not to block the package due to the existential threat to the coalition. Open, public roll-call voting and party discipline further reduce the risk of mass defection."
+                },
+                {
+                    "factor": "Bundesrat Dynamics",
+                    "effect": "Slightly decreases probability. The Bundesrat is expected to approve on December 19, but if the Bundestag passes the bill, Bundesrat rejection is highly unlikely given party alignments. This is a minor risk."
+                },
+                {
+                    "factor": "Existential Coalition Threats and Policy Window",
+                    "effect": "Strongly increases probability. The coalition is treating this as an existential issue, with no Plan B and severe consequences (collapse of government, possible new elections) if the bill fails. This creates maximum pressure for wavering MPs to fall in line."
+                },
+                {
+                    "factor": "Base Rate/Historical Frequency of Major Social Policy Passage",
+                    "effect": "Increases probability. In postwar Germany, major social policy reforms backed by both CDU/CSU and SPD with Cabinet approval and no organized opposition from other major parties have a very high passage rate, especially when opposition abstains."
+                },
+                {
+                    "factor": "Public Roll-Call Vote",
+                    "effect": "Increases probability. MPs are less likely to vote against a government-defining package in public, especially when party leadership is applying pressure and potential career consequences are at stake."
+                },
+                {
+                    "factor": "Bundling of the Aktivrente with Popular Measures",
+                    "effect": "Increases probability. The Aktivrente is only one element of a larger package including popular expansions such as the mother's pension and pension stabilization, making it harder for dissenters to justify a No vote."
+                }
+            ],
+            "no_scenario": "Despite the Left's abstention, a larger-than-expected rebellion among CDU/CSU MPs\u2014especially from the Young Union\u2014emerges, with over 45 coalition MPs voting No or abstaining, causing the coalition to fall short of the necessary majority. Alternatively, last-minute procedural or legal issues delay the vote or force the government to pull the bill, pushing enactment past the deadline.",
+            "yes_scenario": "The majority of CDU/CSU and SPD MPs, under intense leadership pressure and existential coalition threats, vote Yes. The Left abstains as announced, leaving the coalition with a comfortable 44-vote buffer even accounting for 15-20 coalition defections, and the bill passes both Bundestag and Bundesrat in time for the law to be enacted before January 3, 2026.",
+            "final_reasoning": "The news and Multiple Streams analysis point strongly to passage. The coalition has an ample numerical majority, further enhanced by the Left's abstention, and all major actors treat the vote as existential. While intra-party dissent is real, it is primarily about post-2031 pension levels, not the Aktivrente itself. The public roll-call, lack of viable Plan B, and high status-quo bias of German politics all reinforce the passage likelihood. The base rate for such broad, Cabinet-backed social reform is extremely high in these conditions. Given all this, the probability of enactment before deadline is extremely high, with only tail risks (unprecedented mass rebellion, last-minute procedural mishap) standing in the way.",
+            "final_probability": 97
+        },
+        "Public Policy (Advocacy Coalition)": {
+            "time_to_resolution": "Approximately 9 days (until January 3, 2026)",
+            "perspective_relevance": "As an expert in Public Policy with a focus on the Advocacy Coalition Framework, my perspective emphasizes how policy change is shaped by coalitions of actors with shared beliefs, intra-coalition negotiation, external pressures (such as public opinion and economic stakeholders), and the role of institutional veto points. German pension reform is a classic case of advocacy coalition dynamics, where intraparty and interparty bargaining, generational interests, and tactical use of policy commissions are decisive in overcoming resistance to controversial reforms.",
+            "status_quo": "The Aktivrente has been approved by the federal cabinet but not yet enacted by the Bundestag and Bundesrat. If nothing changes, the bill would pass with the coalition's slim majority, especially now that the Left Party will abstain, lowering the effective voting threshold.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Coalition Cohesion and Concessions",
+                    "effect": "Increases probability. The CDU/CSU and SPD have demonstrated strong commitment to passing the reform, making strategic concessions (such as the pension commission and consideration of future reforms) to placate internal dissenters, especially from the Young Union. The leadership has kept lines of communication open and signaled the existential stakes of the vote, increasing likelihood of party discipline."
+                },
+                {
+                    "factor": "Opposition Abstention (Die Linke)",
+                    "effect": "Significantly increases probability. The Left Party\u2019s abstention lowers the number of votes needed to pass the bill, giving the coalition a 44-vote buffer, rendering internal dissent far less likely to derail the outcome."
+                },
+                {
+                    "factor": "Public Roll-Call Vote and Political Pressure",
+                    "effect": "Increases probability. Open voting increases accountability and the pressure on MPs to avoid bringing down their own government, especially with threats of party discipline and loss of list positions."
+                },
+                {
+                    "factor": "Lack of Viable Alternative/Plan B",
+                    "effect": "Increases probability. The absence of a fallback plan or credible alternative means MPs face a binary choice: pass the bill or risk government collapse, a situation in which status quo bias and coalition survival instincts dominate."
+                },
+                {
+                    "factor": "Bundesrat Approval",
+                    "effect": "Slightly increases probability. Bundesrat approval is expected following Bundestag passage, as the bill has cabinet backing and no significant L\u00e4nder opposition has surfaced."
+                },
+                {
+                    "factor": "Internal Dissent from Young Union",
+                    "effect": "Decreases probability, but with diminishing weight. Although 15-20 Union MPs opposed the package in a test vote, explicit public support from some Young Union members, the pressure of open voting, and targeted concessions reduce the risk of a critical defection."
+                },
+                {
+                    "factor": "Opposition from Greens/FDP",
+                    "effect": "Neutral. Neither party is in a position to block the bill due to the coalition\u2019s numbers post-Left abstention."
+                }
+            ],
+            "no_scenario": "Despite the Left\u2019s abstention, a coordinated rebellion by a sufficient number of Young Union MPs, combined with unexpected abstentions or absences from coalition MPs (due to illness, protest, or tactical maneuvering), causes the government to fall short of the required majority in the Bundestag roll-call vote. The bill fails, triggering a coalition crisis and either new negotiations or snap elections.",
+            "yes_scenario": "The coalition, buoyed by the Left\u2019s abstention and public pressure, secures enough votes from its own ranks\u2014even with a handful of Young Union defections\u2014to pass the bill in the Bundestag. The Bundesrat subsequently approves the package, and the Aktivrente is officially enacted before January 3, 2026.",
+            "final_reasoning": "The base rate for major pension reforms passing in Germany when supported by a grand coalition is high, especially when the coalition has a numerical majority and the opposition is fragmented or abstaining. The current situation, with the Left Party abstaining and coalition leadership making high-profile concessions, yields a much larger margin than earlier, reducing the power of rebels. The open roll-call vote and existential framing further raise the cost of dissent. The only remaining threat would be an unexpectedly large rebellion or coordinated absence, but the Advocacy Coalition Framework suggests that, with the stakes so high and most intra-coalition bargaining exhausted, status-quo-protecting instincts and coalition discipline will prevail. The probability of passage is therefore very high, though not quite 100% due to the slim but real risk of last-minute surprises or health absences.",
+            "final_probability": 97
+        },
+        "German Studies (German Welfare State Model)": {
+            "time_to_resolution": "Less than 1 month (until January 3, 2026)",
+            "perspective_relevance": "As an expert in German Studies specializing in the German Welfare State model, I bring a deep understanding of the historical evolution and political economy of pensions in Germany. This includes knowledge of coalition dynamics, welfare state path dependencies, the importance of intergenerational contracts, and the typical legislative process for social policy reforms. My perspective allows me to contextualize the risk aversion and incrementalism that characterize German welfare state change, as well as the high political costs of welfare retrenchment or controversial expansion.",
+            "status_quo": "The Aktivrente has been approved in the Federal Cabinet but not yet enacted by the Bundestag and Bundesrat. Traditionally, major pension reforms face internal coalition negotiation but, once agreed, usually pass, given party discipline and the high political cost of government collapse.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Coalition Majority Arithmetic and Party Discipline",
+                    "effect": "Increases probability. With the SPD expected to vote unanimously in favor, CDU/CSU leadership heavily invested, and the Left Party abstaining, the coalition appears able to absorb rebel votes and still pass the package. Open roll-call voting increases pressure on rebels not to collapse the government."
+                },
+                {
+                    "factor": "Younger Union (Junge Union) and Internal Dissent",
+                    "effect": "Decreases probability. The Young Union's opposition has been fierce and could theoretically sink the bill due to the coalition's slim 12-seat majority. However, recent concessions and intense leadership pressure, plus public declarations by some dissenters that they will not block the package, reduce this risk."
+                },
+                {
+                    "factor": "Left Party Abstention and the Lowered Majority Threshold",
+                    "effect": "Increases probability. Die Linke's abstention lowers the simple majority needed, giving the coalition a 44-vote buffer, making a last-minute collapse highly unlikely unless a much larger-than-expected rebellion occurs."
+                },
+                {
+                    "factor": "Bundesrat Approval",
+                    "effect": "Neutral to slightly positive. The Bundesrat is generally less contentious on such issues when the major parties are in agreement at the federal level, and no major opposition has been reported. The timeline allows passage before the deadline."
+                },
+                {
+                    "factor": "Public and Inter-Party Political Stakes (Existential Crisis Framing)",
+                    "effect": "Increases probability. The framing of the vote as existential for the coalition and government stability raises the cost of rebellion. In German political culture, MPs are generally reluctant to risk government collapse over single policy elements, especially with open roll-call voting."
+                },
+                {
+                    "factor": "Reform Path Dependency and Precedent",
+                    "effect": "Increases probability. Once the Federal Cabinet has approved a major pension reform and the coalition has invested significant political capital, German legislative precedent strongly favors passage barring extraordinary internal crisis."
+                }
+            ],
+            "no_scenario": "Despite leadership pressure and last-minute concessions, a critical mass of CDU/CSU Young Union members\u2014joined by additional defectors\u2014vote 'no', reducing the coalition's vote count below the required threshold even with the Left's abstention. The SPD remains united, but the CDU/CSU rebellion triggers the bill's failure, plunging the coalition into crisis and postponing the Aktivrente indefinitely.",
+            "yes_scenario": "The governing parties (SPD and the majority of CDU/CSU) maintain enough discipline, and the Left Party's abstention lowers the bar sufficiently. Even with a handful of rebel votes and abstentions, the coalition easily exceeds the required 284 votes, and the bill is enacted before the January 3, 2026 deadline. The Bundesrat subsequently approves the law, and the Aktivrente enters into force as scheduled.",
+            "final_reasoning": "All recent news points to the governing coalition having secured a viable path for passage: the Left Party's abstention lowers the majority threshold, the SPD is unified, and CDU/CSU leadership has extracted public commitments from enough rebels to avoid a crisis. The fact that the vote is not secret, coupled with existential crisis framing and the lack of any credible Plan B, maximizes internal party discipline. While the Young Union's opposition is real, the combination of concessions, overt pressure, and coalition self-preservation instincts make a last-minute defeat extremely unlikely. German welfare state reforms, once through cabinet and with coalition buy-in, are rarely derailed at this stage. Therefore, while a tiny risk remains (e.g., mass unexpected abstentions or walk-outs), the objective base rate and current news flow justify a highly confident prediction.",
+            "final_probability": 98
+        }
+    },
+    "deliberation_probability": [
+        97,
+        98,
+        97,
+        93,
+        97,
+        97,
+        98
+    ],
+    "deliberation_mean_probability": 96.71428571428571,
+    "deliberation_sd": 1.7043362064926932,
+    "deliberation_probability_result": 97
+}

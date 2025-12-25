@@ -1,0 +1,429 @@
+{
+    "deliberation_results": {
+        "AutonomousVehicleTesting (SAESelfDrivingLevels)": {
+            "time_to_resolution": "7 days (until January 1, 2026)",
+            "perspective_relevance": "As an expert in Autonomous Vehicle Testing and SAE Self-Driving Levels, I bring specialized knowledge of regulatory requirements, technical progress, operational risk, and the challenges of public deployment for Level 4 autonomous ride-hailing services. I can assess how recent setbacks, investigations, and technical hurdles impact a company's ability to resume and sustain public, rider-only operations at scale within tight regulatory and technical constraints.",
+            "status_quo": "Cruise currently does not operate a rider-only ride-hailing service available to the general public anywhere in the United States, following its nationwide suspension in October 2023 after a series of high-profile safety incidents and regulatory interventions. As of late December 2025, there are no credible reports of Cruise having restarted such services.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regulatory climate and investigations",
+                    "effect": "Decreases probability. Ongoing NHTSA and DMV scrutiny across the AV sector, especially after Cruise's own safety failures, means regulators are unlikely to permit a quick return to public rider-only operations; this is compounded by high-profile investigations into both Waymo and Tesla, raising the bar for reentry."
+                },
+                {
+                    "factor": "Technical and organizational recovery pace",
+                    "effect": "Decreases probability. Cruise has had to rebuild much of its technical and safety culture from scratch, with GM rehiring teams only recently. Recovery of trust, technical validation, and internal process overhaul typically take many quarters or years, not weeks."
+                },
+                {
+                    "factor": "Public trust and municipal partnership requirements",
+                    "effect": "Decreases probability. After high-visibility pedestrian injuries and alleged cover-ups, Cruise faces deep skepticism from city partners and the public. Most cities would require extensive, transparent pilot phases with safety operators before considering public, rider-only launches."
+                },
+                {
+                    "factor": "Competitive landscape (Waymo/Tesla setbacks)",
+                    "effect": "Slightly increases probability. Recent regulatory pressure on competitors could, in theory, lower the bar for Cruise if regulators seek parity or are distracted, but in reality, it shows the sector is under broader scrutiny, making it less likely that Cruise will be granted a quiet reentry."
+                },
+                {
+                    "factor": "Base rates and historical precedent",
+                    "effect": "Decreases probability. Historically, no major US AV operator has returned to public, fully driverless operations within a year of a nationwide suspension for safety reasons. The regulatory and technical pathway is long and cautious."
+                }
+            ],
+            "no_scenario": "Cruise remains under regulatory suspension, with no public announcements or credible media reports of resumed rider-only service anywhere in the US. Even limited pilot programs use safety drivers or are restricted to employees/testers, not the general public. Investigations into the October 2023 incident are not fully resolved, and municipal partners are not willing to grant permits for public launch.",
+            "yes_scenario": "Cruise quietly restarts a very limited public, rider-only service in a city with permissive regulations (e.g., Phoenix, Houston, or a Texas city) after securing local and state approval, possibly with new safety protocols, and manages to avoid public attention. This would likely be a small, geofenced deployment but would count under the resolution criteria.",
+            "final_reasoning": "The base rate for a company returning to public, rider-only autonomous ride-hailing within 14 months of a nationwide suspension is extremely low, especially given the severity of Cruise's regulatory, technical, and reputational setbacks. All current news and industry signals point to Cruise still being in the process of rebuilding its team, safety culture, and municipal relationships. There is no public evidence\u2014via credible reporting or regulatory filings\u2014of a reinstated, rider-only public service as of late December 2025. Meanwhile, the broader regulatory climate for AVs is more hostile, not less, with intensified scrutiny of Waymo and Tesla. The only plausible pathway for a 'Yes' resolution would be a very quiet, limited launch in a permissive jurisdiction, but such a move would almost certainly be reported, at least in the AV and tech press, and no such reports exist. Given all of this, the probability of Cruise operating a rider-only ride-hailing service available to the general public anywhere in the US on January 1, 2026, is extremely low.",
+            "final_probability": 2
+        },
+        "AutonomousVehicleTesting (OperationalDesignDomain)": {
+            "time_to_resolution": "7 days until January 1, 2026",
+            "perspective_relevance": "As an expert in Autonomous Vehicle Testing with a focus on Operational Design Domain (ODD), I bring a nuanced understanding of the regulatory, technical, and safety hurdles that must be cleared for commercial rider-only AV deployments. My expertise includes interpreting how regulatory investigations, technical incidents, and trust-building measures interact with operational restrictions and public accessibility criteria. This perspective is critical because the question hinges on whether Cruise will have surmounted its post-2023 regulatory crisis to achieve a public, rider-only ODD in the US by the specified date.",
+            "status_quo": "Cruise currently does not operate a rider-only, fully public ride-hailing service anywhere in the United States. Since October 2023, all such operations have been suspended following regulatory intervention in California and a nationwide pause, with no credible public reports of resumption by December 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regulatory Environment and Investigations",
+                    "effect": "Decreases probability. The AV regulatory climate in late 2025 is highly cautious, as evidenced by multiple ongoing NHTSA investigations into both Waymo and Tesla, with significant emphasis on school zone safety and operational transparency. Cruise, having suffered more severe public and regulatory backlash (notably after the pedestrian dragging incident), faces even greater scrutiny, making a quiet resumption of public rider-only service unlikely."
+                },
+                {
+                    "factor": "Technical Maturity and Safety Record",
+                    "effect": "Decreases probability. Cruise has not demonstrated robust technical progress or a clean safety record post-suspension. Unlike Waymo, which continues to operate and expand (albeit amid its own regulatory troubles), Cruise is not mentioned in any recent news as preparing for a comeback, and there is no evidence of regulatory sign-off on a new ODD or system improvements."
+                },
+                {
+                    "factor": "Operational Transparency and Public Trust",
+                    "effect": "Decreases probability. Cruise lost significant public trust following its October 2023 incidents and subsequent cover-up allegations. Given the heightened negative sentiment and the absence of public-facing efforts to restore confidence (in contrast to Waymo's ongoing communications and voluntary recalls), it is highly improbable that Cruise would be permitted to relaunch a public, unsupervised service without a major, widely reported campaign."
+                },
+                {
+                    "factor": "Industry Base Rate and Recent Precedents",
+                    "effect": "Decreases probability. Historically, once an AV company is forced to suspend rider-only operations due to safety concerns and regulatory action, it takes 1\u20132+ years to regain approval for even limited, non-public operations. No US AV company has ever resumed full, unrestricted public service within one year of such a suspension."
+                },
+                {
+                    "factor": "Competitive Landscape",
+                    "effect": "Slightly decreases probability. Waymo\u2019s continued expansion and regulatory focus further diminish the likelihood that Cruise would quietly resume parallel operations without substantial media or regulatory attention."
+                },
+                {
+                    "factor": "GM/Cruise Corporate Actions",
+                    "effect": "Decreases probability. Reports indicate GM is rebuilding its autonomy team, hiring back some former Cruise staff, but there are no signs of imminent operational relaunch; the focus appears to be on internal R&D and limited, non-public testing."
+                }
+            ],
+            "no_scenario": "Cruise remains under regulatory suspension. No credible press releases or news reports indicate the resumption of public, rider-only ride-hailing services. The company focuses on internal safety, compliance, and limited closed-course testing or supervised pilot programs, with public operations remaining paused through at least January 1, 2026.",
+            "yes_scenario": "Cruise successfully addresses safety and transparency concerns, satisfies NHTSA and state regulators, and quietly resumes restricted rider-only service in a city like Houston, Phoenix, or Austin with minimal media attention. The service is technically open to the general public (no waitlist, no limited-access phase) by the resolution date, and credible sources (e.g., press or regulator statements) confirm this.",
+            "final_reasoning": "All available evidence points to Cruise remaining offline for rider-only, public ride-hailing as of January 1, 2026. No news articles from late 2025 mention Cruise resuming any such service, while regulatory scrutiny of AVs has increased after high-profile Waymo and Tesla incidents. The base rate for rapid AV redeployment after a major regulatory freeze is extremely low. Cruise\u2019s specific history of regulatory breach, negative public sentiment, and lack of visible progress toward public trust rebuilding further compound the improbability. The only plausible Yes scenario would require a major, well-publicized reversal, which would almost certainly have been widely reported given the current media environment. Therefore, the probability that Cruise operates a rider-only ride-hailing service available to the general public anywhere in the US on January 1, 2026, is exceedingly low.",
+            "final_probability": 2
+        },
+        "UrbanMobilityPlanning (SharedMobilityIntegration)": {
+            "time_to_resolution": "7 days",
+            "perspective_relevance": "As an expert in Urban Mobility Planning (Shared Mobility Integration), I focus on how new mobility technologies like autonomous ride-hailing services integrate into existing urban transport systems, interact with public regulators, and address safety, public trust, and operational scalability. This perspective allows me to assess not only the technical readiness of a company like Cruise but also its ability to overcome regulatory, public, and operational hurdles to provide rider-only services to the general public.",
+            "status_quo": "As of December 2025, Cruise has not resumed any rider-only ride-hailing services to the general public in the United States, after its nationwide suspension in October 2023 following a series of safety incidents and regulatory crackdowns.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regulatory scrutiny and precedent",
+                    "effect": "Decreases probability. The suspension in 2023 was severe, and regulators have shown a willingness to impose broad shutdowns after safety incidents (e.g., California DMV, NHTSA probes). There is no public evidence of regulators easing restrictions on Cruise, and current events point to increased scrutiny of all AVs."
+                },
+                {
+                    "factor": "Public trust and incident history",
+                    "effect": "Decreases probability. Cruise lost significant public trust after high-profile incidents and has not rebuilt its reputation. Unlike Waymo, which, despite its issues, has continued to expand, Cruise's brand is still strongly associated with failure and risk in the public mind."
+                },
+                {
+                    "factor": "Internal company recovery and resource allocation",
+                    "effect": "Decreases probability. GM has slashed Cruise's budget and staff, with reports in late 2024 and 2025 indicating a slow, cautious recovery focused more on technical R&D than rapid redeployment. There is no credible reporting of imminent public relaunches."
+                },
+                {
+                    "factor": "Competitive landscape and base rates",
+                    "effect": "Decreases probability. Waymo is operating in multiple cities, but no other operator has shown the ability to overcome both regulatory and technical barriers at scale after a major shutdown. Historically, companies that suffer the kind of regulatory and public blowback that Cruise did do not resume unrestricted operations in a short timeframe."
+                },
+                {
+                    "factor": "Urban mobility integration pressures",
+                    "effect": "Slightly increases probability. Cities and transit agencies are interested in AV integration for last-mile and shared mobility, but only with providers who demonstrate exceptional safety and transparency\u2014neither of which Cruise has recently achieved."
+                },
+                {
+                    "factor": "Resolution criteria strictness",
+                    "effect": "Decreases probability. The requirement for service to be 'available to the general public'\u2014not just a pilot, waitlist, or restricted phase\u2014raises the bar for what counts as a resumption."
+                }
+            ],
+            "no_scenario": "Cruise remains under regulatory suspension, or is only allowed to operate with a human safety driver or in limited, non-public test phases. Any technical or limited-access service is not available to the general public, failing the resolution criteria.",
+            "yes_scenario": "Cruise manages to convince at least one state or city to allow a small-scale public relaunch (e.g., in Phoenix or Austin), with fully autonomous, rider-only service open to anyone via app, and this is documented by credible sources as being available on January 1, 2026.",
+            "final_reasoning": "Despite the broader context of AV expansion (primarily by Waymo), all direct and indirect evidence suggests Cruise is highly unlikely to resume a public, rider-only, general-access ride-hailing service by January 1, 2026. The regulatory environment is stricter than ever\u2014Waymo is under probe for school bus violations, and NHTSA remains on high alert for AV incidents, especially after Cruise\u2019s high-profile failures. GM has deprioritized Cruise\u2019s commercial rollout in favor of technical fixes and trust rebuilding, with no credible leaks or public announcements indicating a pending relaunch. The status quo is robust: after a major nationwide suspension and negative precedent, operators rarely (if ever) regain public, unrestricted service in under 18\u201324 months, especially when their main competitors are also struggling with regulatory scrutiny. Even if Cruise were to secure a limited restart, the resolution criteria require a service that is fully open to the public, not a test or invite-only program. Given the lack of positive signals and the abundance of negative ones, the probability that Cruise will operate a rider-only, public, fully autonomous ride-hailing service anywhere in the US as of January 1, 2026, is extremely low.",
+            "final_probability": 2
+        },
+        "UrbanMobilityPlanning (PublicPrivateMobilityPartnerships)": {
+            "time_to_resolution": "7 days",
+            "perspective_relevance": "As an expert in UrbanMobilityPlanning and PublicPrivateMobilityPartnerships, I have deep insight into the intersection of regulatory trends, municipal risk tolerance, public-private collaboration, and the technological and operational hurdles for autonomous ride-hailing, especially following high-profile safety incidents. My understanding of city-level policy responses and mobility innovation trajectories is especially relevant to forecasting Cruise's prospects for rider-only service resumption.",
+            "status_quo": "As of late 2025, Cruise has not resumed any rider-only, fully public robotaxi operations in the US after its October 2023 suspension. All operations remain paused and the company is in a rebuilding phase.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regulatory Caution and Precedent",
+                    "effect": "Decreases probability. After the California ban and federal scrutiny, regulators nationwide are highly risk-averse regarding AV deployments, especially following further negative headlines about AV safety from competitors like Waymo and Tesla."
+                },
+                {
+                    "factor": "Cruise's Corporate Rebuilding and Risk Posture",
+                    "effect": "Decreases probability. GM and Cruise have signaled a slower relaunch, focusing on internal reforms and cautious, incremental restarts. There is little incentive for a hasty reentry given the reputational and legal risk."
+                },
+                {
+                    "factor": "Public Trust and City Partnership Requirements",
+                    "effect": "Decreases probability. Major urban partners are likely to require extensive evidence of sustained improvements and risk mitigation before approving public-facing, unsupervised AV service."
+                },
+                {
+                    "factor": "Competitive Environment and Negative Spillover",
+                    "effect": "Decreases probability. Waymo and Tesla\u2019s ongoing incidents, investigations, and software recalls have led to heightened scrutiny of all AV operators, making cities and state agencies less likely to greenlight Cruise soon."
+                },
+                {
+                    "factor": "Technical Readiness and Insurance Hurdles",
+                    "effect": "Decreases probability. Cruise must demonstrate technical fixes, robust incident reporting, and secure insurance, all of which face delays in the current climate."
+                },
+                {
+                    "factor": "Incentives for a Small Market or 'Token' Launch",
+                    "effect": "Slightly increases probability. It is theoretically possible for Cruise to quietly launch a minimal, compliant rider-only service in a permissive, less-scrutinized jurisdiction (e.g., a small Sun Belt city), perhaps as a demonstration project."
+                }
+            ],
+            "no_scenario": "Cruise remains inactive in rider-only robotaxi operations through January 1, 2026. The company continues limited, non-public internal testing and pilot programs, but no service is available to the general public anywhere in the US. Regulatory agencies signal that more time and evidence are required before approval, especially in light of industry-wide scrutiny.",
+            "yes_scenario": "Cruise launches a very limited, fully public rider-only service\u2014possibly just a few vehicles in a small, permissive city or in partnership with a private development\u2014by the end of 2025, aiming to technically fulfill the 'available to the general public' criterion. The launch is low-profile and designed more for regulatory optics or strategic signaling than for true market reentry.",
+            "final_reasoning": "The base rate for companies resuming suspended AV operations after a major safety and regulatory crisis is very low, especially within a two-year window and amid ongoing negative developments industry-wide. The latest news shows regulators are still aggressively scrutinizing even the most established AV providers (Waymo, Tesla), suggesting continued risk aversion. There is no public evidence of Cruise applying for or receiving new permits, nor of city or state agencies preparing to approve a public service. While a technicality could allow for a token launch in a small market, the absence of leaks, PR, or permitting news makes this unlikely. The status quo strongly favors a 'No' outcome, and the incentives for a surprise 'Yes' are weak, with high reputational risk for Cruise and parent GM if anything goes wrong. Given all factors, the likelihood that Cruise will operate a rider-only, fully public ride-hailing service anywhere in the US on Jan 1, 2026, is quite low.",
+            "final_probability": 7
+        },
+        "USAutomotiveLawCompliance (NHTSARegulatoryGuidance)": {
+            "time_to_resolution": "7 days (forecast date: 2025-12-25, resolves: 2026-01-01)",
+            "perspective_relevance": "As an expert in USA Automotive Law Compliance (NHTSA Regulatory Guidance), I provide a deep understanding of the regulatory, legal, and compliance landscape that governs autonomous vehicle deployment in the United States. This includes familiarity with the NHTSA's investigative and recall procedures, state law diversity regarding AV operations, and the interplay between federal and state-level enforcement and permissions. This perspective is crucial for evaluating the likelihood that Cruise can resume and sustain a rider-only ride-hailing service available to the general public amid ongoing regulatory scrutiny and in the face of recent history.",
+            "status_quo": "Cruise has no rider-only, general public ride-hailing service currently operating anywhere in the US, following its nationwide suspension after California's October 2023 ban and subsequent company-wide pullback.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regulatory Environment and NHTSA Scrutiny",
+                    "effect": "Decreases probability. NHTSA's heightened scrutiny of all AV operators (not just Tesla and Waymo, but including Cruise) makes near-term approvals for unsupervised operations less likely, especially after high-profile incidents. The recent expansion of NHTSA's probe into Waymo over school bus violations underscores a climate of caution and increased regulatory hurdles for all AV companies."
+                },
+                {
+                    "factor": "Cruise-Specific Incidents and Company Reputation",
+                    "effect": "Decreases probability. Cruise's October 2023 pedestrian dragging incident in San Francisco and the subsequent regulatory and public backlash have severely damaged both trust and regulatory goodwill. Cruise voluntarily suspended operations nationwide and has not announced a return to public, rider-only service."
+                },
+                {
+                    "factor": "Current AV Market and Peer Company Status",
+                    "effect": "Decreases probability. Despite Waymo's continued operation, it is under intense scrutiny and faces threats of suspension in some cities. No news articles suggest Cruise is close to restarting service; if anything, GM's focus appears to be on rebuilding and possibly pivoting away from immediate AV deployment."
+                },
+                {
+                    "factor": "State Regulatory Patchwork and Local Law",
+                    "effect": "Slightly increases probability. Some states (e.g., Texas, Arizona) are more permissive than California, and it is theoretically possible for Cruise to launch a limited service there. However, no evidence suggests Cruise has made material regulatory or operational progress towards this end since its nationwide suspension."
+                },
+                {
+                    "factor": "Corporate Rebuilding and Organizational Signals",
+                    "effect": "Decreases probability. Recent reporting indicates Cruise is still rebuilding its AV team and technology stack, focusing more on internal R&D and regulatory remediation than rapid redeployment. GM has reportedly slowed investment and is reviewing the business model."
+                },
+                {
+                    "factor": "Technological Maturity and Required Recertification",
+                    "effect": "Decreases probability. After a major safety incident and regulatory suspension, Cruise would likely need to undergo extensive recertification, pilot programs, and trust-building measures before any jurisdiction would allow a restart of public, unsupervised operations. There is no evidence this process is near completion."
+                }
+            ],
+            "no_scenario": "Cruise remains shut down for public, rider-only service as the company focuses on internal reviews, compliance improvements, and restoration of trust with regulators. NHTSA, state DMVs, or city authorities do not reauthorize public unsupervised operations in any US jurisdiction by January 1, 2026.",
+            "yes_scenario": "Cruise manages to quietly launch a small-scale, rider-only service available to the general public in a permissive state (such as Texas or Arizona), having satisfied local authorities and NHTSA that its safety and compliance regime is sufficient following extensive internal changes and technology upgrades.",
+            "final_reasoning": "The base rate for AV companies that have faced a major regulatory suspension due to a catastrophic event and then resume public, rider-only service within 15 months is extremely low\u2014possibly close to zero, as no precedent exists for a full rebound in this time frame. The current regulatory climate is even more skeptical, as demonstrated by NHTSA's aggressive actions against both Waymo and Tesla. There is no public evidence that Cruise has applied for or received permission to restart, nor that it has completed the multistep regulatory and public trust process required. While a theoretical path exists in permissive states, the lack of any signals, news, or regulatory filings indicating an imminent return means the probability is very low. The most compelling argument for a possible 'Yes' is that Cruise could quietly launch a pilot in a state like Texas, but this would still require regulatory filings and likely would have been noticed by local media or the AV compliance community. Therefore, I assign a very low, but not absolutely zero, probability.",
+            "final_probability": 2
+        },
+        "USAutomotiveLawCompliance (USStateDMVMandates)": {
+            "time_to_resolution": "About 1 year and 1 week (until January 1, 2026)",
+            "perspective_relevance": "As an expert in USAutomotiveLawCompliance (USStateDMVMandates), I have specific insight into the regulatory, legal, and administrative hurdles that autonomous vehicle operators must overcome to legally offer public, rider-only ride-hailing services in any state. My expertise allows me to assess the likelihood of Cruise regaining regulatory approval and operational readiness on a state-by-state basis, considering recent enforcement trends, public safety investigations, and inter-agency coordination.",
+            "status_quo": "As of December 2025, Cruise is not operating any rider-only, public ride-hailing service in the United States. Its permits were suspended following a series of safety incidents and regulatory findings of misrepresentation and safety risk.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "State DMV and Regulatory Reinstatement Process",
+                    "effect": "Decreases probability. DMV and state regulators (especially in major AV states like CA, AZ, TX) have become highly risk-averse after Cruise's incidents. The process for reinstatement, particularly after accusations of misrepresentation, is lengthy and public-facing, with political, safety, and legal reviews."
+                },
+                {
+                    "factor": "Federal NHTSA Investigations and Precedent",
+                    "effect": "Decreases probability. NHTSA\u2019s ongoing, and recently expanded, investigations into AV safety and compliance\u2014especially in light of the Waymo and Tesla scrutiny\u2014create a regulatory environment that is less permissive, not more so, regarding AV deployments. Cruise is under particular scrutiny due to its prior incident involving a pedestrian."
+                },
+                {
+                    "factor": "Technological and Safety Rectification Timeline",
+                    "effect": "Decreases probability. Cruise paused all driverless operations to 'rebuild public trust' and review its technology and internal processes. Large-scale technical and organizational overhauls typically take well over a year, and reentering the market requires not only technical fixes, but new rounds of regulatory review and public demonstration."
+                },
+                {
+                    "factor": "Interstate Regulatory Variability",
+                    "effect": "Slightly increases probability. Not all states have identical regulatory structures; some (e.g., Arizona, Texas) have historically been more permissive. However, recent events and the national spotlight on AV safety have led even permissive states to become more cautious, but a theoretical path remains for Cruise to operate in a less-restrictive jurisdiction, if it can satisfy local authorities."
+                },
+                {
+                    "factor": "Competitive and Political Environment",
+                    "effect": "Decreases probability. The AV sector is now under a microscope due to high-profile safety incidents across multiple players (Waymo, Tesla, Cruise). Political actors and public agencies are incentivized to avoid further scandals, making them less likely to expedite or quietly approve a return by Cruise."
+                },
+                {
+                    "factor": "Corporate Reorganization and Resource Constraints",
+                    "effect": "Decreases probability. Cruise underwent layoffs, leadership changes, and a strategic reset. Even if regulatory doors opened, deploying a rider-only, public service at scale would require substantial rehiring, retraining, and operational ramp-up, which is not trivial within a year."
+                }
+            ],
+            "no_scenario": "Cruise continues its self-imposed pause or is unable to satisfy federal and state regulators regarding safety, transparency, and process improvements. Its applications for reinstatement stall or are denied in key states, or only limited, non-public or safety-driver-required testing is permitted. No state allows a true rider-only, general-public service by January 1, 2026.",
+            "yes_scenario": "Cruise completes technical and organizational reforms rapidly, satisfies at least one state regulator (likely Arizona or Texas) with a robust demonstration of safety improvements, and is able to relaunch a rider-only, public ride-hailing service in a limited geography. Public launch is confirmed by credible sources prior to January 1, 2026.",
+            "final_reasoning": "Although there is a nonzero chance that Cruise could restart limited rider-only service in a permissive state, the base rate for companies to rebound from a national suspension due to safety and regulatory violations within 12-14 months is extremely low. The public, political, and regulatory environment is now significantly more hostile to rapid AV redeployment, as evidenced by the intense scrutiny of Waymo and Tesla for even lesser violations. State DMVs, especially in states with established AV oversight, will be cautious and process-driven, not eager for another scandal. Organizationally, Cruise faces internal and external headwinds, and deployment of a general-public, rider-only service (not just a pilot or employee-only operation) requires regulatory green lights, operational readiness, and credible public outreach. The path to 'Yes' is narrow, requiring successful navigation of technical, regulatory, and reputational challenges\u2014all within a short timeframe. I estimate the probability at 8%, reflecting a small chance of a limited relaunch in a permissive state, but heavily weighted toward continued suspension.",
+            "final_probability": 8
+        },
+        "TransportationEngineering (TechnologyAdoptionLifecycle)": {
+            "time_to_resolution": "7 days",
+            "perspective_relevance": "As an expert in Transportation Engineering specializing in the Technology Adoption Lifecycle, I bring a nuanced understanding of how emerging transportation technologies transition from pilot phases to broad public deployment. This includes recognizing regulatory, technical, and public trust hurdles that often slow or derail the adoption of disruptive innovations like autonomous vehicles (AVs). My approach weighs base rates of similar technology rollouts, the impact of safety incidents on regulatory climates, and the pace at which companies can recover from operational suspensions.",
+            "status_quo": "Cruise's rider-only ride-hailing service is not currently available to the general public anywhere in the United States. The company halted all driverless operations nationwide in late 2023 due to regulatory and safety concerns.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regulatory Backlash and Safety Investigations",
+                    "effect": "Strongly decreases probability. Cruise faced a catastrophic regulatory setback in 2023, and ongoing federal and state scrutiny remains intense for all AV operators, as highlighted by the new Waymo investigations. Regulators are risk-averse after high-profile failures and pedestrian injuries, making reauthorization especially difficult."
+                },
+                {
+                    "factor": "Public Trust and Brand Recovery",
+                    "effect": "Decreases probability. Cruise's trust with both the public and local governments is severely damaged. Restoring it typically takes multiple years, not months, especially in the wake of perceived cover-ups or safety lapses."
+                },
+                {
+                    "factor": "Technical Maturity and Incident Base Rate",
+                    "effect": "Decreases probability. Even Waymo, the technical leader, is experiencing significant regulatory pushback due to software flaws around school buses. Cruise's technical maturity was already lagging, and their earlier incidents were more severe (e.g., dragging a pedestrian). The base rate for rapid re-entry after a safety-driven nationwide suspension is extremely low."
+                },
+                {
+                    "factor": "Corporate Reorganization and Retrenchment",
+                    "effect": "Decreases probability. Recent reports indicate Cruise is only just now rebuilding its AV team and exploring new driver-assistance products, suggesting a pivot away from near-term robotaxi deployment. Industry precedent shows such restructurings usually take 12\u201324 months before a company can relaunch at scale."
+                },
+                {
+                    "factor": "Competitive Environment and Regulatory Precedent",
+                    "effect": "Slightly decreases probability. Waymo's ongoing troubles suggest that even the best-resourced, safest AV operator is at risk of further restrictions. Regulators are likely to hold Cruise to an even higher standard."
+                },
+                {
+                    "factor": "Time Remaining Until Resolution",
+                    "effect": "Slightly increases probability. Seven days is enough for a press release, but not enough for a full regulatory turnaround, public relaunch, and actual service re-availability. The time window is extremely short."
+                }
+            ],
+            "no_scenario": "Cruise remains suspended from public rider-only operations due to unresolved regulatory investigations, insufficient technical fixes, and persistent lack of public trust. No credible source reports that Cruise has resumed general-public, driverless ride-hailing service anywhere in the US by January 1, 2026.",
+            "yes_scenario": "Cruise quietly resumes a rider-only ride-hailing service in a small, permissive jurisdiction (such as a suburb in Texas or Arizona) after obtaining local approval and implementing new safety protocols. The service is opened to the general public without a waitlist, and this is reported by credible news sources.",
+            "final_reasoning": "The base rate for a company to recover from a nationwide regulatory suspension of AV operations within roughly 14 months is extremely low, especially in the absence of any news indicating imminent relaunch. The broader regulatory environment is highly negative, with Waymo facing expanded safety investigations and public outcry even as the technical leader. All recent news and industry signals point to Cruise still being in a rebuilding and trust-repair phase, with no evidence of a soft relaunch or even pilot service for the general public. Given the status quo, the short time until resolution, and the severe multi-factor headwinds, the probability of Cruise operating a general-public, rider-only ride-hailing service anywhere in the US on January 1, 2026, is exceedingly low.",
+            "final_probability": 1
+        },
+        "TransportationEngineering (DiffusionOfInnovations)": {
+            "time_to_resolution": "7 days (forecast date: 2025-12-25; resolves: 2026-01-01)",
+            "perspective_relevance": "As an expert in Transportation Engineering (Diffusion Of Innovations), I can contextualize Cruise's situation using knowledge of how new transportation technologies diffuse through regulatory, public, and technical hurdles. I can assess base rates for AV deployments, regulatory cycles, and the likelihood of rapid 'comebacks' after major safety/PR crises. I am able to interpret recent news about competing AVs (Waymo, Tesla) and the regulatory environment, and evaluate how those system-level trends might affect Cruise's probability of resuming public, rider-only service.",
+            "status_quo": "Since late October 2023, Cruise has had all U.S. rider-only operations suspended due to a serious regulatory and public trust crisis after safety incidents. As of late 2025, there has been no credible news of Cruise resuming rider-only, public, non-waitlist AV ride-hailing service anywhere in the U.S.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regulatory Momentum and Precedent for AV Reinstatement",
+                    "effect": "Decreases probability. Regulatory agencies (e.g., California DMV, NHTSA) have shown increasing scrutiny and caution regarding AV operations after high-profile failures. Historical base rates for companies returning to full public service after a suspension of this magnitude are very low within a 1-2 year window."
+                },
+                {
+                    "factor": "Cruise's Technical and Organizational Recovery Trajectory",
+                    "effect": "Decreases probability. News and public filings show Cruise in the process of reorganization and rehiring, but not at a pace or with transparency that suggests imminent relaunch of public, rider-only service. Internal challenges (leadership changes, loss of trust, technical revalidation) typically take years to overcome."
+                },
+                {
+                    "factor": "Industry and Regulatory Environment for AVs",
+                    "effect": "Decreases probability. Waymo, the clear AV leader, is currently under expanded NHTSA investigation for safety compliance, despite a much better track record than Cruise. Tesla is also under severe scrutiny. Regulators may be even less likely to permit Cruise to resume, given ongoing AV sector controversies."
+                },
+                {
+                    "factor": "Diffusion of Innovation Barriers After Major Incidents",
+                    "effect": "Decreases probability. After a catastrophic innovation failure (e.g., pedestrian drag incident), the 'chasm' for adoption widens: public trust collapses, regulatory caution peaks, and even friendly jurisdictions hesitate. There is no precedent of an AV company returning to rider-only, public service so soon after such an incident."
+                },
+                {
+                    "factor": "Potential for 'Backdoor' Re-entry via Small Market or Technicality",
+                    "effect": "Slightly increases probability. In theory, Cruise could try to relaunch in a small, permissive U.S. jurisdiction (e.g., a Sunbelt city/state with minimal oversight) or by targeting a technicality in the definition of 'public service.' However, there is no recent credible evidence that such a plan is being executed, and the fine print requires the service to be open to the general public, not just a limited test group."
+                }
+            ],
+            "no_scenario": "Cruise remains suspended from rider-only, public ride-hailing everywhere in the U.S. on Jan 1, 2026, due to ongoing regulatory investigations, lack of public trust, technical revalidation delays, and lack of any credible public announcement of reinstatement. At most, Cruise may be running limited, supervised, or non-public tests or employee shuttles, but nothing that qualifies as a public, rider-only AV service.",
+            "yes_scenario": "Cruise, through either a regulatory breakthrough, technical fix, and/or aggressive lobbying, manages to convince at least one jurisdiction (possibly outside California, e.g., Arizona, Texas, or Florida) to allow a public, waitlist-free, rider-only AV ride-hailing service to resume, and credible sources confirm public access by Jan 1, 2026. This would likely require a public announcement and visible deployment covered by news or regulatory filings.",
+            "final_reasoning": "The base rate for a company in Cruise's position\u2014facing a nationwide suspension after a catastrophic safety incident\u2014resuming full, public, rider-only AV service within 14 months is extremely low. There is no historical precedent in the U.S. for such a rapid regulatory and public trust recovery. All recent news and signals are about Cruise rebuilding internally, not imminent relaunch. Simultaneously, the broader regulatory climate has become more hostile, with even Waymo (the safest AV operator) now facing expanded NHTSA scrutiny over school bus incidents. Regulators are under pressure not to appear lax, and the risk-averse status quo dominates. There is no indication that any U.S. state or city is preparing to green-light Cruise for general public, rider-only service. The only nonzero scenario is if Cruise quietly launches in a small, permissive market, but this is highly unlikely given the need for regulatory sign-off and public communications. Given all these factors and the short time left, the probability of Cruise meeting the resolution criteria is extremely low.",
+            "final_probability": 2
+        },
+        "LawAndRegulation (AdministrativeLaw)": {
+            "time_to_resolution": "Approximately 1 year and 1 week (until January 1, 2026)",
+            "perspective_relevance": "As an expert in administrative law, I bring a nuanced understanding of the regulatory and legal hurdles that autonomous vehicle services like Cruise face, particularly with respect to state and federal oversight, safety investigations, and the process required for suspensions and reinstatements of operating authority. This expertise is vital for evaluating the likelihood of Cruise resuming rider-only, public robotaxi operations in the U.S. within the specified timeframe, given ongoing regulatory scrutiny and evolving legal requirements.",
+            "status_quo": "Cruise is currently not operating any rider-only ride-hailing services available to the general public anywhere in the United States, following a nationwide suspension in late October 2023 after California regulators deemed its vehicles an unreasonable risk to public safety. No credible reports indicate that Cruise has resumed such operations as of December 2025.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regulatory Climate and Precedent",
+                    "effect": "Decreases probability. The regulatory environment is currently hostile to AV deployments following high-profile safety incidents. Both state DMVs and the NHTSA are actively scrutinizing AV safety (as evidenced by ongoing probes into Waymo and Tesla), and California has already demonstrated its willingness to suspend AV permits. The base rate for suspended AV services quickly regaining public, rider-only status is extremely low."
+                },
+                {
+                    "factor": "Technical and Safety Reforms by Cruise",
+                    "effect": "Slightly increases probability. If Cruise can demonstrate substantial improvements in safety and transparency, and can credibly address prior deficiencies, regulators may eventually consider a phased resumption, possibly in a jurisdiction with historically more permissive AV policies (e.g., Arizona or Texas). However, this would require both technical readiness and regulatory confidence, which is not evident as of now."
+                },
+                {
+                    "factor": "Competitive and Political Pressure",
+                    "effect": "Slightly increases probability. The fact that Waymo continues to operate despite ongoing investigations, and that AV technologies have strong corporate and political backers, means there is some pressure to re-introduce competition and innovation in the AV sector. However, this can cut both ways: new incidents (even by competitors) may harden regulatory positions."
+                },
+                {
+                    "factor": "Legal and Administrative Process Timelines",
+                    "effect": "Decreases probability. The administrative process for reinstating suspended AV operations is lengthy and complex, involving investigations, public hearings, and possible litigation. Even if Cruise were to apply for reinstatement today, the review and monitoring periods would likely extend beyond January 1, 2026."
+                },
+                {
+                    "factor": "Base Rate of AV Service Restarts After Suspension",
+                    "effect": "Strongly decreases probability. Historical precedent shows that when an AV company has its operations suspended due to safety incidents, regaining full, rider-only status accessible to the general public is extremely rare within a 1\u20132 year window, especially in highly regulated states."
+                },
+                {
+                    "factor": "Public Trust and Political Will",
+                    "effect": "Decreases probability. Public sentiment, amplified by media coverage of AV failures, has turned negative. Administrators and elected officials have little incentive to take risks with public safety given recent events, further slowing potential reauthorization."
+                }
+            ],
+            "no_scenario": "Cruise remains under regulatory suspension or is limited to non-rider-only testing, demonstration, or very restricted pilots with human monitors, and does not resume any public, rider-only ride-hailing service in any U.S. jurisdiction by January 1, 2026. Legal, technical, and public trust issues remain unresolved or require lengthy oversight and phased reintroduction not completed within the forecast window.",
+            "yes_scenario": "Cruise successfully satisfies regulators (likely in a jurisdiction with a more permissive AV stance, such as Arizona or Texas) that it has remediated all safety and transparency concerns, is permitted to resume rider-only service, and relaunches a service available to the public, even if limited to a small geographic area, before January 1, 2026. This would require an unusually rapid regulatory process and strong demonstration of safety improvements.",
+            "final_reasoning": "Drawing on administrative law expertise, the legal and regulatory barriers to Cruise resuming rider-only, public ride-hailing service in the U.S. within the next year are extremely high. The current status quo is a full nationwide suspension, with no evidence of imminent reinstatement. The base rate for quick resumption after a high-profile safety suspension, especially with ongoing national scrutiny of AV safety (as seen with Waymo and Tesla), is extremely low. Even if Cruise were to make substantial technical improvements, the lengthy, multi-layered regulatory process and the need to rebuild public trust make it highly unlikely that full public service would resume in any U.S. jurisdiction by the resolution date. The most plausible scenario for a 'Yes' is a limited, tightly controlled resumption in a permissive state, but there is no concrete indication such a process is underway or near completion. Factoring in all perspectives, the probability that Cruise will operate a rider-only ride-hailing service available to the public anywhere in the U.S. on January 1, 2026 is very low.",
+            "final_probability": 8
+        },
+        "LawAndRegulation (USStateAutonomousVehicleRegulation)": {
+            "time_to_resolution": "About 1 week (until January 1, 2026)",
+            "perspective_relevance": "As an expert in US State Autonomous Vehicle Regulation, I have deep knowledge of the regulatory landscape, statutory developments, and recent enforcement actions by state and federal authorities (particularly the NHTSA and state DMVs). I can assess how regulatory responses to safety incidents, public pressure, and industry lobbying affect the likelihood of AV operators\u2014like Cruise\u2014returning to rider-only operations. My background enables a nuanced read of regulatory inertia, crisis management, and legal thresholds for service restoration.",
+            "status_quo": "Cruise has not operated a rider-only, general-public ride-hailing service anywhere in the US since its October 2023 suspension following the California DMV revocation and subsequent nationwide pause.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regulatory Environment and Precedent",
+                    "effect": "Strongly decreases probability. The regulatory environment has become more stringent since Cruise's suspension, with heightened NHTSA scrutiny on all AV operators (see Waymo and Tesla probes). California, Texas, and other AV-friendly states have not signaled any renewed openness to Cruise, and legal reforms (like CA's AB 1777) tighten oversight."
+                },
+                {
+                    "factor": "Company Readiness and Reputation",
+                    "effect": "Decreases probability. Cruise's reputation suffered a major blow after the October 2023 incident and subsequent revelations about misleading regulators. GM dismissed much of Cruise's leadership, and there is no public evidence that Cruise has completed the extensive technical, legal, and PR work required for a credible return."
+                },
+                {
+                    "factor": "Industry/Competitive Context",
+                    "effect": "Slightly increases probability. Waymo, despite recent school bus incidents, continues to operate rider-only services in multiple cities, demonstrating that regulators are not imposing blanket moratoria. If Cruise could demonstrate meaningful safety improvements and secure a friendly jurisdiction, a limited relaunch is not impossible."
+                },
+                {
+                    "factor": "Resolution Criteria and Legal Technicalities",
+                    "effect": "Slightly increases probability. The resolution only requires a single, general-public, rider-only service anywhere in the US. A quiet, small-scale relaunch (e.g., a geo-fenced Texas suburb) could technically resolve the question YES if Cruise finds a cooperative regulator."
+                },
+                {
+                    "factor": "Recent Public and Governmental Signals",
+                    "effect": "Strongly decreases probability. There have been no news reports, regulatory filings, or credible leaks indicating Cruise is on the verge of resuming rider-only operations. GM's AV efforts are described as being rebuilt and focused on smaller, less ambitious projects. The regulatory and public environment is, if anything, more skeptical."
+                }
+            ],
+            "no_scenario": "Cruise remains suspended as of January 1, 2026, with no rider-only ride-hailing service available to the general public anywhere in the US. The company continues internal safety reviews, technical overhauls, and regulator engagement, but does not achieve the public trust or regulatory clearance required for relaunch. GM may operate limited, non-rider-only pilot projects but nothing that meets the criteria.",
+            "yes_scenario": "Cruise quietly launches a limited, geo-fenced rider-only service in a friendly jurisdiction (e.g., a Texas suburb or Sunbelt city with a permissive regulatory stance) before January 1, 2026. The service is open to the general public, perhaps with little fanfare, and is documented by a credible source. This requires Cruise to convince at least one state regulator of improved safety and transparency.",
+            "final_reasoning": "The base rate for an AV company resuming general-public, rider-only operations after a major, high-profile safety suspension and regulatory rebuke is extremely low. The regulatory climate is more, not less, skeptical in late 2025, with even Waymo (the industry leader) under expanded federal investigation. Cruise's brand and technical credibility are badly damaged, and there is no public evidence of imminent return. While the minimal resolution criteria mean a technical YES is possible with a very limited relaunch, the absence of leaks, regulatory filings, or PR signals from Cruise or GM makes this highly unlikely. The risk of regulatory blowback from a premature relaunch, especially with GM's reputation at stake, further decreases the odds. The only plausible YES path is a late-breaking, low-profile launch in a permissive locale, but the probability of this is far outweighed by regulatory inertia and reputational risk. My forecast is therefore strongly NO, with only a sliver of probability reserved for a technicality.",
+            "final_probability": 3
+        },
+        "BusinessStrategy (DisruptiveInnovationTheory)": {
+            "time_to_resolution": "About 1 week (question resolves on January 1, 2026; today is December 25, 2025)",
+            "perspective_relevance": "As an expert in Business Strategy with a focus on Disruptive Innovation Theory, I assess Cruise\u2019s potential re-entry into the U.S. market by analyzing how disruptive technologies historically recover from regulatory setbacks, the critical importance of trust and regulatory alignment, and the competitive and ecosystem dynamics within the autonomous vehicle (AV) sector. Disruption theory also compels me to weigh the power of incumbents and the ability of new entrants (or those re-entering after a disruption) to overcome regulatory, reputational, and operational barriers.",
+            "status_quo": "Cruise is not currently operating a rider-only, public ride-hailing service anywhere in the United States. As of late 2023, all U.S. driverless operations were suspended after major regulatory, safety, and reputational setbacks.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regulatory Overhang and Backlash Following Safety Incidents",
+                    "effect": "Strongly decreases probability. Cruise faces both a formal suspension and a trust deficit with regulators. Recent news focuses on Waymo and Tesla, but there is no mention of Cruise resuming operations or receiving regulatory clearance."
+                },
+                {
+                    "factor": "Disruptive Innovation Recovery Patterns",
+                    "effect": "Moderately decreases probability. Disruptive companies can sometimes recover with radical pivots or by entering less-regulated geographies, but this takes time, and there is no evidence Cruise has achieved this in the U.S. context since its suspension."
+                },
+                {
+                    "factor": "Competitive and Ecosystem Signals",
+                    "effect": "Moderately decreases probability. Waymo is the focus of both regulatory heat and operational expansion; Cruise is absent from all current news about AV deployments, suggesting it has not quietly relaunched anywhere. The market is consolidating around surviving players, not re-admitting suspended ones."
+                },
+                {
+                    "factor": "GM\u2019s Strategic Incentives and Constraints",
+                    "effect": "Slightly decreases probability. GM may be rebuilding teams and technology post-Cruise, but there is no sign of a public, rider-only service relaunch, and a risk-averse approach is likely after prior damage."
+                },
+                {
+                    "factor": "Regulatory Precedent and Base Rates for Suspension Recovery",
+                    "effect": "Strongly decreases probability. Historically, major AV suspensions (Uber in Arizona, others after fatal incidents) have not resulted in quick, quiet reboots of public-facing, rider-only services within a year or two of regulatory shutdowns."
+                },
+                {
+                    "factor": "Lack of Evidence/News for Cruise Re-entry",
+                    "effect": "Strongly decreases probability. All recent news and regulatory attention are focused on Waymo and Tesla, with no credible reporting on Cruise operating, nor leaks or advocacy about a return."
+                }
+            ],
+            "no_scenario": "Cruise remains suspended, with no rider-only, public ride-hailing service operating anywhere in the U.S. on January 1, 2026. GM works on technology internally or in closed pilots, but does not risk further regulatory backlash by relaunching before significant public trust and regulator support are rebuilt.",
+            "yes_scenario": "Against expectations, Cruise quietly reactivates a limited, rider-only, public ride-hailing service in a permissive jurisdiction (e.g., Arizona, Texas) with little publicity, and it escapes major media or regulatory attention through the end of 2025. This is not supported by current news flow or base rates.",
+            "final_reasoning": "Taking into account all recent media, regulatory focus, and the disruptive innovation lens, there is overwhelming evidence that Cruise has not, and is not about to, relaunch a public, rider-only service by January 1, 2026. Disruptive companies can sometimes recover surprisingly, but the base rate for suspended AV operators returning to public, driverless service within a year or two is near zero. All current regulatory and media attention is on Waymo and Tesla, with Cruise absent from both positive and negative coverage. There are no leaks, local news reports, or advocacy pieces suggesting a Cruise comeback. The incentives for GM are to rebuild internally, not risk further catastrophic setbacks. The status quo is extremely sticky here, and absent a major, last-minute, secret relaunch (for which there is no evidence), the answer is almost certainly 'No'.",
+            "final_probability": 2
+        },
+        "BusinessStrategy (PorterFiveForces)": {
+            "time_to_resolution": "7 days (resolves on January 1, 2026; forecast date is December 25, 2025)",
+            "perspective_relevance": "As a BusinessStrategy (PorterFiveForces) expert, I focus on the competitive and regulatory environment, barriers to entry, power of suppliers and buyers, threats from substitutes, and industry rivalry. For Cruise, the ability to operate a rider-only service depends not only on technical feasibility but also on regulatory acceptance, competitor actions, and public trust\u2014each shaped by recent events and industry structure.",
+            "status_quo": "Cruise suspended all driverless operations in late 2023 after severe regulatory setbacks and has not publicly resumed any rider-only (no human operator) ride-hailing service available to the general public in any US city since. Waymo is the only major operator with active rider-only service, but it faces its own regulatory probes.",
+            "perspective_derived_factors": [
+                {
+                    "factor": "Regulatory Barriers/Intensity of Regulatory Scrutiny",
+                    "effect": "Strongly decreases probability. Recent setbacks for Cruise, including license suspensions and publicized safety incidents, have led to close regulatory scrutiny. No credible evidence suggests Cruise has regained approval anywhere in the US for rider-only service as of the final week of 2025."
+                },
+                {
+                    "factor": "Incumbent Competitive Response",
+                    "effect": "Decreases probability. Waymo has continued operations and is the focal point for regulatory attention, crowding out Cruise from reentering the market. With Waymo under intense investigation, regulators are even less likely to approve new entrants or re-entrants like Cruise in the near term."
+                },
+                {
+                    "factor": "Rebuilding/Rebranding Efforts",
+                    "effect": "Negligible in the short run. While there are reports of GM rebuilding its AV division and rehiring former Cruise employees, there is no evidence that these efforts have translated into a public, regulatory-approved rider-only service as of now."
+                },
+                {
+                    "factor": "Public Trust and Buyer Power",
+                    "effect": "Decreases probability. After the high-profile pedestrian injury and safety concerns, public trust in Cruise is low. Regulators are unlikely to allow a return to general-public operations until trust is rebuilt, which takes time."
+                },
+                {
+                    "factor": "Barriers to Entry (Technical and Regulatory)",
+                    "effect": "Strongly decreases probability. The combination of technical challenges, unresolved investigations, and a hostile regulatory environment raises the bar for reentry, especially before public trust and compliance can be demonstrated over time."
+                },
+                {
+                    "factor": "Status of Competitors (e.g., Waymo, Tesla)",
+                    "effect": "Indirectly decreases probability. Recent news shows that even the leading operator, Waymo, is under federal investigation for safety lapses, suggesting a tightening regulatory regime and less appetite for risk from authorities."
+                }
+            ],
+            "no_scenario": "Cruise has not received regulatory approval by January 1, 2026, to resume rider-only operations for the general public in any US jurisdiction. Ongoing investigations, lack of public trust, or unresolved safety issues keep all Cruise AVs off public roads or limited to testing with safety drivers or closed/pilot programs.",
+            "yes_scenario": "Cruise has quietly secured regulatory approval and resumes limited but genuine rider-only service for the general public (not a closed or waitlist/tester group) in a US city with more permissive regulations\u2014perhaps in Arizona, Texas, or Florida\u2014without major press coverage. This would require credible evidence from a reputable source before January 1, 2026.",
+            "final_reasoning": "The regulatory environment for AVs has become more restrictive, not less, in late 2025 due to Waymo and Tesla safety issues. There has been no press or regulator announcement of Cruise resuming rider-only services, and the base rate for a company returning to full public AV operation after a high-profile suspension is extremely low, especially within a year. The Porter Five Forces lens highlights high barriers to reentry, increased industry rivalry (but not in Cruise's favor), and a regulatory climate that punishes rather than rewards rapid reentry. The probability that Cruise has, as of January 1, 2026, reestablished a rider-only ride-hailing service available to the general public anywhere in the US is extremely low unless there is a last-minute regulatory surprise, for which there is no supporting evidence in the news or industry rumor mill.",
+            "final_probability": 2
+        }
+    },
+    "deliberation_probability": [
+        2,
+        2,
+        2,
+        7,
+        2,
+        8,
+        1,
+        2,
+        8,
+        3,
+        2,
+        2
+    ],
+    "deliberation_mean_probability": 3.4166666666666665,
+    "deliberation_sd": 2.609713789020946,
+    "deliberation_probability_result": 3
+}
