@@ -95,7 +95,7 @@ async def chat_group_single_question(
     # Save JSON
     filename = strip_title_to_filename(title)
     logging.info("Saving results to file: %s", filename)
-    await build_and_write_json(filename, probabilities, is_woc, aggregations)
+    await build_and_write_json(filename, probabilities, is_woc)
     
     logging.info("=== Main pipeline completed successfully for question: %s ===", title[:100] + "..." if len(title) > 100 else title)
 
