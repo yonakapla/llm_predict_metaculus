@@ -7,20 +7,14 @@ readme = "README.md"
 package-mode = false
 
 [tool.poetry.dependencies]
-python =  ">=3.11,<3.13"
+python = "^3.11"
 python-decouple = "^3.8"
 requests = "^2.32.3"
-asknews = "^0.7.54"
-numpy = "^1.26.0"
-openai = "^1.57.4"
+asknews = "^0.13.0"
+numpy = "^2.3.0"
+openai = "^2.0.0"
 python-dotenv = "^1.0.1"
-forecasting-tools = "0.2.31"
-matplotlib = "^3.10.0"
-autogen-agentchat = "^0.5.5"
-tqdm = "^4.67.1"
-autogen-ext = {extras = ["openai"], version = "^0.5.5"}
-pytest = "^8.4.1"
-pytest-asyncio = "^1.0.0"
+forecasting-tools = "^0.2.80"
 
 
 [tool.poetry.group.dev.dependencies]
@@ -29,3 +23,4 @@ ipykernel = "^6.29.5"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
